@@ -15,6 +15,7 @@ Thank you for considering contributing to this repository! Here are some guideli
 ## Guidelines
 
 - Ensure that the resources you add are high-quality and relevant to graphic designers, developers, and creatives.
+- Please make sure that the websites mostly provides royality free resources.
 - Place the new links in the appropriate section of the README, sorted alphabetically.
 - The title of the resource should match the title of the website.
 - Include a brief description of the resource, highlighting its key features and benefits.
