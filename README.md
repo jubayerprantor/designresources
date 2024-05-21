@@ -4,7 +4,7 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 ## Table of Contents
 
 1. [Design Inspiration](#design-inspiration)
-2. [Stock Photos and Graphics](#stock-photos-and-graphics)
+2. [Royality Free Stock Photos Videos Music](#Royality-Free-Stock-Photos-Videos-Music)
 3. [Typography](#typography)
 4. [Color Palettes](#color-palettes)
 5. [Design Tools](#design-tools)
@@ -24,7 +24,7 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Pinterest](https://www.pinterest.com/)        | Visual discovery and bookmarking tool for finding ideas. |
 | [Designspiration](https://www.designspiration.com/) | Design inspiration gallery. |
 
-## Royality Free Stock Photos/Videos/Music 
+## Royality Free Stock Photos Videos Music 
 
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
@@ -34,6 +34,9 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Freepik](https://www.freepik.com/)            | Millions of free graphic resources.           |
 | [StockSnap](https://stocksnap.io/) | Beautiful free stock photos. New CC0 images added daily, free from copyright restrictions. |
 | [New Old Stock](http://nos.twnsnd.co/) | Really cool collection of vintage photos from public archives. |
+| [FoodiesFeed](https://www.foodiesfeed.com/) | Absolute heaven for food-related stock photos. #foodpornatitsbest |
+| [UI Faces](https://uifaces.co/) | A growing library of free, AI-generated, high-resolution avatars for design mockups, thoughtfully curated to suit all your creative needs. |
+| [Photobash](https://www.photobash.org/) | Royalty-free images and 3D models for digital artists. |
 
 ## Typography
 
