@@ -24,15 +24,16 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Pinterest](https://www.pinterest.com/)        | Visual discovery and bookmarking tool for finding ideas. |
 | [Designspiration](https://www.designspiration.com/) | Design inspiration gallery. |
 
-## Stock Photos and Graphics
+## Royality Free Stock Photos/Videos/Music 
 
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
-| [Unsplash](https://unsplash.com/)              | High-quality, free-to-use stock photos.      |
-| [Pexels](https://www.pexels.com/)              | Free stock photos and videos shared by talented creators. |
-| [Pixabay](https://pixabay.com/)                | Over 1.8 million+ high-quality stock images and videos. |
+| [Unsplash](https://unsplash.com/)              | Over 3 million free high-resolution images brought to you by the world’s most generous community of photographers. |
+| [Pexels](https://www.pexels.com/)              | The best free stock photos, royalty free images & videos shared by creators. |
+| [Pixabay](https://pixabay.com/)                | Stunning royalty-free images & royalty-free stock. Over 4.3 million+ high quality stock images, videos and music. |
 | [Freepik](https://www.freepik.com/)            | Millions of free graphic resources.           |
-| [Shutterstock](https://www.shutterstock.com/)  | Royalty-free stock photos, images, vectors, videos, and music. |
+| [StockSnap](https://stocksnap.io/) | Beautiful free stock photos. New CC0 images added daily, free from copyright restrictions. |
+| [New Old Stock](http://nos.twnsnd.co/) | Really cool collection of vintage photos from public archives. |
 
 ## Typography
 
