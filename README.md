@@ -39,8 +39,9 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [UI Faces](https://uifaces.co/) | A growing library of free, AI-generated, high-resolution avatars for design mockups, thoughtfully curated to suit all your creative needs. |
 | [Photobash](https://www.photobash.org/) | Royalty-free images and 3D models for digital artists. |
 
-##Icons
-
+## Icons
+| Link                                           | Description                                   |
+| ---------------------------------------------- | --------------------------------------------- |
 | [Flaticon](https://www.flaticon.com/) | Access 15.5M+ vector icons & stickers. Has various license options. |
 | [Iconfinder](https://www.iconfinder.com/) | Millions of icons, illustrations, 3D, or stickers for your design projects. Created by independent designers. |
 | [Icons8](http://icons8.com/) | Nearly 1.3 million+ free icons. Yes, you've heard it. Has various license options. |
