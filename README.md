@@ -69,7 +69,7 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
 | [Tuts+ Design & Illustration](https://design.tutsplus.com/) | Design tutorials and articles.               |
-| [Coursera Graphic Design](https://www.coursera.org/browse/arts-and-humanities/graphic-design) | Online courses on graphic design.            |
+| [Coursera Graphic Design](https://www.coursera.org/courses?query=graphic%20design) | Online courses on graphic design.            |
 | [Udemy Graphic Design Courses](https://www.udemy.com/topic/graphic-design/) | Comprehensive courses on graphic design.    |
 | [Skillshare](https://www.skillshare.com/)      | Online classes in design, photography, and more. |
 | [YouTube - The Futur](https://www.youtube.com/user/TheSkoolRocks) | Videos on graphic design, branding, and entrepreneurship. |
