@@ -1,10 +1,14 @@
-# designresources
+### designresources
+
+***
+
 Explore our Graphic Design Resources Collection, a collaborative effort to support designers, developers, and creatives alike. Find all kinds of resources to elevate your projects. Happy creating! 🎨✨
 
+***
 ## Table of Contents
 
 - [Design Inspiration](#design-inspiration)
-- [Royality Free Stock Photos Videos Music](#Royality-Free-Stock-Photos-Videos-Music)
+- [Royality Free Stock Photos Videos Music](#royality-free-stock-photos-videos-music)
 - [Icons](#icons)
 - [Fonts](#fonts)
 - [Color Palettes](#color-palettes)
