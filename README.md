@@ -3,16 +3,16 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 
 ## Table of Contents
 
-1. [Design Inspiration](#design-inspiration)
-2. [Royality Free Stock Photos Videos Music](#Royality-Free-Stock-Photos-Videos-Music)
-3. [Icons](#icons)
-4. [Typography](#typography)
-5. [Color Palettes](#color-palettes)
-6. [Design Tools](#design-tools)
-7. [Tutorials and Learning](#tutorials-and-learning)
-8. [Communities and Forums](#communities-and-forums)
-9. [Other Resources](#other-resources)
-10. [Contributor](#contributors)
+- [Design Inspiration](#design-inspiration)
+- [Royality Free Stock Photos Videos Music](#Royality-Free-Stock-Photos-Videos-Music)
+- [Icons](#icons)
+- [Typography](#typography)
+- [Color Palettes](#color-palettes)
+- [Design Tools](#design-tools)
+- [Tutorials and Learning](#tutorials-and-learning)
+- [Communities and Forums](#communities-and-forums)
+- [Other Resources](#other-resources)
+- [Contributors](#contributors)
 ---
 
 ## Design Inspiration
@@ -121,5 +121,6 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 <a href="https://github.com/jubayerprantor/designresources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jubayerprantor/designresources" />
 </a>
----
+
+***
 Feel free to contribute to this list by following the [contribution guidelines](CONTRIBUTING.md). If you find a broken link or have suggestions for new resources, please open an issue or submit a pull request.
