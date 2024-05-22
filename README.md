@@ -33,6 +33,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Gobly](https://gobly.co/) | A platform offering animated illustrations for creative projects. |
 | [Figma Community](https://www.figma.com/community) | A collaborative space for sharing design files and resources within the Figma ecosystem. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Royality Free Stock Photos Videos Music 
 
 | Link                                           | Description                                   |
@@ -54,6 +58,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Coverr](https://coverr.co/) | Beautiful, free stock videos for commercial and non-commercial use. |
 | [Videvo](https://www.videvo.net/) | 1 million+ Stock Footage Clips, Motion graphics, Premiere Pro templates, After Effects templates, Royalty free music & Sound effects, all at your fingertips. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Icons
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
@@ -69,6 +77,9 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Captain Icon](https://mariodelvalle.github.io/CaptainIconWeb/) | 350+ icons to empower mobile & web design. Available in EPS, PSD, PNG, SVG and Web Font. |
 | [FontAwesomePS](http://creativedo.co/FontAwesomePS) | A PS plugin. Font Awesome icons right inside Adobe Photoshop. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Fonts
 
@@ -90,6 +101,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Abstract Fonts](https://www.abstractfonts.com/) | A collection of free fonts available for download and use in personal and commercial projects. |
 | [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | An open-source font foundry focused on high-quality, free fonts for designers. |
 | [Font Library](https://fontlibrary.org/) | A community-driven archive of open-source fonts for designers and typographers. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Color Palettes
 
@@ -114,6 +129,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Design Seeds](https://www.design-seeds.com/) | A color inspiration site featuring curated color palettes derived from photographs and nature. |
 | [ColorLeap](https://colorleap.app/home) | Take a leap through time and see the colors of history. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Design Tools
 
 | Link                                           | Description                                   |
@@ -134,6 +153,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Blender](https://www.blender.org/) | While primarily known as a 3D modeling and animation software, Blender also includes robust 2D animation and video editing features, making it a versatile tool for multimedia projects. |
 | [Scribus](https://www.scribus.net/) | An open-source desktop publishing software that can be used for creating layouts for brochures, newsletters, posters, and other printed materials. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Tutorials and Learning
 
 | Link                                           | Description                                   |
@@ -146,6 +169,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 
 ## Best Youtube Channels
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Communities and Forums
 
 | Link                                           | Description                                   |
@@ -156,6 +183,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Dribbble Community](https://dribbble.com/community) | Community of designers sharing their work and getting feedback. |
 | [Behance Community](https://www.behance.net/galleries) | Showcase your work and connect with other creatives. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Other Resources
 
 | Link                                           | Description                                   |
@@ -165,6 +196,10 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Graphic Burger](http://graphicburger.com/)    | Tasty design resources made with care for each pixel. |
 | [Brutalist Websites](https://brutalistwebsites.com/) | Collection of websites embracing the "brutalist" design trend. |
 | [Pattern Library](http://thepatternlibrary.com/) | Free patterns for your projects.             |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ---
 ## Contributors
