@@ -99,6 +99,19 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Paletton](https://paletton.com/)              | Color scheme designer with various tools to generate color combinations. |
 | [Colour Lovers](https://www.colourlovers.com/) | Creative community where people from around the world create and share colors, palettes, and patterns. |
 | [Colormind](http://colormind.io/)              | AI-generated color schemes.                  |
+| [Coolors](https://coolors.co/) | Coolors is a popular color scheme generator that allows you to explore, create, and customize color palettes quickly and easily. |
+| [Adobe Color](https://color.adobe.com/) | Formerly known as Adobe Kuler, Adobe Color is an online color wheel that enables users to create and explore color combinations. It also integrates with Adobe Creative Cloud. |
+| [Paletton](https://paletton.com/) | Paletton is a color scheme designer that helps you create well-balanced color palettes based on various color harmony principles. |
+| [Color Hunt](https://colorhunt.co/) | Color Hunt is a platform for curated color palettes. It features a collection of trendy color schemes submitted by designers from around the world. |
+| [ColourLovers](https://www.colourlovers.com/) | ColourLovers is a creative community where users can share and explore color palettes, patterns, and designs. |
+| [Flat UI Colors](https://flatuicolors.com/) | Flat UI Colors offers a collection of flat color palettes inspired by material design. It's particularly useful for web and UI design. |
+| [Material Design Palette](https://material.io/design/color/the-color-system.html) | Google's Material Design Palette provides a set of predefined color palettes based on the Material Design guidelines. |
+| [Happy Hues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that features beautiful color combinations for designers and developers. |
+| [BrandColors](https://brandcolors.net/) | A collection of major brand color codes for easy reference and use in design projects. |
+| [ColorDrop](https://colordrop.io/) | A platform for creating, exploring, and sharing color palettes with a focus on simplicity and usability. |
+| [ColorLisa](https://colorlisa.com/) | A curated collection of color palettes inspired by famous artists, designed to spark creativity and inspiration. |
+| [Design Seeds](https://www.design-seeds.com/) | A color inspiration site featuring curated color palettes derived from photographs and nature. |
+| [ColorLeap](https://colorleap.app/home) | Take a leap through time and see the colors of history. |
 
 ## Design Tools
 
