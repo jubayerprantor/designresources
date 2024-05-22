@@ -12,7 +12,8 @@
 - [Design Inspiration](#design-inspiration)
 - [Royality Free Stock Photos Videos Music](#royality-free-stock-photos-videos-music)
 - [Icons](#icons)
-- [Fonts](#fonts)
+- [English Fonts](#english-fonts)
+- [Bangla Fonts](#bangla-fonts)
 - [Color Palettes](#color-palettes)
 - [Design Tools](#design-tools)
 - [Tutorials and Learning](#tutorials-and-learning)
@@ -87,7 +88,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Fonts
+## English Fonts
 
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
@@ -107,6 +108,19 @@
 | [Abstract Fonts](https://www.abstractfonts.com/) | A collection of free fonts available for download and use in personal and commercial projects. |
 | [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | An open-source font foundry focused on high-quality, free fonts for designers. |
 | [Font Library](https://fontlibrary.org/) | A community-driven archive of open-source fonts for designers and typographers. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Bangla Fonts
+
+| Link                                           | Description                                   |
+| ---------------------------------------------- | --------------------------------------------- |
+| [Lipighor](https://lipighor.com/freefont.html) | The largest Bangla font library, offering an extensive collection of free fonts suitable for various needs.              |
+| [Fontbd](https://fontbd.com/free-fonts/)       | Provides access to 192 free Bangla fonts, perfect for designers looking to enhance their Bangla typography.                 |
+| [Okkhor 52](https://okkhor52.com/)             | A part of the Lipighor collection, offering additional fonts and resources for Bangla script.                           |
+| [Fontlipi](https://fontlipi.com/font)          | Another extensive Bangla font library, featuring a variety of unique and creative fonts for different uses.        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
