@@ -117,11 +117,16 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
-| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | Collection of creative tools and services by Adobe. |
-| [Figma](https://www.figma.com/)                | Collaborative interface design tool.         |
-| [Sketch](https://www.sketch.com/)              | Digital design toolkit.                      |
-| [Affinity Designer](https://affinity.serif.com/en-us/designer/) | Professional graphic design software for desktop and iPad. |
-| [Canva](https://www.canva.com/)                | Online design tool for creating graphics, presentations, and more. |
+| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | A collection of software for graphic design, video editing, web development, and photography. Key tools within the suite include Photoshop, Illustrator, InDesign, After Effects, and Premiere Pro. |
+| [Sketch](https://www.sketch.com/) | A vector graphics editor specifically designed for user interface and user experience (UI/UX) design. It's known for its ease of use and robust features for designing digital interfaces. |
+| [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Adobe's solution for designing and prototyping user experiences for websites and mobile apps. It integrates seamlessly with other Adobe products and offers features for wireframing, prototyping, and collaboration. |
+| [InVision](https://www.invisionapp.com/) | A digital product design platform that enables teams to create interactive prototypes and collaborate throughout the design process. It's widely used for UI/UX design and prototyping. |
+| [Procreate](https://procreate.art/) | A digital painting app for iPad that's popular among illustrators and digital artists for its natural drawing experience and extensive brush library. |
+| [Canva](https://www.canva.com/) | A web-based graphic design platform that offers a wide range of pre-designed templates for various design needs, including social media graphics, presentations, posters, and more. It's known for its user-friendly interface and accessibility. |
+| [Affinity Designer](https://affinity.serif.com/en-us/designer/) | A vector graphic design software alternative to Adobe Illustrator. It offers professional-grade features for illustration, UI design, and typography. |
+| [Axure RP](https://www.axure.com/) | A powerful prototyping tool used for creating interactive prototypes of websites and mobile apps. It's favored by UX designers for its ability to create complex interactions and dynamic content. |
+| [Zeplin](https://zeplin.io/) | A collaboration tool for UI/UX designers and developers that streamlines the handoff process by providing design specs, assets, and code snippets directly from design files. |
 
 ## Tutorials and Learning
 
