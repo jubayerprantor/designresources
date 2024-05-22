@@ -215,7 +215,6 @@
 | [Free Design Resources](https://freedesignresources.net/) | Curated collection of free design resources. |
 | [Graphic Burger](http://graphicburger.com/)    | Tasty design resources made with care for each pixel. |
 | [Brutalist Websites](https://brutalistwebsites.com/) | Collection of websites embracing the "brutalist" design trend. |
-| [Pattern Library](http://thepatternlibrary.com/) | Free patterns for your projects.             |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
