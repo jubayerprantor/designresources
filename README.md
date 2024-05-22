@@ -12,6 +12,7 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 - [Tutorials and Learning](#tutorials-and-learning)
 - [Communities and Forums](#communities-and-forums)
 - [Other Resources](#other-resources)
+- [Best Youtube Channels](#best-youtube-channels)
 - [Contributors](#contributors)
 ---
 
@@ -120,13 +121,18 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | A collection of software for graphic design, video editing, web development, and photography. Key tools within the suite include Photoshop, Illustrator, InDesign, After Effects, and Premiere Pro. |
 | [Sketch](https://www.sketch.com/) | A vector graphics editor specifically designed for user interface and user experience (UI/UX) design. It's known for its ease of use and robust features for designing digital interfaces. |
 | [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
-| [Adobe XD](https://www.adobe.com/products/xd.html) | Adobe's solution for designing and prototyping user experiences for websites and mobile apps. It integrates seamlessly with other Adobe products and offers features for wireframing, prototyping, and collaboration. |
 | [InVision](https://www.invisionapp.com/) | A digital product design platform that enables teams to create interactive prototypes and collaborate throughout the design process. It's widely used for UI/UX design and prototyping. |
 | [Procreate](https://procreate.art/) | A digital painting app for iPad that's popular among illustrators and digital artists for its natural drawing experience and extensive brush library. |
 | [Canva](https://www.canva.com/) | A web-based graphic design platform that offers a wide range of pre-designed templates for various design needs, including social media graphics, presentations, posters, and more. It's known for its user-friendly interface and accessibility. |
 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | A vector graphic design software alternative to Adobe Illustrator. It offers professional-grade features for illustration, UI design, and typography. |
 | [Axure RP](https://www.axure.com/) | A powerful prototyping tool used for creating interactive prototypes of websites and mobile apps. It's favored by UX designers for its ability to create complex interactions and dynamic content. |
 | [Zeplin](https://zeplin.io/) | A collaboration tool for UI/UX designers and developers that streamlines the handoff process by providing design specs, assets, and code snippets directly from design files. |
+| [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) | A free and open-source raster graphics editor that offers many features similar to Adobe Photoshop. It's great for photo retouching, image composition, and graphic design. |
+| [Inkscape](https://inkscape.org/) | An open-source vector graphics editor that's comparable to Adobe Illustrator. It's used for creating logos, illustrations, diagrams, and other vector graphics. |
+| [Gravit Designer](https://www.designer.io/en/) | A free vector design application available both online and offline. It offers a range of features for creating vector graphics, illustrations, UI designs, and more. |
+| [Krita](https://krita.org/en/) | A free and open-source painting program designed for digital artists. It's suitable for creating concept art, illustrations, comics, and textures. |
+| [Blender](https://www.blender.org/) | While primarily known as a 3D modeling and animation software, Blender also includes robust 2D animation and video editing features, making it a versatile tool for multimedia projects. |
+| [Scribus](https://www.scribus.net/) | An open-source desktop publishing software that can be used for creating layouts for brochures, newsletters, posters, and other printed materials. |
 
 ## Tutorials and Learning
 
@@ -137,6 +143,8 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Udemy Graphic Design Courses](https://www.udemy.com/topic/graphic-design/) | Comprehensive courses on graphic design.    |
 | [Skillshare](https://www.skillshare.com/)      | Online classes in design, photography, and more. |
 | [YouTube - The Futur](https://www.youtube.com/user/TheSkoolRocks) | Videos on graphic design, branding, and entrepreneurship. |
+
+## Best Youtube Channels
 
 ## Communities and Forums
 
