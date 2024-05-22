@@ -6,7 +6,7 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 - [Design Inspiration](#design-inspiration)
 - [Royality Free Stock Photos Videos Music](#Royality-Free-Stock-Photos-Videos-Music)
 - [Icons](#icons)
-- [Typography](#typography)
+- [Fonts](#fonts)
 - [Color Palettes](#color-palettes)
 - [Design Tools](#design-tools)
 - [Tutorials and Learning](#tutorials-and-learning)
@@ -69,7 +69,7 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [FontAwesomePS](http://creativedo.co/FontAwesomePS) | A PS plugin. Font Awesome icons right inside Adobe Photoshop. |
 
 
-## Typography
+## Fonts
 
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
@@ -78,6 +78,17 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [DaFont](https://www.dafont.com/)              | Archive of freely downloadable fonts.         |
 | [Font Squirrel](https://www.fontsquirrel.com/) | Handpicked free fonts for graphic designers.  |
 | [Typewolf](https://www.typewolf.com/)          | Helps designers choose the perfect font combination for their next design project. |
+| [Fontspace](https://www.fontspace.com/) | Provides a vast collection of free fonts for personal and commercial use. |
+| [Befonts](https://befonts.com/) | Offers a wide range of free and premium fonts for designers. |
+| [FFonts](https://www.ffonts.net/) | Offers free fonts for personal and commercial use, with a wide variety of styles available. |
+| [Free Script Fonts](https://www.freefonts.io/script/) | A curated collection of free script fonts for various design projects. |
+| [FontsArena](https://fontsarena.com/) | Provides a diverse selection of free fonts for personal and commercial use. |
+| [Pinspiry Fonts](https://pinspiry.com/fonts/) | Curates free and premium fonts for designers and creatives. |
+| [1001 Free Fonts](https://www.1001freefonts.com/) | Offers a vast collection of free fonts for personal and commercial use. |
+| [Unblast](https://unblast.com/fonts/) | Provides free fonts for personal and commercial use, along with other design resources. |
+| [Abstract Fonts](https://www.abstractfonts.com/) | A collection of free fonts available for download and use in personal and commercial projects. |
+| [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | An open-source font foundry focused on high-quality, free fonts for designers. |
+| [Font Library](https://fontlibrary.org/) | A community-driven archive of open-source fonts for designers and typographers. |
 
 ## Color Palettes
 
