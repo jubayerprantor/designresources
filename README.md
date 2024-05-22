@@ -23,7 +23,14 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [Behance](https://www.behance.net/)            | Platform for showcasing and discovering creative work. |
 | [Awwwards](https://www.awwwards.com/)          | Recognizes the talent and effort of the best web designers, developers, and agencies in the world. |
 | [Pinterest](https://www.pinterest.com/)        | Visual discovery and bookmarking tool for finding ideas. |
-| [Designspiration](https://www.designspiration.com/) | Design inspiration gallery. |
+| [Webflow](https://webflow.com/) | Professional website builder for designing, building, and launching responsive websites. |
+| [Designspiration](https://www.designspiration.com/) | Provides a huge collection of design inspiration and ideas. |
+| [Brutalist Websites](https://brutalistwebsites.com/) | A showcase of websites inspired by the Brutalism movement. |
+| [Abduzeedo](https://abduzeedo.com/) | A blog about design, branding, and inspiration. |
+| [Webflow Templates](https://webflow.com/templates) | A collection of free and premium Webflow templates. |
+| [Lapa Ninja](https://www.lapa.ninja/) | A collection of the best landing page designs. |
+| [Gobly](https://gobly.co/) | A platform offering animated illustrations for creative projects. |
+| [Figma Community](https://www.figma.com/community) | A collaborative space for sharing design files and resources within the Figma ecosystem. |
 
 ## Royality Free Stock Photos Videos Music 
 
@@ -38,6 +45,13 @@ Explore our Graphic Design Resources Collection, a collaborative effort to suppo
 | [FoodiesFeed](https://www.foodiesfeed.com/) | Absolute heaven for food-related stock photos. #foodpornatitsbest |
 | [UI Faces](https://uifaces.co/) | A growing library of free, AI-generated, high-resolution avatars for design mockups, thoughtfully curated to suit all your creative needs. |
 | [Photobash](https://www.photobash.org/) | Royalty-free images and 3D models for digital artists. |
+| [YouTube Creator Music](https://www.youtube.com/creators/music) | A vast library of free and paid music tracks and sound effects for YouTube videos. |
+| [TuneTank](https://www.tunetank.com/) | Offers free, high-quality royalty-free music for various creative projects. |
+| [Upbeat](https://www.upbeat.io/) | Free music for creators, with an option to upgrade for no credit requirement. |
+| [Free Music Archive](https://freemusicarchive.org/) | Curated library of free music downloads from independent artists. |
+| [Mixkit](https://mixkit.co/) | Free high-quality stock video clips, music tracks, sound effects, and video templates. |
+| [Coverr](https://coverr.co/) | Beautiful, free stock videos for commercial and non-commercial use. |
+| [Videvo](https://www.videvo.net/) | 1 million+ Stock Footage Clips, Motion graphics, Premiere Pro templates, After Effects templates, Royalty free music & Sound effects, all at your fingertips. |
 
 ## Icons
 | Link                                           | Description                                   |
