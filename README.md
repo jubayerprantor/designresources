@@ -148,6 +148,9 @@
 | [ColorLisa](https://colorlisa.com/) | A curated collection of color palettes inspired by famous artists, designed to spark creativity and inspiration. |
 | [Design Seeds](https://www.design-seeds.com/) | A color inspiration site featuring curated color palettes derived from photographs and nature. |
 | [ColorLeap](https://colorleap.app/home) | Take a leap through time and see the colors of history. |
+| [CoolHue](https://webkul.github.io/coolhue/) | Specializes in providing a wide range of beautiful gradient combinations for design inspiration. |
+| [Pigment by ShapeFactory](https://pigment.shapefactory.co/) | A tool for generating beautiful color palettes using gradient combinations and color harmonies. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
