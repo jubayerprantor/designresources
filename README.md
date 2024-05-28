@@ -153,6 +153,22 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+
+## Brushes
+
+| Link                                           | Description                                   |
+| ---------------------------------------------- | --------------------------------------------- |
+| [Brusheezy](https://www.brusheezy.com/) | Offers a wide range of free Photoshop brushes, patterns, textures, and more. It's a community-driven site where designers share their resources. |
+| [BrushKing](https://www.brushking.eu/) | Provides a wide collection of free Photoshop brushes for various design needs. |
+| [MyPhotoshopBrushes](https://myphotoshopbrushes.com/) | A site offering a variety of free Photoshop brushes, patterns, and textures shared by the design community. |
+| [BrushLovers](https://www.brushlovers.com/) | Provides a good selection of high-quality free Photoshop brushes. The site also offers premium brushes for more advanced needs. |
+| [Fbrushes](https://www.fbrushes.com/) | Features a collection of free brushes for Photoshop. The site categorizes brushes by type, making it easy to find what you need. |
+| [DeviantArt](https://www.deviantart.com/) | A vast community of artists where you can find many free Photoshop brush packs. Be sure to check the license and credit the artists accordingly. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Design Tools
 
 | Link                                           | Description                                   |
