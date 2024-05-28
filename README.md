@@ -69,6 +69,30 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Vectors
+
+| Link                                           | Description                                   |
+| ---------------------------------------------- | --------------------------------------------- |
+| [Vecteezy](http://vecteezy.com/) | Offers a large collection of free and premium vector graphics, including icons, illustrations, and design elements. |
+| [Freepik](http://www.freepik.com/) | Provides a vast library of free vectors, stock photos, PSDs, and icons for personal and commercial use. |
+| [unDraw](https://undraw.co/illustrations) | A collection of open-source illustrations that can be used for any project, updated regularly with new designs. |
+| [The Noun Project](https://thenounproject.com/) | A vast collection of icons and symbols created by designers from around the world. |
+| [All-Free-Download](https://all-free-download.com/) | Offers a wide range of free vector art, stock photos, and PSD files for personal and commercial use. |
+| [Vectorportal](https://vectorportal.com/) | A repository of free vector art, including illustrations, logos, and clipart. |
+| [FreeVectors](https://www.freevectors.net/) | Provides free vector art and graphics for personal and commercial use. |
+| [Bazaardesigns](https://www.bazaardesigns.com/) | A resource offering free vector graphics and design elements for various creative projects. |
+| [Openclipart](https://openclipart.org/) | A collection of free, high-quality clipart and vector graphics contributed by a community of artists. |
+| [Free Vectors Daily](https://www.freevectorsdaily.com/) | Features a daily updated collection of free vector graphics and illustrations. |
+| [All Silhouettes](https://www.all-silhouettes.com/) | Specializes in providing free vector silhouettes for various design projects. |
+| [Vector 4 Free](http://www.vector4free.com/) | Offers a collection of free vector graphics, including illustrations and design elements. |
+| [Vectorious](https://www.vectorious.net/) | A pay site that offers high-quality vector art, with a selection of free vectors available. |
+| [Vector Art](http://vectorart.org/) | Provides free vector graphics and illustrations for personal and commercial use. |
+| [Worldvectorlogo](https://worldvectorlogo.com/) | A comprehensive database of vector logos from brands around the world, available for free download. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Icons
 | Link                                           | Description                                   |
 | ---------------------------------------------- | --------------------------------------------- |
