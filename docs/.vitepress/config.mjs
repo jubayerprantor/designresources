@@ -44,6 +44,10 @@ export default defineConfig({
         position: relative;
         width: 280px;
         height: 280px;
+        -webkit-perspective: 1000px;
+        perspective: 1000px;
+        -webkit-transform-style: preserve-3d;
+        transform-style: preserve-3d;
       }
 
       /* Animation keyframes */
@@ -95,21 +99,23 @@ export default defineConfig({
         0%, 100% { box-shadow: 0 0 60px rgba(139, 92, 246, 0.3), inset 0 0 40px rgba(139, 92, 246, 0.15); }
         50% { box-shadow: 0 0 80px rgba(139, 92, 246, 0.4), inset 0 0 60px rgba(139, 92, 246, 0.25); }
       }
+      
+      /* Gorgeous 3D perspective wobbling makes the rings dynamic and visually spin */
       @-webkit-keyframes torus-spin {
-        0% { -webkit-transform: scaleY(0.4) rotate(0deg); transform: scaleY(0.4) rotate(0deg); }
-        100% { -webkit-transform: scaleY(0.4) rotate(360deg); transform: scaleY(0.4) rotate(360deg); }
+        0%, 100% { -webkit-transform: rotateX(72deg) rotateY(0deg) rotateZ(0deg); transform: rotateX(72deg) rotateY(0deg) rotateZ(0deg); }
+        50% { -webkit-transform: rotateX(62deg) rotateY(15deg) rotateZ(180deg); transform: rotateX(62deg) rotateY(15deg) rotateZ(180deg); }
       }
       @keyframes torus-spin {
-        0% { -webkit-transform: scaleY(0.4) rotate(0deg); transform: scaleY(0.4) rotate(0deg); }
-        100% { -webkit-transform: scaleY(0.4) rotate(360deg); transform: scaleY(0.4) rotate(360deg); }
+        0%, 100% { -webkit-transform: rotateX(72deg) rotateY(0deg) rotateZ(0deg); transform: rotateX(72deg) rotateY(0deg) rotateZ(0deg); }
+        50% { -webkit-transform: rotateX(62deg) rotateY(15deg) rotateZ(180deg); transform: rotateX(62deg) rotateY(15deg) rotateZ(180deg); }
       }
       @-webkit-keyframes torus-spin2 {
-        0% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(0deg); transform: scaleY(0.5) rotate(45deg) rotate(0deg); }
-        100% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(-360deg); transform: scaleY(0.5) rotate(45deg) rotate(-360deg); }
+        0%, 100% { -webkit-transform: rotateX(55deg) rotateY(-8deg) rotateZ(0deg); transform: rotateX(55deg) rotateY(-8deg) rotateZ(0deg); }
+        50% { -webkit-transform: rotateX(68deg) rotateY(12deg) rotateZ(-180deg); transform: rotateX(68deg) rotateY(12deg) rotateZ(-180deg); }
       }
       @keyframes torus-spin2 {
-        0% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(0deg); transform: scaleY(0.5) rotate(45deg) rotate(0deg); }
-        100% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(-360deg); transform: scaleY(0.5) rotate(45deg) rotate(-360deg); }
+        0%, 100% { -webkit-transform: rotateX(55deg) rotateY(-8deg) rotateZ(0deg); transform: rotateX(55deg) rotateY(-8deg) rotateZ(0deg); }
+        50% { -webkit-transform: rotateX(68deg) rotateY(12deg) rotateZ(-180deg); transform: rotateX(68deg) rotateY(12deg) rotateZ(-180deg); }
       }
 
       /* Orb Sphere Wrap */
