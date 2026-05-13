@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# VitePress / Build outputs
+.vitepress/dist/
+.vitepress/cache/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python & Scraper Scripts (Secret compilation)
+merge_resources.py
+merge_spreadsheets.py
+detect_readme.py
+inspect_sources.py
+test_ingestion.py
+inspection_results.txt
+split_readme.py
+check_links.py
+dead_links_report.txt
+enrich_descriptions.py
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Raw source reference files (private ingestion inputs)
+read1.md
+read2.md
+read3.md
+*.html

@@ -1,0 +1,26 @@
+{
+  "name": "designresources",
+  "version": "1.0.0",
+  "description": "Explore our Graphic Design Resources Collection, a collaborative effort to support designers, developers, and creatives alike.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "design",
+    "resources",
+    "vitepress",
+    "graphic-design",
+    "ui-ux",
+    "fonts",
+    "icons"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.34"
+  }
+}

@@ -7,7 +7,7 @@ Thank you for considering contributing to this repository! Here are some guideli
 1. **Fork the Repository**: Click the "Fork" button at the top of this page to create a copy of this repository on your GitHub account.
 2. **Clone the Forked Repository**: Clone your fork to your local machine using `git clone https://github.com/jubayerprantor/designresources.git`.
 3. **Create a New Branch**: Create a new branch for your changes using `git checkout -b your-branch-name`.
-4. **Make Your Changes**: Add your resource links or make other improvements in the [README.md](https://github.com/jubayerprantor/designresources/blob/main/README.md) file.
+4. **Make Your Changes**: Add your resource links or make other improvements in the appropriate file inside the [docs](https://github.com/jubayerprantor/designresources/tree/main/docs) directory (e.g., `docs/typography.md` for fonts, `docs/stock-media.md` for photos).
 5. **Commit Your Changes**: Commit your changes with a meaningful message using `git commit -m "Add [description of your changes]"`.
 6. **Push to Your Fork**: Push your changes to your forked repository using `git push origin your-branch-name`.
 7. **Create a Pull Request**: Open a pull request in the original repository with a description of your changes.
