@@ -25,7 +25,7 @@
 }
 
 /* ============================================================
-   CANVA-DESIGNED 3D GLASSMORPHIC HERO COMPOSITION WITH VENDOR PREFIXES
+   CANVA-DESIGNED 3D GLASSMORPHIC HERO COMPOSITION (2D BACKED)
    ============================================================ */
 
 .custom-hero-composition {
@@ -45,24 +45,24 @@
   height: 280px;
 }
 
-/* Keyframes with -webkit- prefixes for complete compatibility */
+/* Keyframes using high-performance, hardware-independent 2D fallback paths */
 
 @-webkit-keyframes float1 {
-  0%, 100% { -webkit-transform: translateY(0) rotateY(0deg); transform: translateY(0) rotateY(0deg); }
-  50% { -webkit-transform: translateY(-12px) rotateY(180deg); transform: translateY(-12px) rotateY(180deg); }
+  0%, 100% { -webkit-transform: translateY(0) rotate(0deg); transform: translateY(0) rotate(0deg); }
+  50% { -webkit-transform: translateY(-12px) rotate(180deg); transform: translateY(-12px) rotate(180deg); }
 }
 @keyframes float1 {
-  0%, 100% { -webkit-transform: translateY(0) rotateY(0deg); transform: translateY(0) rotateY(0deg); }
-  50% { -webkit-transform: translateY(-12px) rotateY(180deg); transform: translateY(-12px) rotateY(180deg); }
+  0%, 100% { -webkit-transform: translateY(0) rotate(0deg); transform: translateY(0) rotate(0deg); }
+  50% { -webkit-transform: translateY(-12px) rotate(180deg); transform: translateY(-12px) rotate(180deg); }
 }
 
 @-webkit-keyframes float2 {
-  0%, 100% { -webkit-transform: translateY(0) rotateX(0deg); transform: translateY(0) rotateX(0deg); }
-  50% { -webkit-transform: translateY(-8px) rotateX(180deg); transform: translateY(-8px) rotateX(180deg); }
+  0%, 100% { -webkit-transform: translateY(0) rotate(0deg); transform: translateY(0) rotate(0deg); }
+  50% { -webkit-transform: translateY(-8px) rotate(-180deg); transform: translateY(-8px) rotate(-180deg); }
 }
 @keyframes float2 {
-  0%, 100% { -webkit-transform: translateY(0) rotateX(0deg); transform: translateY(0) rotateX(0deg); }
-  50% { -webkit-transform: translateY(-8px) rotateX(180deg); transform: translateY(-8px) rotateX(180deg); }
+  0%, 100% { -webkit-transform: translateY(0) rotate(0deg); transform: translateY(0) rotate(0deg); }
+  50% { -webkit-transform: translateY(-8px) rotate(-180deg); transform: translateY(-8px) rotate(-180deg); }
 }
 
 @-webkit-keyframes orbit {
@@ -101,22 +101,23 @@
   50% { box-shadow: 0 0 80px rgba(139, 92, 246, 0.4), inset 0 0 60px rgba(139, 92, 246, 0.25); }
 }
 
+/* 2D equivalent torus elliptic spinning avoids GPU 3D transform blocks */
 @-webkit-keyframes torus-spin {
-  0% { -webkit-transform: rotateX(60deg) rotateZ(0deg); transform: rotateX(60deg) rotateZ(0deg); }
-  100% { -webkit-transform: rotateX(60deg) rotateZ(360deg); transform: rotateX(60deg) rotateZ(360deg); }
+  0% { -webkit-transform: scaleY(0.4) rotate(0deg); transform: scaleY(0.4) rotate(0deg); }
+  100% { -webkit-transform: scaleY(0.4) rotate(360deg); transform: scaleY(0.4) rotate(360deg); }
 }
 @keyframes torus-spin {
-  0% { -webkit-transform: rotateX(60deg) rotateZ(0deg); transform: rotateX(60deg) rotateZ(0deg); }
-  100% { -webkit-transform: rotateX(60deg) rotateZ(360deg); transform: rotateX(60deg) rotateZ(360deg); }
+  0% { -webkit-transform: scaleY(0.4) rotate(0deg); transform: scaleY(0.4) rotate(0deg); }
+  100% { -webkit-transform: scaleY(0.4) rotate(360deg); transform: scaleY(0.4) rotate(360deg); }
 }
 
 @-webkit-keyframes torus-spin2 {
-  0% { -webkit-transform: rotateX(-30deg) rotateY(45deg) rotateZ(0deg); transform: rotateX(-30deg) rotateY(45deg) rotateZ(0deg); }
-  100% { -webkit-transform: rotateX(-30deg) rotateY(45deg) rotateZ(-360deg); transform: rotateX(-30deg) rotateY(45deg) rotateZ(-360deg); }
+  0% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(0deg); transform: scaleY(0.5) rotate(45deg) rotate(0deg); }
+  100% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(-360deg); transform: scaleY(0.5) rotate(45deg) rotate(-360deg); }
 }
 @keyframes torus-spin2 {
-  0% { -webkit-transform: rotateX(-30deg) rotateY(45deg) rotateZ(0deg); transform: rotateX(-30deg) rotateY(45deg) rotateZ(0deg); }
-  100% { -webkit-transform: rotateX(-30deg) rotateY(45deg) rotateZ(-360deg); transform: rotateX(-30deg) rotateY(45deg) rotateZ(-360deg); }
+  0% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(0deg); transform: scaleY(0.5) rotate(45deg) rotate(0deg); }
+  100% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(-360deg); transform: scaleY(0.5) rotate(45deg) rotate(-360deg); }
 }
 
 /* Sphere styling */
@@ -153,32 +154,32 @@
   background: radial-gradient(ellipse, rgba(255, 255, 255, 0.25), transparent);
 }
 
-/* Torus Rings */
+/* Torus Rings utilizing scaleY to bypass 3D transform acceleration bugs */
 .torus {
   position: absolute;
-  width: 200px;
-  height: 200px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
   border: 2px solid rgba(245, 158, 11, 0.4);
   -webkit-animation: torus-spin 20s linear infinite;
   animation: torus-spin 20s linear infinite;
   box-shadow: 0 0 12px rgba(245, 158, 11, 0.2);
-  top: 40px;
-  left: 40px;
+  top: 30px;
+  left: 30px;
   z-index: 1;
 }
 
 .torus2 {
   position: absolute;
-  width: 240px;
-  height: 240px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
   border: 1.5px solid rgba(245, 158, 11, 0.25);
   -webkit-animation: torus-spin2 28s linear infinite;
   animation: torus-spin2 28s linear infinite;
   box-shadow: 0 0 8px rgba(245, 158, 11, 0.15);
-  top: 20px;
-  left: 20px;
+  top: 10px;
+  left: 10px;
   z-index: 1;
 }
 
