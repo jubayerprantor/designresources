@@ -9,9 +9,8 @@
 | Resource | Description |
 | :--- | :--- |
 | [3DF Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/) | Photogrammetry - Windows App |
-| [Adobe](https://helpx.adobe.com/photoshop/discover/six-free-gradient-maps-for-photoshop.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Adobe Stick](https://stock.adobe.com/search/free?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=0&filters%5Bcontent_type%3Azip_vector%5D=0&filters%5Bcontent_type%3Avideo%5D=0&filters%5Bcontent_type%3Atemplate%5D=0&filters%5Bcontent_type%3A3d%5D=0&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=-png&order=relevance&search_type=filter-select&get_facets=1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Adobe Stock](https://stock.adobe.com/search/free?filters%5Bcontent_type%3Avideo%5D=1&filters%5Bfree_collection%5D=1&order=relevance&limit=100&search_type=usertyped&search_page=1&acp=&k=-png&aco=-png&get_facets=1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Adobe Stick](https://stock.adobe.com/search/free?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=0&filters%5Bcontent_type%3Azip_vector%5D=0&filters%5Bcontent_type%3Avideo%5D=0&filters%5Bcontent_type%3Atemplate%5D=0&filters%5Bcontent_type%3A3d%5D=0&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=-png&order=relevance&search_type=filter-select&get_facets=1) | Free stock photos (PNG filter excluded) — requires Adobe account |
+| [Adobe Stock](https://stock.adobe.com/search/free?filters%5Bcontent_type%3Avideo%5D=1&filters%5Bfree_collection%5D=1&order=relevance&limit=100&search_type=usertyped&search_page=1&acp=&k=-png&aco=-png&get_facets=1) | Free stock videos — requires Adobe account |
 | [Adobe Stock](https://stock.adobe.com/uk/) | U need Adobe Plan |
 | [Adobe Stock](https://stock.adobe.com/ru/collections/VLnumiH9GmCRJ6yQeoqArktbb6dxS6Un) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Adobe Stock](https://stock.adobe.com/it/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=patterns&order=relevance&search_page=1&search_type=usertyped&acp=&aco=patterns&get_facets=0) | Italian postcard pattern - Not Free |
@@ -169,15 +168,11 @@
 | [Placeholder](https://placeholder.com/) | A free image placeholder service for the web. You can specify image size and format |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | Public domain images of all types |
 | [PxHere](https://pxhere.com/) | Free Images & Free stock photos - PxHere |
-| [Random User Generator](https://randomuser.me) | A free, open-source API for generating random user data. Like Lorem Ipsum, but for people. |
 | [Realistic Shots](https://realisticshots.com/) | Free high-resolution stock photos |
-| [Reshot](https://www.reshot.com) | Handpicked, non-stocky images for creators. Free for commercial and editorial use. |
 | [Saxifraga](http://www.freenatureimages.eu) | Free nature images |
-| [scienceimage](https://www.scienceimage.csiro.au) | An image library specializing in science and nature images |
-| [SkitterPhoto](https://skitterphoto.com/) | Free high-resolution photography |
-| [Stable Diffusion](https://stability.ai) | Open-source AI image generation model that can run locally or via various hosted platforms. |
-| [StockSnap](https://stocksnap.io/) | Beautiful free stock photos. New CC0 images added daily, free from copyright restrictions. |
-| [Stockvault](http://www.stockvault.net/) | Categorized stock photos |
-| [Unsplash](https://unsplash.com/) | Over 3 million free high-resolution images brought to you by the world’s most generous community of photographers. |
-| [Wunder Stock](https://wunderstock.com/) | Stunningly amazing free photos |
-
+| [scienceimage](https://auprod2auv3.intelligencebank.com/resource?sid=6f0790baa8511959fe481c9ffd8dcb74&clientUrl=commshub.csiro.au&folder=bd3b77efcd5e98cb038917ee7d7bf272&public_token=LPyza8NNE8D&navType=resource) | Image library specializing in science and nature photography |
+| [SkitterPhoto](https://skitterphoto.com/) | Free high-resolution stock photography |
+| [Stability AI](https://stability.ai) | Open-source AI image generation models, available locally or via hosted platforms |
+| [StockSnap](https://stocksnap.io/) | Free stock photos with new images added daily, free from copyright restrictions |
+| [Stockvault](http://www.stockvault.net/) | Categorized free stock photos |
+| [Unsplash](https://unsplash.com/) | Over 3 million free high-resolution images contributed by a global community of photographers |

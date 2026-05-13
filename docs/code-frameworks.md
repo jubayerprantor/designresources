@@ -45,20 +45,18 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [CSS Gradient](https://cssgradient.io/gradient-backgrounds/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CSS Icon Library](https://css.gg/icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CSS Nectar Web Design Awards](https://cssnectar.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Free pik](https://www.freepik.com/patterns) | Keyword Libraries Pattern Club , Toptal , , CSS Author , Pattern Monster |
-| [Free pik](https://www.freepik.com/textures) | Keyword Libraries Resource Boy , , GFX , You Work for Them , Tamatuf , CSS Author |
+| [CSS Gradient](https://cssgradient.io/gradient-backgrounds/) | A collection of beautiful gradient backgrounds |
+| [CSS Icon Library](https://css.gg/icons) | A comprehensive, open-source CSS icon library featuring 700+ vanilla CSS, SVG, and Figma UI icons |
+| [Magnific](https://www.magnific.com/patterns) | Pattern library and design resource collection |
+| [Magnific](https://www.magnific.com/textures) | Free textures and design resources |
 | [98.css](https://jdan.github.io/98.css/) | A design system for building faithful recreations of old UIs |
-| [Arwes](https://github.com/arwes/arwes) | Arwes is a web framework to build user interfaces based on futuristic science fiction designs, animations, and sound effects. |
-| [Axentix](https://useaxentix.com/) | Axentix is an open source Framework based on CSS Grid using HTML, CSS and JS. |
-| [BeerCSS](https://www.beercss.com) | Build Material Design interfaces in record time, without stress for devs 🍻. The first CSS framework that implements Material Design 3. |
-| [Blaze.css](http://blazecss.com/) | Open source modular CSS toolkit providing great structure for building websites quickly |
-| [Blueprint CSS](https://blueprintcss.dev/) | A lightweight layout library for building great responsive mobile first UIs that work everywhere |
-| [Bojler](https://bojler.slicejack.com/) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
-| [Bootstrap](https://getbootstrap.com/) | Popular UI framework with tons of components that use both CSS and JS |
-| [Bulma](https://bulma.io/) | Modern CSS framework with no JS |
+| [Arwes](https://github.com/arwes/arwes) | Web framework for futuristic sci-fi inspired UI designs with animations and sound effects |
+| [Axentix](https://useaxentix.com/) | Open source CSS Grid-based framework using HTML, CSS and JS |
+| [BeerCSS](https://www.beercss.com) | CSS framework for building Material Design 3 interfaces quickly |
+| [Blaze UI](https://www.blazeui.com/) | Open source modular CSS toolkit for rapid website development |
+| [Bojler](https://bojler.slicejack.com/) | Email framework for building responsive and lightweight email templates |
+| [Bootstrap](https://getbootstrap.com/) | Popular UI framework with extensive CSS and JS components |
+| [Bulma](https://bulma.io/) | Modern CSS framework based on Flexbox without JavaScript dependencies |
 | [Chota](https://jenil.github.io/chota/) | A micro (~3kb) CSS framework |
 | [Cirrus CSS](https://cirrus-ui.netlify.app/) | A component and utility centric SCSS framework designed for rapid prototyping. |
 | [clay.css](https://github.com/codeAdrian/clay.css) | Extensible and configurable micro CSS util class and SASS mixin for adding claymorphism styles to your components. |
@@ -120,10 +118,9 @@
 | Resource | Description |
 | :--- | :--- |
 | [Atomic CSS](https://acss.io/) | Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function. |
-| [BEM](http://getbem.com/) | Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
-| [CUBE](https://cube.fyi/) | CUBE CSS is a CSS methodology that’s orientated towards simplicity, pragmatism and consistency. |
-| [OOCSS](http://oocss.org/) | OOCSS concepts help us write components that are flexible, modular and interchangeable. |
-| [SMACSS](http://smacss.com/) | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. |
+| [BEM](http://getbem.com/) | Methodology for creating reusable components using Block Element Modifier naming |
+| [CUBE](https://cube.fyi/) | CSS methodology focused on simplicity, pragmatism and consistency |
+| [SMACSS](http://smacss.com/) | Flexible style guide approach for structuring CSS in scalable and modular way |
 
 ## CSS Animations
 
