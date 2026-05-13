@@ -31,12 +31,12 @@
 </template>
 
 <script setup>
-// No logic needed, purely visual CSS animation composition
+// Purely visual component
 </script>
 
 <style>
 /* ============================================================
-   CANVA-DESIGNED 3D GLASSMORPHIC HERO COMPOSITION (2D BACKED)
+   CANVA-DESIGNED 3D GLASSMORPHIC HERO COMPOSITION (LONGHAND EXPLICIT FOR MINIFIER)
    ============================================================ */
 
 .custom-hero-composition {
@@ -131,7 +131,7 @@
   100% { -webkit-transform: scaleY(0.5) rotate(45deg) rotate(-360deg); transform: scaleY(0.5) rotate(45deg) rotate(-360deg); }
 }
 
-/* Sphere styling */
+/* Sphere styling with explicit longhand animations */
 .sphere-wrap {
   position: absolute;
   top: 50%;
@@ -149,8 +149,17 @@
   border: 1px solid rgba(139, 92, 246, 0.2);
   -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
-  -webkit-animation: pulse-sphere 4s ease-in-out infinite;
-  animation: pulse-sphere 4s ease-in-out infinite;
+  
+  /* Explicit longhand definitions to bypass minifier optimization bugs */
+  -webkit-animation-name: pulse-sphere;
+  animation-name: pulse-sphere;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
   position: relative;
 }
 
@@ -165,15 +174,24 @@
   background: radial-gradient(ellipse, rgba(255, 255, 255, 0.25), transparent);
 }
 
-/* Torus Rings utilizing scaleY to bypass 3D transform acceleration bugs */
+/* Torus Rings utilizing scaleY with explicit longhand animations */
 .torus {
   position: absolute;
   width: 220px;
   height: 220px;
   border-radius: 50%;
   border: 2px solid rgba(245, 158, 11, 0.4);
-  -webkit-animation: torus-spin 20s linear infinite;
-  animation: torus-spin 20s linear infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: torus-spin;
+  animation-name: torus-spin;
+  -webkit-animation-duration: 20s;
+  animation-duration: 20s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
   box-shadow: 0 0 12px rgba(245, 158, 11, 0.2);
   top: 30px;
   left: 30px;
@@ -186,15 +204,24 @@
   height: 260px;
   border-radius: 50%;
   border: 1.5px solid rgba(245, 158, 11, 0.25);
-  -webkit-animation: torus-spin2 28s linear infinite;
-  animation: torus-spin2 28s linear infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: torus-spin2;
+  animation-name: torus-spin2;
+  -webkit-animation-duration: 28s;
+  animation-duration: 28s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
   box-shadow: 0 0 8px rgba(245, 158, 11, 0.15);
   top: 10px;
   left: 10px;
   z-index: 1;
 }
 
-/* Floating Cubes */
+/* Floating Cubes with explicit longhand animations */
 .cube {
   width: 28px;
   height: 28px;
@@ -202,8 +229,17 @@
   background: linear-gradient(135deg, rgba(139, 92, 246, 0.6), rgba(6, 182, 212, 0.4));
   border: 1px solid rgba(139, 92, 246, 0.4);
   border-radius: 4px;
-  -webkit-animation: float1 6s ease-in-out infinite;
-  animation: float1 6s ease-in-out infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: float1;
+  animation-name: float1;
+  -webkit-animation-duration: 6s;
+  animation-duration: 6s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
   box-shadow: 0 0 16px rgba(139, 92, 246, 0.3);
   z-index: 3;
 }
@@ -215,25 +251,43 @@
   background: linear-gradient(135deg, rgba(6, 182, 212, 0.5), rgba(139, 92, 246, 0.3));
   border: 1px solid rgba(6, 182, 212, 0.3);
   border-radius: 3px;
-  -webkit-animation: float2 8s ease-in-out infinite;
-  animation: float2 8s ease-in-out infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: float2;
+  animation-name: float2;
+  -webkit-animation-duration: 8s;
+  animation-duration: 8s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
   box-shadow: 0 0 12px rgba(6, 182, 212, 0.3);
   z-index: 3;
 }
 
-/* Particles */
+/* Particles with explicit longhand animations */
 .particle {
   position: absolute;
   width: 3px;
   height: 3px;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.7);
-  -webkit-animation: drift 3s ease-in-out infinite;
-  animation: drift 3s ease-in-out infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: drift;
+  animation-name: drift;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
   z-index: 1;
 }
 
-/* Orbiting Path Particles */
+/* Orbiting Path Particles with explicit longhand animations */
 .orbiting-wrap {
   position: absolute;
   top: 0;
@@ -254,8 +308,16 @@
   border-radius: 50%;
   background: #F59E0B;
   box-shadow: 0 0 8px #F59E0B;
-  -webkit-animation: orbit 15s linear infinite;
-  animation: orbit 15s linear infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: orbit;
+  animation-name: orbit;
+  -webkit-animation-duration: 15s;
+  animation-duration: 15s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
 }
 
 .orbit-particle-2 {
@@ -268,7 +330,15 @@
   border-radius: 50%;
   background: #06B6D4;
   box-shadow: 0 0 8px #06B6D4;
-  -webkit-animation: orbit2 22s linear infinite;
-  animation: orbit2 22s linear infinite;
+  
+  /* Explicit longhand definitions */
+  -webkit-animation-name: orbit2;
+  animation-name: orbit2;
+  -webkit-animation-duration: 22s;
+  animation-duration: 22s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
 }
 </style>
