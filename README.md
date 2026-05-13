@@ -1,7 +1,6 @@
 # Design Resources Hub 🎨✨
 
 [![Deploy VitePress site to Pages](https://github.com/jubayerprantor/designresources/actions/workflows/deploy.yml/badge.svg)](https://github.com/jubayerprantor/designresources/actions/workflows/deploy.yml)
-[![License: MIT](https://img.shields.ly/badge/License-MIT-blue.svg)](LICENSE)
 
 Explore a curated collection of **3,500+ hand-picked design tools, assets, references, and frameworks** for graphic designers, UI/UX designers, developers, and creatives.
 

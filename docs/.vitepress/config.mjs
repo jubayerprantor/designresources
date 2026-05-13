@@ -131,10 +131,8 @@ export default defineConfig({
         width: 160px;
         height: 160px;
         border-radius: 50%;
-        background: radial-gradient(circle at 35% 35%, rgba(139, 92, 246, 0.2), rgba(6, 182, 212, 0.05) 60%, transparent 80%);
-        border: 1px solid rgba(139, 92, 246, 0.2);
-        -webkit-backdrop-filter: blur(2px);
-        backdrop-filter: blur(2px);
+        background: radial-gradient(circle at 35% 35%, rgba(139, 92, 246, 0.25), rgba(6, 182, 212, 0.08) 60%, transparent 80%);
+        border: 1px solid rgba(139, 92, 246, 0.25);
         -webkit-animation-name: pulse-sphere;
         animation-name: pulse-sphere;
         -webkit-animation-duration: 4s;
