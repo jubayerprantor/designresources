@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Design Resources",
+  base: '/designresources/',
   description: "A curated collection of design resources for graphic designers, UI/UX designers, developers, and creatives.",
   lang: 'en-US',
   cleanUrls: true,
