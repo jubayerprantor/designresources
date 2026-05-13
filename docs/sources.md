@@ -11,4 +11,14 @@ This hub is built on the shoulders of generous people who shared their knowledge
 
 ---
 
+## 🤖 Curation & Ingestion Pipeline
+
+Compiling over **3,500+ design resources** across various disparate sources is a monumental task. To handle this efficiently and keep the dataset clean, structured, and searchable:
+
+* **Automated Python Scripts:** Custom Python automation was used to parse external markdown repositories, scrape crowd-sourced Google Sheets spreadsheets, and extract link metadata.
+* **AI Agent Structuring (Antigravity):** Agentic workflows cleaned, categorized, and deduplicated the raw links, converting them into uniform Markdown tables compatible with VitePress.
+* **Ongoing Community Curation:** While automated ingestion built the foundational database, all ongoing updates, fixes, and additions are reviewed and maintained by our community contributors.
+
+---
+
 > If you are the author of any resource listed here and would like it attributed differently or removed, please [open an issue](https://github.com/jubayerprantor/designresources/issues).

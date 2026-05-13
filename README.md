@@ -57,11 +57,18 @@ This is a community-driven database! If you want to add high-quality links, upda
 
 ---
 
-## ❤️ Credits & Design Collaboration
+## ❤️ Credits & Methodology
 
 This database is built for the community. The visual composition and interactive elements are powered by:
 * **Canva** — Visual UI planning and floating 3D glassmorphism graphics design.
 * **Antigravity (by Google DeepMind)** — Intelligent agentic compilation, spreadsheet ingestion pipeline, and custom layouts.
+
+### 🤖 Automated Curation Pipeline
+
+To compile and categorize over **3,500+ design resources** from external lists, crowd-sourced spreadsheets, and community submissions, we utilized automated Python ingestion scripts and AI agentic workflows. 
+* **Data Extraction & Ingestion:** Python scripts parsed large, unstructured markdown files and Google Sheets datasets.
+* **Categorization & Cleaning:** Links were automatically sorted, deduplicated, and formatted into clean Markdown tables for VitePress.
+* **Hybrid Maintenance:** This automated foundation allows our community contributors to focus on quality curation rather than formatting syntax.
 
 ### Our Contributors
 
