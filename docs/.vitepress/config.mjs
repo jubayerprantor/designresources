@@ -6,16 +6,8 @@ export default defineConfig({
   description: "A curated collection of design resources for graphic designers, UI/UX designers, developers, and creatives.",
   lang: 'en-US',
   cleanUrls: true,
-  head: [
-    ['meta', { property: 'og:image', content: '/logo.png' }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Design Resources' }],
-    ['meta', { property: 'og:description', content: '3,500+ hand-picked tools, assets, and references for designers and developers.' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:image', content: '/logo.png' }]
-  ],
+  appearance: 'dark',
   themeConfig: {
-    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'GitHub', link: 'https://github.com/jubayerprantor/designresources' },
