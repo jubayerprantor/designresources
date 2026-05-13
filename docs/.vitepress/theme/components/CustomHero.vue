@@ -34,7 +34,7 @@
 // No logic needed, purely visual CSS animation composition
 </script>
 
-<style scoped>
+<style>
 /* ============================================================
    CANVA-DESIGNED 3D GLASSMORPHIC HERO COMPOSITION (2D BACKED)
    ============================================================ */
