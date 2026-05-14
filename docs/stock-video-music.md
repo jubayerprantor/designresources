@@ -14,7 +14,6 @@
 | :--- | :--- |
 | [19 Free Film Grain Overlays](https://motionarray.com/learn/video-effects/free-film-grain/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | Game Dev Academy / Jesus FC14 / - Youtube |
-| [Bendito Mockup](https://benditomockup.com/category/all-mockups/video/) | / Motion Array / 2 / 3 / 4 / 5 / 6 |
 | [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato / 2 / Iphone / 4 |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
 | [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_493534&utm_medium=affiliate&utm_source=impact_radius) | Collage Constructor |

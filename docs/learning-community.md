@@ -12,20 +12,17 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Adobe](https://www.adobe.com/learn/indesign) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Art Station](https://www.artstation.com/learning) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CG Courses](https://t.me/cgcoursess/3) | - Telegram with Graphic design courses |
-| [elements.envato.com](https://elements.envato.com/learn/indesign-tutorials) | Collections / 2 / 3 / 4 / 5 / 6 |
-| [GitHub - A guide for learning how to write scripts for use in Adobe Illustrator](https://github.com/rjduran/adobe-scripting) | GitHub - A guide for learning how to write scripts for use in Adobe Illustrator |
-| [Hugging Face - AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Lapa](https://www.lapa.ninja/learn/figma/) | Figma Plugins / Best Webdesigntools / / |
-| [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Motion Lab](https://www.motionlab.co.kr/TUTORIAL) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The Vault - Learning Design](https://newincreative.notion.site/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9?s=09) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Vagon](https://vagon.io/blog/best-sketchup-tutorials) | Collections of curses Easy Render / |
-| [ChatGPT](https://chatgpt.com) | Use the free ChatGPT tier to generate code explanations, design walkthroughs, and idea brainstorming. |
-| [Claude](https://claude.ai) | Anthropic's conversational AI great for in-depth learning support, writing help, and summarization. |
+| [Adobe](https://www.adobe.com/learn/indesign) | Official Adobe InDesign learning portal with project-based tutorials for layout, publishing, and print design. |
+| [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | Official Adobe Illustrator tutorials covering vector illustration, logo design, and creative workflows. |
+| [Art Station](https://www.artstation.com/learning) | ArtStation Learning offers video courses in 3D art, concept art, animation, and visual storytelling. |
+| [CG Courses](https://t.me/cgcoursess/3) | Telegram group sharing graphic design and 3D training resources, course links, and community discussion. |
+| [elements.envato.com](https://elements.envato.com/learn/indesign-tutorials) | Envato Elements learning hub with InDesign tutorials, templates, and creative asset guides. |
+| [GitHub - A guide for learning how to write scripts for use in Adobe Illustrator](https://github.com/rjduran/adobe-scripting) | GitHub repo with scripting tutorials for automating Adobe Illustrator workflows. |
+| [Lapa](https://www.lapa.ninja/learn/figma/) | Curated Figma tutorials, plugin recommendations, and UI design inspiration for product designers. |
+| [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | Web-based tool for creating mesh gradients with noise and exporting SVGs for Figma. |
+| [Motion Lab](https://www.motionlab.co.kr/TUTORIAL) | Motion design tutorials and animation resources for kinetic typography, effects, and video storytelling. |
+| [The Vault - Learning Design](https://newincreative.notion.site/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9?s=09) | Notion-based collection of design guides, templates, and inspiration for creative projects. |
+| [Vagon](https://vagon.io/blog/best-sketchup-tutorials) | Blog post recommending SketchUp tutorials and rendering tips for fast 3D scene creation. |
 | [Codecademy](https://www.codecademy.com) | Learn-by-doing platform with in-browser coding exercises. Free tier covers basics well. |
 | [Coursera](https://www.coursera.org) | University-level courses from Stanford, Yale, and Google. Certificates count toward degrees. |
 | [Coursera Graphic Design](https://www.coursera.org/courses?query=graphic%20design) | Online courses on graphic design. |
@@ -35,19 +32,13 @@
 | [edX](https://www.edx.org) | Free courses from MIT and Harvard with optional paid certificates. MicroMasters programs available. |
 | [FreeCodeCamp](https://www.freecodecamp.org) | Free full-stack curriculum with certifications. Build real projects for nonprofits. |
 | [Frontend Masters](https://frontendmasters.com) | Expert-level JavaScript and front-end courses from industry leaders like Kyle Simpson. |
-| [Gemini](https://gemini.google.com) | Google's AI chatbot that integrates with Docs, Sheets, and YouTube — useful for quick design advice and learning workflows. |
 | [General Assembly](https://generalassemb.ly) | Bootcamp-style programs with career services. Options for part-time, full-time, or self-paced. |
-| [Google AI Studio](https://aistudio.google.com) | Google's web-based IDE for prototyping with Gemini models — experiment with prompts, build AI apps, and access the API. |
 | [Google Web Fundamentals](https://developers.google.com/web) | Official guides on performance, PWAs, and Core Web Vitals from Google's developer relations team. |
-| [Hugging Face](https://huggingface.co) | The GitHub of machine learning — explore, run, and deploy thousands of AI models for free. |
 | [Interaction Design Foundation](https://www.interaction-design.org) | Affordable membership for 40+ UX courses. Used by designers at Apple and IBM for training. |
 | [Khan Academy](https://www.khanacademy.org) | Completely free education covering computing basics, JavaScript, and SQL fundamentals. |
 | [LinkedIn Learning](https://www.linkedin.com/learning) | Formerly Lynda.com. Certificates display on LinkedIn profile. Often free via public libraries. |
 | [Lynda](https://www.lynda.com) | Now LinkedIn Learning. Classic software tutorials still accessible through the redirect. |
-| [OpenAI Playground](https://platform.openai.com/playground) | Experiment with GPT models in an interactive interface for prototyping AI-powered design tools. |
-| [Perplexity AI](https://www.perplexity.ai) | A powerful research assistant that answers with real-time sources — great for finding design tutorials, color theory, UX trends, and tools. |
 | [Pluralsight](https://www.pluralsight.com) | Deep technical courses with skill assessments and learning paths for engineering teams. |
-| [Replicate](https://replicate.com) | Run open-source AI models in the cloud via API — great for integrating AI image, video, and audio into projects. |
 | [Scrimba](https://scrimba.com) | Interactive screencasts where you can pause and edit the instructor's code directly. |
 | [Skillshare](https://www.skillshare.com/) | Online classes in design, photography, and more. |
 | [The Odin Project](https://www.theodinproject.com) | Full-stack curriculum teaching Ruby or JavaScript paths with community support. 100% free. |
@@ -61,43 +52,43 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3D C](https://t.me/b3d18) | Telegram 🏴‍☠️ |
-| [3D Solar System](https://3d-solar-system-three-js.vercel.app/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Art Station](https://www.artstation.com/blogs/cglab/1p1z/what-is-matte-painting-photobashing-and-3d-kitbashing) | Photobashing Concept Art Empire / / Reddit / Cube Brush |
-| [awesomeclaude.ai](https://awesomeclaude.ai/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [B Courses f/free](https://t.me/blendercourseforfree) | Telegram 🏴‍☠️ |
-| [beta.ish.chat](https://beta.ish.chat/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [Blend3D](https://t.me/Blend3d) | Telegram Blender Community , , CG Peers |
-| [Blender Community](https://t.me/Blender_Community0) | Telegram , Blend3D , CG Peers |
-| [Blender Community](https://t.me/Blender_Community0/532) | Telegram 🏴‍☠️ |
-| [Blender Course](https://t.me/CG_Blender101) | Telegram 🏴‍☠️ |
-| [Blender list](https://www.reddit.com/r/blender/comments/1iipe0p/i_made_a_list_of_blender_assets_and_addons/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CG Peers](https://t.me/Cg_peers) | Telegram Blender Community , Blend3D , |
-| [Concept Art Empire](https://conceptartempire.com/photobashing/) | Photobashing / Art Station / Reddit / Cube Brush |
-| [Figma](https://www.figma.com/community/design-tutorials?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Github](https://github.com/ad-si/awesome-3d-printing) | Fix my print /  / 2 |
-| [github.com](https://github.com/ComposioHQ/awesome-claude-skills) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [github.com](https://github.com/BehiSecc/awesome-claude-skills) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [github.com](https://github.com/lugia19/Claude-Usage-Extension) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [help.figma.com](https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025) | Figma / / Figma Community 101 |
-| [Mega Design Community](https://t.me/MegaDesignCommunity) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [platform.claude.com](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [Portfolio Advice for New Designers](https://www.reddit.com/r/graphic_design/comments/u14sxx/portfolio_advice_for_new_designers/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Project Lighthouse](https://community.polyhaven.com/) | - Community built game assets |
-| [PSDay](https://t.me/ThePSDAY) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [r/ephemera](https://www.reddit.com/r/ephemera/) | - Reddit thread of old items/designs |
-| [Reddit](https://www.reddit.com/r/typography/comments/absdzk/chinese_fonts/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) | - Tips to find Webfonts |
-| [Reddit](https://www.reddit.com/r/gamedev/wiki/index/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Reddit](https://www.reddit.com/r/photoshop/comments/jquvm2/what_are_the_differences_between_photobashing_and/) | Photobashing Concept Art Empire / Art Station / / Cube Brush |
-| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [reddit.com](https://www.reddit.com/r/ClaudeAI/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [reddit.com](https://www.reddit.com/r/Ishchat/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [skillsmp.com](https://skillsmp.com/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [Substance Community Assets](https://substance3d.adobe.com/community-assets) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Webfont](https://www.webfont.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Behance Community](https://www.behance.net/galleries) | Showcase your work and connect with other creatives. |
+| [3D C](https://t.me/b3d18) | Telegram group for 3D artists sharing tutorials, resources, and creative feedback. |
+| [3D Solar System](https://3d-solar-system-three-js.vercel.app/) | Interactive Three.js solar system demo for learning 3D visualization and animation. |
+| [Art Station](https://www.artstation.com/blogs/cglab/1p1z/what-is-matte-painting-photobashing-and-3d-kitbashing) | Article on matte painting, photobashing, and 3D kitbashing for concept art workflows. |
+| [awesomeclaude.ai](https://awesomeclaude.ai/) | Community-curated Claude AI resources, tools, and usage examples. |
+| [B Courses f/free](https://t.me/blendercourseforfree) | Telegram channel sharing free Blender course links and learning materials. |
+| [beta.ish.chat](https://beta.ish.chat/) | Experimental chat platform and community for AI chat interface experiments. |
+| [Blend3D](https://t.me/Blend3d) | Telegram group for Blend3D users sharing 3D modeling and rendering tips. |
+| [Blender Community](https://t.me/Blender_Community0) | Telegram community for Blender artists, add-ons, and shared resources. |
+| [Blender Community](https://t.me/Blender_Community0/532) | Alternate Blender community chat link for artists and collaborators. |
+| [Blender Course](https://t.me/CG_Blender101) | Telegram discussion group for Blender courses, tutorials, and practice projects. |
+| [Blender list](https://www.reddit.com/r/blender/comments/1iipe0p/i_made_a_list_of_blender_assets_and_addons/) | Reddit compilation of Blender assets, add-ons, and community tools. |
+| [CG Peers](https://t.me/Cg_peers) | Telegram community for CG artists to share work, resources, and feedback. |
+| [Concept Art Empire](https://conceptartempire.com/photobashing/) | Guide and examples for photobashing, concept art, and digital painting techniques. |
+| [Figma](https://www.figma.com/community/design-tutorials?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Figma Community tutorials and editable design resources for UI/UX workflows. |
+| [Github](https://github.com/ad-si/awesome-3d-printing) | Curated GitHub list of 3D printing projects, tools, and community resources. |
+| [github.com](https://github.com/ComposioHQ/awesome-claude-skills) | GitHub collection of Claude AI skills, examples, and integration ideas. |
+| [github.com](https://github.com/BehiSecc/awesome-claude-skills) | Another GitHub collection of Claude AI skills, tools, and prompt engineering tips. |
+| [github.com](https://github.com/lugia19/Claude-Usage-Extension) | GitHub repo for a Claude browser extension and usage examples. |
+| [help.figma.com](https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025) | Figma beginner course overview with step-by-step learning paths. |
+| [Mega Design Community](https://t.me/MegaDesignCommunity) | Large Telegram design community for peer critique, tutorials, and resources. |
+| [platform.claude.com](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Claude developer docs for prompt engineering and building custom AI workflows. |
+| [Portfolio Advice for New Designers](https://www.reddit.com/r/graphic_design/comments/u14sxx/portfolio_advice_for_new_designers/) | Reddit thread with portfolio tips and advice for early-career designers. |
+| [Project Lighthouse](https://community.polyhaven.com/) | Poly Haven community forum for artists sharing game assets, textures, and feedback. |
+| [PSDay](https://t.me/ThePSDAY) | Telegram community focused on Photoshop tips, tutorials, and daily design inspiration. |
+| [r/ephemera](https://www.reddit.com/r/ephemera/) | Reddit community for vintage design, typography, and nostalgic artwork. |
+| [Reddit](https://www.reddit.com/r/typography/comments/absdzk/chinese_fonts/) | Typography discussion on Chinese fonts, type design, and sourcing references. |
+| [Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) | Subreddit for identifying fonts and finding webfont alternatives. |
+| [Reddit](https://www.reddit.com/r/gamedev/wiki/index/) | Game development wiki with tools, tutorials, and learning resources. |
+| [Reddit](https://www.reddit.com/r/photoshop/comments/jquvm2/what_are_the_differences_between_photobashing_and/) | Discussion comparing photobashing and concept art techniques in Photoshop. |
+| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | Reddit post showcasing an interactive 3D solar system project built with Three.js. |
+| [reddit.com](https://www.reddit.com/r/ClaudeAI/) | Reddit community discussing Anthropic Claude AI usage, plugins, and news. |
+| [reddit.com](https://www.reddit.com/r/Ishchat/) | Reddit forum for Ishchat users and AI chat interface discussion. |
+| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | Photoshop thread on creating imperfect edges and organic texture effects. |
+| [skillsmp.com](https://skillsmp.com/) | SkillsMP learning platform with developer and design lesson content. |
+| [Substance Community Assets](https://substance3d.adobe.com/community-assets) | Adobe Substance 3D community asset library for materials, textures, and HDRI resources. |
+| [Webfont](https://www.webfont.com/) | Browser-based font preview platform for testing webfonts and typography. |
+| [Behance Community](https://www.behance.net/galleries) | Showcase platform for creative portfolios, galleries, and designer networking. |
 | [Designer Hangout (Slack)](https://www.designerhangout.co/) | Exclusive Slack community for designers to network and collaborate. |
 | [Dribbble Community](https://dribbble.com/community) | Community of designers sharing their work and getting feedback. |
 | [Graphic Design Forum](https://www.graphicdesignforum.com/) | Community for graphic designers to discuss design techniques, software, and career advice. |
@@ -107,7 +98,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Graphic Design Salary transparency spreadsheet](https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit?gid=257041397#gid=257041397) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Graphic Design Salary transparency spreadsheet](https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit?gid=257041397#gid=257041397) | Public salary spreadsheet compiling transparent compensation data for graphic designers and creative roles. |
 | [99designs](https://99designs.com) | Run design contests where multiple designers submit work, then pick your favorite. Popular for logos, branding, and web design. |
 | [99Designs Studio](https://studio.99designs.com) | Work directly with hand-picked designers on custom projects, an alternative to the contest model. |
 | [AngelList](https://angel.co/jobs) | Startup job platform with equity-based compensation options and direct founder connections. |
@@ -172,7 +163,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Sketchup plugins and extensions](https://mastersketchup.com/resources/#anc_extensions) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Sketchup plugins and extensions](https://mastersketchup.com/resources/#anc_extensions) | MasterSketchUp resource library listing useful SketchUp plugins, extensions, and workflow tools. |
 | [Angular Developer Tool](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools allows you to understand the structure of your application and preview the state of the directive and the component instances. |
 | [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Full page screen capture and screen recorder - 2 in 1. Share screencast video instantly |
 | [Awesome Screenshot & Screen Recorder](https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/) | Capture and annotate screenshots |
@@ -229,7 +220,7 @@
 | [Web Editor](https://chrome.google.com/webstore/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm) | The web editor is the tool that provides you with an enhanced way to inspect any website elements, alter their properties, insert contents, design, and visualize the way you want to see them. |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | The easiest way to identify fonts on web pages. |
 | [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/) | Identify fonts on web pages |
-| [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts - you name it. |
+| [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Discover what runs a website. Frameworks, analytics tools, WordPress plugins, fonts - you name it. |
 | [WhatRuns](https://addons.mozilla.org/en-US/firefox/addon/whatruns/) | Discover technologies used on websites |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Resize the browser window to emulate various screen resolutions. |
 | [Window Resizer](https://addons.mozilla.org/en-US/firefox/addon/window-resizer-webextension/) | Resize browser window to predefined dimensions |
@@ -238,15 +229,15 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [affinity.serif.com](https://affinity.serif.com/en-us/learn/) | How to Load Photoshop Brushes into Affinity Photo and Designer , - Tutorials |
-| [All3DP Pro](https://all3dp.com/pro/) | Website full of projects and tutorials |
-| [Classic Architect](https://www.instagram.com/classic_architect/?hl=en) | Animation tutorials of famous structure engeneering |
-| [design.tutsplus.com](https://design.tutsplus.com/tutorials/how-do-i-open-and-edit-a-template-in-indesign--cms-32251) | Indesign template tutorials / 2 / 3 |
-| [Edwin George Lutz -](https://openlibrary.org/authors/OL403381A/Edwin_George_Lutz) | Drawing and animation tutorials from 1920 - Books |
-| [helpx.adobe.com](https://helpx.adobe.com/indesign/using/files-templates.html) | Indesign template tutorials 1 / / 3 |
-| [Namu](https://namu.wiki/w/Blender#s-8) | - Blender resources, Tutorials and Add-Ons |
-| [Printing Projects](https://all3dp.com/projects/3d-printing-projects/) | Website full of projects and tutorials |
-| [rubenstomdesign.com](https://rubenstomdesign.com/blogs/news/mastering-indesign-templates-everything-you-need-to-know-to-start-designing) | Indesign template tutorials 1 / 2 / |
-| [storyblocks.com](https://www.storyblocks.com/resources/tutorials/create-video-mockup-designs) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [youtube.com](https://www.youtube.com/results?search_query=Blueprint+Effect+in+Adobe+Photoshop) | Tutorials Blueprint Effect Photoshop / / Blueprint in Blender |
+| [affinity.serif.com](https://affinity.serif.com/en-us/learn/) | Official Affinity learning center with tutorials for Photo, Designer, and Publisher. |
+| [All3DP Pro](https://all3dp.com/pro/) | Premium 3D printing and manufacturing tutorials with practical project guides. |
+| [Classic Architect](https://www.instagram.com/classic_architect/?hl=en) | Instagram page with architecture and animation tutorial highlights. |
+| [design.tutsplus.com](https://design.tutsplus.com/tutorials/how-do-i-open-and-edit-a-template-in-indesign--cms-32251) | Tuts+ tutorial on opening and editing InDesign templates. |
+| [Edwin George Lutz -](https://openlibrary.org/authors/OL403381A/Edwin_George_Lutz) | Open Library author page for classic drawing and animation books. |
+| [helpx.adobe.com](https://helpx.adobe.com/indesign/using/files-templates.html) | Adobe guide to using InDesign templates and managing document files. |
+| [Namu](https://namu.wiki/w/Blender#s-8) | Korean Blender wiki with resources, tutorials, and add-on recommendations. |
+| [Printing Projects](https://all3dp.com/projects/3d-printing-projects/) | Project-based tutorials for 3D printing design, modeling, and fabrication. |
+| [rubenstomdesign.com](https://rubenstomdesign.com/blogs/news/mastering-indesign-templates-everything-you-need-to-know-to-start-designing) | Blog post with practical guidance for mastering InDesign templates. |
+| [storyblocks.com](https://www.storyblocks.com/resources/tutorials/create-video-mockup-designs) | Tutorial for creating video mockups using Storyblocks footage and templates. |
+| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | Interactive UX/UI tutorials covering design fundamentals, typography, and workflow. |
+| [youtube.com](https://www.youtube.com/results?search_query=Blueprint+Effect+in+Adobe+Photoshop) | YouTube search for Photoshop blueprint effect tutorials and design workflow videos. |

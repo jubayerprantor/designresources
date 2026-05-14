@@ -11,7 +11,6 @@
 | [Adobe Color](https://color.adobe.com/create/color-wheel) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Adobe Color Stock](https://color.adobe.com/explore) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [AI Palette](https://aipalette.online/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Astra Vision](https://astra-vision.github.io/MaterialPalette/) | - Extract Textures from image |
 | [Blackout FX](https://www.blackout-fx.com/) | / Cinecolors / Creatopia |
 | [Camilla Falsini](https://www.behance.net/camillafalsini) | Geometric, bold colors |
 | [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
