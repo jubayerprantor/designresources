@@ -48,7 +48,6 @@
 | [Arroway Textures](https://www.arroway-textures.ch/) | Premium texture marketplace specializing in high-quality wood textures captured from physical materials for 3D rendering. |
 | [Art Station](https://www.artstation.com/marketplace/game-dev/brushes?section=trending&softwares=clip-studio-paint) | ArtStation marketplace section for Clip Studio Paint brushes, trending commercial brush sets for digital artists. |
 | [Art Station](https://www.artstation.com/marketplace/game-dev?section=trending&softwares=zbrush) | ArtStation marketplace for ZBrush game development tools and resources, trending section. |
-| [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | ArtStation marketplace for ZBrush tutorials and learning resources for game development artists. |
 | [Artfreesliv](https://t.me/artfreesliv) | Telegram channel sharing Adobe Photoshop brushes and free design resources for digital artists. |
 | [Artifex Forge](https://artifexforge.com/product-category/affinity-designer-tools/brushes-affinity-designer/) | Online store offering Affinity Designer brush tools and design resources from multiple marketplace brands. |
 | [Artstation](https://www.artstation.com/marketplace/p/GbwDP/4k-animated-grayscale-texture-loops) | ArtStation marketplace listing for 4K animated grayscale texture loops for 3D and motion graphics projects. |

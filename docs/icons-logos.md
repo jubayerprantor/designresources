@@ -19,9 +19,7 @@
 | [Animated Icons](https://animatedicons.co/) | 4,000+ free high-quality animated icons available as Lottie, SVG & PNG. Customizable colors. |
 | [Basicons](https://basicons.xyz/) | Basic yet versatile SVG icon set for UI design. |
 | [Behance](https://www.behance.net/search/projects/?sort=appreciations&time=week&search=free%20icons) | Curated search results for free icon projects on Behance. |
-| [Beneito Faure](https://beneito-faure.com/catalogos/) | Spanish lighting design brand catalog. |
 | [Bioicons](https://bioicons.com/) | Health Medical icons |
-| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | Internet Archive catalog of embossed relief tile designs from 1925. |
 | [Circum Icons](https://circumicons.com/icons) | 1,600+ consistent open source SVG icons with multiple formats. |
 | [CoolIcons](https://coolicons.cool/) | 1,320+ carefully designed line, duotone, and duocolor icons with customizable stroke. |
 | [Coreui](https://coreui.io/icons/) | Free SVG, JavaScript & Webfont icons with components for Angular, React, and Vue.js. |
@@ -46,23 +44,17 @@
 | [Hola SVG Icons](https://icons.holasvg.com/) | Free open source SVG icons with customizable stroke, fill, and color. |
 | [Hugeicons](https://hugeicons.com/) | 51,000+ free & pro icons for designers and developers in multiple styles. |
 | [Humbleicons](https://humbleicons.com/) | 284 simple, neutral, carefully crafted free SVG icons. |
-| [Icon Build](https://iconbuild.com/?_gl=1*1iqfk2z) | 3D printing construction technology building homes (not an icon resource). |
 | [Icon Finder](https://www.iconfinder.com/designers) | The Noun Project / My Crate / Yellow Images / / YWFT |
 | [Icon Maker](https://ray.so/icon) | Icon online Tools Pro Icons / |
 | [Icon Park](https://iconpark.oceanengine.com/illustrations) | ByteDance's illustration library with multiple customization options. |
 | [Icon Park](https://iconpark.oceanengine.com/official) | ByteDance's official icon library with themeable SVG icons. |
 | [Icon Scout](https://iconscout.com/3d-illustrations) | 335K+ 3D illustrations in PNG, BLEND, FBX, and glTF formats. |
 | [Iconbuddy](https://iconbuddy.com/) | 300K+ open-source SVG icons from 200+ libraries in one search engine. |
-| [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | Free 3D illustrations search on Iconfinder. |
 | [Iconic](https://iconic.app/battery-full/) | 1,507 pixel-perfect free icons with 24x24 bounding box and 1.5px stroke. |
-| [Iconic Offices](https://www.iconicoffices.com/) | Dublin-based co-working space and private office provider (not icon-related). |
-| [Iconic World](https://www.iconic-world.com/directory) | Design award brand directory platform. |
 | [Iconify Icon Sets](https://icon-sets.iconify.design/) | Home of open source icons — browse thousands of icon sets by category. |
 | [Iconizer](https://www.iconizer.io/) | 6,400+ customizable icons for UI/UX design with Figma integration. |
 | [Icons 8](https://icons8.com/illustrations/styles/free-1) | Free illustration styles and vector art collections from Icons8. |
 | [Icons 8](https://icons8.com/liquid-glass) | 3,000+ Liquid Glass style icons inspired by Apple's iOS aesthetic. |
-| [Icons 8](https://icons8.com/l/3d-textures/) | Free seamless PBR textures for 3D and CG artists. |
-| [Icons 8](https://icons8.com/music/) | Free royalty-free music platform for videos and projects. |
 | [Icons SVG](https://iconsvg.xyz/) | Quick customizable SVG icons for your project. |
 | [icons.download](https://icons.download/) | 275 free vector icons in 16 styles by Vitaly Belousov. |
 | [Icons8](https://icons8.com/icons/group-3d) | 131 icon style packs including 3D Fluency, Liquid Glass, and more. |

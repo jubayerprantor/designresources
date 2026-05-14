@@ -36,7 +36,6 @@
 | [FrameDesign](http://framedesign.letsconstruct.nl/) | Design frame and mockup showcase website |
 | [Framenet](https://www.framenet.ai/) | AI motion graphics mockup generator for animated design previews |
 | [Framer Marketplace](https://www.framer.com/templates/categories/portfolio/) | Framer portfolio website templates marketplace |
-| [Framery](https://framery.com/en/) | 3D phone booth design and brand experience showcase |
 | [Free Design Resources](https://freedesignresources.net/category/free-mockups/) | 300+ free PSD mockups for designers |
 | [Free Mockup](https://freemockup.net/) | 5,000+ free Photoshop mockup downloads |
 | [Free Mockup Generator](https://www.pixeltrue.com/mockup-generator) | Free and simple device mockup generator |
@@ -45,7 +44,6 @@
 | [Good Mockups](https://goodmockups.com/) | 7,300+ free high-quality PSD mockup files |
 | [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter / |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
-| [Hannah Luen](https://hannahluen.com/collections/big-canvas-without-frame) | Large canvas art prints without frames |
 | [Hazard Mockups](https://www.hazardmockups.com/freebies) | Free urban signage and poster mockups |
 | [Hazard Mockups](https://www.hazardmockups.com/category/video-mockups) | Video mockups and motion design templates |
 | [House of Mockups](https://houseofmockups.com/collections/freebies?srsltid=AfmBOorioT5Pv4wsr6TE1uIl0rDMLqvcyxny0THUnLKVR_ckOTIosn-T) | Free beauty, packaging, and branding mockups |

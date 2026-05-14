@@ -15,12 +15,12 @@
 | [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/) | Curated collection of 70+ Photoshop brush packs for digital painting, concept art, and illustration |
 | [Anatomical Illustrations](https://www.flickr.com/photos/133115863@N08/albums/72157654232226445/with/18406466060) | Vintage science illustrations | 
 | [Architecture illustrations](https://drive.google.com/drive/mobile/folders/16PYOSsYN6z7g6Xu80Yu67QI5SlzvnJII?usp=sharing) | Google Drive collection of architecture reference illustrations and drawings |
-| [Bendigo Gastronomy Illustrations](https://natalieryan.com.au/bendigo-gastronomy-illustrations) | Watercolor vegetables and plants |
+| [Bendigo Gastronomy Illustrations](https://natalieryan.com.au/bendigo-gastronomy-illustrations) | Illustrated textile and food-inspired designs from Natalie Ryan |
 | [Biodiversity](https://www.flickr.com/photos/biodivlibrary/albums/) | Biology illustrations from the 19th and 20th centuries — 300,000 images |
 | [Eunho Lee](https://www.instagram.com/en_ho/) | Soft gradient illustrations |
-| [Flowers](https://c82.net/redoute/) | 19th-century illustrations |
+| [Flowers](https://c82.net/redoute/) | Botanical illustrations of lilies and roses by Pierre-Joseph Redouté |
 | [Free illustrations](https://freeillustrations.xyz/) | Curated directory of free vector illustrations in PNG, SVG, AI, and Figma formats |
-| [Get illustrations packs](https://www.getillustrations.com/illustration-packs) | Premium marketplace for 400+ SVG illustration packs and icon sets with Figma plugin |
+| [Get illustrations packs](https://www.getillustrations.com/illustration-packs) | Premium vector illustration marketplace with hundreds of packs, icons, and custom design services |
 | [Gumroad](https://gumroad.com/drawing-and-painting/digital-illustration/illustration-textures-and-patterns?sort=featured) | You can find more free illustrations, brushes, hi-res images, and textures filtered by price. |
 | [Hummingbirds](https://c82.net/hummingbirds/illustrations) | 19th-century illustrations |
 | [Illustrations Archives](https://freeuiresources.com/graphics/illustrations/) | Handpicked collection of free illustration design resources for various projects |
@@ -30,11 +30,10 @@
 | [Nice Illustrations](https://niceillustrations.com/free-illustrations/) | Free vector illustrations in multiple styles (Mint, Poppy, Cartoon) for commercial use |
 | [Old Book Art](https://www.oldbookart.com/galleries/) | Old book illustrations |
 | [Old Book Illustrations](https://www.oldbookillustrations.com/) | Archive of high-resolution scanned vintage book illustrations from the 18th-20th centuries |
-| [Patricia M Fl.](https://www.flickr.com/photos/taffeta/albums/with/72157718768027388) | Curation of early 20th-century European illustrations |
+| [Patricia M Fl.](https://www.flickr.com/photos/taffeta/albums/with/72157718768027388) | Flickr album of vintage and historical illustrations |
 | [Recraft](https://app.recraft.ai/) | AI-powered design tool for creating and editing vector illustrations |
 | [Rive Editor](https://rive.app/editor) | App to animate illustrations |
 | [Saas UI Illustrations](https://illustrations.saas-ui.dev/#App-Shell) | Free library of 220+ SVG illustrations for design systems, docs, and frameworks |
-| [Simone](https://simonenoronha.com/Hatch-Sleep-Babies-Kids-Audio-Library) | Portfolio and audio library page by Simone Noronha |
 | [Sketching](https://www.youtube.com/@ArtwithFlo) | YouTube channel with digital art, Procreate, and sketching tutorials |
 | [Vintage Science Illustrations](https://scienceisstrange.tumblr.com/) | Anatomical illustrations |
 | [いらすとや](https://www.irasutoya.com/) | Popular Japanese free illustration archive with cute PNGs and clip art across many categories |
@@ -64,7 +63,7 @@
 | [Drawkit.io](https://www.drawkit.io/) | Illustrations for designers and startups |
 | [Exemplar](https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/) | Free Avatar Library for Figma and Sketch |
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
-| [Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
+| [Flexiple](https://2.flexiple.com/scale/all-illustrations) | Flexiple homepage redirect; design marketplace with illustration and developer services |
 | [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated. |
 | [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns |
 | [HOLA SVG!](https://holasvg.com/) | An SVG playground to share SVG stuff. |
