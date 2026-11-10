@@ -82,3 +82,4 @@ body:
           required: true
         - label: This resource is not paid-only and does not distribute copyrighted/warez material.
           required: true
+

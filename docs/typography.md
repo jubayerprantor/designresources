@@ -244,6 +244,8 @@
 
 ## Bangla Fonts
 
+<BanglaFontShowcase />
+
 | Resource | Description |
 | :--- | :--- |
 | [Fontbd](https://fontbd.com/free-fonts/) | Provides access to 192 free Bangla fonts, perfect for designers looking to enhance their Bangla typography. |

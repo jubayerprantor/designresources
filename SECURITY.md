@@ -24,3 +24,4 @@ Instead, please report it privately:
 2. Or open a confidential issue directly with the organization administrators at [GiveBack2People](https://github.com/GiveBack2People).
 
 We will investigate immediately, remove any offending link, and update dependencies promptly.
+

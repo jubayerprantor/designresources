@@ -15,3 +15,4 @@ Please make sure your contribution meets our community standards:
 - [ ] **Proper Category:** Placed in the correct category file under `docs/` in alphabetical order.
 - [ ] **No Piracy / Warez:** This link does not distribute pirated, cracked, or illicit materials.
 - [ ] **Clean Formatting:** Follows the table format: `| [Name](https://url) | Description |`.
+
