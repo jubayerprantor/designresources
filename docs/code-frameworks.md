@@ -256,7 +256,7 @@
 | [Material Design For Bootstrap](https://mdbootstrap.com/) | Open source toolkit for building material design with Bootstrap |
 | [Medialoot CSS Components](https://medialoot.com/free-themes/css-components/) | Calendars, price grids and other UI components |
 | [Meraki UI Components](https://merakiui.com/) | Beautiful Tailwindcss components that support RTL languages & fully responsive based on Flexbox & CSS Grid. |
-| [movin.design](https://movin.design/) | Over a thousand animated UI components in React + Tailwind or plain HTML/CSS/JS, plus animated icons, WebGL shaders and easing and slideshow tools |
+| [Movin](https://movin.design/) | Over a thousand animated UI components in React + Tailwind or plain HTML/CSS/JS, plus animated icons, WebGL shaders and easing and slideshow tools |
 | [Moving Letters](https://tobiasahlin.com/moving-letters/) | Animated Text with JavaScript and anime.js |
 | [Mui Treasury](https://mui-treasury.com) | An open-source project that provides a collection of ready-to-use components based on Material-UI. |
 | [Next UI](https://nextui.org) | Beautiful, fast, and modern React UI library with first-class support for dark mode and themes. |
