@@ -1,0 +1,57 @@
+name: 🔗 Report a Broken or Dead Link
+description: Notify maintainers about a 404, expired domain, or unreachable resource.
+title: "Broken Link: [Resource Name or Domain]"
+labels: ["bug", "dead-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us keep the **Design Resources Hub** healthy! Let us know which link is no longer functioning.
+
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      placeholder: "e.g., Unsplash Free Brushes"
+    validations:
+      required: true
+
+  - type: input
+    id: broken-url
+    attributes:
+      label: Broken URL
+      placeholder: "https://example.com/dead-link"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: document-page
+    attributes:
+      label: Page Found On
+      description: Which documentation page contains this link?
+      options:
+        - "docs/design-inspiration.md"
+        - "docs/stock-photos.md"
+        - "docs/stock-video-music.md"
+        - "docs/vectors-illustrations.md"
+        - "docs/icons-logos.md"
+        - "docs/3d-architecture.md"
+        - "docs/typography.md"
+        - "docs/colors-gradients.md"
+        - "docs/mockups.md"
+        - "docs/design-addons.md"
+        - "docs/design-tools-ai.md"
+        - "docs/code-frameworks.md"
+        - "docs/learning-community.md"
+        - "Other / Homepage"
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue-details
+    attributes:
+      label: Details
+      description: What error did you encounter (404 Not Found, SSL Error, Parked Domain, Paywall)?
+      placeholder: "Returns a 404 error code or redirects to a parked domain."
+    validations:
+      required: false

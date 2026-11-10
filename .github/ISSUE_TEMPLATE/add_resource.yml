@@ -1,0 +1,84 @@
+name: 💡 Suggest a New Design Resource
+description: Recommend a high-quality free or open-source tool, asset, or reference.
+title: "Resource: [Resource Name]"
+labels: ["enhancement", "resource-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping grow the **Design Resources Hub** under **GiveBack2People**!
+        Please ensure the resource offers a meaningful free tier or is open source (paid-only resources are declined).
+
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: The official name of the tool, platform, or asset library.
+      placeholder: "e.g., Coolors, Lucide Icons, Poly Haven"
+    validations:
+      required: true
+
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: Direct HTTPS link to the resource.
+      placeholder: "https://example.com"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary Category
+      description: Which category does this resource belong to?
+      options:
+        - "Design Inspiration (docs/design-inspiration.md)"
+        - "Stock Photos (docs/stock-photos.md)"
+        - "Stock Video & Music (docs/stock-video-music.md)"
+        - "Vectors & Illustrations (docs/vectors-illustrations.md)"
+        - "Icons, Logos & Animations (docs/icons-logos.md)"
+        - "3D, Architecture & Motion (docs/3d-architecture.md)"
+        - "Typography & Fonts (docs/typography.md)"
+        - "Colors & Gradients (docs/colors-gradients.md)"
+        - "Mockups & Frames (docs/mockups.md)"
+        - "Design Add-ons (docs/design-addons.md)"
+        - "Design Tools & AI (docs/design-tools-ai.md)"
+        - "Code & Frameworks (docs/code-frameworks.md)"
+        - "Learning & Community (docs/learning-community.md)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing Model
+      description: What is the availability of the resource?
+      options:
+        - "100% Free / Public Domain"
+        - "Open Source"
+        - "Freemium (Generous Free Tier)"
+        - "Free for Personal Use"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Brief Description
+      description: A concise, neutral summary of what the resource provides (1–2 sentences).
+      placeholder: "e.g., A library of over 1,000 consistent, beautiful vector icons for web and mobile."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I verified that the URL works and uses HTTPS.
+          required: true
+        - label: I searched existing docs to ensure this is not a duplicate.
+          required: true
+        - label: This resource is not paid-only and does not distribute copyrighted/warez material.
+          required: true
