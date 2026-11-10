@@ -4,7 +4,7 @@
 
 Explore a curated collection of **3,500+ hand-picked design tools, assets, references, and frameworks** for graphic designers, UI/UX designers, developers, and creatives.
 
-🚀 **[Browse the Gorgeous Live Website](https://giveback2people.github.io/designresources/)**
+🚀 **[Browse the Gorgeous Live Website](https://designresources.eu.cc/)**
 
 ---
 
@@ -12,19 +12,19 @@ Explore a curated collection of **3,500+ hand-picked design tools, assets, refer
 
 We have transitioned from simple markdown lists to a high-speed, search-driven, production-grade **VitePress web app**! You can search or navigate across 13 major design categories:
 
-1. 💡 **[Design Inspiration](https://giveback2people.github.io/designresources/design-inspiration)** — Curated galleries, portfolios, award-winning sites, and graphic design blogs.
-2. 📷 **[Stock Photos](https://giveback2people.github.io/designresources/stock-photos)** — Royalty-free high-res photography and AI image generators.
-3. 🎵 **[Stock Video & Music](https://giveback2people.github.io/designresources/stock-video-music)** — Free footage, overlay packs, and royalty-free soundtracks.
-4. 🖼️ **[Vectors & Illustrations](https://giveback2people.github.io/designresources/vectors-illustrations)** — Open-source SVG vectors, clipart, and pattern generators.
-5. 🎨 **[Icons, Logos & Animations](https://giveback2people.github.io/designresources/icons-logos)** — Icon libraries, brand logo databases, and Lottie animations.
-6. 📐 **[3D, Architecture & Motion](https://giveback2people.github.io/designresources/3d-architecture)** — 3D assets, OBJ/STL files, HDRI maps, interior architecture, and VFX assets.
-7. 🔤 **[Typography & Fonts](https://giveback2people.github.io/designresources/typography)** — Free English & Bangla typefaces, Google Fonts, and pairing resources.
-8. 🌈 **[Colors & Gradients](https://giveback2people.github.io/designresources/colors-gradients)** — Palette builders, gradient generators, contrast checkers, and brand hex palettes.
-9. 📱 **[Mockups & Frames](https://giveback2people.github.io/designresources/mockups)** — Device mockups, packaging outlines, and screenshot styling tools.
-10. 🖌️ **[Design Add-ons](https://giveback2people.github.io/designresources/design-addons)** — Photoshop brushes, Procreate assets, and texture packs.
-11. 🛠️ **[Design Tools & AI](https://giveback2people.github.io/designresources/design-tools-ai)** — Vector editors, layout software, and generative AI systems.
-12. 💻 **[Code & Frameworks](https://giveback2people.github.io/designresources/code-frameworks)** — UI libraries, CSS frameworks, JS plugins, and components for developers.
-13. 📚 **[Learning & Community](https://giveback2people.github.io/designresources/learning-community)** — Tutorials, forums, and design communities.
+1. 💡 **[Design Inspiration](https://designresources.eu.cc/design-inspiration)** — Curated galleries, portfolios, award-winning sites, and graphic design blogs.
+2. 📷 **[Stock Photos](https://designresources.eu.cc/stock-photos)** — Royalty-free high-res photography and AI image generators.
+3. 🎵 **[Stock Video & Music](https://designresources.eu.cc/stock-video-music)** — Free footage, overlay packs, and royalty-free soundtracks.
+4. 🖼️ **[Vectors & Illustrations](https://designresources.eu.cc/vectors-illustrations)** — Open-source SVG vectors, clipart, and pattern generators.
+5. 🎨 **[Icons, Logos & Animations](https://designresources.eu.cc/icons-logos)** — Icon libraries, brand logo databases, and Lottie animations.
+6. 📐 **[3D, Architecture & Motion](https://designresources.eu.cc/3d-architecture)** — 3D assets, OBJ/STL files, HDRI maps, interior architecture, and VFX assets.
+7. 🔤 **[Typography & Fonts](https://designresources.eu.cc/typography)** — Free English & Bangla typefaces, Google Fonts, and pairing resources.
+8. 🌈 **[Colors & Gradients](https://designresources.eu.cc/colors-gradients)** — Palette builders, gradient generators, contrast checkers, and brand hex palettes.
+9. 📱 **[Mockups & Frames](https://designresources.eu.cc/mockups)** — Device mockups, packaging outlines, and screenshot styling tools.
+10. 🖌️ **[Design Add-ons](https://designresources.eu.cc/design-addons)** — Photoshop brushes, Procreate assets, and texture packs.
+11. 🛠️ **[Design Tools & AI](https://designresources.eu.cc/design-tools-ai)** — Vector editors, layout software, and generative AI systems.
+12. 💻 **[Code & Frameworks](https://designresources.eu.cc/code-frameworks)** — UI libraries, CSS frameworks, JS plugins, and components for developers.
+13. 📚 **[Learning & Community](https://designresources.eu.cc/learning-community)** — Tutorials, forums, and design communities.
 
 ---
 
