@@ -23,7 +23,6 @@
 | [Gumroad](https://gumroad.com/drawing-and-painting/digital-illustration/illustration-textures-and-patterns?sort=featured) | You can find more free illustrations, brushes, hi-res images, and textures filtered by price. |
 | [Hummingbirds](https://c82.net/hummingbirds/illustrations) | 19th-century illustrations |
 | [Illustrations Archives](https://freeuiresources.com/graphics/illustrations/) | Handpicked collection of free illustration design resources for various projects |
-| [Illustrations of London's Great Exhibition of 1851](https://archive.org/details/Dickinsonscompr1/page/n113/mode/2up) | Historic 19th-century illustrations from Dickinson's comprehensive pictures of the Great Exhibition |
 | [Lummi](https://www.lummi.ai/illustration) | Free-to-use AI-generated illustrations |
 | [Minerals](https://c82.net/mineralogy/) | 19th-century illustrations |
 | [Nice Illustrations](https://niceillustrations.com/free-illustrations/) | Free vector illustrations in multiple styles (Mint, Poppy, Cartoon) for commercial use |
@@ -160,15 +159,11 @@
 | [3 Gradients / 3 Shapes – Bolderaja](https://bolderaja1.com/products/gradient-color-grainy-textures-2/) | Premium gradient color grainy texture packs for design projects |
 | [AI Textured](https://aitextured.com/textures/) | Free AI seamless patterns |
 | [CGI Backgrounds](https://www.cgibackgrounds.com/search?term=&page=1&type=visual-hdri-search) | Image search HDRI - Not Free |
-| [History and development of Toile de Jouy wallpapers](https://archive.org/details/w.-h.-s.-lloyd-co-inc-1928/page/n25/mode/2up) | Digitized archive book on the history and development of Toile de Jouy wallpaper patterns |
-| [L'Ornement polychrome full](https://archive.org/details/AL180/page/n243/mode/2up) | 1870 ornamental pattern book featuring Asian and Persian designs |
 | [Milsks](https://miksks.com/collections/textures) | Texture and overlay shop with premium background resources |
 | [Motion Elements](https://www.motionelements.com/search/image?s=texture&sort=match) | Stock marketplace for texture and background graphics |
 | [Neat](https://neat.firecms.co/) | Free open-source animated 3D gradient generator for website backgrounds (WebGL) |
-| [Nouvelle Fantasies decoratives - E. Gillet (1922)](https://archive.org/details/vietasdecorativa00umbd/page/n35/mode/2up) | Book of Art Nouveau decorative patterns |
 | [S Backgrounds](https://www.samolevsky.com/collections/backgrounds) | Premium background and pattern collections from Samolevsky |
 | [Samolevsky](https://www.samolevsky.com/collections/textures) | Premium texture and overlay collections from Samolevsky |
-| [Types of Colonial Wallpapers](https://archive.org/details/m.-h.-birge-sons-company-1940/page/n67/mode/2up) | Digitized archive catalog of colonial wallpaper types and patterns from 1940 |
 | [DinPattern](https://www.dinpattern.com) | Free seamless pattern designs for download. |
 | [Geopattern](https://github.com/btmills/geopattern) | Create beautiful, customizable geometric patterns automatically. |
 | [Haikei](https://haikei.app) | Generate unique SVG shapes, backgrounds, and patterns with customizable generators for blobs, waves, and more. |

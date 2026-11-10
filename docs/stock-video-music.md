@@ -82,7 +82,6 @@
 | [Audionautix](https://audionautix.com) | Free production music for creative projects by Jason Shaw. |
 | [Bensound](https://www.bensound.com/) | Download Royalty Free Music for free and use it in your project |
 | [Epidemic Sound](https://www.epidemicsound.com) | A subscription-based service offering a vast library of royalty-free music and sound effects. |
-| [Free Music Archive](https://freemusicarchive.org/) | Curated library of free music downloads from independent artists. |
 | [Free Stock Music](https://www.free-stock-music.com/) | Royalty free stock music for YouTube videos, podcasts, etc |
 | [Freesound](https://freesound.org/) | Free stock music and sounds |
 | [HookSounds](https://www.hooksounds.com) | Exclusive royalty-free music for use in videos, podcasts, and other media projects. |

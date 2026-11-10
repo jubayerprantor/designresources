@@ -65,7 +65,6 @@
 | [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | Extended preview of Material Design Icons from the MDI sandbox. |
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
 | [Mono Icons](https://icons.mono.company/) | Simple monochrome SVG icon set for UI design. |
-| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | Historical digitized 1925 catalog of ornamental relief tiles and decorative architectural borders. |
 | [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | Millions of icons, illustrations, 3D, or stickers for your design projects. Created by independent designers. |
 | [Iconic World](https://www.iconic-world.com/directory) | Directory and archive celebrating iconic architecture, product silhouettes, and interior design. |
 | [Icons 8](https://icons8.com/l/3d-textures/) | Curated library of free 3D models, textures, and clay UI illustrations from Icons8. |

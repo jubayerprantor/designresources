@@ -190,7 +190,6 @@
 | [Texture Lab](https://www.texturelab.io/) | An open-source node-based procedural texture generation tool for creating tileable PBR materials. |
 | [Texturelabs](https://texturelabs.org/) | Comprehensive free library of high-resolution textures, overlays, Photoshop plugins, and masterclass tutorials by Brady Downey. |
 | [Texture labs](https://youtube.com/@texturelabs?si=Vfn82mTl2R2ml8El) | YouTube channel featuring texture tutorials, Photoshop techniques, and After Effects training videos. |
-| [Texture Labs Collection](https://archive.org/details/texture-labs-asset-archive-20250418) | Archive.org collection of the complete Texture Labs texture asset archive for offline access. |
 | [Texture Library](https://www.texture-library.com/) | Curated collection of high-quality textures for use in graphic design and 3D rendering projects. |
 | [Texture Ninja](https://texture.ninja/textures/Brick/1) | A React-based web app for browsing and downloading brick textures with various categories. |
 | [Texture Reference](https://texture-reference.com/) | Community-driven reference site for high-resolution texture photographs, licensed under MIT. |

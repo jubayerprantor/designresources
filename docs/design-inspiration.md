@@ -97,8 +97,6 @@
 | [Architect Shader](https://kennyphases.gumroad.com/l/draftlines) | Addons for Blender |
 | [Architectural Design Archive by DPA](https://archive.dpa-etsam.com/) | Architecture student project archive |
 | [Architonic - Materials](https://www.architonic.com/en/products/materials/0/3210514/1) | Architectural materials catalog |
-| [Archive.org](https://archive.org/) | Save a Webpage to |
-| [archive.org](https://archive.org/search?query=creator%3A%22Mitch+Martinez%22) | Mitch Martinez digital archive |
 | [Archmag X](https://www.archmag.net/) | Archviz resources including SketchUp models and textures |
 | [are.na](https://www.are.na/zachery-eng/motion-misc-vhffgxeuioy) | Are.na Motion design collection , , 3 |
 | [Are.na Collection](https://www.are.na/ivan-kostriukov/paper-wju5457e2j4) | Paper Textures  |
@@ -448,7 +446,6 @@
 | [Fromupnorth](https://se.pinterest.com/fromupnorth/) | Pinterest , Zekadesign |
 | [Front Materials](https://www.front-materials.com/paper-waste-panels/) | Netherlands |
 | [Front Materials](https://www.front-materials.com/wastebasedbricks/) | Netherlands |
-| [Frutiger Aero Archive](https://frutigeraeroarchive.org/) | 2000s Frutiger Aero aesthetics archive |
 | [Fulya Genç Design](https://www.instagram.com/fulyagencdesignstudio) | Naive, loose brushwork, Trattoria |
 | [Future Materials](https://futurematerials.co/) | Materials and surfaces inspiration |
 | [G-Code Explorer’s Notes](https://screenvibecrafts.gumroad.com/l/coiexq) | - Script for creating 3D Ptint Vases - Not Free |
@@ -561,7 +558,6 @@
 | [instagram.com](https://www.instagram.com/retro_scifiarts) | IG - Retro Scifi Animations |
 | [instagram.com](https://www.instagram.com/juliewdesign/) | Instagram profile with long-form design tutorial videos |
 | [Instant ID](https://huggingface.co/InstantX/InstantID) | AI identity-preserving image generation |
-| [Internet Archive Artbeats collection](https://archive.org/search?query=creator%3A%22Artbeats+Software%2C+Inc%22) | Internet Archive Artbeats collection |
 | [Interspectacula](https://www.instagram.com/interspectacula) | Designs in VR, for public spaces |
 | [Invoice Template](https://www.figma.com/community/file/1361353540050891501) | Free Figma invoice template |
 | [IOR Material List](https://balyberdin.com/tools/ior-list/) | Index of refraction reference table |
@@ -626,7 +622,6 @@
 | [LedsC4](https://ledsc4.com/it) | Italian architectural lighting design |
 | [LeHa Design](https://www.instagram.com/lehadesignat/) | IG - Cute toys |
 | [Leibal](https://leibal.com/) | Minimal design publication and store |
-| [Letterform Archive](https://letterformarchive.org/) | Iconic non-profit center and digital museum archiving over 100,000 historical graphic design, lettering, and typography artifacts. |
 | [LHM](https://lingtengqiu.github.io/LHM/) | - Human 3D Model Animation |
 | [Light Stencils](https://shanespencedesign.gumroad.com/l/light-stencils) | Gumroad store selling light stencil design assets |
 | [Light Textures Pack](https://chromfell.gumroad.com/l/LTP1) | Light texture overlay assets |
@@ -816,7 +811,6 @@
 | [PBR Materials](https://pbrmaterials.com/) | pCloud pattern library collection |
 | [Pedestal](https://www.it.pedestal.com/) | 3D on Zeel |
 | [Peeps](https://peeps.ui8.net/) | 3D customizable characters |
-| [Peoples Graphic Design Archive](https://peoplesgdarchive.org/) | 3D customizable characters |
 | [Petite Friture](https://petitefriture.presscloud.com/digitalshowroom/#/gallery/Outdoor) | Peoples Graphic Design Archive |
 | [Pettersen & Hein](https://www.pettersenhein.com/) | - Funky industrial, colored cement |
 | [Philip Hofmänner](https://www.behance.net/philiphofmanner) | CGI archviz artist portfolio |
@@ -859,7 +853,6 @@
 | [protopie.io](https://www.protopie.io/blog/best-figma-plugins) | Blog post listing best Figma plugins for designers |
 | [Psychology of Design](https://growth.design/psychology) | UX cognitive biases list |
 | [Pthalo Ruth](https://phthaloruth.com/collections/all-art-prints?page=2) | Naive, loose brushwork, Trattoria |
-| [Public Domain Image Archive](https://pdimagearchive.org/) | Public domain image collection |
 | [Pulpo](https://pulpoproducts.com/) | Public domain image collection |
 | [Pupil Office](https://www.pupiloffice.com/our-works) | Warm, rich textures |
 | [pycheung](https://www.pycheung.com/checker/) | Seamless texture checker |
@@ -1108,7 +1101,6 @@
 | [Waterfall](https://workshop.mass-driver.com/waterfall) | - Check for s in your font |
 | [We Design Motion](https://wedesignmotion.com/) | Motion design resources |
 | [Web Design Museum](https://www.webdesignmuseum.org/gallery) | Retro 00s websites |
-| [web.archive.org](https://web.archive.org/web/20250623085034/https://help.artlist.io/hc/en-us/articles/7979767109149-How-to-use-After-Effects-templates) | Tutorial on how to use After Effects templates |
 | [Webflow](https://webflow.com/made-in-webflow/illustration) | Webflow illustration templates |
 | [Weekly Design Challenges (@designerbriefs)](https://www.instagram.com/designerbriefs/) | Webflow illustration templates |
 | [Wentz](https://www.wentz.design/moveis) | Weekly design prompts on Instagram |

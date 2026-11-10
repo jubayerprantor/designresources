@@ -423,7 +423,6 @@
 | [Collov AI](https://collov.ai/) | Interior design - Not Free |
 | [David Drazil](https://david-drazil.gumroad.com/) | Architecture - Not Free |
 | [Design Professor](https://www.instagram.com/the.design.professor/reels/) | Interior Design lessons |
-| [Details of Victorian Architecture](https://archive.org/details/Details_of_Victorian_Architecture/mode/1up) | Archived book detailing Victorian architectural ornamentation and design features. |
 | [First in Architecture](https://www.firstinarchitecture.co.uk/photoshop-brushes-for-architects/) | - Architecture Brushes |
 | [Gendo](https://app.gendo.ai/) | - Interior design AI - 1 |
 | [Hans Lorei](https://www.instagram.com/hansloreidesign?igsh=djg2dHkyeWRxbmUy) | Interior Design lessons |
@@ -437,7 +436,6 @@
 | [Pickapalette](https://pickapalette.gumroad.com/) | Gumroad store offering color palette and design resources - Not Free |
 | [Sketch Design Craft](https://sketchdesigncraft.gumroad.com/) | Architecture - Not Free |
 | [Taylor Simon](https://www.instagram.com/intayriors) | Interior Design lessons |
-| [The Design Development Of Indian Architecture By Claude Batley](https://archive.org/details/WIgC_the-design-development-of-indian-architecture-by-claude-batley-1954-bombay-d.-b./page/n25/mode/2up) | Archived historical book on the development of Indian architectural design. |
 
 ## LUTs & Color Grading
 
@@ -465,7 +463,6 @@
 | [Action VFX](https://www.actionvfx.com/blog/so-you-want-to-learn-nuke-start-here) | Blog guide with curated resources for beginners learning Nuke compositing software. |
 | [Action VFX](https://www.actionvfx.com/collections/free-vfx/category) | Collection of free VFX stock footage assets for compositing and filmmaking. |
 | [AE Juice](https://aejuice.com/products/all/resolutions-all-and-software-davinci-resolve-bestsellers-1-1/) | AE Juice product listing for DaVinci Resolve compatible assets |
-| [archive.org](https://archive.org/search?query=creator%3A%22https%3A%2F%2Fmotionvfx.com%22) | Search results on Internet Archive for Datacraft Sozaijiten design resource collections. |
 | [Arteck](https://arteck-design.com/en/acoustic-solutions/) | Acoustic design solutions including wall panels, ceiling baffles, and room separators. |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev/assets/animation-and-effects/vfx) | ArtStation marketplace for game VFX animation assets. |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev/resources/animation-effects/vfx) | ArtStation marketplace for game development VFX resources. |
