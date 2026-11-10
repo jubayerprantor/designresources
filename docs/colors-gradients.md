@@ -17,7 +17,7 @@
 | [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Chroma HEX/RGB Color Picker](https://chromewebstore.google.com/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn?hl=en) | - Color Picker on anything on the website |
 | [CineColor](https://cinecolor.io/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Cinecolors](https://cinecolor.io/collections/tools) | Blackout FX / / Creatopia |
+| [Cinecolors](https://cinecolor.io/collections/tools) | Blackout FX / Creatopia |
 | [Color and Contrast](https://colorandcontrast.com/#/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Color Designer](https://colordesigner.io/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Color Experts](https://www.colorexpertsbd.com/blog/best-youtube-channels-for-learning-photography-photo-editing/) | Youtube channels |
@@ -37,7 +37,7 @@
 | [colorslurp.com](https://colorslurp.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Colorsuite](https://colorsuite.app/) | Lightroom Preset Extractor |
 | [Colortime Lab](https://colortime.shop/) | / Creative Market / Craftwork |
-| [Creatopia](https://creatopia.us/) | Blackout FX / Cinecolors / |
+| [Creatopia](https://creatopia.us/) | Blackout FX / Cinecolors |
 | [Design Index](https://www.designindex.xyz/colours) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Digital Color Fidget/](https://petertdonahue.com/color-fidget.html) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Eva Design](https://colors.eva.design/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -62,7 +62,7 @@
 | [Raw Color](https://www.rawcolor.nl/welcome/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Relax](https://www.relaxdesign.it/it/sanitari-sys/sys-s/) | 3D w/user Italy - Colors |
 | [Scheme Color](https://www.schemecolor.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Shape and Color](https://www.figma.com/community/shapes-colors?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Pixels / Figma comunity / |
+| [Shape and Color](https://www.figma.com/community/shapes-colors?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Pixels / Figma comunity |
 | [Step Inside Colors World](https://colors.dopely.top/inside-colors/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Super Color Palette](https://supercolorpalette.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Texture Pack](https://aescripts.com/fs-texture-palette/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -70,7 +70,7 @@
 | [Tonester Paints](https://tonesterpaints.com/collections/paints) | - Paint collection with beautiful unique colors |
 | [Trad. Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan) | Japanese Color Palettes |
 | [Try Colors](https://trycolors.com/games) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Unblast Palettes](https://unblast.com/color-schemes/) | Mindfully curated color palettes / |
+| [Unblast Palettes](https://unblast.com/color-schemes/) | Mindfully curated color palettes |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 | [2 Color Combinations](https://2colors.colorion.co) | Provides you different color combinations to be used on your application. |
 | [Adobe Color](https://color.adobe.com/) | Create color schemes with the color wheel or browse thousands of color combinations. |
@@ -98,7 +98,7 @@
 | [Colorlab](https://getcolorlab.com) | Find your perfect Color Palette easily! Explore, create, and save beautiful colors perfect for any project. Whether you're working on your website or refreshing a mobile app design, Colorlab is the tool you need to get colors right! |
 | [ColorLeap](https://colorleap.app/home) | Take a leap through time and see the colors of history. |
 | [ColorLisa](https://colorlisa.com/) | A curated collection of color palettes inspired by famous artists, designed to spark creativity and inspiration. |
-| [Colormind](http://colormind.io/) | AI-generated color schemes. |
+| [Colormind](https://colormind.io/) | AI-generated color schemes. |
 | [Colors & Fonts](https://www.colorsandfonts.com/) | A curated library of colors, fonts and resources |
 | [colors.dopely](https://colors.dopely.top/) | Super-fast and simple color palette generator, palettes can be saved and shared in seconds. |
 | [Colors.lol](https://colors.lol/) | Interesting color palettes generated by a Twitter bot, there are hex codes and descriptive names for each color. |
@@ -136,10 +136,10 @@
 | [Huetone](https://github.com/ardov/huetone) | A tool to create accessible color systems. |
 | [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
 | [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
-| [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
+| [Khroma](https://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
 | [Lospec Palette List](https://lospec.com/palette-list) | The Lospec Palette List is a database of palettes for pixel art. |
 | [Material Design Palette](https://material.io/design/color/the-color-system.html) | Google's Material Design Palette provides a set of predefined color palettes based on the Material Design guidelines. |
-| [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
+| [Material Design Palette Generator](https://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Material Palette](https://www.materialpalette.com/) | Free to pick palettes, icons and colors for Material Design |
 | [Material Palettes](https://material.colorion.co/) | 1000+ Material Design palettes |
 | [Muzli Colors](https://colors.muz.li) | A color palette generator with trending palettes and colors. |

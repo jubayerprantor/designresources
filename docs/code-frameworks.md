@@ -25,7 +25,7 @@
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 | [Hubspot](https://www.hubspot.com/resources) | Templates, infographics, banners and much more |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
-| [mashup-template](http://www.mashup-template.com/templates.html) | HTML5/CSS3 Free Templates |
+| [mashup-template](https://www.mashup-template.com/templates.html) | HTML5/CSS3 Free Templates |
 | [Mobirise](https://mobirise.com/html-templates/) | Great looking HTML5/CSS3 templates |
 | [Onepagelove](https://onepagelove.com/) | One-page websites, templates and resources |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
@@ -39,16 +39,12 @@
 | [Tooplate](https://www.tooplate.com/) | Tooplate: Free HTML Templates for everyone! |
 | [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
 | [W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp) | Some responsive W3.CSS website templates for you to use. |
-| [W3Layouts](https://w3layouts.com/) | W3Layouts: 3784+ Free Website Templates for 2020 |
+| [W3Layouts](https://w3layouts.com/) | 3,700+ free responsive website templates and landing pages |
 
 ## CSS Frameworks
 
 | Resource | Description |
 | :--- | :--- |
-| [CSS Gradient](https://cssgradient.io/gradient-backgrounds/) | A collection of beautiful gradient backgrounds |
-| [CSS Icon Library](https://css.gg/icons) | A comprehensive, open-source CSS icon library featuring 700+ vanilla CSS, SVG, and Figma UI icons |
-| [Magnific](https://www.magnific.com/patterns) | Pattern library and design resource collection |
-| [Magnific](https://www.magnific.com/textures) | Free textures and design resources |
 | [98.css](https://jdan.github.io/98.css/) | A design system for building faithful recreations of old UIs |
 | [Arwes](https://github.com/arwes/arwes) | Web framework for futuristic sci-fi inspired UI designs with animations and sound effects |
 | [Axentix](https://useaxentix.com/) | Open source CSS Grid-based framework using HTML, CSS and JS |
@@ -70,7 +66,7 @@
 | [Gutenberg](https://github.com/BafS/Gutenberg) | Modern framework to print the web correctly. |
 | [Halfmoon UI](https://www.gethalfmoon.com/) | A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
 | [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
-| [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
+| [imagehover.io](https://imagehover.io/) | Pure CSS Image Hover Effect Library |
 | [Ivory](https://github.com/IVORY-UI/ivory) | A modern CSS framework for developing powerful web interfaces faster and easier |
 | [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
 | [lit](https://github.com/ajusa/lit) | World's smallest responsive fire css framework (395 bytes). |
@@ -93,7 +89,7 @@
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
 | [Semantic UI](https://semantic-ui.com/) | Empowers designers and developers by creating a shared vocabulary for UI |
 | [Shoelace.css](https://www.shoelace.style/) | Lightweight, forward-thinking CSS library built with future CSS syntax |
-| [Skeleton](http://getskeleton.com/) | Extremely light framework for basic UI elements |
+| [Skeleton](https://getskeleton.com/) | Extremely light framework for basic UI elements |
 | [Spectre CSS](https://picturepan2.github.io/spectre/) | Lightweight, modern CSS framework |
 | [StyleX](https://stylexjs.com/) | StyleX is a simple, easy-to-use JavaScript syntax and compiler for styling web apps. |
 | [Susy](https://www.oddbird.net/susy/) | Lightweight, grid-layout engine for Sass |
@@ -118,34 +114,34 @@
 | Resource | Description |
 | :--- | :--- |
 | [Atomic CSS](https://acss.io/) | Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function. |
-| [BEM](http://getbem.com/) | Methodology for creating reusable components using Block Element Modifier naming |
+| [BEM](https://getbem.com/) | Methodology for creating reusable components using Block Element Modifier naming |
 | [CUBE](https://cube.fyi/) | CSS methodology focused on simplicity, pragmatism and consistency |
-| [SMACSS](http://smacss.com/) | Flexible style guide approach for structuring CSS in scalable and modular way |
+| [SMACSS](https://smacss.com/) | Flexible style guide approach for structuring CSS in scalable and modular way |
 
 ## CSS Animations
 
 | Resource | Description |
 | :--- | :--- |
-| [AniJS](http://anijs.github.io/) | AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure |
+| [AniJS](https://anijs.github.io/) | AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure |
 | [Animate.css](https://animate.style/) | Just-add-water CSS animations |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
 | [Anime.js](https://animejs.com/) | Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects |
-| [Animista](http://animista.net/) | CSS Animations On Demand |
+| [Animista](https://animista.net/) | CSS Animations On Demand |
 | [AnimXYZ](https://animxyz.com/) | AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 | [AniX](https://adajuly.github.io/AniX/) | Super easy and lightweight css animation library. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
-| [Bounce.js](http://bouncejs.com/) | Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations |
+| [Bounce.js](https://bouncejs.com/) | Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations |
 | [CSS Loaders & Spinners](https://cssloaders.github.io/) | This is a library having a collection of different types of CSS loaders, spinners |
-| [CSShake](http://elrumordelaluz.github.io/csshake/) | CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page |
+| [CSShake](https://elrumordelaluz.github.io/csshake/) | CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page |
 | [Gradienty Animations](https://gradienty.codes/animations) | Over 600+ Curated Animations ready to copy & paste. |
 | [Hamburgers](https://jonsuh.com/hamburgers/) | Hamburgers is a collection of tasty CSS-animated hamburger icons. Also included is the source as a Sass library. It’s modular and customizable, so cook up your own hamburger. |
-| [Hover.css](http://ianlunn.github.io/Hover/) | Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website |
+| [Hover.css](https://ianlunn.github.io/Hover/) | Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website |
 | [Infinite](https://tilomitra.github.io/infinite/) | These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [Keyframes.app](https://keyframes.app/) | A graphical user interface for generating custom CSS keyframe animations |
 | [Magic Animations](https://www.minimamente.com/project/magic/) | Animations has been one of the most impressive animation libraries available |
 | [Motion One](https://motion.dev/) | A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. |
 | [MOTION UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations |
-| [OBNOXIOUS.CSS](http://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind |
+| [OBNOXIOUS.CSS](https://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind |
 | [pocoloco](https://pocoloco.io/) | Generate dynamic backgrounds for your website |
 | [Sequence.js](https://www.sequencejs.com/) | Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
 | [SVG Artista](https://svgartista.net/) | A useful tool to animate stroke and fill properties in SVG images with plain CSS code |
@@ -160,7 +156,7 @@
 | :--- | :--- |
 | [Atropos](https://atroposjs.com/) | Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. |
 | [barba.js](https://barba.js.org/) | Create fluid and smooth transitions between your website’s pages. |
-| [chocolat.js](http://chocolat.insipi.de/) | Free lightbox plugin. |
+| [chocolat.js](https://chocolat.insipi.de/) | Free lightbox plugin. |
 | [Granim.js](https://sarcadass.github.io/granim.js/index.html) | Create fluid and interactive gradient animations with this small javascript library. |
 | [GSAP](https://gsap.com/) | A JavaScript library for building high-performance animations that work in every major browser |
 | [KUTE.js](https://thednp.github.io/kute.js/) | KUTE.js is a JavaScript animation engine for modern browsers. |
@@ -183,12 +179,12 @@
 | [Swiperjs](https://swiperjs.com/) | Free, Open Source, Modern Slider without jQuery. Available for Vanilla JS and all modern frameworks like React, Vue, Angular etc. |
 | [Theatre.js](https://www.theatrejs.com/) | Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable. |
 | [three.js](https://github.com/mrdoob/three.js/) | An easy to use, lightweight, 3D library with a default WebGL renderer. |
-| [Tilt.js](http://gijsroge.github.io/tilt.js/) | A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Tilt.js](https://gijsroge.github.io/tilt.js/) | A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
 | [Tingle.js](https://tingle.robinparisi.com/) | Tingle is a simple modal plugin written in pure JavaScript |
 | [tsParticles](https://particles.js.org/) | A lightweight library for creating particles, an improved version of the abandoned and obsolete particles.js |
 | [Typed.js](https://mattboldt.com/demos/typed-js/) | A JavaScript Typing Animation Library. |
 | [Vanta.js](https://www.vantajs.com/) | Animated website backgrounds in a few lines of code. |
-| [Velocity.js](http://velocityjs.org/) | Velocity is a lightweight animation engine with the same API as jQuery's $.animate() |
+| [Velocity.js](https://velocityjs.org/) | Velocity is a lightweight animation engine with the same API as jQuery's $.animate() |
 | [Vivus](https://maxwellito.github.io/vivus/) | Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. |
 | [wow.js](https://wowjs.uk/) | Reveal Animations When You Scroll. |
 
@@ -198,7 +194,7 @@
 | :--- | :--- |
 | [AntV](https://ant-design-charts.antgroup.com/en/) | Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
 | [ApexCharts.Js](https://apexcharts.com/) | Modern & Interactive Open-source Charts |
-| [Chartist](http://gionkunz.github.io/chartist-js/index.html) | Simple responsive charts |
+| [Chartist](https://gionkunz.github.io/chartist-js/index.html) | Simple responsive charts |
 | [ChartJS](https://www.chartjs.org/) | Simple yet flexible JavaScript charting for designers & developers |
 | [Data Driven Documents (D3)](https://d3js.org/) | Bind complicated and massive data to interactive graphs. |
 | [Echarts](https://echarts.apache.org/en/index.html) | An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization |
@@ -262,7 +258,7 @@
 | [Next UI](https://nextui.org) | Beautiful, fast, and modern React UI library with first-class support for dark mode and themes. |
 | [Notiflix](https://notiflix.github.io) | JavaScript library for client-side non-blocking notifications, popup boxes, loading indicators, and more that makes your web projects much better |
 | [Park UI](https://park-ui.com) | Beautifully designed components built on Ark UI, with support for multiple CSS frameworks. |
-| [Photonkit](http://photonkit.com/) | Desktop UI library for Electron |
+| [Photonkit](https://photonkit.com/) | Desktop UI library for Electron |
 | [Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 | [Pixel Buddha](https://pixelbuddha.net) | Free and premium design resources, including UI kits, templates, and mockups. |
 | [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat#readme) | A chat UI component that offers a ready-to-use chat interface with features like message bubbles, input toolbar, and more. |
@@ -289,7 +285,7 @@
 | [Tilda](https://tilda.cc) | A web design platform with a collection of UI kits and templates. |
 | [UI Store](https://www.uistore.design) | Free and premium UI kits, templates, and design resources for various design projects. |
 | [UI8](https://ui8.net) | Premium UI kits, design systems, and resources for designers. |
-| [UILang](http://uilang.com/) | A minimal, UI-focused programming language for web designers |
+| [UILang](https://uilang.com/) | A minimal, UI-focused programming language for web designers |
 | [uiverse](https://uiverse.io) | Hundreds Open-Source UI elements, made with HTML & CSS. Anyone can contribute. Includes buttons, checkboxes, spinners, cards, inputs and more. |
 | [Uplabs](https://www.uplabs.com) | A platform for sharing UI kits, templates, and design resources. |
 | [Wicked Blocks](https://wickedblocks.dev/) | A free collection of Tailwind blocks & components |
@@ -304,7 +300,7 @@
 | [Aceternity UI](https://ui.aceternity.com/) | Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
 | [Ant Design](https://ant.design/) | Open source design React UI library. |
 | [Arco Design](https://arco.design/en-US) | A comprehensive React UI components library based on the Arco Design system. |
-| [Backpack UI](http://lonelyplanet.github.io/backpack-ui/?path=/story/styles--design-tokens) | Backpack is the Lonely Planet toolset that we use to build front end apps. |
+| [Backpack UI](https://lonelyplanet.github.io/backpack-ui/?path=/story/styles--design-tokens) | Backpack is the Lonely Planet toolset that we use to build front end apps. |
 | [Base UI](https://github.com/mui/base-ui) | Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
 | [Base Web](https://baseweb.design/) | Base Web provides a robust suite of components out of the box |
 | [BlueprintJS](https://blueprintjs.com/) | React-based UI toolkit for the web |
@@ -318,7 +314,7 @@
 | [Edil Ozi](https://www.edil-ozi.pro/) | Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [Elastic UI](https://elastic.github.io/eui/#/) | Distributes UI React components and static assets for use in building web layouts |
 | [Eldora UI](https://eldoraui.site/) | Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. |
-| [Elemental UI](http://elemental-ui.com/) | A UI Toolkit for React.js Websites and Apps |
+| [Elemental UI](https://elemental-ui.com/) | A UI Toolkit for React.js Websites and Apps |
 | [Elementz](https://elementz.style/) | A React Component library for buliding modern applications easily & quickly. |
 | [Evergreen](https://evergreen.segment.com/) | Design system for React |
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
@@ -340,14 +336,14 @@
 | [React Admin](https://marmelab.com/react-admin/) | A frontend Framework for building admin applications. Supports API's out of the box |
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
-| [React Desktop](http://reactdesktop.js.org/) | Desktop styled components in React. Includes MacOS and Windows based components |
+| [React Desktop](https://reactdesktop.js.org/) | Desktop styled components in React. Includes MacOS and Windows based components |
 | [React Rainbow](https://react-rainbow.io/) | React Rainbow is a collection of components that will reliably help you build your application in a snap. |
 | [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels) | React components for resizable panel groups/layouts. |
 | [React Semantic UI](https://react.semantic-ui.com/) | UI components based off of the Semantic UI framework |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React Spring](https://www.react-spring.io/) | Spring-physics based animation library for React applications. |
 | [React Suite](https://rsuitejs.com/en/) | A suite of React components, sensible UI design, and a friendly development experience. |
-| [React Toolbox](http://react-toolbox.io/#/) | Material design UI library for React |
+| [React Toolbox](https://react-toolbox.io/#/) | Material design UI library for React |
 | [React Use Smooth Scroll](https://github.com/saidMounaim/React-Use-Smooth-Scroll) | React Provider Component to add a smooth scroll effect |
 | [React Virtualized](https://bvaughn.github.io/react-virtualized) | UI set for data. Includes tables, lists, sorting, etc. |
 | [React-WeUI](https://weui.github.io/react-weui/docs/#/react-weui/docs/page/0/articles/0) | React-WeUI made from our love of React and WeChat's WeUI Design. |
@@ -356,7 +352,7 @@
 | [Reakit](https://reakit.io/) | Reakit is a lower level component library for building accessible high level UI libraries, design systems and applications with React. |
 | [Reaviz](https://reaviz.io) | Data visualization library for React based on D3 |
 | [Rebass](https://github.com/rebassjs/rebass) | React primitive UI components built with styled system |
-| [Recharts](http://recharts.org/en-US/) | A composable charting library built on React components. |
+| [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components. |
 | [Ring UI](https://github.com/JetBrains/ring-ui) | A collection of JetBrains Web UI components. |
 | [Semi Design](https://semi.design/en-US) | A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products. |
 | [Sha-el-design](https://github.com/sha-el/sha-el-design) | React components for easier customization and smooth development flow. |
@@ -524,10 +520,10 @@
 | [Primer](https://primer.style/) | Design, build, and create with GitHub’s design system |
 | [Pulse](https://pulse.heartbeat.ua/) | Design system, guides and React component library |
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements) | Style guide with UI components, JS components, widgets, etc |
-| [SendGrid Style Guide](http://styleguide.sendgrid.com/) | UI library for developing consistent UI/UX at SendGrid |
+| [SendGrid Style Guide](https://styleguide.sendgrid.com/) | UI library for developing consistent UI/UX at SendGrid |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
-| [StyleGuides.io](http://styleguides.io/) | A directory of 500+ styleguides |
+| [StyleGuides.io](https://styleguides.io/) | A directory of 500+ styleguides |
 | [VTEX Styleguide](https://styleguide.vtex.com/) | Reusable patterns, components and assets related to product design in VTEX |
 | [Yelp Style Guide](https://www.yelp.com/styleguide) | Yelp style guide, components and toolkit |
 

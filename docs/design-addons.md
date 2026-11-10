@@ -70,7 +70,7 @@
 | [Brush](https://t.me/brush_procreate) | Telegram channel sharing Procreate brush packs and resources with over 21,000 subscribers. |
 | [Brush Base](https://t.me/brushbase) | Telegram channel providing a library of brushes and tutorials for graphic artists. |
 | [Brush Procreate](https://t.me/brushprocreate) | Telegram channel offering free Procreate brushes and resources for digital artists. |
-| [Brusheezy](http://www.brusheezy.com/actions) | Website offering free Photoshop Actions that transform images with prerecorded one-click effects. |
+| [Brusheezy](https://www.brusheezy.com/actions) | Website offering free Photoshop Actions that transform images with prerecorded one-click effects. |
 | [Brushez](https://brushez.com/brushes) | Website offering free Photoshop brushes organized into categories like abstract, grunge, and nature. |
 | [Brushless](https://www.brushless.ai/generate) | AI-powered SVG vector generator that creates scalable vector graphics from text prompts. |
 | [Canvas Texture](https://ar.pinterest.com/search/pins/?q=canvas%20texture&rs=typed) | Pinterest search results page for canvas texture pins and references. |
@@ -235,7 +235,7 @@
 | [TextureCreate](https://gameanimation.info/texture-create/) | Online tool for creating custom textures with opacity, displacement, and animated effects. |
 | [TextureGenerator-Online](https://cpetry.github.io/TextureGenerator-Online/) | Browser-based tool for generating seamless textures including bricks, clouds, perlin noise, and textiles. |
 | [Texturelabs](https://texturelabs.org/?ct=666) | Category page for free paper textures with subcategories including clean, vintage, torn, and folded paper. |
-| [Texturer](http://texturer.com/) | Domain has been repurposed as a Thai gambling website and no longer offers texture resources. |
+| [Texturer](https://texturer.com/) | Domain has been repurposed as a Thai gambling website and no longer offers texture resources. |
 | [Textures](https://www.textures.com/category/decals/52338) | PBR texture marketplace offering decal textures, with free and paid options for 3D artists. |
 | [Textures](https://www.textures.com/category/3d-decals/115139) | PBR texture marketplace offering 3D decal textures, with free and paid options for 3D artists. |
 | [Textures](https://www.textures.com/library?filter=substance) | PBR texture marketplace with Substance Designer filter, offering free and paid material textures. |
@@ -262,7 +262,7 @@
 | [Zulia Assets](https://www.zuliassets.com/shop/textures) | Marketplace offering texture packs, mockups, and vintage design resources for digital artists. |
 | [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [AVGFX](https://www.avxgfx.com/photoshop_addons/ps_brushes/) | / PSD Keys / Wow Brushes |
-| [Envato](https://elements.envato.com/add-ons/brushes/compatible-with-procreate(Not) | Etsy , Creative Fabrica , Heritage Type / - |
+| [Envato](https://elements.envato.com/add-ons/brushes/compatible-with-procreate(Not) | Etsy , Creative Fabrica , Heritage Type /|
 | [Sincronia](https://www.syncronia.com/en/download-3d-textures) | - List of brands with available Textures |
 | [TextureMap](https://texturemap.org/) | - Maps for colorblinded people |
 | [Brusheezy](https://www.brusheezy.com/) | Offers a wide range of free Photoshop brushes, patterns, textures, and more. It's a community-driven site where designers share their resources. |

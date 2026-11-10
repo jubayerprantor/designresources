@@ -14,32 +14,32 @@
 | :--- | :--- |
 | [19 Free Film Grain Overlays](https://motionarray.com/learn/video-effects/free-film-grain/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | Game Dev Academy / Jesus FC14 / - Youtube |
-| [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato / 2 / Iphone / 4 |
+| [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato / Iphone |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
 | [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_493534&utm_medium=affiliate&utm_source=impact_radius) | Collage Constructor |
 | [elements.envato.com](https://elements.envato.com/video-templates/luts) | Envato , , 3 / Yci Maging |
-| [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Lux Edit / Video Hive / 2 / 3 / 4 / / 6 / Toros Kose / - Not Free |
-| [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Lux Edit / Video Hive / 2 / 3 / 4 / 5 / / Toros Kose / - Not Free |
-| [elements.envato.com](https://elements.envato.com/video-templates/3d+mockup) | Envato Billboards / / Iphone / 4 |
-| [elements.envato.com](https://elements.envato.com/video-templates/mockups/compatible-with-after-effects) | Envato Billboards / 2 / Iphone / |
+| [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Lux Edit / Video Hive / 3 / Toros Kose / - Not Free |
+| [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Lux Edit / Video Hive / 3 / 5 / Toros Kose / - Not Free |
+| [elements.envato.com](https://elements.envato.com/video-templates/3d+mockup) | Envato Billboards / Iphone |
+| [elements.envato.com](https://elements.envato.com/video-templates/mockups/compatible-with-after-effects) | Envato Billboards / Iphone |
 | [Envato](https://videohive.net/search/luts) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Envato](https://elements.envato.com/video-templates/compatible-with-after-effects) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-premiere-pro) | Video Milkshake , Tiny Tapes , Human Video , Pix Flow , Cinecom , Gumroad / |
+| [Envato](https://elements.envato.com/video-templates/compatible-with-premiere-pro) | Video Milkshake , Tiny Tapes , Human Video , Pix Flow , Cinecom , Gumroad |
 | [Envato](https://elements.envato.com/video-templates/compatible-with-final-cut-pro) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-davinci-resolve) | / 2 / Mixkit / Motion Array / AE Juice / Video Editors Studio |
+| [Envato](https://elements.envato.com/video-templates/compatible-with-davinci-resolve) | / Mixkit / Motion Array / AE Juice / Video Editors Studio |
 | [Firefly](https://firefly.adobe.com/generate/video) | Image to Video 🆓 |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=&query=&selection=1&type=video) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=video&query=animated+texture&type=video) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Freepik](https://www.freepik.com/video-templates) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik / / 3 / Raw Pixel |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik / 2 / / Raw Pixel |
-| [Iphone](https://elements.envato.com/video-templates/iphone+mockup) | Envato Billboards / 2 / / 4 |
-| [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | Game Dev Academy / / Animation Methods - Youtube |
+| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik / Raw Pixel |
+| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik / Raw Pixel |
+| [Iphone](https://elements.envato.com/video-templates/iphone+mockup) | Envato Billboards |
+| [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | Game Dev Academy / Animation Methods - Youtube |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
 | [Mix Kit](https://mixkit.co/free-sound-effects/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Mixkit](https://mixkit.co/free-after-effects-templates/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Mixkit](https://mixkit.co/free-final-cut-pro-templates/zoom-backwards-transition-667/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Mixkit](https://mixkit.co/free-davinci-resolve-templates/) | Envato / 2 / / Motion Array / AE Juice / Video Editors Studio |
+| [Mixkit](https://mixkit.co/free-davinci-resolve-templates/) | Envato / Motion Array / AE Juice / Video Editors Studio |
 | [Mixkit](https://mixkit.co/free-premiere-pro-templates/transitions/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Motion Elements](https://www.motionelements.com/search/video?price_range=-1) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Motion Pack](https://videohive.net/item/mopack/29918969?s_rank=6) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -48,18 +48,18 @@
 | [Render Ram](https://m.youtube.com/@RenderRam/videos) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [SAM 3D Meta AI](https://aidemos.meta.com/segment-anything/editor/segment-video) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Step Fun](https://huggingface.co/stepfun-ai/stepvideo-ti2v) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Video Editors Studio](https://videoeditorstudio.com/) | Envato / 2 / Mixkit / Motion Array / AE Juice / |
-| [Video Hive](https://videohive.net/search/texture%20pack) | Lux Edit / / 2 / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
+| [Video Editors Studio](https://videoeditorstudio.com/) | Envato / Mixkit / Motion Array / AE Juice |
+| [Video Hive](https://videohive.net/search/texture%20pack) | Lux Edit / 3 / 5 / Toros Kose / - Not Free |
 | [Video Hive](https://videohive.net/category/after-effects-project-files) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Video Hive](https://videohive.net/category/premiere-pro-templates) | Aniom , Creators Studio , Sick Boat , , Eleven Percent , Videos Change Reality |
 | [Video Hive](https://videohive.net/category/apple-motion-templates) | / Motion Elements - Not Free |
-| [Video Motion](https://videomotion.store/store/) | Luxury Leaks / Media Monopoly / K Selected / / Beyond the Game |
+| [Video Motion](https://videomotion.store/store/) | Luxury Leaks / Media Monopoly / K Selected / Beyond the Game |
 | [Videohive](https://videohive.net/category/add-ons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [videohive.net](https://videohive.net/search/animated%20texture) | Lux Edit / Video Hive / / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
-| [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Creator FX , Eleven Percent / Envato / / |
-| [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Envato / / Mixkit / Motion Array / AE Juice / Video Editors Studio |
+| [videohive.net](https://videohive.net/search/animated%20texture) | Lux Edit / Video Hive / 4 / 6 / Toros Kose / - Not Free |
+| [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Creator FX , Eleven Percent / Envato |
+| [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Envato / Mixkit / Motion Array / AE Juice / Video Editors Studio |
 | [YWFT](https://www.youworkforthem.com/videos) | Motion Array / Creative Market / Videohive / - Not Free |
-| [Beachfront B-Roll](http://www.beachfrontbroll.com) | Free stock video footage for any project. |
+| [Beachfront B-Roll](https://www.beachfrontbroll.com) | Free stock video footage for any project. |
 | [CapCut](https://www.capcut.com) | Free video editing tool from ByteDance with AI-powered effects, auto-captions, and templates. |
 | [Clipstill](https://clipstill.com) | A collection of cinemagraphs (still photos with minor repeated movement). |
 | [Coverr](https://coverr.co/) | Beautiful, free stock videos for commercial and non-commercial use. |
@@ -68,7 +68,7 @@
 | [HeyGen](https://www.heygen.com) | AI video creation platform with realistic AI avatars for presentations, marketing, and training content. |
 | [Kling AI](https://klingai.com) | Advanced AI video generation with realistic motion and physics, from Kuaishou Technology. |
 | [Life Of Vids](https://www.lifeofvids.com/) | Free video clips and loops |
-| [Loopvidz](http://stock.loopvidz.com/) | Free To Use Cinema graphs Created With VIMAGE App |
+| [Loopvidz](https://stock.loopvidz.com/) | Free To Use Cinema graphs Created With VIMAGE App |
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Fast AI video generation from text and images with impressive quality and motion coherence. |
 | [Mazwai](https://mazwai.com) | Curated high-quality stock video footage for free use. |
 | [Motion Places](https://www.motionplaces.com) | Beautiful free stock video footage shot in various locations around the world. |
@@ -89,10 +89,10 @@
 | Resource | Description |
 | :--- | :--- |
 | [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | - Create animation from audio |
-| [Audio Jungle](https://audiojungle.net/) | 셀바이뮤직 / / MotionArray |
+| [Audio Jungle](https://audiojungle.net/) | 셀바이뮤직 / MotionArray |
 | [Freepik](https://www.freepik.com/audio) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Motion Array](https://motionarray.com/browse/sound-effects/) | Nash / / Mr Horse - Not Free |
-| [MotionArray](https://motionarray.com/browse/royalty-free-music/) | 셀바이뮤직 / Audio Jungle / |
+| [Motion Array](https://motionarray.com/browse/sound-effects/) | Nash / Mr Horse - Not Free |
+| [MotionArray](https://motionarray.com/browse/royalty-free-music/) | 셀바이뮤직 / Audio Jungle |
 | [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Nash / Motion Array / - Not Free |
 | [Pixa Bay](https://pixabay.com/sound-effects/search/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [r10's Audio Tools](https://www.r10.audio/#wave-designer) | - Wave Designer for oscillator |
