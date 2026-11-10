@@ -101,7 +101,7 @@
 | [archive.org](https://archive.org/search?query=creator%3A%22Mitch+Martinez%22) | Mitch Martinez digital archive |
 | [Archmag X](https://www.archmag.net/) | Archviz resources including SketchUp models and textures |
 | [are.na](https://www.are.na/zachery-eng/motion-misc-vhffgxeuioy) | Are.na Motion design collection , , 3 |
-| [Are.na Collection](https://www.are.na/ivan-kostriukov/paper-wju5457e2j4) | Paper Textures 🔥 |
+| [Are.na Collection](https://www.are.na/ivan-kostriukov/paper-wju5457e2j4) | Paper Textures  |
 | [Are.na Design resource collections](https://yandex.com/search?text=Graphic+Design+Resources+site%3Ahttps%3A%2F%2Fwww.are.na%2F&lr=21368&p=0) | Are.na design resource search |
 | [Are.na Motion design collection](https://www.are.na/justin-platnar/mo-xggjr36jh1q) | Motion design collection channel |
 | [Aresline](https://www.aresline.com/it/prodotti) | 3D w/ user |
@@ -208,7 +208,7 @@
 | [Cappellini](https://www.cappellini.com/it/it.html) | Italian design furniture brand |
 | [Carl Hansen](https://www.carlhansen.com/en/it) | Danish design furniture classics |
 | [Castil](https://www.castil.it/en/products/?_gl=1*1mbreyw*_up*MQ..*_ga*NTE2ODM5NDYuMTczNTk0MDAyMQ..*_ga_DNERT2PTXN*MTczNTk0MDAyMC4xLjAuMTczNTk0MDAyMC4wLjAuMA..) | Designer chairs and seating |
-| [Casual Archivist](https://docs.google.com/spreadsheets/d/1lyvVIqdGW78vftPu3rBUUqHfiFPltYntCLPUbkWxYew/edit?pli=1&gid=855006151#gid=855006151) | Archive Design collections 🔥 |
+| [Casual Archivist](https://docs.google.com/spreadsheets/d/1lyvVIqdGW78vftPu3rBUUqHfiFPltYntCLPUbkWxYew/edit?pli=1&gid=855006151#gid=855006151) | Archive Design collections  |
 | [Ceramica Flamina](https://www.ceramicaflaminia.it/) | Italian designer bathroom ceramics |
 | [CG Bytes](https://www.cgbytes.com/) | Creepy 3DLOAD , Poser , , Render State , Assets Free , Daz Studio |
 | [CG Kit Pro](https://cgkit.pro/) | 3D model search engine by image |
@@ -338,7 +338,7 @@
 | [Devorm](https://www.devorm.nl/products/category/acoustics) | Netherlands |
 | [Dezi](https://dezi.gallery/figma-plugin) | Figma plugin gallery on Dezi |
 | [Dezi](https://dezi.gallery/motion-studio) | - Collection of Motion Design Studios |
-| [Dezi (Motion Design, Graphic, Product) 🔥](https://dezi.gallery/motion-inspiration) | Motion design inspiration gallery |
+| [Dezi (Motion Design, Graphic, Product) ](https://dezi.gallery/motion-inspiration) | Motion design inspiration gallery |
 | [DGruwier Flashlight Textures](https://dgruwier.gumroad.com/l/dgruwier-flashlights) | Motion design inspiration gallery |
 | [Dia 1.6B](https://huggingface.co/spaces/nari-labs/Dia-1.6B?source=post_page-----5d7b476386b4---------------------------------------) | - Conversation with several voices, actions|
 | [Dia Buga Design](https://www.diabugadesign.ro/collections/all) | AI-powered design image generation model |
@@ -378,7 +378,7 @@
 | [efecto.app](https://efecto.app/) | AI-powered design collaboration platform |
 | [elias.studio](https://www.elias.studio/en/blog/figma-les-meilleurs-plugins-pour-booster-votre-creativite) | Top Figma Plugins lists 1 / 4 / 6 / 8 |
 | [Elisha Zepeda](https://www.instagram.com/ez.bookdesign/reels/) | Videos designing hundreds of book covers |
-| [Ellen Lupton -](https://www.instagram.com/ellenlupton) | Design Basics teacher 🔥 |
+| [Ellen Lupton -](https://www.instagram.com/ellenlupton) | Design Basics teacher  |
 | [En Europa no se consigue](https://www.instagram.com/eneuropanoseconsigue) | Instagram account page |
 | [Enchanted Media](https://www.enchanted.media/) | Motion design asset marketplace |
 | [Ennismore](https://ennismore.com/) | Modern Colorful |
@@ -391,7 +391,7 @@
 | [Evermotion](https://evermotion.org/shop/show_product/archmaterials-vol-4/19008#) | 3D archmaterials shop |
 | [Evermotion](https://evermotion.org/) | 3D models marketplace |
 | [Evermotion](https://evermotion.org/shop/show_product/archmodels-vol-152/11779) | 3D models marketplace |
-| [Evernote.Design 🔥](https://www.evernote.design/) | Archmodels 3D product |
+| [Evernote.Design ](https://www.evernote.design/) | Archmodels 3D product |
 | [Expormim](https://www.expormim.com/en/outdoor-furniture/families/) | Designer bookmark collection |
 | [Expression Editor](https://huggingface.co/spaces/fffiloni/expression-editor) | Handcrafted garden furniture |
 | [Fab](https://www.fab.com/search?q=vdm) | / Cube Brush / Skin Alphas |
@@ -421,7 +421,7 @@
 | [Finnish Design Shop](https://www.finnishdesignshop.it/it-it/decorazioni) | FCP templates Telegram channel |
 | [Finnish Design Shop - Design Stories](https://www.finnishdesignshop.com/design-stories/architecture) | Scandinavian home decorations |
 | [Fiona Lynch](https://fionalynch.com.au/projects/) | Bold, textures |
-| [Flickr Archive Spreadsheet](https://docs.google.com/spreadsheets/d/1psWduzRxBHzi-aKD_McSM4P7eNO8wHhANCrus_uo6e8/edit?gid=770506321#gid=770506321) | Archive Design collections 🔥 |
+| [Flickr Archive Spreadsheet](https://docs.google.com/spreadsheets/d/1psWduzRxBHzi-aKD_McSM4P7eNO8wHhANCrus_uo6e8/edit?gid=770506321#gid=770506321) | Archive Design collections  |
 | [FlippedNormals](https://flippednormals.com/) | Industry-standard marketplace and educational hub for 3D modeling, sculpting brushes, game-art assets, and VFX tutorials. |
 | [Flipped Normals](https://www.artstation.com/marketplace/game-dev/assets?q=decals&section=free) | Free game decal assets |
 | [Flos](https://professional.flos.com/en/global/all-products/) | Professional lighting catalog |
@@ -441,15 +441,6 @@
 | [Free 3D Models](https://c4ddownload.com/) | Lighting brand showroom |
 | [Free CAD](https://freecadplan.com/category/blocks/car/) | Car Blueprints |
 | [Free Design Resources](https://freedesignresources.net/tag/gradient/) | Free gradient design resources |
-| [Freepik](https://www.freepik.com/search?author=1914344&authorSlug=macrovector&format=author&query=people&type=vector) | People vector illustrations |
-| [Freepik](https://www.freepik.com/vectors#from_element=home_verticals) | Free vector image downloads |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=psd&query=Flyer&type=psd) | Flyer PSD templates |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=BROCHURES&selection=1&type=psd) | Brochure PSD templates |
-| [Freepik](https://www.freepik.com/patterns#from_element=vectors_trends) | Pattern design resources |
-| [Freepik](https://www.freepik.com/psd/text-effects) | Text effects PSD templates |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Effects&selection=1&type=psd) | Effects PSD templates |
-| [Freepik 2](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Effect&selection=1&type=psd) | Effects PSD templates |
-| [Freepik Spaces](https://www.freepik.com/spaces) | Effect PSD templates |
 | [Frezza](https://www.frezza.com/) | AI collaborative workspace |
 | [Friday Supply](https://fridaysupply.gumroad.com/l/free-papers) | Gumroad store offering free paper texture packs |
 | [Friendly Shade](https://www.friendlyshade.com/) | High-end scanned 3D textures |
@@ -563,7 +554,7 @@
 | [Inspiration Design Resource](https://www.inspirationdesignresource.com/) | Curated design inspiration resources hub |
 | [Insposite](https://insposite.vercel.app/) | Design Directory / UI/UX |
 | [instagram.com](https://www.instagram.com/restaurantandbardesignawards) | Restaurant Bar Design Awards |
-| [instagram.com](https://www.instagram.com/megosu) | Independent Designers Database 🔥 |
+| [instagram.com](https://www.instagram.com/megosu) | Independent Designers Database  |
 | [instagram.com](https://www.instagram.com/motionplusdesign/reels/) | Motion design Instagram reels |
 | [instagram.com](https://www.instagram.com/superdesigners.co/) | Instagram profile of Super Designers creative studio |
 | [instagram.com](https://www.instagram.com/brands.in.motion/reels/) | Brand motion design reels |
@@ -703,7 +694,7 @@
 | [Mech Design 98](https://www.instagram.com/mechdesign98/) | Instagram profile showcasing mechanical design inspiration |
 | [Mechanism Pluss](https://www.instagram.com/mechanism_pluss/) | Instagram profile showcasing mechanism and motion designs |
 | [Media Monopoly](https://mediamonopoly.co/) | Curated media and design resource platform |
-| [Megosu](https://www.megosu.com/?product=Lighting) | Independent Designers Database 🔥 |
+| [Megosu](https://www.megosu.com/?product=Lighting) | Independent Designers Database  |
 | [Mesh Gradient](https://meshgradient.com/) | Create mesh gradients |
 | [Mesh2Motion](https://mesh2motion.org/) | Create mesh gradients |
 | [Met Design Studio](https://www.instagram.com/metdesignstudio) | 3D auto-rigging animation tool |
@@ -1038,7 +1029,7 @@
 | [Toolfolio](https://toolfolio.io/categories/libraries/figma/view-all) | Curated directory of Figma plugins and design tools |
 | [Tools Dia](https://tools.dia.tv/) | Text animation Space Type Generator , |
 | [toools.design](https://www.toools.design/blog-posts/best-figma-plugins-for-designers) | Blog post listing the best Figma plugins for designers |
-| [Toools.design 🔥](https://www.toools.design/) | Curated design tools directory |
+| [Toools.design ](https://www.toools.design/) | Curated design tools directory |
 | [Tooy](https://www.tooy.it/products) | Curated design tools directory |
 | [TopGFX](https://topgfx.com/) | Creepy 2 Shadowcore , , Daz 3D , 3D Cu , Daz 3D Poser |
 | [Touch Designer](https://www.instagram.com/touchdesigner) | TouchDesigner visual inspiration |

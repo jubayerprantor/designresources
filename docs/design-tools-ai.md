@@ -243,7 +243,6 @@
 | [Firefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo) | - Free for Adobe users |
 | [Forty-four Turkish fairy tales](https://archive.org/details/fortyfourturkish001862/page/70/mode/2up) | Digitized Turkish fairy tales book on Internet Archive for illustrative and cultural design reference. |
 | [Francis Kere - Relationship between materials and local climate](https://www.archdaily.com/978851/how-does-francis-kere-use-materials-to-respond-to-local-climate-conditions?ad_source=search&ad_medium=projects_tab&ad_source=search&ad_medium=search_result_all) | ArchDaily article exploring how Francis Kere uses materials to respond to local climate conditions. |
-| [Freepik](https://www.freepik.com/pikaso/ai-image-generator) | Browse thousands of free and premium fonts on Freepik design resource platform. |
 | [Google AI Studio](https://aistudio.google.com/prompts/new_chat) | Vibe code a mockup generator with . |
 | [GPT 4o TTS](https://platform.openai.com/docs/models/gpt-4o-mini-tts) | Text to speech with customized emotions. Free Demo |
 | [Harworth](https://www.haworth.com/eu/en/products/chairs.html) | USA/Europe |

@@ -107,8 +107,6 @@
 | [Free Design Resources](https://freedesignresources.net/category/free-fonts/) | Collection of free fonts and design resources for creative projects. |
 | [Free Font](https://wangchujiang.com/free-font/) | Chinese font download resource with free typefaces. |
 | [Free Japanese Fonts](https://www.freejapanesefont.com/) | Directory of free Japanese fonts with easy downloads and previews. |
-| [Freepik](https://www.freepik.com/fonts?license=free) | Free fonts from Freepik's design asset library. |
-| [Freepik](https://www.freepik.com/fonts) | Browse thousands of free and premium fonts on Freepik design resource platform. |
 | [Future Fonts](https://www.futurefonts.xyz/) | Buy in-progress fonts directly from independent designers. |
 | [Good Free F](https://goodfreefonts.com/1492/) | Japanese brush and calligraphy font collection. |
 | [Google](https://fonts.google.com/noto/specimen/Noto+Sans+TC?subset=chinese-traditional) | Noto Sans Traditional Chinese specimen page on Google Fonts. |

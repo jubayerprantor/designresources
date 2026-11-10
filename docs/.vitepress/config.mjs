@@ -42,8 +42,8 @@ export default defineConfig({
         text: 'Featured',
         collapsed: false,
         items: [
-          { text: '🌟 Top Global Hubs', link: '/top-hubs' },
-          { text: '⚡ Creative Marketplaces', link: '/marketplaces' },
+          { text: 'Top Global Hubs', link: '/top-hubs' },
+          { text: 'Creative Marketplaces', link: '/marketplaces' },
         ]
       },
       {

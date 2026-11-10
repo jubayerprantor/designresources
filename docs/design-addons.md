@@ -105,9 +105,6 @@
 | [folio.procreate.com](https://folio.procreate.com/discussions/12) | Procreate Folio discussion forum for tips, resources and community support. |
 | [Free 3d textures HD](https://free-3dtextureshd.com/) | Free library of over 500 seamless PBR textures in 4K plus 3D furniture models and HD wallpapers. |
 | [Free Textures for 3D](https://textures.nicortx.com/) | AI-generated seamless CC0 textures for personal and commercial 3D rendering projects. |
-| [FreePik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture&query=texture&type=vector) | Freepik search for vector texture graphics and illustrations for design projects. |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=paper+texture&selection=1&type=psd) | Freepik search for paper texture PSD files for Photoshop and graphic design projects. |
-| [Freepik](https://www.freepik.com/vectors/illustrator-brushes) | Freepik collection of vector Illustrator brushes for digital illustration and design work. |
 | [FreePSDVN](https://freepsdvn.com/?s=paper+texture) | FreePSDVN search results for paper texture stock images, mockups and Photoshop resources. |
 | [Game Assets](https://itch.io/game-assets/free/tag-textures) | Free game-ready texture assets on itch.io tagged for game development. |
 | [GameTextures](https://gametextures.com/) | Subscription-based library of 4K textures and PBR materials for game development. |

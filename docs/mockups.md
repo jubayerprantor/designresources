@@ -36,8 +36,6 @@
 | [Free Design Resources](https://freedesignresources.net/category/free-mockups/) | 300+ free PSD mockups for designers |
 | [Free Mockup](https://freemockup.net/) | 5,000+ free Photoshop mockup downloads |
 | [Free Mockup Generator](https://www.pixeltrue.com/mockup-generator) | Free and simple device mockup generator |
-| [Freepik](https://www.freepik.com/mockup-generator) | Online mockup generator with 5K resolution (now Magnific) |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Mockup&selection=1&type=psd) | Freepik search for PSD mockup file downloads |
 | [Good Mockups](https://goodmockups.com/) | 7,300+ free high-quality PSD mockup files |
 | [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
@@ -109,7 +107,7 @@
 | [Framery](https://framery.com/en/) | 3D Phone Booths Finland |
 | [Hannah Luen](https://hannahluen.com/collections/big-canvas-without-frame) | High-resolution wall art and large canvas mockups for interior presentation. |
 | [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_campaignid=22553582104) | Follows concept, branding |
-| [Animockup](https://github.com/alyssaxuu/animockup) | Create animated mockups in the browser 🔥. |
+| [Animockup](https://github.com/alyssaxuu/animockup) | Create animated mockups in the browser . |
 | [AppLaunchpad](https://theapplaunchpad.com) | Generate beautiful mockups for your app or website. |
 | [Artboard Studio](https://artboard.studio) | A mockup and design tool for branding projects. |
 | [Clean Mock](https://cleanmock.com/) | Create stunning mockups using the latest device frames like iPhone X and custom backgrounds, all from your browser—quickly and for free. |

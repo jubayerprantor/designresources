@@ -239,7 +239,6 @@
 | [Flou](https://www.flou.it/it/3dlibrary/letti) | Italian furniture brand's 3D library of bed models and furnishings for interior design visualization. |
 | [Forum](https://3dcoat.com/forum/index.php) | Community forum for 3D-Coat users to discuss sculpting, texturing, modeling, and troubleshooting. |
 | [Free 3D](https://www.freepoly.org/models) | Vintage objects |
-| [Freepik](https://www.freepik.com/pikaso/retouch#from_element=home_tools) | - Replace or erase object in image / Upscale / Resize / Retouch |
 | [Gachoki](https://gachoki.com/blender-addons/) | Modeling Happy /DNchu |
 | [Gazzaladra Design](https://www.instagram.com/gazzaladradesign) | He scans real objects and 3D prints them |
 | [GFX Hub](https://gfx-hub.co/daz3d-poser/) | Website offering Daz 3D and Poser content downloads |

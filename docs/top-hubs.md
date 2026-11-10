@@ -3,7 +3,7 @@ title: Top Global Resource Hubs
 description: The world's most trusted, high-volume creative platforms used daily by millions of designers and developers worldwide.
 ---
 
-# Top Global Resource Hubs 🌟
+# Top Global Resource Hubs
 
 Welcome to the **Creative Hall of Fame**. These are the undisputed, industry-standard mega-platforms that form the backbone of modern digital design, web development, and content creation.
 
@@ -11,20 +11,20 @@ Whether you're starting a new brand identity, architecting a design system, or l
 
 ---
 
-## 🎨 All-in-One Creative Ecosystems
+## All-in-One Creative Ecosystems
 
 | Platform | Model | Description |
 | :--- | :---: | :--- |
 | [Figma Community](https://www.figma.com/community) | `Free` | Massive open ecosystem of free UI kits, design systems, wireframes, plugins, and widgets created by global design leaders. |
 | [Canva](https://www.canva.com/) | `Freemium` | Ubiquitous browser-based design suite offering millions of customizable templates for presentations, social graphics, and marketing. |
-| [Freepik](https://www.freepik.com/) | `Freemium` | World-leading creative marketplace with millions of free vectors, photos, PSDs, and state-of-the-art Magnific AI generative tools. |
+| [Magnific](https://www.magnific.com/) | `Freemium` | Leading generative visual suite for photo-realistic AI upscaling, image relighting, and detail enhancement. |
 | [Behance](https://www.behance.net/) | `Free` | Adobe's premier showcase network for creative discovery, portfolio presentation, and professional design case studies across all disciplines. |
 | [Dribbble](https://dribbble.com/) | `Free` | The global destination for design inspiration, micro-interactions, brand identity shots, and finding top creative talent. |
 | [Awwwards](https://www.awwwards.com/) | `Free` | The gold standard celebrating the world's most innovative, interactive, and beautifully designed websites and digital experiences. |
 
 ---
 
-## 📷 Royalty-Free Imagery & Footage
+## Royalty-Free Imagery & Footage
 
 | Platform | Model | Description |
 | :--- | :---: | :--- |
@@ -34,7 +34,7 @@ Whether you're starting a new brand identity, architecting a design system, or l
 
 ---
 
-## 🎨 Icons, Vectors & Design Systems
+## Icons, Vectors & Design Systems
 
 | Platform | Model | Description |
 | :--- | :---: | :--- |
@@ -46,7 +46,7 @@ Whether you're starting a new brand identity, architecting a design system, or l
 
 ---
 
-## 🔤 Typography & Font Foundries
+## Typography & Font Foundries
 
 | Platform | Model | Description |
 | :--- | :---: | :--- |
@@ -57,7 +57,7 @@ Whether you're starting a new brand identity, architecting a design system, or l
 
 ---
 
-## 🧊 3D, CGI & Motion Design
+## 3D, CGI & Motion Design
 
 | Platform | Model | Description |
 | :--- | :---: | :--- |
@@ -69,10 +69,11 @@ Whether you're starting a new brand identity, architecting a design system, or l
 
 ---
 
-## 🌈 Colors & Chromatic Tools
+## Colors & Chromatic Tools
 
 | Platform | Model | Description |
 | :--- | :---: | :--- |
 | [Coolors](https://coolors.co/) | `Freemium` | The super-fast color palette generator used by millions: generate, explore, contrast-test, and export stunning palettes in seconds. |
 | [Adobe Color](https://color.adobe.com/) | `Free` | Interactive color wheel, harmony generator, Pantone matching system, and accessibility contrast evaluator by Adobe. |
 | [Realtime Colors](https://www.realtimecolors.com/) | `Free` | Visualize your color palette live on an actual responsive website template to test contrast, hierarchy, and harmony before building. |
+

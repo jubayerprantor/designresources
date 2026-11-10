@@ -3,7 +3,7 @@ title: Creative Marketplaces
 description: Curated directory of top-tier Freemium creative hubs and world-renowned subscription asset platforms.
 ---
 
-# Creative Marketplaces ⚡💎
+# Creative Marketplaces
 
 Not all great design assets are strictly open-source. For high-stakes client deliverables, commercial campaigns, and complex production pipelines, designers often rely on vetted hybrid and subscription powerhouses.
 
@@ -13,13 +13,13 @@ This directory is split into two distinct tiers:
 
 ---
 
-## ⚡ Freemium Marketplaces (Generous Free Tier + Optional Pro)
+## Freemium Marketplaces (Generous Free Tier + Optional Pro)
 
 These platforms provide substantial free daily downloads or open-tier assets, with premium memberships for power users.
 
 | Marketplace | Free Tier Capabilities | Premium Upgrades | Description |
 | :--- | :--- | :--- | :--- |
-| [Freepik](https://www.freepik.com/) | 10 free downloads daily with attribution | Unlimited downloads, commercial license, Magnific AI | Giant creative asset library with millions of vectors, photos, PSD mockups, and cutting-edge AI upscaling/generation. |
+| [Magnific](https://www.magnific.com/) | Free trial and credit access | Pro upscaling and generative studio tools | High-resolution creative image upscaler, generative relighting, style transfer, and detail enhancement suite. |
 | [Canva](https://www.canva.com/) | 250,000+ free templates, 1M+ free assets | Brand Kits, Background Remover, Magic Studio AI | Browser-based graphic design tool democratizing design for presentations, social media, and marketing collateral. |
 | [Icons8](https://icons8.com/) | Free PNG icons, illustrations, and music | Vector SVGs, Figma plugins, unlimited downloads | Comprehensive design ecosystem featuring pixel-perfect icons in 40+ styles, 3D illustrations, photos, and background removers. |
 | [Flaticon](https://www.flaticon.com/) | Free PNG downloads with attribution | Premium SVG, EPS, PSD, and ad-free browsing | Over 10 million vector icons and UI stickers organized in cohesive visual theme packs for interface designers. |
@@ -32,7 +32,7 @@ These platforms provide substantial free daily downloads or open-tier assets, wi
 
 ---
 
-## 💎 Elite Subscription Marketplaces (Industry-Standard Only)
+## Elite Subscription Marketplaces (Industry-Standard Only)
 
 Strictly gated to globally recognized, high-volume production platforms used by agencies, game studios, and production houses worldwide.
 
@@ -46,3 +46,4 @@ Strictly gated to globally recognized, high-volume production platforms used by 
 | [FlippedNormals](https://flippednormals.com/) | CG, 3D Sculpting & Game Art | Curated Creator Marketplace | Highly curated marketplace and educational academy for professional 3D artists, offering high-detail sculpting brushes, alphas, PBR materials, and game-ready rigs. |
 | [Adobe Stock](https://stock.adobe.com/) | Enterprise Stock Imagery & Vectors | Subscription & Credit Packs | Adobe's premier stock media marketplace deeply integrated into Photoshop, Illustrator, and InDesign, featuring millions of curated royalty-free images, templates, and 3D assets. |
 | [Shutterstock](https://www.shutterstock.com/) | Stock Photos, Vectors & Footage | Subscription & On-Demand | Global creative marketplace with hundreds of millions of commercial stock photos, illustrations, editorial news archives, and HD/4K video clips. |
+

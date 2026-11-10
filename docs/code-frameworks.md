@@ -409,7 +409,7 @@
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 | [Vuejsexamples](https://vuejsexamples.com) | A nice collection of useful vuejs UI components |
 | [Vuesax](https://vuesax.com/) | Unique and reusable UI components |
-| [Vuestic](https://vuestic.dev/) | Free and Open Source UI Library for Vue 3 🤘. |
+| [Vuestic](https://vuestic.dev/) | Free and Open Source UI Library for Vue 3 . |
 | [VueTailwind](https://www.vue-tailwind.com/) | Set of Lightview and fully customizable Vue Components optimized for TailwindCSS. |
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
 | [Vuetify](https://vuetifyjs.com/en/) | Material design component framework |

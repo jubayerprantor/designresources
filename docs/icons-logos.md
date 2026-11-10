@@ -34,7 +34,6 @@
 | [Figma](https://www.figma.com/community/icons) | 6,900+ free icon sets & packs from the Figma community. |
 | [Forge Icons](https://icons.theforgesmith.com/) | 300+ SVG icons for e-commerce, travel, social media, and app design. |
 | [Free Icons](https://icons-for-free.com/) | Large collection of free icons in various styles and formats. |
-| [Freepik](https://www.freepik.com/icons) | Millions of vector icons, stickers, and illustration packs. |
 | [Futicons](https://futicons.com/) | Free futuristic line and fill SVG icons for modern web projects. |
 | [Game Icons](https://game-icons.net/) | 4,180 free SVG and PNG game-themed icons, regularly updated. |
 | [Gumroad](https://gumroad.com/design/icons) | Platform for independent creators selling vector icons, fonts, and digital design assets |

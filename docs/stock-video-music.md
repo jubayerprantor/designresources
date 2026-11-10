@@ -17,11 +17,6 @@
 | [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=) | Collage Constructor |
 | [Envato](https://videohive.net/search/luts) | VideoHive marketplace search for LUT color grading presets for video editing software. |
 | [Firefly](https://firefly.adobe.com/generate/video) | Image to Video 🆓 |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=&query=&selection=1&type=video) | Freepik video search for paper texture overlays and vintage film effects |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=video&query=animated+texture&type=video) | Freepik video search for paper texture overlays and vintage film effects |
-| [Freepik](https://www.freepik.com/video-templates) | Free video templates for various editing software available on the Freepik platform. |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik video search for texture pack overlays and motion backgrounds |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik video search for paper texture overlays and vintage film effects |
 | [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | YouTube channel featuring game development tutorials and animation content |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
 | [Mix Kit](https://mixkit.co/free-sound-effects/) | Free sound effects library with categories including animals, nature, game sounds, and transitions. |
@@ -78,7 +73,6 @@
 | :--- | :--- |
 | [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | - Create animation from audio |
 | [Audio Jungle](https://audiojungle.net/) | Royalty-free music and sound effects marketplace on the Envato platform |
-| [Freepik](https://www.freepik.com/audio) | Royalty-free music library, AI voiceover generation, and sound effects for creative projects. |
 | [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Premium essential sound effects library for motion designers and video editors |
 | [Pixa Bay](https://pixabay.com/sound-effects/search/) | Large library of free, royalty-free sound effects for use in videos, games, and other projects. |
 | [r10's Audio Tools](https://www.r10.audio/#wave-designer) | - Wave Designer for oscillator |

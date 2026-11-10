@@ -24,7 +24,7 @@ Antigravity worked directly with the project codebase to:
 
 ---
 
-## ❤️ Community & Curation
+##  Community & Curation
 
 Most importantly, this hub is powered by **you** and the open-source community! Curation is a team effort, and we thank everyone who has contributed links, descriptions, and suggestions. 
 

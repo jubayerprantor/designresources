@@ -137,7 +137,6 @@
 | [ROBOHASH](https://robohash.org/) | Generate unique images from any text |
 | [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and PowerPoint presentations |
 | [Stockio](https://www.stockio.com) | Free vectors, photos, videos, and fonts for personal and commercial use. |
-| [Stories by Freepik](https://stories.freepik.com/) | A collection of free and customizable illustrations for projects |
 | [SVG wave](https://svgwave.in/) | A free, customizable gradient 🌈 SVG wave generator for UI designs. |
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
 | [The Noun Project](https://thenounproject.com/) | A vast collection of icons and symbols created by designers from around the world. |

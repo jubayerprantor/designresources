@@ -44,10 +44,6 @@
 | [Fix the Photos](https://fixthephoto.com/free-photoshop-brushes) | Collection of free Photoshop brushes including watercolor, grunge, smoke and fire effects |
 | [Free Photoshop Brush Pack](https://nicolaibecker.supply/b/free-photoshop-brushes) | Free set of 10 Photoshop brushes for creating realistic grass and meadow masks in post-production. |
 | [Free Stock Textures](https://freestocktextures.com/) | Library of free high-resolution textures across categories like wood, metal, grunge, and stone. |
-| [Freepik](https://www.freepik.com/free-photos-vectors/aesthetic-png) | Browse thousands of free and premium fonts on Freepik design resource platform. |
-| [Freepik](https://www.freepik.com/free-photos-vectors/3d-illustrations) | Browse thousands of free and premium fonts on Freepik design resource platform. |
-| [Freepik](https://www.freepik.com/free-photos-vectors/2d-game-asset) | Browse thousands of free and premium fonts on Freepik design resource platform. |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=type&last_value=photo&query=texture&type=photo) | FreePik / - Some free |
 | [github.com](https://github.com/mikeroyal/Photogrammetry-Guide) | GitHub repository with photogrammetry guide and resources |
 | [github.com](https://github.com/quilime/photogrammetry) | GitHub repository with photogrammetry tools and resources |
 | [github.com](https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics) | GitHub repository on photogrammetry and 3D model reconstruction for VR |
@@ -93,7 +89,6 @@
 | [Find A Photo](https://www.chamberofcommerce.org/findaphoto/) | Searches multiple stock photo websites |
 | [FoodiesFeed](https://www.foodiesfeed.com/) | Absolute heaven for food-related stock photos. #foodpornatitsbest |
 | [Free Images](https://www.freeimages.com/) | Find and download free stock photos - all free for personal and commercial use |
-| [Freepik](https://www.freepik.com/) | High-quality photos, videos, vectors, PSD, AI images, icons... to go from ideas to outstanding designs |
 | [Generated Photos](https://generated.photos/) | Unique AI Generated model photos |
 | [Gratisography](https://gratisography.com/) | Free collection of free high-resolution pictures |
 | [Ideogram](https://ideogram.ai) | AI image generation with exceptional text rendering capabilities — free tier available. |

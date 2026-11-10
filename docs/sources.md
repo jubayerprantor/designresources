@@ -1,6 +1,6 @@
 # Sources & Attribution
 
-This hub is built on the shoulders of generous people who shared their knowledge openly. Thank you. 🙏
+This hub is built on the shoulders of generous people who shared their knowledge openly. Thank you. 
 
 | # | Source | Link |
 | :- | :--- | :--- |
