@@ -103,6 +103,7 @@
 | [Personas](https://personas.draftbit.com/) | A playful avatar generator for the modern age |
 | [Photo Creator](https://photos.icons8.com/creator) | Create your own photos instead of searching for stock |
 | [Photopea](https://www.photopea.com) | An Online Photoshop editor |
+| [Pic2Vector](https://pic2vector.com/) | Free browser-based converter that traces PNG, JPG, and WebP images into SVG vectors; runs locally with WebAssembly, no upload or account. |
 | [PixCleaner](https://www.pixcleaner.com/) | Accurate and hassle free background removal tool |
 | [Pixlr](https://www.pixlr.com/) | Online photo editor |
 | [Ray.so](https://ray.so/) | Online tool to create beautiful images of your code. |
