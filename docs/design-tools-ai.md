@@ -12,8 +12,8 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools?tab=readme-ov-file) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Best Web Design Tools](https://bestwebdesigntools.com/web-design-tools) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) | Curated directory of professional UX/UI software, micro-interaction tools, and design system resources by GoAbstract. |
+| [Best Web Design Tools](https://bestwebdesigntools.com/web-design-tools) | Curated repository of modern web utilities, landing page templates, and design extensions. |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | A collection of software for graphic design, video editing, web development, and photography. Key tools within the suite include Photoshop, Illustrator, InDesign, After Effects, and Premiere Pro. |
 | [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | The industry-standard vector graphics editor for logos, icons, typography, and complex illustrations. |
 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | A vector graphic design software alternative to Adobe Illustrator. It offers professional-grade features for illustration, UI design, and typography. |
@@ -163,15 +163,20 @@
 | [Fluid UI](https://www.fluidui.com) | Browser-based prototyping with built-in iOS/Android/Windows libraries. Real-time collaboration. |
 | [Justinmind](https://www.justinmind.com) | Enterprise prototyping with conditional navigation, variables, and data lists. Exports to HTML. |
 | [Kite Compositor](https://kiteapp.co) | macOS animation tool with Core Animation integration. Export as Swift code for developers. |
+| [LottieLab](https://www.lottielab.com/) | Modern in-browser motion graphics and vector animation editor for web and mobile Lottie animations. |
 | [Marvel](https://marvelapp.com) | Quick prototyping from sketches or designs with user testing built in. Great for early concepts. |
+| [Maze](https://maze.co/) | Product discovery and user testing platform with automated Figma prototype usability metrics. |
 | [MockFlow](https://www.mockflow.com) | Wireframing with built-in UI libraries, sitemaps, and style guide generation. |
 | [Mockplus](https://www.mockplus.com) | Rapid prototyping with 3000+ components and one-click export. Team collaboration features included. |
 | [Moqups](https://moqups.com) | All-in-one visual collaboration with wireframes, diagrams, and prototypes in one canvas. |
+| [Play](https://www.createwithplay.com/) | Native iOS design and interactive prototyping platform that uses SwiftUI to create genuine app interactions. |
 | [Principle](https://principleformac.com) | Timeline-based animation for macOS. Exports to video for Dribbble-ready presentations. |
 | [Proto.io](https://proto.io) | High-fidelity prototypes with device sensors, audio/video, and native-like interactions. |
 | [ProtoPie](https://www.protopie.io) | Sensor-based interactions without code — accelerometer, sound, and multi-device prototypes. |
 | [Relume](https://www.relume.io) | AI-powered wireframe and sitemap generator that exports to Figma and Webflow. |
 | [Spline](https://spline.design) | 3D design tool for the web — create interactive 3D experiences, animations, and product renders in the browser. |
+| [Stark](https://www.getstark.co/) | Comprehensive accessibility (a11y) suite for designers (contrast checker, color blindness simulator, focus order) for Figma and web. |
+| [Useberry](https://www.useberry.com/) | User testing platform for validating UX prototypes with heatmaps, user flows, and video recordings. |
 | [UXPin](https://www.uxpin.com) | Design with React, Storybook, or npm components. Merge technology connects design to production code. |
 | [v0 by Vercel](https://v0.dev) | AI-powered UI generation tool that creates React and Tailwind components from text prompts and images. |
 

@@ -148,6 +148,7 @@
 | [Lucide](https://lucide.netlify.app/) | Lucide is an open-source icon library, a fork of Feather Icons. |
 | [Lucide](https://lucide.dev) | A beautiful, consistent, and open-source icon library forked from Feather Icons with active community contributions. |
 | [Material Design Icons](https://materialdesignicons.com/) | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
+| [MingCute Icon](https://www.mingcute.com/) | 3,000+ open-source, carefully designed minimalist icons in SVG, WebFont, and Figma formats for web and mobile. |
 | [Nucleo App](https://nucleoapp.com/) | Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
 | [Phosphor Icons](https://phosphoricons.com) | Phosphor is a flexible icon family for interfaces, diagrams, presentations |
 | [Radix Icons](https://www.radix-ui.com/icons) | A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component, SVG and more. |

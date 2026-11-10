@@ -521,10 +521,14 @@
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements) | Style guide with UI components, JS components, widgets, etc |
 | [SendGrid Style Guide](https://styleguide.sendgrid.com/) | UI library for developing consistent UI/UX at SendGrid |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
+| [Specify](https://specifyapp.com/) | Design Data Platform and API that automatically syncs design tokens and assets from Figma into GitHub repositories. |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 | [StyleGuides.io](https://styleguides.io/) | A directory of 500+ styleguides |
+| [Supernova](https://www.supernova.io/) | End-to-end design system platform that transforms Figma designs into production-ready code (React, Flutter, iOS, Android). |
+| [Tokens Studio](https://tokens.studio/) | Powerful Figma design tokens engine for syncing token architectures directly with GitHub, Style Dictionary, and code. |
 | [VTEX Styleguide](https://styleguide.vtex.com/) | Reusable patterns, components and assets related to product design in VTEX |
 | [Yelp Style Guide](https://www.yelp.com/styleguide) | Yelp style guide, components and toolkit |
+| [Zeroheight](https://zeroheight.com/) | Industry-standard design system documentation platform integrating Figma, Storybook, and GitHub. |
 
 ## Vibe Coding & AI Dev
 

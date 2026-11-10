@@ -121,6 +121,7 @@
 | [Suno](https://suno.com) | AI music generation that creates full songs with vocals, lyrics, and instrumentation from text prompts. |
 | [TuneTank](https://www.tunetank.com/) | Offers free, high-quality royalty-free music for various creative projects. |
 | [Udio](https://www.udio.com) | Advanced AI music generator producing high-quality, genre-diverse tracks from text descriptions. |
+| [UI Sounds](https://uisounds.co/) | Hand-picked library of sound effects, chimes, and micro-interaction audio for user interfaces and mobile apps. |
 | [Unminus](https://www.unminus.com/) | Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
 | [Upbeat](https://www.upbeat.io/) | Free music for creators, with an option to upgrade for no credit requirement. |
 | [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) | Free music and sound effects for YouTube videos. |
