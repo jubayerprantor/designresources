@@ -1,4 +1,4 @@
-﻿# Typography & Fonts
+# Typography & Fonts
 
 > Free and open-source typefaces, font pairing tools, and an extensive Bangla font library for regional designers.
 
