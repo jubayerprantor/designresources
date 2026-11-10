@@ -42,13 +42,7 @@
 | [3D Jungle](https://3djungle.net/models/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Jungle](https://3djungle.ru/models/stucco/) | 3D Sky Free / Dikart - /ddd / - Mouldings |
 | [3D Mag](https://3dmag.org/en/market/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/other/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/3d-scenes/exterior/commercial-buildings/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/plants/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/other/creature/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/3d-scenes/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Maxter](https://3dmaxter.com/3d-models-for-game/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3DMaxter](https://3dmaxter.com/) | Extensive 3D model library featuring architectural exterior scenes, plants, and game assets. |
 | [3D Mechanisms](https://all3dp.com/2/compliant-mechanisms-3d-print/) | 15 Print-in-Place Mechanisms |
 | [3D Mili](https://3dmili.com/sculpture) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Model Japan](https://3dmj.info/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -176,7 +170,6 @@
 | [Animated Motion Capture](https://www.turbosquid.com/Search/3D-Models/animated?max_price=0&media_typeid=5) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [annieatkins-Grand Budapest graphic designer](https://www.instagram.com/annieatkins?igsh=MWhmbjh3dHF4bW1rZw==) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Archibase 3D](https://archibase3d.blogspot.com/search/label/hdri%20maps) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Archive](https://archive.org/search?query=warhammer+stl) | / Redit / CG Download / Telegram / 3 - Warhammer |
 | [Archive 3D](https://archive3d.net/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [archivinci.com](https://www.archivinci.com/blogs/top-cloud-rendering-softwares) | Top Renderfarm Cloud Rendering Services for Blender Users |
 | [are.na](https://www.are.na/nicky-knicky-3dxxlr2n7l4/delightful-interactions-bcb-j8spqiy) | Are.na Motion design collection , 2 , |
@@ -346,13 +339,11 @@
 | [Morflax Studio](https://studio.morflax.com/objects/upload) | - Render and illuminate object online |
 | [nag-all.com](https://nag-all.com/3dsmax-scripts/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [NASA 3D Resources](https://science.nasa.gov/3d-resources/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Neo 3D Poster](https://ar.pinterest.com/search/pins/?q=neo%203d%20poster&rs=typed) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [NIH 3D](https://3d.nih.gov/) | Anatomy, molecules, DNA, viruses |
 | [Note](https://note.com/1blog/n/nd385ff90343d) | Japanese Brush Calligrapry Achi / Japan Design / Photoshop Vip / Coliss |
 | [NVIDIA Precise Generative AI](https://github.com/NVIDIA-Omniverse-blueprints/3d-conditioning) | - Change textures to renders |
 | [Off Screen Canvas](https://offscreencanvas.com/renders/points-lines-and-people) | Cool onsite web animations Insight , , Cntrl / nvg8 |
 | [Omega Render](https://omegarender.com/3d-exterior-rendering-services) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [onedrive.live.com](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9mZTU0NDRiNDhhM2Q5ZWM5L0VzbWVQWXEwUkZRZ2dQNXlPd0FBQUFBQktJd1pVN2IyNEhUU1dRSm5pc3pKeFE%5FZT1pRnBnbkQ&id=FE5444B48A3D9EC9%2115218&cid=FE5444B48A3D9EC9) | Aromas del Campo Spain |
 | [Open 3D Model](https://open3dmodel.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Open 3D Model](https://open3dmodel.com/3d-models/sci-fi) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [P3DM](https://p3dm.ru/drawing/) | Car Blueprints |
@@ -448,7 +439,6 @@
 | [Gaffer](https://blender-addons.org/gaffer/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDR Ray](https://hdrray.com/hdris) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI and Materials](https://t.me/hdri_max) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [HDRI Drive](https://drive.google.com/drive/folders/1oyAixdaYQMzw0Hg7UAEe9KvwAEOpIV0E) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Generator](https://hyper3d.ai/omnicraft/hdri) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRi Haven](https://hdri-haven.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Hub](https://www.hdri-hub.com/hdrishop/freesamples/freehdri) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -497,7 +487,6 @@
 | [Ariel Ruiz](https://www.instagram.com/arielruiz.kreadiv/) | Interior Design and psychology |
 | [Artistic Render](https://artisticrender.com/category/blender/add-ons/) | - Architecture addons for Blender |
 | [Australian Interior Design Awards: Workspaces](https://australianinteriordesignawards.com/gallery/search?year=&category=workplace-design&location=&recognition=&q=) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Collection of Interior Design Descriptors](https://drive.google.com/file/d/1IwIfvtUaszrvNzPLtc1hWkqeHTKuLUOG/view) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Collov AI](https://collov.ai/) | Interior design - Not Free |
 | [David Drazil](https://david-drazil.gumroad.com/) | Architecture - Not Free |
 | [Design Professor](https://www.instagram.com/the.design.professor/reels/) | Interior Design lessons |
@@ -523,7 +512,6 @@
 | :--- | :--- |
 | [Free Luts Work](https://luts.work/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Fresh LUTS](https://freshluts.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [LOG LUTS Drive](https://drive.google.com/drive/folders/1f5JAa4Jul92LgEquvVZw31DLfcmxCcoy) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [LUT Builder AI](https://www.lutbuilder.ai/) | AI LUT Builder - 10 free LUTs/month |
 
 ## Sound Design
@@ -565,7 +553,6 @@
 | [Danzo Motion](https://danzomotion.com/) | Filter Grade / Mixkit / Motion Array / Motion Elements / Motion VFX |
 | [Derek Elliot](https://www.youtube.com/@derekelliott) | Youtube Smeaf , C Bailey , , Ducky 3d , In Light VFX |
 | [DJV](https://darbyjohnston.github.io/DJV/index.html) | - Open Sourcel VFX imagesequence and video review/player |
-| [Drive](https://drive.google.com/drive/folders/1L7-gZR5FjQeyDO6vNcWHAZtCVESyO1Rq) | 200GB of VFX, Edit, GFX pacl |
 | [Ducky 3d](https://www.youtube.com/@theducky3d) | Youtube Smeaf , C Bailey , Derek Elliot , , In Light VFX |
 | [Earth Digital](https://www.blauwfilms.com/products/earth-digital) | Era / Super Hive Market / Cube Brush / Blender Kit |
 | [elements.envato.com](https://elements.envato.com/add-ons/luts) | Envato , 2 , / Yci Maging |
@@ -584,8 +571,6 @@
 | [gumroad.com](https://gumroad.com/discover?query=Imperfection+Texture) | Gumroad / Lot Pixel / VFX Hunt - Not Free |
 | [In Light VFX](https://www.youtube.com/@InLightVFX) | Youtube Smeaf , C Bailey , Derek Elliot , Ducky 3d , |
 | [Industrial Revolution](https://idustrialrevolution.com/) | Color Finale / Alex 4D / FCPX / - Not Free |
-| [Internet Archive](https://archive.org/details/moviesandfilms) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Internet Archive](https://archive.org/search?query=creator%3A%22Encyclopaedia+Britannica+Films%22) | - Old News, Documentaries |
 | [Lot Pixel](https://www.lotpixel.com/texture-library/imperfections-textures) | Gumroad / 3 / VFX Hunt - Not Free |
 | [LUT Calc](https://lutcalc.net/) | LUT Analyer and Preview |
 | [Lutify](https://lutify.me/free-luts/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |

@@ -120,7 +120,6 @@
 | [K Pop Fonts](https://www.qusheet.com/22d58462-5cc6-452d-a25d-b700892a2079) | Collection of K-Pop inspired fonts and typefaces for design projects. |
 | [Like Font](https://en.likefont.com/) | Search and discover fonts similar to your favorites across multiple foundries. |
 | [Local Fonts](https://localfonts.eu/) | Local font marketplace and type foundry directory for designers. |
-| [Luxury Typography Design](https://ar.pinterest.com/search/pins/?q=luxury%20typography%20design&rs=ac&len=14&source_id=D8tnAwAF&eq=luxury%20typogra&etslf=5481) | Pinterest board of luxury typography design inspiration and ideas. |
 | [Maniackers](https://mksd.jp/designfont.html) | Japanese font and lettering showcase from Maniackers. |
 | [Maoken](https://www.maoken.com/freefonts) | Chinese free font directory and typeface resources. |
 | [Mix Font](https://www.mixfont.com/Junge+Secular-One) | Experimentally mix and combine Google Fonts to discover unique pairings. |
@@ -155,7 +154,6 @@
 | [Transfonter](https://transfonter.org/) | Transform Woff2 to Ttf |
 | [Twfont](https://www.twfont.com/chinese/) | Chinese font directory featuring traditional and simplified typefaces. |
 | [Typography Daily](https://typography-daily.com/) | Daily inspiration and resources for typography enthusiasts and designers. |
-| [Typography Experimental](https://ar.pinterest.com/search/pins/?q=Typography%20Experimental&rs=typed) | Pinterest board exploring experimental and avant-garde typography designs. |
 | [Typotheque](https://www.typotheque.com/fonts/cyrillic) | Typotheque page with original Cyrillic font families. |
 | [Uprock](https://www.fonts.uprock.ru/) | Collection of free fonts with a focus on Cyrillic and Russian typefaces. |
 | [Variable font course](https://www.variablefontcourse.com/) | Learn everything about variable fonts from basics to advanced implementation. |

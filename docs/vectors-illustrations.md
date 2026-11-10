@@ -14,7 +14,6 @@
 | :--- | :--- |
 | [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/) | Curated collection of 70+ Photoshop brush packs for digital painting, concept art, and illustration |
 | [Anatomical Illustrations](https://www.flickr.com/photos/133115863@N08/albums/72157654232226445/with/18406466060) | Vintage science illustrations | 
-| [Architecture illustrations](https://drive.google.com/drive/mobile/folders/16PYOSsYN6z7g6Xu80Yu67QI5SlzvnJII?usp=sharing) | Google Drive collection of architecture reference illustrations and drawings |
 | [Bendigo Gastronomy Illustrations](https://natalieryan.com.au/bendigo-gastronomy-illustrations) | Illustrated textile and food-inspired designs from Natalie Ryan |
 | [Biodiversity](https://www.flickr.com/photos/biodivlibrary/albums/) | Biology illustrations from the 19th and 20th centuries — 300,000 images |
 | [Eunho Lee](https://www.instagram.com/en_ho/) | Soft gradient illustrations |
@@ -178,7 +177,6 @@
 | [Motion Elements](https://www.motionelements.com/search/image?s=texture&sort=match) | Stock marketplace for texture and background graphics |
 | [Neat](https://neat.firecms.co/) | Free open-source animated 3D gradient generator for website backgrounds (WebGL) |
 | [Nouvelle Fantasies decoratives - E. Gillet (1922)](https://archive.org/details/vietasdecorativa00umbd/page/n35/mode/2up) | Book of Art Nouveau decorative patterns |
-| [Refracted Spectral Gradients](https://ar.pinterest.com/search/pins/?q=refracted%20spectral%20gradients&rs=typed) | Pinterest collection of refracted spectral gradient inspiration |
 | [S Backgrounds](https://www.samolevsky.com/collections/backgrounds) | Premium background and pattern collections from Samolevsky |
 | [Samolevsky](https://www.samolevsky.com/collections/textures) | Premium texture and overlay collections from Samolevsky |
 | [Types of Colonial Wallpapers](https://archive.org/details/m.-h.-birge-sons-company-1940/page/n67/mode/2up) | Digitized archive catalog of colonial wallpaper types and patterns from 1940 |

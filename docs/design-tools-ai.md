@@ -276,7 +276,6 @@
 | [Minton Hollins & Co - England - 1875](https://archive.org/details/minton-hollins-co.4173/page/n35/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Mosaico Nolla - Spain - 1870](https://archive.org/details/catalogsamplest00migu/page/n51/mode/2up) | Spain - 1870 |
 | [Motion Elements](https://ai.motionelements.com/) | - AI Video Editing Tools |
-| [Naive Illustration](https://ar.pinterest.com/search/pins/?q=naive%20illustration%20graphic%20design&rs=typed) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [NeuTTS-Air -](https://huggingface.co/spaces/neuphonic/neutts-air) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | - 100 sketch variations on a lounge chair |
 | [Old Time radio](https://archive.org/details/lumedwards) | / Old Time Radio Youtube |

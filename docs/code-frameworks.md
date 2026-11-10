@@ -232,7 +232,6 @@
 | [DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
 | [Epic Spinners](https://epic-spinners.epicmax.co/) | CSS spinners collection with Vue.js integration. |
 | [Fast](https://www.fast.design/) | An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
-| [Figma Bootstrap 5 UI Kit](https://drive.google.com/file/d/1SZOTxXYfCMujqP2P684Vd5QIrlk5bwe6/view?usp=sharing) | UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. |
 | [Flat UI](https://designmodo.github.io/Flat-UI/) | Minimal free user interface kit |
 | [Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
 | [Flowbite](https://flowbite.com) | Open-source library of Tailwind CSS components |
