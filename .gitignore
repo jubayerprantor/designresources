@@ -4,8 +4,8 @@ jspm_packages/
 web_modules/
 
 # VitePress / Build outputs
-.vitepress/dist/
-.vitepress/cache/
+**/.vitepress/dist/
+**/.vitepress/cache/
 dist/
 
 # Logs

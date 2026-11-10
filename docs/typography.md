@@ -39,9 +39,7 @@
 | [Cufon Fonts](https://www.cufonfonts.com/category/sans-serif) | Large collection of font styles with category filters and preview tools. |
 | [Cute,](https://cute-freefont.flop.jp/) | Japanese font portal for cute and decorative free fonts. |
 | [Cyrillic Fonts](https://cyrillic-fonts.ru/) | Russian font archive featuring Cyrillic typefaces and downloads. |
-| [Da Font file](https://dafontfile.org/category/arabic-font/) | Arabic font archive with free and premium Arabic typefaces. |
 | [Dafont](https://www.dafont.com/es/) | One of the largest archives of freely downloadable fonts on the web. |
-| [DafontFile](https://dafontfile.org/) | Zip Password: dafontfile.org |
 | [Deefont](https://www.deefont.com/) | Curated library of free and commercial fonts with category browsing and previews. |
 | [Design College](https://design-college.jp/freefont-mouhitsu/) | Japanese brush font roundup and calligraphy font resources. |
 | [Devanagari Font Testing Page](https://www.motaitalic.com/tools/devanagari-font-tester/) | Test and preview Devanagari fonts with full character set and language samples. |
@@ -168,6 +166,9 @@
 | [What Font is](https://www.whatfontis.com/) | Upload an image to identify fonts with a large database of typefaces. |
 | [What The Google Font?](https://www.serbyte.net/what-the-google-font) | Find Google Fonts similar to your favorite typeface. |
 | [Wonder Font](https://wonderfont.ru/) | Russian Cyrillic font archive and typeface downloads. |
+| [Butterick’s Practical Typography](https://practicaltypography.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Coefont](https://coefont.cloud/en) | - Create an AI clone version of your voice |
+| [Fionts in use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Type Foundries , Font Library , Type Supply , Dropmark , |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |
 | [WTFont](https://t.me/wtfont) | Telegram channel for Cyrillic font identification and discussion. |
 | [Wumanzoo](https://wumanzoo.com/chinese-calligraphy-font-2/) | Chinese calligraphy font collection with free downloads. |
@@ -188,7 +189,6 @@
 | [モジザイ](https://www.mojizai.com/) | Japanese font design gallery and free typeface previews. |
 | [산돌구름](https://namu.wiki/w/%EC%82%B0%EB%8F%8C%EA%B5%AC%EB%A6%84) | Korean font service information page for Sandol Cloud. |
 | [폰트비](https://fontbee.waffle-gl.org/) | Korean font portal with previews and downloads. |
-| [🏴‍☠️](https://t.me/c/1710375100/1/56079) | Telegram post about creating fonts from images with Fontself Maker. |
 | [1001 Free Fonts](https://www.1001freefonts.com/) | Offers a vast collection of free fonts for personal and commercial use. |
 | [Abstract Fonts](https://www.abstractfonts.com/) | A collection of free fonts available for download and use in personal and commercial projects. |
 | [Adobe Fonts](https://fonts.adobe.com/) | Access thousands of high-quality fonts from Adobe Fonts. |

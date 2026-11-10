@@ -23,6 +23,10 @@
 | [Motion Lab](https://www.motionlab.co.kr/TUTORIAL) | Motion design tutorials and animation resources for kinetic typography, effects, and video storytelling. |
 | [The Vault - Learning Design](https://newincreative.notion.site/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9?s=09) | Notion-based collection of design guides, templates, and inspiration for creative projects. |
 | [Vagon](https://vagon.io/blog/best-sketchup-tutorials) | Blog post recommending SketchUp tutorials and rendering tips for fast 3D scene creation. |
+| [Hugging Face - AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [ChatGPT](https://chatgpt.com) | Use the free ChatGPT tier to generate code explanations, design walkthroughs, and idea brainstorming. |
+| [Claude](https://claude.ai) | Anthropic's conversational AI great for in-depth learning support, writing help, and summarization. |
 | [Codecademy](https://www.codecademy.com) | Learn-by-doing platform with in-browser coding exercises. Free tier covers basics well. |
 | [Coursera](https://www.coursera.org) | University-level courses from Stanford, Yale, and Google. Certificates count toward degrees. |
 | [Coursera Graphic Design](https://www.coursera.org/courses?query=graphic%20design) | Online courses on graphic design. |

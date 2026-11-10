@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <defs>
+    <linearGradient id="primary-grad" x1="10" y1="10" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="accent-grad" x1="30" y1="20" x2="90" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background Glow & Base Hexagon -->
+  <rect x="8" y="8" width="104" height="104" rx="28" fill="#0F172A" stroke="url(#primary-grad)" stroke-width="2.5" />
+  
+  <!-- Outer glowing rings -->
+  <ellipse cx="60" cy="60" rx="36" ry="16" transform="rotate(-30 60 60)" stroke="url(#accent-grad)" stroke-width="2.5" stroke-dasharray="6 3" opacity="0.8" />
+  <ellipse cx="60" cy="60" rx="36" ry="16" transform="rotate(35 60 60)" stroke="url(#primary-grad)" stroke-width="2.5" opacity="0.9" />
+
+  <!-- Center Floating Gem / Cube -->
+  <polygon points="60,35 84,48 84,74 60,87 36,74 36,48" fill="url(#primary-grad)" opacity="0.85" filter="url(#glow)"/>
+  <polygon points="60,35 84,48 60,61 36,48" fill="#A78BFA" opacity="0.7"/>
+  <polygon points="60,61 84,48 84,74 60,87" fill="#6366F1" opacity="0.6"/>
+  <polygon points="36,48 60,61 60,87 36,74" fill="#3B82F6" opacity="0.8"/>
+
+  <!-- Accent sparks -->
+  <circle cx="88" cy="36" r="3.5" fill="#F59E0B" filter="url(#glow)"/>
+  <circle cx="32" cy="84" r="2.5" fill="#06B6D4" filter="url(#glow)"/>
+  <circle cx="92" cy="78" r="2" fill="#EC4899"/>
+</svg>
+

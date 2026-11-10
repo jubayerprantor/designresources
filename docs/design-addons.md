@@ -166,10 +166,7 @@
 | [Museum Textures](https://www.museumtextures.com/) | French image bank offering free high-quality textures for Photoshop and 3D students and architects. |
 | [My Free Textures](https://www.myfreetextures.com/) | Free texture library offering a variety of seamless and non-seamless textures for design projects. |
 | [njbrown.itch.io](https://njbrown.itch.io/texturelab) | Free and open source procedural texture generation tool for Windows, macOS, and Linux. |
-| [Onelvxe PBR Material Pipeline](https://cgdownload.ru/catalog/5863-onelvxe-pbr-textures/) | Russian site offering 90 PBR materials with ONELVXE Texture Bridge for free download. |
-| [Overlay](https://intro-hd.net/?s=film+overlay&category=Select+All) | Site offering free After Effects and Premiere Pro templates including film overlays and effects. |
 | [Overlay FX](https://www.overlayfx.com/category/overlays-transitions) | Website offering overlay and transition effects for video editing and motion graphics projects. |
-| [Overlays](https://www.psdly.to/?s=film+overlay) | Free premium graphic resources site with film overlays, Photoshop actions, and After Effects templates. |
 | [Paper Texture](https://ar.pinterest.com/search/pins/?q=paper%20texture&rs=typed) | Pinterest search results aggregating thousands of paper texture pin references. |
 | [Paper Texture](https://aminesz.gumroad.com/l/papertexture2) | Gumroad listing for a pack of over 100 animated crumpled paper textures. |
 | [Paper-co](https://free-paper-texture.com/) | Japanese site offering free high-quality paper textures available for commercial use. |
@@ -179,7 +176,6 @@
 | [Pixabay](https://pixabay.com/images/search/texture/) | Pixabay search page with over 70,000 free royalty-free texture background images. |
 | [Plain Textures](https://www.plaintextures.com/) | Collection of free textures, PBR textures, photos, brushes, patterns and material packs. |
 | [Plant Modelling in Blender](https://www.textures.com/category/tutorials/114571) | Textures.com tutorial on plant modelling in Blender with step-by-step guidance. |
-| [Poliigon](https://cgdownload.ru/catalog/0912-surface-imperfections-3d-textures/) | Russian site offering Poliigon Surface Imperfections texture pack for free download. |
 | [Procreate Brush](https://procreatebrush.net/product-category/free-brushes/page/4/) | Marketplace for free and paid Procreate brushes organized by category and style. |
 | [Procreate Brushes](https://procreate.brushes.work/) | Catalog of over 1,800 free and paid Procreate brushes from various artists worldwide. |
 | [Procreate Club](https://t.me/procratefree) | Telegram channel sharing free Procreate brush packs and digital art resources. |
@@ -264,6 +260,11 @@
 | [Yellow Images](https://yellowimages.com/graphic-design/category/textures) | Premium design resource marketplace offering textures, mockups, and graphic design assets. |
 | [Zuli](https://zuli.gumroad.com/l/freesofttextures) | Gumroad page offering a free pack of soft fabric textures for 3D rendering and design. |
 | [Zulia Assets](https://www.zuliassets.com/shop/textures) | Marketplace offering texture packs, mockups, and vintage design resources for digital artists. |
+| [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [AVGFX](https://www.avxgfx.com/photoshop_addons/ps_brushes/) | / PSD Keys / Wow Brushes |
+| [Envato](https://elements.envato.com/add-ons/brushes/compatible-with-procreate(Not) | Etsy , Creative Fabrica , Heritage Type / - |
+| [Sincronia](https://www.syncronia.com/en/download-3d-textures) | - List of brands with available Textures |
+| [TextureMap](https://texturemap.org/) | - Maps for colorblinded people |
 | [Brusheezy](https://www.brusheezy.com/) | Offers a wide range of free Photoshop brushes, patterns, textures, and more. It's a community-driven site where designers share their resources. |
 | [BrushKing](https://www.brushking.eu/) | Provides a wide collection of free Photoshop brushes for various design needs. |
 | [BrushLovers](https://www.brushlovers.com/) | Provides a good selection of high-quality free Photoshop brushes. The site also offers premium brushes for more advanced needs. |

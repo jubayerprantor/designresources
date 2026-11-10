@@ -14,7 +14,7 @@ hero:
       link: /design-inspiration
     - theme: alt
       text: Contribute on GitHub
-      link: https://github.com/jubayerprantor/designresources
+      link: https://github.com/GiveBack2People/designresources
 
 features:
   - icon: 💡
@@ -107,10 +107,10 @@ features:
 
 ## How to Contribute
 
-This is a personal collection, open to community contributions. If you know a great resource that belongs here:
+This is a community-driven collection powered by **GiveBack2People**, open to contributions. If you know a great resource that belongs here:
 
-1. **Fork** this repository on [GitHub](https://github.com/jubayerprantor/designresources)
-2. **Add** your resource to `README.md` following the existing table format
+1. **Fork** this repository on [GitHub](https://github.com/GiveBack2People/designresources)
+2. **Add** your resource to the appropriate category file in `docs/` (e.g., `docs/typography.md`, `docs/stock-photos.md`) following the existing table format
 3. **Submit a Pull Request** with a brief description of what you're adding
 
 > Please make sure the resource is free or has a meaningful free tier, working, and genuinely useful. Duplicate or broken links will be declined.

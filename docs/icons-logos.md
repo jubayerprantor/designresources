@@ -67,6 +67,16 @@
 | [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | Extended preview of Material Design Icons from the MDI sandbox. |
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
 | [Mono Icons](https://icons.mono.company/) | Simple monochrome SVG icon set for UI design. |
+| [Beneito Faure](https://beneito-faure.com/catalogos/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Dribble](https://dribbble.com/search/free-icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icon Build](https://iconbuild.com/?_gl=1*1iqfk2z*_gcl_au*MTY3NTMwODUuMTc1NTI3NjUwNg..*_ga*MjkyNzgwMjU5LjE3NTUyNzY1MDY.*_ga_699HT9K481*czE3NTUyNzY1MDUkbzEkZzAkdDE3NTUyNzY1MDUkajYwJGwwJGgw) | - Texas 3D Printed Homes |
+| [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconic Offices](https://www.iconicoffices.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconic World](https://www.iconic-world.com/directory) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons 8](https://icons8.com/l/3d-textures/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons 8](https://icons8.com/music/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Martinelli Luce](https://martinelliluce.it/it/catalogo/iconici) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Motion Array](https://motionarray.com/browse/graphics/icons/) | Vector Icons / Creative Market / Envato / Gumroad / |
 | [My Crate](https://my.crate.as/?tag=Icon) | The Noun Project / / Yellow Images / Icon Finder / YWFT |
 | [Obra Icons](https://icons.obra.studio/) | OpenMoji / / Octicons |

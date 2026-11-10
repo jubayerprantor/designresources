@@ -44,6 +44,7 @@
 | [商用利用OK](https://webdesign-trends.net/entry/15269) | Japanese blog post highlighting commercial-use free illustration sites |
 | [無料イラスト](https://www.linustock.com/vectors) | Free Japanese line-art illustration site with simple vector-style assets |
 | [随時更新](https://www.lynx-co.jp/blog/best-free-asset-sites/) | Japanese asset roundup article updated regularly with free illustrations and design resources |
+| [Simone](https://simonenoronha.com/Hatch-Sleep-Babies-Kids-Audio-Library) | Soft gradient illustrations |
 | [100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens |
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
 | [Absurd.design](https://absurd.design/) | Free surrealist illustrations for designers and developers |
