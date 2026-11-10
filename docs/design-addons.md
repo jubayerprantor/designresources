@@ -32,7 +32,6 @@
 | [A free repository of 100K textures generated from 1,270 scientific simulations​](https://www.reddit.com/r/blender/comments/1p6r5k6/scitextures_a_free_repository_of_100k_textures/) | Reddit post announcing a free repository of 100,000 textures generated from 1,270 scientific simulations. |
 | [Ace Brush](https://www.dan.art/acebrushes) | Gumroad page for Ace Brush sets, a commercial brush collection available for purchase from various marketplaces. |
 | [Acubens Design](https://acubensdesign.gumroad.com/l/scribbletextures) | Gumroad page offering free scribble texture packs for graphic design and digital art projects. |
-| [AE Blender](https://www.aeblender.com/tag/zbrush/) | Website sharing free ZBrush brushes, alphas, patterns, and resources for 3D sculpting. |
 | [AE Screens](https://aescreens.gumroad.com/l/texture-hop) | Gumroad page offering animated paper textures and motion graphics presets. |
 | [All 3D](https://all-3dd.com/product-category/textures/?wpf=wpf_64f79341ddb90&wpf_page=1&wpf_cat=textures&wpf_pa_price=free) | Marketplace offering free and paid 3D textures including wood, metal, fabric, tile, and HDRI for 3ds Max. |
 | [Anagram Design](https://anagramdesign.graphics/free-textures/) | Website offering free texture packs including marble, concrete, brick, smoke, fire, and shattered glass for designers. |
@@ -170,7 +169,6 @@
 | [Procreate Club](https://t.me/procratefree) | Telegram channel sharing free Procreate brush packs and digital art resources. |
 | [Procreate Folio](https://folio.procreate.com/discussions/10) | Procreate community forum where users share resources, tips and discussion threads. |
 | [PSD Keys](https://psdkeys.com/add-ons/brushes/) | Website offering free Photoshop brushes, add-ons and design resources. |
-| [PSDLY](https://www.psdly.xyz/?s=paper+texture) | Free premium graphics resource site with paper textures, mockups and Photoshop add-ons. |
 | [Pure Ref for Blender](https://github.com/kken498/References-Overlays) | Blender add-on that lets users add image and video references directly in the 3D viewport. |
 | [Raw Textures](https://raw-textures.com/) | Free high-resolution texture library for 3D artists and graphic designers. |
 | [Rawpixel](https://www.rawpixel.com/search/paper%20texture?page=1&path=1522&sort=curated) | Royalty-free stock photography site with paper textures, overlays and design resources. |
@@ -246,7 +244,7 @@
 | [Yellow Images](https://yellowimages.com/graphic-design/category/textures) | Premium design resource marketplace offering textures, mockups, and graphic design assets. |
 | [Zuli](https://zuli.gumroad.com/l/freesofttextures) | Gumroad page offering a free pack of soft fabric textures for 3D rendering and design. |
 | [Zulia Assets](https://www.zuliassets.com/shop/textures) | Marketplace offering texture packs, mockups, and vintage design resources for digital artists. |
-| [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | ArtStation marketplace section for photography abstract effects and FX resources |
 | [AVGFX](https://www.avxgfx.com/photoshop_addons/ps_brushes/) | / PSD Keys / Wow Brushes |
 | [Envato](https://elements.envato.com/add-ons/brushes/compatible-with-procreate(Not) | Etsy , Creative Fabrica , Heritage Type /|
 | [Sincronia](https://www.syncronia.com/en/download-3d-textures) | - List of brands with available Textures |

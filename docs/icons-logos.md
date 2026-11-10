@@ -67,13 +67,13 @@
 | [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | Extended preview of Material Design Icons from the MDI sandbox. |
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
 | [Mono Icons](https://icons.mono.company/) | Simple monochrome SVG icon set for UI design. |
-| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Dribbble](https://dribbble.com/search/free-icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconic World](https://www.iconic-world.com/directory) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons 8](https://icons8.com/l/3d-textures/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons 8](https://icons8.com/music/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Martinelli Luce](https://martinelliluce.it/it/catalogo/iconici) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | Historical digitized 1925 catalog of ornamental relief tiles and decorative architectural borders. |
+| [Dribbble](https://dribbble.com/search/free-icons) | Curated search stream of community-shared free icon sets and vector assets on Dribbble. |
+| [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | Millions of icons, illustrations, 3D, or stickers for your design projects. Created by independent designers. |
+| [Iconic World](https://www.iconic-world.com/directory) | Directory and archive celebrating iconic architecture, product silhouettes, and interior design. |
+| [Icons 8](https://icons8.com/l/3d-textures/) | Curated library of free 3D models, textures, and clay UI illustrations from Icons8. |
+| [Icons 8](https://icons8.com/music/) | Royalty-free background music and audio tracks for video creators and design prototypes. |
+| [Martinelli Luce](https://martinelliluce.it/it/catalogo/iconici) | Design catalog showcasing iconic Italian lighting fixtures, silhouettes, and luminaires. |
 | [Motion Array](https://motionarray.com/browse/graphics/icons/) | Vector Icons / Creative Market / Envato / Gumroad |
 | [My Crate](https://my.crate.as/?tag=Icon) | The Noun Project / Yellow Images / Icon Finder / YWFT |
 | [Obra Icons](https://icons.obra.studio/) | OpenMoji / Octicons |

@@ -118,7 +118,7 @@
 | [Vibes Mockup](https://vibesmockup.com/) | Photography-based high-quality design mockups |
 | [Video Hive](https://videohive.net/category/after-effects-project-files?term=mockup) | After Effects mockup and video asset marketplace |
 | [Framery](https://framery.com/en/) | 3D Phone Booths Finland |
-| [Hannah Luen](https://hannahluen.com/collections/big-canvas-without-frame) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Hannah Luen](https://hannahluen.com/collections/big-canvas-without-frame) | High-resolution wall art and large canvas mockups for interior presentation. |
 | [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCDHlwLSMEm0bGuo-9uZtOM9l40U0D_i8l25rsF6Qulb7TBCdpM7gQaAuiFEALw_wcB&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_source=1&gad_campaignid=22553582104&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV) | Follows concept, branding |
 | [Animockup](https://github.com/alyssaxuu/animockup) | Create animated mockups in the browser 🔥. |
 | [AppLaunchpad](https://theapplaunchpad.com) | Generate beautiful mockups for your app or website. |

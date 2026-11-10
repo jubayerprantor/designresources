@@ -73,7 +73,6 @@
 | [Adobe Podcast](https://podcast.adobe.com/) | - Clean up enhance voice recording |
 | [Adobe Sound Effects](https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html) | Royalty-free sound effects library |
 | [Adrenalina](https://adrenalina.it/en/families/) | Italian furniture brand |
-| [3D G;lass letters, numbers](https://t.me/ooutsidepsd/1317) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [AE River](https://aeriver.com/add-ons/after-effects-scripts/) | AEBlender , 2 , / Intro HD / PSDLY |
 | [AesthDesign](https://aesthesign.gumroad.com/) | Flostanger , , Antonin / Manuel / Kmo - Not Free |
 | [Aeux](https://google.github.io/AEUX/) | Figma to After Effects |
@@ -154,7 +153,7 @@
 | [ArtStation](https://www.artstation.com/) | Artist portfolio and marketplace |
 | [artstation.com](https://www.artstation.com/marketplace/p/a5Xq/huge-6k-atlas-pack-40-types-16-bit) | Foliage - Not Free |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev?section=trending&q=VDM) | VDM brush marketplace results |
-| [Archscolar](https://web.archive.org/web/20260108194405/https://www.archscholar.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Archscolar](https://web.archive.org/web/20260108194405/https://www.archscholar.com/) | Archived architectural scholarship and historical portfolio reference collection. |
 | [artstation.com](https://www.artstation.com/marketplace/p/xk9Oz/50-unique-gobos-easy-natural-lighting-caustics-shadows) | Art Station , , 3 , 4 Not Free |
 | [artstation.com](https://www.artstation.com/marketplace/p/w2pAn/20-sci-fi-gobos-easy-artificial-and-experimental-lighting) | Art Station , 2 , , 4 Not Free |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev?section=trending&q=PNG%2FMasked%20Reference%20Pack) | CG Tricks / Art Station / 5 / 7 |
@@ -265,7 +264,7 @@
 | [Crate & Barrel](https://www.crateandbarrel.com/) | Furniture and home decor store |
 | [Creatiflux](https://creatiflux.gumroad.com/) | 40 Sci Fi Decals , DCNSTRD , , Nik Vili / Cube Brush - Not Free |
 | [Creating An Animated Room For Motion Graphics](https://t.me/megac4d/313) | Motion graphics room tutorial |
-| [Collectoion of Design Studios](https://docs.google.com/spreadsheets/d/1i1W-4VqKQntLmEJ3ir7nFKdpsIX-es2pGpTIPHZTpro/edit?gid=0#gid=0) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Collectoion of Design Studios](https://docs.google.com/spreadsheets/d/1i1W-4VqKQntLmEJ3ir7nFKdpsIX-es2pGpTIPHZTpro/edit?gid=0#gid=0) | Comprehensive public spreadsheet directory indexing global creative design studios. |
 | [Creative Codex](https://www.creativecodex.co/) | - Industry standard definitions in Motion Design |
 | [Creative Mrkt](https://t.me/creativemrkt/7328) | Telegram Mockup World |
 | [Creative Mrkt](https://t.me/creativemrkt) | 4 Design / Texture 4 Photoshop / Private Designer |
@@ -369,7 +368,7 @@
 | [Designus](https://ko.designus.design/?s=09) | UI design reference community platform |
 | [Desiree](https://www.desiree.com/it/prodotti/divani) | Designer Italian sofa collections |
 | [Desiree](https://www.desiree.com/it/prodotti/letti) | Designer Italian bed collections |
-| [Design Syindrome](https://designsyndrome.com/blogs/techandbooks/creative-workstation-component-recommendations-updated-2024) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Design Syindrome](https://designsyndrome.com/blogs/techandbooks/creative-workstation-component-recommendations-updated-2024) | Creative workstation component recommendations for designers |
 | [Deviant Art](https://www.deviantart.com/tag/fbx) | / Tatto Smart / CG Trader /D People |
 | [deviantart.com](https://www.deviantart.com/search?q=y2k+png) | Y2K Stickers , 2 , 4 , 5 , 6 , 7 , 8 , 9 , 0 / Softarchive / Designers Uni / Y2K Badges / Tumblr |
 | [Devorm](https://www.devorm.nl/products) | Netherlands |
@@ -586,7 +585,7 @@
 | [Home by me](https://home.by.me/en/) | - Create 3D models - Not free |
 | [Honoka Lab](https://honoka-lab.jp/#works) | - Tatami 3D Printed furniture |
 | [Hotel Designs.net](https://hoteldesigns.net/reviews/) | Hotel design reviews and news |
-| [How to use Figma: A step-by-step tutorial [2024] - Markup.io](https://www.markup.io/blog/how-to-use-figma/) | Hotel design reviews and news |
+| [How to use Figma: A step-by-step tutorial [2024] - Markup.io](https://www.markup.io/blog/how-to-use-figma/) | Step-by-step visual beginner tutorial covering core Figma tools, auto layout, and responsive components. |
 | [Hugging Face](https://huggingface.co/spaces) | - Collection of free AIs |
 | [huggingface.co](https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev) | Flux Krea / Krea /  - Open Source, uncensored |
 | [huggingface.co](https://huggingface.co/docs/lerobot/en/hope_jr) | Hugging face open source robot |
@@ -647,7 +646,6 @@
 | [Japan Design](https://japan-design.jp/design/0125/) | Japanese Brush Calligrapry Achi / Note / Photoshop Vip / Coliss |
 | [Japan Package Design Awards](https://www.jpda.or.jp/en/award) | 3D printing maker designs |
 | [Japanese Flash Web Design Archives](https://tters.jp/jfwda) | 3D printing maker designs |
-| [How to use Figma: A step-by-step tutorial [2024] - Markup.io](https://www.markup.io/blog/how-to-use-figma/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Jared Owen](https://www.instagram.com/jaredowenanimations/reels/) | Keith Schacht / Mechanism Pluss / , Mech Design 98 |
 | [Jessie and Katie](https://www.jessieandkatey.com/) | - Abstract, Geometric, Colorful |
 | [jollyhohnsonart.gumroad.com](https://jollyhohnsonart.gumroad.com/l/ncvuv) | Window Brush pack, Sunflecks , 2 , 3 |

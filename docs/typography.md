@@ -164,7 +164,7 @@
 | [What Font is](https://www.whatfontis.com/) | Upload an image to identify fonts with a large database of typefaces. |
 | [What The Google Font?](https://www.serbyte.net/what-the-google-font) | Find Google Fonts similar to your favorite typeface. |
 | [Wonder Font](https://wonderfont.ru/) | Russian Cyrillic font archive and typeface downloads. |
-| [Butterick’s Practical Typography](https://practicaltypography.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Butterick’s Practical Typography](https://practicaltypography.com/) | Acclaimed online handbook by Matthew Butterick covering essential typography principles. |
 | [Fonts In Use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Type Foundries , Font Library , Type Supply , Dropmark , |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |
 | [WTFont](https://t.me/wtfont) | Telegram channel for Cyrillic font identification and discussion. |

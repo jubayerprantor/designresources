@@ -257,3 +257,64 @@
   -webkit-animation: orbit2 22s linear infinite;
   animation: orbit2 22s linear infinite;
 }
+
+/* ==========================================================================
+   Responsive Table Styles & Typography Polish
+   ========================================================================== */
+.vp-doc table {
+  width: 100% !important;
+  display: table !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 1.2rem 0 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  border: 1px solid var(--vp-c-divider) !important;
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-mute) !important;
+  font-weight: 600 !important;
+  padding: 10px 14px !important;
+  text-align: left !important;
+  border-bottom: 2px solid var(--vp-c-divider) !important;
+}
+
+.vp-doc td {
+  padding: 10px 14px !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+  vertical-align: top !important;
+  line-height: 1.55 !important;
+}
+
+.vp-doc tr:last-child td {
+  border-bottom: none !important;
+}
+
+.vp-doc tr:nth-child(even) td {
+  background-color: var(--vp-c-bg-soft) !important;
+}
+
+.vp-doc tr:hover td {
+  background-color: var(--vp-c-bg-mute) !important;
+}
+
+/* Resource Link styling */
+.vp-doc td:first-child a {
+  font-weight: 600 !important;
+  color: var(--vp-c-brand-1) !important;
+  word-break: break-word !important;
+}
+
+@media (max-width: 640px) {
+  .vp-doc table {
+    display: block !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+  }
+  .vp-doc th, .vp-doc td {
+    padding: 8px 10px !important;
+    font-size: 0.9rem !important;
+  }
+}
+
