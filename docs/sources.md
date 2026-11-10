@@ -9,13 +9,11 @@ This hub is built on the shoulders of generous people who shared their knowledge
 | 3 | **Reinaldo Simões** — A clean, community-curated design resource collection. | [reinaldosimoes/design-resources](https://github.com/reinaldosimoes/design-resources) |
 | 4 | **The People's Design Library** — A crowd-sourced Google Sheets spreadsheet built by a passionate design community. | [View Spreadsheet](https://docs.google.com/spreadsheets/d/13GStMRQfbn5glWVkUPqFtW1oovyKhMDdRKD3m5cstBg/edit?gid=0#gid=0) |
 | 5 | **GoAbstract (Awesome Design Tools)** — An industry-standard, community-driven directory of professional software for UX/UI designers, design systems, and product teams. | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) |
-| 6 | **Best Web Design Tools** — A curated directory of modern web design utilities, Figma plugins, agencies, and frontend resources. | [bestwebdesigntools.com](https://bestwebdesigntools.com/) |
-
 ---
 
 ## 🤖 Curation & Ingestion Pipeline
 
-Compiling over **3,500+ design resources** across various disparate sources is a monumental task. To handle this efficiently and keep the dataset clean, structured, and searchable:
+Compiling over **4000+ design resources** across various disparate sources is a monumental task. To handle this efficiently and keep the dataset clean, structured, and searchable:
 
 * **Automated Python Scripts:** Custom Python automation was used to parse external markdown repositories, scrape crowd-sourced Google Sheets spreadsheets, and extract link metadata.
 * **AI Agent Structuring (Antigravity):** Agentic workflows cleaned, categorized, and deduplicated the raw links, converting them into uniform Markdown tables compatible with VitePress.
