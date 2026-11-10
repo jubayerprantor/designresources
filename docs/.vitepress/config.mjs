@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Design Resources",
   base: '/',
-  description: "A curated collection of design resources for graphic designers, UI/UX designers, developers, and creatives.",
+  description: "A curated collection of 4,000+ hand-picked design resources, assets, and frameworks for graphic designers, UI/UX designers, developers, and creatives.",
   lang: 'en-US',
   cleanUrls: true,
   appearance: 'dark',
@@ -20,10 +20,10 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: 'Design Resources Hub' }],
     ['meta', { property: 'og:image', content: 'https://designresources.eu.cc/og-image.png' }],
     ['meta', { property: 'og:url', content: 'https://designresources.eu.cc/' }],
-    ['meta', { property: 'og:description', content: 'Curated collection of 4,500+ hand-picked design tools, assets, and frameworks for creatives.' }],
+    ['meta', { property: 'og:description', content: 'Curated collection of 4,000+ hand-picked design tools, assets, and frameworks for creatives.' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'Design Resources Hub | GiveBack2People' }],
-    ['meta', { name: 'twitter:description', content: 'Curated collection of 4,500+ hand-picked design tools, assets, and frameworks for creatives.' }],
+    ['meta', { name: 'twitter:description', content: 'Curated collection of 4,000+ hand-picked design tools, assets, and frameworks for creatives.' }],
     ['meta', { name: 'twitter:image', content: 'https://designresources.eu.cc/og-image.png' }]
   ],
   themeConfig: {
@@ -31,7 +31,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'GitHub', link: 'https://github.com/GiveBack2People/designresources' },
       { text: 'Contribute', link: '/contributing' },
-      { text: 'Sources', link: '/sources' }
+      { text: 'Sources', link: '/sources' },
+      { text: 'Contact', link: 'mailto:hello@designresources.eu.cc' }
     ],
     search: {
       provider: 'local'

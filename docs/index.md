@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Design Resources"
   text: "A curated collection for creatives."
-  tagline: "3,500+ hand-picked tools, assets, and references for designers and developers — all in one place."
+  tagline: "4,000+ hand-picked tools, assets, and references for designers and developers — all in one place."
   image:
     src: /logo.png
     alt: Design Resources

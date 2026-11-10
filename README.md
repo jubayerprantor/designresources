@@ -1,8 +1,11 @@
 # Design Resources Hub 🎨✨
 
 [![Deploy VitePress site to Pages](https://github.com/GiveBack2People/designresources/actions/workflows/deploy.yml/badge.svg)](https://github.com/GiveBack2People/designresources/actions/workflows/deploy.yml)
+[![Live Site](https://img.shields.io/badge/Live_Site-designresources.eu.cc-00C7B7?style=flat-square&logo=cloudflare)](https://designresources.eu.cc/)
+[![Contact Email](https://img.shields.io/badge/Contact-hello%40designresources.eu.cc-FF5722?style=flat-square&logo=gmail)](mailto:hello@designresources.eu.cc)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-Explore a curated collection of **3,500+ hand-picked design tools, assets, references, and frameworks** for graphic designers, UI/UX designers, developers, and creatives.
+Explore a curated collection of **4,000+ hand-picked design tools, assets, references, and frameworks** for graphic designers, UI/UX designers, developers, and creatives.
 
 🚀 **[Browse the Gorgeous Live Website](https://designresources.eu.cc/)**
 
@@ -65,7 +68,7 @@ This database is built for the community. The visual composition and interactive
 
 ### 🤖 Automated Curation Pipeline
 
-To compile and categorize over **3,500+ design resources** from external lists, crowd-sourced spreadsheets, and community submissions, we utilized automated Python ingestion scripts and AI agentic workflows. 
+To compile and categorize over **4,000+ design resources** from external lists, crowd-sourced spreadsheets, and community submissions, we utilized automated Python ingestion scripts and AI agentic workflows. 
 * **Data Extraction & Ingestion:** Python scripts parsed large, unstructured markdown files and Google Sheets datasets.
 * **Categorization & Cleaning:** Links were automatically sorted, deduplicated, and formatted into clean Markdown tables for VitePress.
 * **Hybrid Maintenance:** This automated foundation allows our community contributors to focus on quality curation rather than formatting syntax.
