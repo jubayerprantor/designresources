@@ -14,7 +14,6 @@
 | :--- | :--- |
 | [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/) | Curated collection of 70+ Photoshop brush packs for digital painting, concept art, and illustration |
 | [Anatomical Illustrations](https://www.flickr.com/photos/133115863@N08/albums/72157654232226445/with/18406466060) | Vintage science illustrations | 
-| [Architecture illustrations](https://drive.google.com/drive/mobile/folders/16PYOSsYN6z7g6Xu80Yu67QI5SlzvnJII?usp=sharing) | Google Drive collection of architecture reference illustrations and drawings |
 | [Bendigo Gastronomy Illustrations](https://natalieryan.com.au/bendigo-gastronomy-illustrations) | Illustrated textile and food-inspired designs from Natalie Ryan |
 | [Biodiversity](https://www.flickr.com/photos/biodivlibrary/albums/) | Biology illustrations from the 19th and 20th centuries — 300,000 images |
 | [Eunho Lee](https://www.instagram.com/en_ho/) | Soft gradient illustrations |
@@ -66,7 +65,7 @@
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
 | [Flexiple](https://2.flexiple.com/scale/all-illustrations) | Flexiple homepage redirect; design marketplace with illustration and developer services |
 | [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated. |
-| [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns |
+| [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns |
 | [HOLA SVG!](https://holasvg.com/) | An SVG playground to share SVG stuff. |
 | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 | [Humaaans](https://www.humaaans.com/) | Cool illustrations of people with the ability to mix and match |
@@ -83,7 +82,7 @@
 | [Mesher](https://csshero.org/mesher) | A free tool to create beautiful mesh gradients using only CSS code. Use your own colors or randomly generated ones to build the trendiest CSS gradients |
 | [Open Doodles](https://www.opendoodles.com/) | A free set of sketchy illustrations |
 | [Open Peeps](https://www.openpeeps.com/) | Hand-drawn illustration library |
-| [openby.design](http://openby.design/) | Custom-crafted free UI design resources for personal and commercial projects; no attribution required. |
+| [openby.design](https://openby.design/) | Custom-crafted free UI design resources for personal and commercial projects; no attribution required. |
 | [Ouch!](https://icons8.com/ouch) | A collection of free illustrations by Icons8, available in various styles and categories. |
 | [Paaatterns](https://products.ls.graphics/paaatterns/) | Free collection of beautiful patterns for all vector formats |
 | [Pattern Monster](https://pattern.monster/) | A simple online pattern generator to create repeatable SVG patterns |
@@ -110,11 +109,11 @@
 | Resource | Description |
 | :--- | :--- |
 | [3axis](https://3axis.co/) | - Vectors for Laser Cutting |
-| [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram Grunge Texture Stamps / Vintage Vibes / |
+| [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram Grunge Texture Stamps / Vintage Vibes |
 | [Free Stock Vectors - Stockio.com](https://www.stockio.com/free-vectors/) | Large collection of free vector graphics, icons, and clip art for personal and commercial use |
 | [Grunge Texture Stamps](https://t.me/Illustrationlessons/6774) | Telegram / Vintage Vibes / Collage |
 | [VectorStock](https://www.vectorstock.com/free-vectors) | Marketplace with millions of free and premium vector images for personal use |
-| [Vintage Vibes](https://t.me/designrar/5100) | Telegram Grunge Texture Stamps / / Collage |
+| [Vintage Vibes](https://t.me/designrar/5100) | Telegram Grunge Texture Stamps / Collage |
 | [All Silhouettes](https://www.all-silhouettes.com/) | Specializes in providing free vector silhouettes for various design projects. |
 | [All-Free-Download](https://all-free-download.com/) | Offers a wide range of free vector art, stock photos, and PSD files for personal and commercial use. |
 | [Bazaardesigns](https://www.bazaardesigns.com/) | A resource offering free vector graphics and design elements for various creative projects. |
@@ -122,11 +121,11 @@
 | [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
 | [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
 | [Clipart](https://www.clipart.email/) | Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
-| [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
+| [Clker](https://www.clker.com) | Free clip art you can use for anything you like |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
 | [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 | [Free Vectors Daily](https://www.freevectorsdaily.com/) | Features a daily updated collection of free vector graphics and illustrations. |
-| [Freeble](http://freebbble.com/) | Vectors, patterns, mockups and more |
+| [Freeble](https://freebbble.com/) | Vectors, patterns, mockups and more |
 | [FreeVectors](https://www.freevectors.net/) | Provides free vector art and graphics for personal and commercial use. |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies) | A set of 8 simple, black & white, stylish illustrations |
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
@@ -149,10 +148,10 @@
 | [The Noun Project](https://thenounproject.com/) | A vast collection of icons and symbols created by designers from around the world. |
 | [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
 | [unDraw](https://undraw.co/illustrations) | A collection of open-source illustrations that can be used for any project, updated regularly with new designs. |
-| [Vecteezy](http://vecteezy.com/) | Offers a large collection of free and premium vector graphics, including icons, illustrations, and design elements. |
+| [Vecteezy](https://vecteezy.com/) | Offers a large collection of free and premium vector graphics, including icons, illustrations, and design elements. |
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
-| [Vector 4 Free](http://www.vector4free.com/) | Offers a collection of free vector graphics, including illustrations and design elements. |
-| [Vector Art](http://vectorart.org/) | Provides free vector graphics and illustrations for personal and commercial use. |
+| [Vector 4 Free](https://www.vector4free.com/) | Offers a collection of free vector graphics, including illustrations and design elements. |
+| [Vector Art](https://vectorart.org/) | Provides free vector graphics and illustrations for personal and commercial use. |
 | [Vector.me](https://vector.me) | Free vector search engine with over 280,000 vectors available for download. |
 | [Vectorious](https://www.vectorious.net/) | A pay site that offers high-quality vector art, with a selection of free vectors available. |
 | [Vectorportal](https://vectorportal.com/) | A repository of free vector art, including illustrations, logos, and clipart. |
@@ -178,15 +177,14 @@
 | [Motion Elements](https://www.motionelements.com/search/image?s=texture&sort=match) | Stock marketplace for texture and background graphics |
 | [Neat](https://neat.firecms.co/) | Free open-source animated 3D gradient generator for website backgrounds (WebGL) |
 | [Nouvelle Fantasies decoratives - E. Gillet (1922)](https://archive.org/details/vietasdecorativa00umbd/page/n35/mode/2up) | Book of Art Nouveau decorative patterns |
-| [Refracted Spectral Gradients](https://ar.pinterest.com/search/pins/?q=refracted%20spectral%20gradients&rs=typed) | Pinterest collection of refracted spectral gradient inspiration |
 | [S Backgrounds](https://www.samolevsky.com/collections/backgrounds) | Premium background and pattern collections from Samolevsky |
 | [Samolevsky](https://www.samolevsky.com/collections/textures) | Premium texture and overlay collections from Samolevsky |
 | [Types of Colonial Wallpapers](https://archive.org/details/m.-h.-birge-sons-company-1940/page/n67/mode/2up) | Digitized archive catalog of colonial wallpaper types and patterns from 1940 |
-| [DinPattern](http://www.dinpattern.com) | Free seamless pattern designs for download. |
+| [DinPattern](https://www.dinpattern.com) | Free seamless pattern designs for download. |
 | [Geopattern](https://github.com/btmills/geopattern) | Create beautiful, customizable geometric patterns automatically. |
 | [Haikei](https://haikei.app) | Generate unique SVG shapes, backgrounds, and patterns with customizable generators for blobs, waves, and more. |
 | [Magic Pattern](https://www.magicpattern.design) | AI-powered design tools for creating backgrounds, patterns, gradients, and CSS effects. |
-| [Pattern Library](http://thepatternlibrary.com) | A collection of beautiful and unique patterns. |
+| [Pattern Library](https://thepatternlibrary.com) | A collection of beautiful and unique patterns. |
 | [Patterninja](https://patterninja.com) | Create patterns using a rich collection of graphics and shapes. |
 | [Patterns](https://www.patterns.design) | A platform offering a variety of free patterns for use in design projects. |
 | [SPACE TYPE GENERATOR](https://spacetypegenerator.com/index.html) | Kinetic type generator that allows to create animated text. |

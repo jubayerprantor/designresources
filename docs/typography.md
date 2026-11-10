@@ -1,4 +1,4 @@
-﻿# Typography & Fonts
+# Typography & Fonts
 
 > Free and open-source typefaces, font pairing tools, and an extensive Bangla font library for regional designers.
 
@@ -20,7 +20,7 @@
 | [Adobe Fonts](https://fonts.adobe.com/?mv=other&promoid=8WLD51V2&ref=tk.com) | Access thousands of high-quality fonts included with a Creative Cloud subscription. |
 | [All Best Fonts](https://allbestfonts.com/) | Curated collection of high-quality free fonts for creative professionals. |
 | [All Free Fonts](https://www.allfreefonts.co/) | Browse over 15,000 free downloadable fonts sorted by style and category. |
-| [Alph](https://www.alphabet-type.com/tools/charset-checker/) | Check font character coverage, language support, and Unicode block compatibility. |
+| [Alphabet Type](https://www.alphabet-type.com/tools/charset-checker/) | Check font character coverage, language support, and Unicode block compatibility. |
 | [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) | Handpicked free fonts curated by the Awwwards web design community. |
 | [Az Fonts](https://ru.azfonts.net/) | Russian font archive for Cyrillic typefaces and Russian-language fonts. |
 | [Befonts](https://befonts.com/?filter=commercial) | Discover high-quality free fonts for personal and commercial design projects. |
@@ -37,7 +37,7 @@
 | [Chinese Calligrapher](https://www.chinesecalligrapher.com/) | Chinese calligraphy font showcase with downloadable typefaces. |
 | [Coliss](https://coliss.com/articles/freebies/handwriting-japanese-free-fonts.html) | Japanese brush and handwriting font roundup with download links. |
 | [Cufon Fonts](https://www.cufonfonts.com/category/sans-serif) | Large collection of font styles with category filters and preview tools. |
-| [Cute,](https://cute-freefont.flop.jp/) | Japanese font portal for cute and decorative free fonts. |
+| [Cute Freefont](https://cute-freefont.flop.jp/) | Japanese font portal for cute and decorative free fonts. |
 | [Cyrillic Fonts](https://cyrillic-fonts.ru/) | Russian font archive featuring Cyrillic typefaces and downloads. |
 | [Dafont](https://www.dafont.com/es/) | One of the largest archives of freely downloadable fonts on the web. |
 | [Deefont](https://www.deefont.com/) | Curated library of free and commercial fonts with category browsing and previews. |
@@ -99,7 +99,7 @@
 | [Fontshare](https://www.fontshare.com/pairs) | Free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 | [Fontsniper](https://www.raycast.com/riomadeit/font-sniper) | Raycast extension for identifying fonts in Safari. |
 | [Fontstand](https://fontstand.com/) | Rent high-quality fonts by the month or buy them with a subscription model. |
-| [Fontstop](http://fonts.top/top100/) | Chinese font ranking list and popular font download portal. |
+| [Fontstop](https://fonts.top/top100/) | Chinese font ranking list and popular font download portal. |
 | [FontStruct](https://fontstruct.com/) | Build, share, and download fonts created with a free online font-building tool. |
 | [Fontstruct](https://fontstruct.com/gallery) | Browse the gallery of fonts created by the FontStruct community. |
 | [FontZone](https://fontzone.net/) | Download free fonts sorted by style, popularity, and category. |
@@ -115,12 +115,11 @@
 | [Google Font Pairing Inspiration for 2023](https://www.fontpair.co/all) | Explore curated Google Font pairings with visual examples and previews. |
 | [Google,](https://fonts.google.com/?subset=cyrillic&lang=orv_Cyrl) | Browse Google Fonts with Cyrillic language support. |
 | [I Love Typography](https://ilovetypography.com/font-inspiration/) | A blog covering typography news, font inspiration, and design articles. |
-| [Identifont](http://www.identifont.com/index.html) | Identify unknown fonts by answering questions about their visual characteristics. |
+| [Identifont](https://www.identifont.com/index.html) | Identify unknown fonts by answering questions about their visual characteristics. |
 | [John Tool](https://www.johntool.com/free-chinese-font/) | Chinese font resource with free download tools and links. |
 | [K Pop Fonts](https://www.qusheet.com/22d58462-5cc6-452d-a25d-b700892a2079) | Collection of K-Pop inspired fonts and typefaces for design projects. |
 | [Like Font](https://en.likefont.com/) | Search and discover fonts similar to your favorites across multiple foundries. |
 | [Local Fonts](https://localfonts.eu/) | Local font marketplace and type foundry directory for designers. |
-| [Luxury Typography Design](https://ar.pinterest.com/search/pins/?q=luxury%20typography%20design&rs=ac&len=14&source_id=D8tnAwAF&eq=luxury%20typogra&etslf=5481) | Pinterest board of luxury typography design inspiration and ideas. |
 | [Maniackers](https://mksd.jp/designfont.html) | Japanese font and lettering showcase from Maniackers. |
 | [Maoken](https://www.maoken.com/freefonts) | Chinese free font directory and typeface resources. |
 | [Mix Font](https://www.mixfont.com/Junge+Secular-One) | Experimentally mix and combine Google Fonts to discover unique pairings. |
@@ -155,7 +154,6 @@
 | [Transfonter](https://transfonter.org/) | Transform Woff2 to Ttf |
 | [Twfont](https://www.twfont.com/chinese/) | Chinese font directory featuring traditional and simplified typefaces. |
 | [Typography Daily](https://typography-daily.com/) | Daily inspiration and resources for typography enthusiasts and designers. |
-| [Typography Experimental](https://ar.pinterest.com/search/pins/?q=Typography%20Experimental&rs=typed) | Pinterest board exploring experimental and avant-garde typography designs. |
 | [Typotheque](https://www.typotheque.com/fonts/cyrillic) | Typotheque page with original Cyrillic font families. |
 | [Uprock](https://www.fonts.uprock.ru/) | Collection of free fonts with a focus on Cyrillic and Russian typefaces. |
 | [Variable font course](https://www.variablefontcourse.com/) | Learn everything about variable fonts from basics to advanced implementation. |
@@ -167,8 +165,7 @@
 | [What The Google Font?](https://www.serbyte.net/what-the-google-font) | Find Google Fonts similar to your favorite typeface. |
 | [Wonder Font](https://wonderfont.ru/) | Russian Cyrillic font archive and typeface downloads. |
 | [Butterick’s Practical Typography](https://practicaltypography.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Coefont](https://coefont.cloud/en) | - Create an AI clone version of your voice |
-| [Fionts in use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Type Foundries , Font Library , Type Supply , Dropmark , |
+| [Fonts In Use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Type Foundries , Font Library , Type Supply , Dropmark , |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |
 | [WTFont](https://t.me/wtfont) | Telegram channel for Cyrillic font identification and discussion. |
 | [Wumanzoo](https://wumanzoo.com/chinese-calligraphy-font-2/) | Chinese calligraphy font collection with free downloads. |
@@ -220,7 +217,7 @@
 | [Glyphter](https://glyphter.com) | Upload your own SVGS and turn them into font files. Useful if you want a smaller library loaded |
 | [Golden Ratio](https://grtcalculator.com/) | Golden Ratio Typography Calculator |
 | [Google Fonts](https://fonts.google.com/) | Library of open-source fonts for use in your websites, apps, and documents. |
-| [Google Web Fonts Typographic Project](http://femmebot.github.io/google-type/) | A showcase of Google Fonts and their typographic features in use. |
+| [Google Web Fonts Typographic Project](https://femmebot.github.io/google-type/) | A showcase of Google Fonts and their typographic features in use. |
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | A Hassle-Free Way to Self-Host Google Fonts |
 | [Just Free Fonts](https://justfreefonts.com/) | A hand-curated collection of freeware, open-source, and public domain fonts intended for commercial use |
 | [Leon Sans](https://github.com/cmiscm/leonsans/) | A geometric sans-serif typeface made with code |
@@ -244,6 +241,8 @@
 | [W Fonts](https://www.wfonts.com/) | Download Free fonts |
 
 ## Bangla Fonts
+
+<BanglaFontShowcase />
 
 | Resource | Description |
 | :--- | :--- |

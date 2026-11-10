@@ -33,7 +33,7 @@
 | [Duet Mockup](https://duetmockup.gumroad.com/) | Gumroad product page for premium mockup templates |
 | [Elite Mockups](https://saarteaga.gumroad.com/) | Premium mockup template collection on Gumroad |
 | [Format Mockups](https://www.formatmockups.com/mockups-new) | Mockup template library with graphic design resources |
-| [FrameDesign](http://framedesign.letsconstruct.nl/) | Design frame and mockup showcase website |
+| [FrameDesign](https://framedesign.letsconstruct.nl/) | Design frame and mockup showcase website |
 | [Framenet](https://www.framenet.ai/) | AI motion graphics mockup generator for animated design previews |
 | [Framer Marketplace](https://www.framer.com/templates/categories/portfolio/) | Framer portfolio website templates marketplace |
 | [Free Design Resources](https://freedesignresources.net/category/free-mockups/) | 300+ free PSD mockups for designers |
@@ -42,7 +42,7 @@
 | [Freepik](https://www.freepik.com/mockup-generator) | Online mockup generator with 5K resolution (now Magnific) |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Mockup&selection=1&type=psd) | Freepik search for PSD mockup file downloads |
 | [Good Mockups](https://goodmockups.com/) | 7,300+ free high-quality PSD mockup files |
-| [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter / |
+| [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
 | [Hazard Mockups](https://www.hazardmockups.com/freebies) | Free urban signage and poster mockups |
 | [Hazard Mockups](https://www.hazardmockups.com/category/video-mockups) | Video mockups and motion design templates |

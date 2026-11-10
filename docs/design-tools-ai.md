@@ -12,8 +12,8 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools?tab=readme-ov-file) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Best Web Design Tools](https://bestwebdesigntools.com/web-design-tools) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) | Curated directory of professional UX/UI software, micro-interaction tools, and design system resources by GoAbstract. |
+| [Best Web Design Tools](https://bestwebdesigntools.com/web-design-tools) | Curated repository of modern web utilities, landing page templates, and design extensions. |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | A collection of software for graphic design, video editing, web development, and photography. Key tools within the suite include Photoshop, Illustrator, InDesign, After Effects, and Premiere Pro. |
 | [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | The industry-standard vector graphics editor for logos, icons, typography, and complex illustrations. |
 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | A vector graphic design software alternative to Adobe Illustrator. It offers professional-grade features for illustration, UI design, and typography. |
@@ -66,7 +66,7 @@
 | [ChartGo](https://www.chartgo.com/) | Create charts and graphs online |
 | [Clippy](https://bennettfeely.com/clippy/) | Easy CSS clip-path maker |
 | [Codepng](https://www.codepng.app/) | Convert your source code into awesome shareable images. |
-| [CSS Arrow](http://www.cssarrowplease.com/) | Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
+| [CSS Arrow](https://www.cssarrowplease.com/) | Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 | [CSS Grid Generator](https://grid.layoutit.com/) | A tool for creating CSS Grid Layouts |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/) | Create call to action buttons |
 | [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
@@ -75,10 +75,10 @@
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
 | [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams |
 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/full-control.html) | Eight values specifying border-radius in CSS ( border-radius generator ) |
-| [Faux](http://knutsynstad.com/fauxcode/) | Turn real code into faux code |
+| [Faux](https://knutsynstad.com/fauxcode/) | Turn real code into faux code |
 | [Figen](https://figen.cc/) | Post Cover & Background Generator Tool |
 | [Figma](https://www.figma.com/graphic-design-tool/) | Online graphic design tool (Free & paid options) |
-| [Flex Malven](http://flexbox.malven.co/) | A flexbox grid cheatsheet to reference when working with flexbox |
+| [Flex Malven](https://flexbox.malven.co/) | A flexbox grid cheatsheet to reference when working with flexbox |
 | [Fotor](https://www.fotor.com/) | Photo editor and design maker |
 | [Framer](https://www.framer.com/) | Is prototyping tool for teams |
 | [Get Waves](https://getwaves.io/) | A free SVG wave generator to make unique SVG waves for web design |
@@ -86,14 +86,14 @@
 | [Glass UI](https://ui.glass/generator) | A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications. |
 | [Glassmorphism](https://glassmorphism.com/) | An incredible online tool for generating quick glassmorphic UI in CSS code snippets. |
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
-| [Grid Malven](http://grid.malven.co/) | A css grid cheatsheet to reference when creating a css grid |
+| [Grid Malven](https://grid.malven.co/) | A css grid cheatsheet to reference when creating a css grid |
 | [GTmetrix](https://gtmetrix.com/) | Website Speed and Performance Optimization |
 | [Infogram](https://infogram.com/) | Create infograms |
 | [Jitter](https://jitter.video/) | Online tool to create motion graphics/design |
 | [JSONT](https://www.jsont.run/) | A simple and powerful online JSON formatting tool |
 | [Kodeshot](https://www.kodeshot.net/) | Convert your source code into nice pictures for your articles, tweets, messages, posts... |
 | [Lucidchart](https://www.lucidchart.com/pages/) | Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
-| [MapInSeconds](http://mapinseconds.com/) | Simple way to visualize your data with a map |
+| [MapInSeconds](https://mapinseconds.com/) | Simple way to visualize your data with a map |
 | [Mermaid](https://github.com/mermaid-js/mermaid) | renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS) |
 | [Neumorphism.io](https://neumorphism.io/#55b9f3) | Generate Soft-UI CSS shadow code |
 | [Octopus](https://octopus.do/) | Sitemap builder |
@@ -136,8 +136,8 @@
 | [Bulk Image Compressor](https://www.softwarehow.com/bulk-image-compressor/) | Softwarehow / Image Splitter / Recolor Links |
 | [CLO 3D](https://www.clo3d.com/en/clo/download) | Apparently best 3D Software for Clothing design |
 | [Gravity Sketch](https://gravitysketch.com/) | - 3D Design sketching software |
-| [Image Splitter](https://www.softwarehow.com/image-splitter/) | Softwarehow Bulk Image Compressor / / Recolor Links |
-| [Recolor Links](https://www.softwarehow.com/recolor-links/) | Softwarehow Bulk Image Compressor / Image Splitter / |
+| [Image Splitter](https://www.softwarehow.com/image-splitter/) | Softwarehow Bulk Image Compressor / Recolor Links |
+| [Recolor Links](https://www.softwarehow.com/recolor-links/) | Softwarehow Bulk Image Compressor / Image Splitter |
 | [Simply Print](https://simplyprint.io/) | 3D Printer Cloud Management Software |
 | [SOFTWARE](https://bitbucket.org/archinate/lunchboxml/src/master/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Adobe XD](https://www.adobe.com/products/xd.html) | Free design tool from Adobe |
@@ -163,15 +163,20 @@
 | [Fluid UI](https://www.fluidui.com) | Browser-based prototyping with built-in iOS/Android/Windows libraries. Real-time collaboration. |
 | [Justinmind](https://www.justinmind.com) | Enterprise prototyping with conditional navigation, variables, and data lists. Exports to HTML. |
 | [Kite Compositor](https://kiteapp.co) | macOS animation tool with Core Animation integration. Export as Swift code for developers. |
+| [LottieLab](https://www.lottielab.com/) | Modern in-browser motion graphics and vector animation editor for web and mobile Lottie animations. |
 | [Marvel](https://marvelapp.com) | Quick prototyping from sketches or designs with user testing built in. Great for early concepts. |
+| [Maze](https://maze.co/) | Product discovery and user testing platform with automated Figma prototype usability metrics. |
 | [MockFlow](https://www.mockflow.com) | Wireframing with built-in UI libraries, sitemaps, and style guide generation. |
 | [Mockplus](https://www.mockplus.com) | Rapid prototyping with 3000+ components and one-click export. Team collaboration features included. |
 | [Moqups](https://moqups.com) | All-in-one visual collaboration with wireframes, diagrams, and prototypes in one canvas. |
+| [Play](https://www.createwithplay.com/) | Native iOS design and interactive prototyping platform that uses SwiftUI to create genuine app interactions. |
 | [Principle](https://principleformac.com) | Timeline-based animation for macOS. Exports to video for Dribbble-ready presentations. |
 | [Proto.io](https://proto.io) | High-fidelity prototypes with device sensors, audio/video, and native-like interactions. |
 | [ProtoPie](https://www.protopie.io) | Sensor-based interactions without code — accelerometer, sound, and multi-device prototypes. |
 | [Relume](https://www.relume.io) | AI-powered wireframe and sitemap generator that exports to Figma and Webflow. |
 | [Spline](https://spline.design) | 3D design tool for the web — create interactive 3D experiences, animations, and product renders in the browser. |
+| [Stark](https://www.getstark.co/) | Comprehensive accessibility (a11y) suite for designers (contrast checker, color blindness simulator, focus order) for Figma and web. |
+| [Useberry](https://www.useberry.com/) | User testing platform for validating UX prototypes with heatmaps, user flows, and video recordings. |
 | [UXPin](https://www.uxpin.com) | Design with React, Storybook, or npm components. Merge technology connects design to production code. |
 | [v0 by Vercel](https://v0.dev) | AI-powered UI generation tool that creates React and Tailwind components from text prompts and images. |
 
@@ -179,7 +184,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [(3D)](https://www.bimandco.com/it/fabbricanti/844-scrigno/details) | Scrigno Italy - Doors |
+| [Scrigno BIM Models](https://www.bimandco.com/it/fabbricanti/844-scrigno/details) | Scrigno Italy - Doors |
 | [1879](https://archive.org/details/maw-company.12700/page/n13/mode/2up) | Maw Co / - USA - 1890 |
 | [1885](https://archive.org/details/Campbell46354/page/n89/mode/2up) | Italy - 1906 |
 | [1905](https://archive.org/details/sears-robuck-and-company-1905/page/n35/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -189,7 +194,7 @@
 | [AI Design Awards](https://www.instagram.com/ai.designawards/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [AI Index](https://ai-index.eu/) | - Graphic Design created with AI |
 | [AI Motion Capture Tools That Let You Animate Characters Without Suits](https://gachoki.com/ai-powered-motion-capture/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [AI Scripts](https://aiscripts.com/ai-scripts/) | Vectorise / DTP Sripting / SHS Page / |
+| [AI Scripts](https://aiscripts.com/ai-scripts/) | Vectorise / DTP Sripting / SHS Page |
 | [AIGA Eye on Design](https://eyeondesign.aiga.org/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [AIM Brick](https://aimbrick.com/MasonryDesigner#list_materials) | - Custom brick textures |
 | [Alibaba Wan 2.1](https://huggingface.co/spaces/Wan-AI/Wan2.1) | Local Model Make Image move - 🆓💾 |
@@ -217,7 +222,7 @@
 | [Chain-of-Zoom -](https://huggingface.co/spaces/alexnasa/Chain-of-Zoom) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Cine Grain](https://www.cinegrain.com/) | , Overlay FX / Lux Edit / The Creative Herd |
 | [Codex Nutall](https://archive.org/details/gri_33125011146541/page/n55/mode/2up) | - Ancient Mexican Codex - 1858 |
-| [Construction](https://archive.org/details/dictionnairedest04chab/page/366/mode/2up) | Pierre Chabat XIXc Wall Decorations / / Pinterest |
+| [Construction](https://archive.org/details/dictionnairedest04chab/page/366/mode/2up) | Pierre Chabat XIXc Wall Decorations / Pinterest |
 | [Craighill](https://www.instagram.com/craighillcompany/reels/) | - Industrial design history/explanations |
 | [Das Thier in der decorativen Kunst - Seder Anton](https://archive.org/details/gri_33125013920190/page/n43/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Dave Clark](https://www.youtube.com/@Afraid2Sleep) | / Vaigue Man / Julie W Design / IG - Long videos |
@@ -229,10 +234,10 @@
 | [Dooq details](https://www.dooqdetails.com/) | 3D Portugal - Expensive |
 | [DRFT-AI](https://www.drftai.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Droodles by Roger Price](https://archive.org/details/droodlesclassice00larr/page/24/mode/2up) | - Enigmatic Doodles - Book 1953 |
-| [DTP Sripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Vectorise / / SHS Page / AI Scripts |
+| [DTP Sripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Vectorise / SHS Page / AI Scripts |
 | [Electronics Gaming Monthly](https://archive.org/details/electronic-gaming-monthly) | / Video Game Magazines / Ditial Archive |
 | [Essex & Co.](https://archive.org/details/Essex10934/page/n185/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Fab](https://www.fab.com/search?tags=terrain) | 3D Export / Turbo Squid / / AE Juice / - Not Free |
+| [Fab](https://www.fab.com/search?tags=terrain) | 3D Export / Turbo Squid / AE Juice / - Not Free |
 | [Fibreguard](https://plugin.fibreguard.com/?utm_source=fibreguard&utm_medium=organic_social&utm_campaign=fg_plugin&utm_content=organic_fg&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn2jbwsgrD-DGOYCKYVPiNLEcU3UviBVtZqikjdyt1Lp8u9OE13v1ozYBLVmQ_aem_PZDyQAwnnSfEsTOjLd28gg) | - Free Plugin for 3dsmax 2025 or newer full of fabrics |
 | [Fine Art Archive](https://archive.org/details/Fine-Art-History?sort=-downloads) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Firefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo) | - Free for Adobe users |
@@ -276,12 +281,11 @@
 | [Minton Hollins & Co - England - 1875](https://archive.org/details/minton-hollins-co.4173/page/n35/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Mosaico Nolla - Spain - 1870](https://archive.org/details/catalogsamplest00migu/page/n51/mode/2up) | Spain - 1870 |
 | [Motion Elements](https://ai.motionelements.com/) | - AI Video Editing Tools |
-| [Naive Illustration](https://ar.pinterest.com/search/pins/?q=naive%20illustration%20graphic%20design&rs=typed) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [NeuTTS-Air -](https://huggingface.co/spaces/neuphonic/neutts-air) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | - 100 sketch variations on a lounge chair |
 | [Old Time radio](https://archive.org/details/lumedwards) | / Old Time Radio Youtube |
 | [One-Click Screenshot to Figma Conversion with AI \| Codia](https://codia.ai/screenshot-to-figma) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Paint Coach](https://www.youtube.com/@paintcoach) | Youtube Proko / David Finch / / Sketching Scottie / Art with Antonio |
+| [Paint Coach](https://www.youtube.com/@paintcoach) | Youtube Proko / David Finch / Sketching Scottie / Art with Antonio |
 | [Parts Design](https://partsdesign.net/mainvisual) | Japanese Websites |
 | [Pedrali](https://www.pedrali.com/en-us/products/chairs-design) | 3D w User finishes Italy |
 | [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -294,11 +298,11 @@
 | [Retail Design Blog](https://retaildesignblog.net/category/products/lighting/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Saaif Design](https://www.instagram.com/saifsdesign) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Saba](https://sabaitalia.com/it) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Saint Ricchi](https://saintricchi.com/?tfc_sort%5B509861070%5D=created:desc&tfc_storepartuid%5B509861070%5D=Gradient+Maps&tfc_div=:::#shop) | Design Syndrome / Studio AAA / / BLK Market Not Free |
+| [Saint Ricchi](https://saintricchi.com/?tfc_sort%5B509861070%5D=created:desc&tfc_storepartuid%5B509861070%5D=Gradient+Maps&tfc_div=:::#shop) | Design Syndrome / Studio AAA / BLK Market Not Free |
 | [Sears 1906](https://archive.org/details/wallpapersamples00sear/page/n57/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
-| [SHS Page](http://shspage.com/aijs/en) | Vectorise / DTP Sripting / / AI Scripts |
+| [SHS Page](https://shspage.com/aijs/en) | Vectorise / DTP Sripting / AI Scripts |
 | [Sick Again](https://sickagain.gumroad.com/) | Font Bros , / Yellow Images |
-| [Sketch Daily](https://www.sketchdaily.net/) | Doodlewash / / Terawell / Line of Action |
+| [Sketch Daily](https://www.sketchdaily.net/) | Doodlewash / Terawell / Line of Action |
 | [Smith and Diction](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%26D-%2F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=252%2C88%2C0.02&scaling=contain) | Branding guide strategy |
 | [Snail Eyes](https://snaileye.de/open-calls/books-submission-24/) | Graphic Design |
 | [State of AI in Design](https://www.stateofaidesign.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -317,7 +321,7 @@
 | [Threlkeld Granite Co - England - 1898](https://archive.org/details/albumofornamenta00thre/page/n13/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Tickets Please](https://www.blaisehayward.com/tickets-please) | - Ticket Shows Designs |
 | [Tost](https://tost.ai/) | - Free AIs for Image, video and 3D Generation |
-| [Vaigue Man](https://www.youtube.com/@VaigueMan) | Dave Clark / / Julie W Design / IG - Long videos |
+| [Vaigue Man](https://www.youtube.com/@VaigueMan) | Dave Clark / Julie W Design / IG - Long videos |
 | [Vector Magic](https://vectormagic.com/?atk=vcb2u5mfvf&gad_source=1&gad_campaignid=22622370203&gbraid=0AAAAA_1iWaHfnPeY_iQJa-tJNklEgBMvU&gclid=CjwKCAjw04HIBhB8EiwA8jGNbTzQSK-u7jr2hcmKvHhYcnXP2Xv5V-7nx1XBiG1uOeK6mEOpQkM30BoC96gQAvD_BwE) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Vectorizer AI](https://vectorizer.ai/) | Not free, but you can take a screenshot of the preview |
 | [vectorwizard.ai](https://www.vectorwizard.ai/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -346,10 +350,10 @@
 | [Compressor.io](https://compressor.io/) | JPEG, PNG, GIF, SVG Compression |
 | [EZGif](https://ezgif.com/) | Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [iLoveIMG](https://www.iloveimg.com/) | The fastest free web app for easy image modification |
-| [Image Optimizer](http://www.imageoptimizer.net/) | Image Optimizer Free With Quality Options |
+| [Image Optimizer](https://www.imageoptimizer.net/) | Image Optimizer Free With Quality Options |
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
-| [JPEG Optimizer](http://jpeg-optimizer.com/) | Free online tool for resizing and compressing digital photos and images for displaying on the web |
+| [JPEG Optimizer](https://jpeg-optimizer.com/) | Free online tool for resizing and compressing digital photos and images for displaying on the web |
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png) | Resize png for without losing transparent background. |
 | [Promo Image Resizer](https://promo.com/tools/image-resizer/) | Free Image and Photo Resizer |

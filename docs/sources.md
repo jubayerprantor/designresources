@@ -8,6 +8,8 @@ This hub is built on the shoulders of generous people who shared their knowledge
 | 2 | **Brad Traversy** — A massive, well-maintained list of design resources for developers. | [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) |
 | 3 | **Reinaldo Simões** — A clean, community-curated design resource collection. | [reinaldosimoes/design-resources](https://github.com/reinaldosimoes/design-resources) |
 | 4 | **The People's Design Library** — A crowd-sourced Google Sheets spreadsheet built by a passionate design community. | [View Spreadsheet](https://docs.google.com/spreadsheets/d/13GStMRQfbn5glWVkUPqFtW1oovyKhMDdRKD3m5cstBg/edit?gid=0#gid=0) |
+| 5 | **GoAbstract (Awesome Design Tools)** — An industry-standard, community-driven directory of professional software for UX/UI designers, design systems, and product teams. | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) |
+| 6 | **Best Web Design Tools** — A curated directory of modern web design utilities, Figma plugins, agencies, and frontend resources. | [bestwebdesigntools.com](https://bestwebdesigntools.com/) |
 
 ---
 
