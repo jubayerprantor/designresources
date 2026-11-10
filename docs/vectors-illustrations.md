@@ -12,30 +12,30 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Anatomical Illustrations](https://www.flickr.com/photos/133115863@N08/albums/72157654232226445/with/18406466060) | Vintage Science Illustrations / |
-| [Architecture illustrations](https://drive.google.com/drive/mobile/folders/16PYOSsYN6z7g6Xu80Yu67QI5SlzvnJII?usp=sharing) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Architecture illustrations](https://drive.google.com/drive/mobile/folders/16PYOSsYN6z7g6Xu80Yu67QI5SlzvnJII?usp=sharing) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Bendigo Gastronomy Illustrations](https://natalieryan.com.au/bendigo-gastronomy-illustrations) | - Watercolor Vegetables, Plants |
 | [Biodiversity](https://www.flickr.com/photos/biodivlibrary/albums/) | - Biology illustrations XIX/XX c. - 300.000 images |
 | [Eunho Lee](https://www.instagram.com/en_ho/) | Soft gradient illustrations |
 | [Flowers](https://c82.net/redoute/) | XIX Century illustrations |
-| [Free illustrations](https://freeillustrations.xyz/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Get illustrations packs](https://www.getillustrations.com/illustration-packs) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Free illustrations](https://freeillustrations.xyz/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Get illustrations packs](https://www.getillustrations.com/illustration-packs) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Gumroad](https://gumroad.com/drawing-and-painting/digital-illustration/illustration-textures-and-patterns?sort=featured) | - You can find more free Illustrations, brushes, hi res images, etc in , filtering by price |
 | [Hummingbirds](https://c82.net/hummingbirds/illustrations) | XIX Century illustrations |
-| [Illustrations Archives](https://freeuiresources.com/graphics/illustrations/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Illustrations of London's Great Exhibition of 1851](https://archive.org/details/Dickinsonscompr1/page/n113/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Illustrations Archives](https://freeuiresources.com/graphics/illustrations/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Illustrations of London's Great Exhibition of 1851](https://archive.org/details/Dickinsonscompr1/page/n113/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Lummi](https://www.lummi.ai/illustration) | - Free to use AI generated illustrations |
 | [Minerals](https://c82.net/mineralogy/) | XIX Century illustrations |
-| [Nice Illustrations](https://niceillustrations.com/free-illustrations/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Nice Illustrations](https://niceillustrations.com/free-illustrations/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Old Book Art](https://www.oldbookart.com/galleries/) | Old Book Illustrations / |
-| [Old Book Illustrations](https://www.oldbookillustrations.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Old Book Illustrations](https://www.oldbookillustrations.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Patricia M Fl.](https://www.flickr.com/photos/taffeta/albums/with/72157718768027388) | - Curation of early XX c. european illustrations |
 | [Recraft](https://app.recraft.ai/) | Best for vector illustrations - M🪙 |
 | [Rive Editor](https://rive.app/editor) | App. Animate illustrations |
-| [Saas UI Illustrations](https://illustrations.saas-ui.dev/#App-Shell) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Saas UI Illustrations](https://illustrations.saas-ui.dev/#App-Shell) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Simone](https://simonenoronha.com/Hatch-Sleep-Babies-Kids-Audio-Library) | Soft gradient illustrations |
-| [Sketching](https://www.youtube.com/@ArtwithFlo) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Sketching](https://www.youtube.com/@ArtwithFlo) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Vintage Science Illustrations](https://scienceisstrange.tumblr.com/) | / Anatomical Illustrations |
 | [いらすとや](https://www.irasutoya.com/) | Japanese Illustrations 全て無料 ソコスト , , 無料イラスト , イラスト , |
 | [イラスト](https://www.ac-illust.com/) | Japanese Illustrations 全て無料 ソコスト , いらすとや , 無料 , , |
@@ -111,9 +111,9 @@
 | :--- | :--- |
 | [3axis](https://3axis.co/) | - Vectors for Laser Cutting |
 | [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram Grunge Texture Stamps / Vintage Vibes / |
-| [Free Stock Vectors - Stockio.com](https://www.stockio.com/free-vectors/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Free Stock Vectors - Stockio.com](https://www.stockio.com/free-vectors/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Grunge Texture Stamps](https://t.me/Illustrationlessons/6774) | Telegram / Vintage Vibes / Collage |
-| [VectorStock](https://www.vectorstock.com/free-vectors) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [VectorStock](https://www.vectorstock.com/free-vectors) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Vintage Vibes](https://t.me/designrar/5100) | Telegram Grunge Texture Stamps / / Collage |
 | [All Silhouettes](https://www.all-silhouettes.com/) | Specializes in providing free vector silhouettes for various design projects. |
 | [All-Free-Download](https://all-free-download.com/) | Offers a wide range of free vector art, stock photos, and PSD files for personal and commercial use. |
@@ -164,24 +164,21 @@
 | Resource | Description |
 | :--- | :--- |
 | [1 Envira](https://enviragallery.com/guide-to-gradient-maps-in-photoshop/) | - Tutorial on Gradient Maps |
-| [3 Gradients / 3 Shapes – Bolderaja](https://bolderaja1.com/products/gradient-color-grainy-textures-2/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3 Gradients / 3 Shapes – Bolderaja](https://bolderaja1.com/products/gradient-color-grainy-textures-2/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [AI Textured](https://aitextured.com/textures/) | - Free AI Seamless Patterns |
-| [Art TB](https://t.me/AngelGuide) | Telegram 🏴‍☠️ |
-| [Brushes and Patterns](https://t.me/brushes_and_patterns) | Telegram 🏴‍☠️ |
 | [CGI Backgrounds](https://www.cgibackgrounds.com/search?term=&page=1&type=visual-hdri-search) | Image search HDRI - Not Free |
-| [DBrush](https://t.me/tdbrush) | Telegram 🏴‍☠️ |
-| [Envato](https://elements.envato.com/graphics/patterns) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Envato Backgrounds](https://elements.envato.com/graphics/patterns/pattern+background) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [History and development of Toile de Jouy wallpapers](https://archive.org/details/w.-h.-s.-lloyd-co-inc-1928/page/n25/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Envato](https://elements.envato.com/graphics/patterns) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Envato Backgrounds](https://elements.envato.com/graphics/patterns/pattern+background) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [History and development of Toile de Jouy wallpapers](https://archive.org/details/w.-h.-s.-lloyd-co-inc-1928/page/n25/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [L'Ornement polychrome full](https://archive.org/details/AL180/page/n243/mode/2up) | / 2 - 1870 book of Asian, Persian, world patterns |
 | [Milsks](https://miksks.com/collections/textures) | Samolevsky / S Backgrounds / / Motion Elements |
 | [Motion Elements](https://www.motionelements.com/search/image?s=texture&sort=match) | Samolevsky / S Backgrounds / Milsks / |
-| [Neat](https://neat.firecms.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Neat](https://neat.firecms.co/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Nouvelle Fantasies decoratives - E. Gillet (1922)](https://archive.org/details/vietasdecorativa00umbd/page/n35/mode/2up) | - Book of Art Nouveau patterns |
-| [Refracted Spectral Gradients](https://ar.pinterest.com/search/pins/?q=refracted%20spectral%20gradients&rs=typed) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Refracted Spectral Gradients](https://ar.pinterest.com/search/pins/?q=refracted%20spectral%20gradients&rs=typed) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [S Backgrounds](https://www.samolevsky.com/collections/backgrounds) | Samolevsky / / Milsks / Motion Elements |
 | [Samolevsky](https://www.samolevsky.com/collections/textures) | / S Backgrounds / Milsks / Motion Elements |
-| [Types of Colonial Wallpapers](https://archive.org/details/m.-h.-birge-sons-company-1940/page/n67/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Types of Colonial Wallpapers](https://archive.org/details/m.-h.-birge-sons-company-1940/page/n67/mode/2up) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [DinPattern](http://www.dinpattern.com) | Free seamless pattern designs for download. |
 | [Geopattern](https://github.com/btmills/geopattern) | Create beautiful, customizable geometric patterns automatically. |
 | [Haikei](https://haikei.app) | Generate unique SVG shapes, backgrounds, and patterns with customizable generators for blobs, waves, and more. |

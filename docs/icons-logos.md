@@ -12,94 +12,94 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3D icons](https://www.3dicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D LogoLab](https://www.3dlogolab.io/3d-logo-generator-free) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D icons](https://www.3dicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D LogoLab](https://www.3dlogolab.io/3d-logo-generator-free) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Achi](https://www.a-chi.jp/fudemojilogo-tool-site/) | Japanese Brush Calligrapry / Note / Japan Design / Photoshop Vip / Coliss |
-| [Akar Icons](https://akaricons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Animated Icons](https://animatedicons.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Basicons](https://basicons.xyz/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Behance](https://www.behance.net/search/projects/?sort=appreciations&time=week&search=free%20icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Beneito Faure](https://beneito-faure.com/catalogos/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Akar Icons](https://akaricons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Animated Icons](https://animatedicons.co/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Basicons](https://basicons.xyz/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Behance](https://www.behance.net/search/projects/?sort=appreciations&time=week&search=free%20icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Beneito Faure](https://beneito-faure.com/catalogos/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Bioicons](https://bioicons.com/) | Health Medical icons |
-| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Circum Icons](https://circumicons.com/icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CoolIcons](https://coolicons.cool/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Coreui](https://coreui.io/icons/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Circum Icons](https://circumicons.com/icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [CoolIcons](https://coolicons.cool/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Coreui](https://coreui.io/icons/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Creative Market](https://creativemarket.com/icons) | Vector Icons / / Envato / Gumroad / Motion Array |
 | [Davooda](https://davooda.com/) | Digital Nomad Icons / |
-| [Design Family Market](https://www.designfamilymarket.com/l/BDFM-tool-pixelated-SVG?layout=profile) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Digital Nomad Icons](https://digitalnomadicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Doodlicons](https://doodlicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Design Family Market](https://www.designfamilymarket.com/l/BDFM-tool-pixelated-SVG?layout=profile) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Digital Nomad Icons](https://digitalnomadicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Doodlicons](https://doodlicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Draw Kit](https://www.drawkit.com/search-results) | Illustration / icons |
-| [Dribble](https://dribbble.com/search/free-icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Dribble](https://dribbble.com/search/free-icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Envato](https://elements.envato.com/graphics/icons) | Vector Icons / Creative Market / / Gumroad / Motion Array |
-| [Figma](https://www.figma.com/community/icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Forge Icons](https://icons.theforgesmith.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Free Icons](https://icons-for-free.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Freepik](https://www.freepik.com/icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Futicons](https://futicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Game Icons](https://game-icons.net/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Figma](https://www.figma.com/community/icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Forge Icons](https://icons.theforgesmith.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Free Icons](https://icons-for-free.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Freepik](https://www.freepik.com/icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Futicons](https://futicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Game Icons](https://game-icons.net/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Gumroad](https://gumroad.com/design/icons) | Vector Icons / Creative Market / Envato / / Motion Array |
 | [Health icons](https://healthicons.org/) | Health Medical icons |
-| [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Hola SVG Icons](https://icons.holasvg.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Hugeicons](https://hugeicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Humbleicons](https://humbleicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Hola SVG Icons](https://icons.holasvg.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Hugeicons](https://hugeicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Humbleicons](https://humbleicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Icon Build](https://iconbuild.com/?_gl=1*1iqfk2z*_gcl_au*MTY3NTMwODUuMTc1NTI3NjUwNg..*_ga*MjkyNzgwMjU5LjE3NTUyNzY1MDY.*_ga_699HT9K481*czE3NTUyNzY1MDUkbzEkZzAkdDE3NTUyNzY1MDUkajYwJGwwJGgw) | - Texas 3D Printed Homes |
 | [Icon Finder](https://www.iconfinder.com/designers) | The Noun Project / My Crate / Yellow Images / / YWFT |
 | [Icon Maker](https://ray.so/icon) | Icon online Tools Pro Icons / |
-| [Icon Park](https://iconpark.oceanengine.com/illustrations) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icon Park](https://iconpark.oceanengine.com/official) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icon Scout](https://iconscout.com/3d-illustrations) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconbuddy](https://iconbuddy.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconic](https://iconic.app/battery-full/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconic Offices](https://www.iconicoffices.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconic World](https://www.iconic-world.com/directory) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconify Icon Sets](https://icon-sets.iconify.design/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconizer](https://www.iconizer.io/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons 8](https://icons8.com/illustrations/styles/free-1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons 8](https://icons8.com/liquid-glass) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons 8](https://icons8.com/l/3d-textures/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons 8](https://icons8.com/music/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons SVG](https://iconsvg.xyz/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [icons.download](https://icons.download/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Icons8](https://icons8.com/icons/group-3d) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Iconsax](https://iconsax.io/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [IconStore](https://iconstore.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Logo Design Love](https://www.logodesignlove.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Logo Designer](https://www.logo-designer.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Lordicon](https://lordicon.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Majesticons](https://www.majesticons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Martinelli Luce](https://martinelliluce.it/it/catalogo/iconici) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Material UI](https://materialui.co/icons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Mono Icons](https://icons.mono.company/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icon Park](https://iconpark.oceanengine.com/illustrations) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icon Park](https://iconpark.oceanengine.com/official) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icon Scout](https://iconscout.com/3d-illustrations) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconbuddy](https://iconbuddy.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconic](https://iconic.app/battery-full/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconic Offices](https://www.iconicoffices.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconic World](https://www.iconic-world.com/directory) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconify Icon Sets](https://icon-sets.iconify.design/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconizer](https://www.iconizer.io/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons 8](https://icons8.com/illustrations/styles/free-1) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons 8](https://icons8.com/liquid-glass) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons 8](https://icons8.com/l/3d-textures/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons 8](https://icons8.com/music/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons SVG](https://iconsvg.xyz/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [icons.download](https://icons.download/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Icons8](https://icons8.com/icons/group-3d) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Iconsax](https://iconsax.io/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [IconStore](https://iconstore.co/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Logo Design Love](https://www.logodesignlove.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Logo Designer](https://www.logo-designer.co/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Lordicon](https://lordicon.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Majesticons](https://www.majesticons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Martinelli Luce](https://martinelliluce.it/it/catalogo/iconici) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Material UI](https://materialui.co/icons) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mono Icons](https://icons.mono.company/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Motion Array](https://motionarray.com/browse/graphics/icons/) | Vector Icons / Creative Market / Envato / Gumroad / |
 | [My Crate](https://my.crate.as/?tag=Icon) | The Noun Project / / Yellow Images / Icon Finder / YWFT |
 | [Obra Icons](https://icons.obra.studio/) | OpenMoji / / Octicons |
 | [Octicons](https://primer.style/octicons/) | OpenMoji / Obra Icons / |
-| [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file/1445713209741917748/openbridge-icon-pack) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file/1445713209741917748/openbridge-icon-pack) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [OpenMoji](https://openmoji.org/) | / Obra Icons / Octicons |
-| [Pixelarticons](https://pixelarticons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Potlab Icons](https://potlabicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [pqoqubbw/icons](https://icons.pqoqubbw.dev/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Pixelarticons](https://pixelarticons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Potlab Icons](https://potlabicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [pqoqubbw/icons](https://icons.pqoqubbw.dev/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Pro Icons](https://proicons.com/design-tools/) | Icon online Tools / Icon Maker |
 | [Shapefest](https://www.shapefest.com/#new) | 3D icons / Lego blocks |
-| [Smashicons](https://smashicons.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Svg Doodle icon](https://svgicon.net/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Smashicons](https://smashicons.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Svg Doodle icon](https://svgicon.net/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | - Download SVG Vector files from any website |
-| [Tech Icons](https://techicons.dev/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The Icon of](https://www.theiconof.com/search) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Tech Icons](https://techicons.dev/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [The Icon of](https://www.theiconof.com/search) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [The Noun Project](https://thenounproject.com/icons/) | / My Crate / Yellow Images / Icon Finder / YWFT |
 | [Vector Icons](https://vectoricons.net/designers) | / Creative Market / Envato / Gumroad / Motion Array |
 | [Vector Lab](https://thevectorlab.com/pages/graphics-and-logos) | Yellow Images / Studio 2am / - Not Free |
-| [Vzy Icons](https://icons.vzy.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Warp SVG Online](https://pavellaptev.github.io/warp-svg/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Vzy Icons](https://icons.vzy.co/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Warp SVG Online](https://pavellaptev.github.io/warp-svg/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/icons) | The Noun Project / My Crate / / Icon Finder / YWFT |
 | [YWFT](https://www.youworkforthem.com/graphics/icons) | The Noun Project / My Crate / Yellow Images / Icon Finder / |
-| [Zwicon](https://www.zwicon.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Zwicon](https://www.zwicon.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DICONS](https://3dicons.co) | Beautifully crafted open source 3D icons |
 | [All SVG Icons](https://allsvgicons.com/) | Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries. |
 | [appicon](https://appicon.co/) | Quickly generate app icons in different sizes for your IOS, macOS and Android projects |

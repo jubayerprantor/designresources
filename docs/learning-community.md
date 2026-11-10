@@ -12,17 +12,17 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Adobe](https://www.adobe.com/learn/indesign) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Art Station](https://www.artstation.com/learning) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Adobe](https://www.adobe.com/learn/indesign) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Art Station](https://www.artstation.com/learning) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [CG Courses](https://t.me/cgcoursess/3) | - Telegram with Graphic design courses |
 | [elements.envato.com](https://elements.envato.com/learn/indesign-tutorials) | Collections / 2 / 3 / 4 / 5 / 6 |
 | [GitHub - A guide for learning how to write scripts for use in Adobe Illustrator](https://github.com/rjduran/adobe-scripting) | GitHub - A guide for learning how to write scripts for use in Adobe Illustrator |
-| [Hugging Face - AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Hugging Face - AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Lapa](https://www.lapa.ninja/learn/figma/) | Figma Plugins / Best Webdesigntools / / |
-| [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Motion Lab](https://www.motionlab.co.kr/TUTORIAL) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The Vault - Learning Design](https://newincreative.notion.site/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9?s=09) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Motion Lab](https://www.motionlab.co.kr/TUTORIAL) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [The Vault - Learning Design](https://newincreative.notion.site/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9?s=09) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Vagon](https://vagon.io/blog/best-sketchup-tutorials) | Collections of curses Easy Render / |
 | [ChatGPT](https://chatgpt.com) | Use the free ChatGPT tier to generate code explanations, design walkthroughs, and idea brainstorming. |
 | [Claude](https://claude.ai) | Anthropic's conversational AI great for in-depth learning support, writing help, and summarization. |
@@ -61,42 +61,38 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3D C](https://t.me/b3d18) | Telegram 🏴‍☠️ |
-| [3D Solar System](https://3d-solar-system-three-js.vercel.app/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Solar System](https://3d-solar-system-three-js.vercel.app/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Art Station](https://www.artstation.com/blogs/cglab/1p1z/what-is-matte-painting-photobashing-and-3d-kitbashing) | Photobashing Concept Art Empire / / Reddit / Cube Brush |
 | [awesomeclaude.ai](https://awesomeclaude.ai/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [B Courses f/free](https://t.me/blendercourseforfree) | Telegram 🏴‍☠️ |
 | [beta.ish.chat](https://beta.ish.chat/) | Here are the other materials. I hope theyre helpful. CLAUDE |
 | [Blend3D](https://t.me/Blend3d) | Telegram Blender Community , , CG Peers |
 | [Blender Community](https://t.me/Blender_Community0) | Telegram , Blend3D , CG Peers |
-| [Blender Community](https://t.me/Blender_Community0/532) | Telegram 🏴‍☠️ |
-| [Blender Course](https://t.me/CG_Blender101) | Telegram 🏴‍☠️ |
-| [Blender list](https://www.reddit.com/r/blender/comments/1iipe0p/i_made_a_list_of_blender_assets_and_addons/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blender list](https://www.reddit.com/r/blender/comments/1iipe0p/i_made_a_list_of_blender_assets_and_addons/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [CG Peers](https://t.me/Cg_peers) | Telegram Blender Community , Blend3D , |
 | [Concept Art Empire](https://conceptartempire.com/photobashing/) | Photobashing / Art Station / Reddit / Cube Brush |
-| [Figma](https://www.figma.com/community/design-tutorials?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Figma](https://www.figma.com/community/design-tutorials?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Github](https://github.com/ad-si/awesome-3d-printing) | Fix my print /  / 2 |
 | [github.com](https://github.com/ComposioHQ/awesome-claude-skills) | Here are the other materials. I hope theyre helpful. CLAUDE |
 | [github.com](https://github.com/BehiSecc/awesome-claude-skills) | Here are the other materials. I hope theyre helpful. CLAUDE |
 | [github.com](https://github.com/lugia19/Claude-Usage-Extension) | Here are the other materials. I hope theyre helpful. CLAUDE |
 | [help.figma.com](https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025) | Figma / / Figma Community 101 |
-| [Mega Design Community](https://t.me/MegaDesignCommunity) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mega Design Community](https://t.me/MegaDesignCommunity) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [platform.claude.com](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [Portfolio Advice for New Designers](https://www.reddit.com/r/graphic_design/comments/u14sxx/portfolio_advice_for_new_designers/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Portfolio Advice for New Designers](https://www.reddit.com/r/graphic_design/comments/u14sxx/portfolio_advice_for_new_designers/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Project Lighthouse](https://community.polyhaven.com/) | - Community built game assets |
-| [PSDay](https://t.me/ThePSDAY) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [PSDay](https://t.me/ThePSDAY) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [r/ephemera](https://www.reddit.com/r/ephemera/) | - Reddit thread of old items/designs |
-| [Reddit](https://www.reddit.com/r/typography/comments/absdzk/chinese_fonts/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Reddit](https://www.reddit.com/r/typography/comments/absdzk/chinese_fonts/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) | - Tips to find Webfonts |
-| [Reddit](https://www.reddit.com/r/gamedev/wiki/index/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Reddit](https://www.reddit.com/r/gamedev/wiki/index/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Reddit](https://www.reddit.com/r/photoshop/comments/jquvm2/what_are_the_differences_between_photobashing_and/) | Photobashing Concept Art Empire / Art Station / / Cube Brush |
-| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [reddit.com](https://www.reddit.com/r/ClaudeAI/) | Here are the other materials. I hope theyre helpful. CLAUDE |
 | [reddit.com](https://www.reddit.com/r/Ishchat/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [skillsmp.com](https://skillsmp.com/) | Here are the other materials. I hope theyre helpful. CLAUDE |
-| [Substance Community Assets](https://substance3d.adobe.com/community-assets) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Webfont](https://www.webfont.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Substance Community Assets](https://substance3d.adobe.com/community-assets) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Webfont](https://www.webfont.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Behance Community](https://www.behance.net/galleries) | Showcase your work and connect with other creatives. |
 | [Designer Hangout (Slack)](https://www.designerhangout.co/) | Exclusive Slack community for designers to network and collaborate. |
 | [Dribbble Community](https://dribbble.com/community) | Community of designers sharing their work and getting feedback. |
@@ -107,7 +103,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Graphic Design Salary transparency spreadsheet](https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit?gid=257041397#gid=257041397) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Graphic Design Salary transparency spreadsheet](https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit?gid=257041397#gid=257041397) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [99designs](https://99designs.com) | Run design contests where multiple designers submit work, then pick your favorite. Popular for logos, branding, and web design. |
 | [99Designs Studio](https://studio.99designs.com) | Work directly with hand-picked designers on custom projects, an alternative to the contest model. |
 | [AngelList](https://angel.co/jobs) | Startup job platform with equity-based compensation options and direct founder connections. |
@@ -172,7 +168,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Sketchup plugins and extensions](https://mastersketchup.com/resources/#anc_extensions) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Sketchup plugins and extensions](https://mastersketchup.com/resources/#anc_extensions) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Angular Developer Tool](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools allows you to understand the structure of your application and preview the state of the directive and the component instances. |
 | [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Full page screen capture and screen recorder - 2 in 1. Share screencast video instantly |
 | [Awesome Screenshot & Screen Recorder](https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/) | Capture and annotate screenshots |
@@ -247,6 +243,6 @@
 | [Namu](https://namu.wiki/w/Blender#s-8) | - Blender resources, Tutorials and Add-Ons |
 | [Printing Projects](https://all3dp.com/projects/3d-printing-projects/) | Website full of projects and tutorials |
 | [rubenstomdesign.com](https://rubenstomdesign.com/blogs/news/mastering-indesign-templates-everything-you-need-to-know-to-start-designing) | Indesign template tutorials 1 / 2 / |
-| [storyblocks.com](https://www.storyblocks.com/resources/tutorials/create-video-mockup-designs) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [storyblocks.com](https://www.storyblocks.com/resources/tutorials/create-video-mockup-designs) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [youtube.com](https://www.youtube.com/results?search_query=Blueprint+Effect+in+Adobe+Photoshop) | Tutorials Blueprint Effect Photoshop / / Blueprint in Blender |

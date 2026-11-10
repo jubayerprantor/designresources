@@ -1,13 +1,13 @@
 # How to Contribute
 
-Thank you for your interest in contributing! This is a personal design resource collection — all additions go through a pull request review to ensure quality.
+Thank you for your interest in contributing! This is a community-driven design resource collection under **GiveBack2People** — all additions go through a pull request review to ensure quality.
 
 ---
 
 ## Steps to Contribute
 
 1. **Fork the Repository**
-   Click the **Fork** button on [GitHub](https://github.com/jubayerprantor/designresources) to create your own copy.
+   Click the **Fork** button on [GitHub](https://github.com/GiveBack2People/designresources) to create your own copy.
 
 2. **Clone Your Fork**
    ```bash
@@ -21,14 +21,14 @@ Thank you for your interest in contributing! This is a personal design resource 
    ```
 
 4. **Add Your Resource**
-   Open `README.md` and add your resource to the appropriate category table:
+   Find the appropriate category file in `docs/` (e.g., `docs/typography.md`, `docs/stock-photos.md`, `docs/code-frameworks.md`) and add your resource to the relevant table:
    ```markdown
    | [Resource Name](https://example.com) | Brief, accurate description of the resource. |
    ```
 
 5. **Commit & Push**
    ```bash
-   git add README.md
+   git add docs/
    git commit -m "Add: Resource Name to Category"
    git push origin add-my-resource
    ```
@@ -49,4 +49,4 @@ Thank you for your interest in contributing! This is a personal design resource 
 
 ## Questions?
 
-Open an [issue on GitHub](https://github.com/jubayerprantor/designresources/issues) and we'll help you out.
+Open an [issue on GitHub](https://github.com/GiveBack2People/designresources/issues) and we'll help you out.
