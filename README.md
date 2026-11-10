@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="docs/public/og-image.png" alt="Design Resources Hub Banner" width="100%" />
+</p>
+
 # Design Resources Hub 🎨✨
 
 [![Deploy VitePress site to Pages](https://github.com/GiveBack2People/designresources/actions/workflows/deploy.yml/badge.svg)](https://github.com/GiveBack2People/designresources/actions/workflows/deploy.yml)
 [![Live Site](https://img.shields.io/badge/Live_Site-designresources.eu.cc-00C7B7?style=flat-square&logo=cloudflare)](https://designresources.eu.cc/)
-[![Contact Email](https://img.shields.io/badge/Contact-hello%40designresources.eu.cc-FF5722?style=flat-square&logo=gmail)](mailto:hello@designresources.eu.cc)
+[![Contact Email](https://img.shields.io/badge/Contact-contact%40designresources.eu.cc-FF5722?style=flat-square&logo=gmail)](mailto:contact@designresources.eu.cc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Explore a curated collection of **4,000+ hand-picked design tools, assets, references, and frameworks** for graphic designers, UI/UX designers, developers, and creatives.

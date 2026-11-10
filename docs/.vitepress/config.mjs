@@ -32,7 +32,7 @@ export default defineConfig({
       { text: 'GitHub', link: 'https://github.com/GiveBack2People/designresources' },
       { text: 'Contribute', link: '/contributing' },
       { text: 'Sources', link: '/sources' },
-      { text: 'Contact', link: 'mailto:hello@designresources.eu.cc' }
+      { text: 'Contact', link: 'mailto:contact@designresources.eu.cc' }
     ],
     search: {
       provider: 'local'
