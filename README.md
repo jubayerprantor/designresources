@@ -17,8 +17,12 @@ Explore a curated collection of **4,000+ hand-picked design tools, assets, refer
 
 ## 🌟 Features & Curation Categories
 
-We have transitioned from simple markdown lists to a high-speed, search-driven, production-grade **VitePress web app**! You can search or navigate across 13 major design categories:
+We have transitioned from simple markdown lists to a high-speed, search-driven, production-grade **VitePress web app**! You can search or navigate across our curated sections:
 
+* 🌟 **[Top Global Hubs](https://designresources.eu.cc/top-hubs)** — The world's top 25 creative platforms (Figma, Canva, Freepik, Unsplash, Google Fonts).
+* ⚡ **[Creative Marketplaces](https://designresources.eu.cc/marketplaces)** — Freemium powerhouses & elite subscription hubs (Envato Elements, Motion Array, Artlist).
+
+### All Categories:
 1. 💡 **[Design Inspiration](https://designresources.eu.cc/design-inspiration)** — Curated galleries, portfolios, award-winning sites, and graphic design blogs.
 2. 📷 **[Stock Photos](https://designresources.eu.cc/stock-photos)** — Royalty-free high-res photography and AI image generators.
 3. 🎵 **[Stock Video & Music](https://designresources.eu.cc/stock-video-music)** — Free footage, overlay packs, and royalty-free soundtracks.

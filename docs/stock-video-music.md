@@ -12,28 +12,16 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [19 Free Film Grain Overlays](https://motionarray.com/learn/video-effects/free-film-grain/) | Curated list of 19 free film grain overlays for adding vintage cinematic texture to videos. |
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | YouTube channel with game development and animation tutorials and resources |
-| [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato Elements collection of 3D billboard mockup video templates for After Effects |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
-| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_493534&utm_medium=affiliate&utm_source=impact_radius) | Collage Constructor |
-| [elements.envato.com](https://elements.envato.com/video-templates/luts) | Envato Elements collection of LUTs for color grading video footage |
-| [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Envato Elements collection of paper texture overlay video templates for various editing software |
-| [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Envato Elements collection of texture pack video templates for motion graphics and video editing |
-| [elements.envato.com](https://elements.envato.com/video-templates/3d+mockup) | Envato Elements section for 3D mockup video templates and motion graphics |
-| [elements.envato.com](https://elements.envato.com/video-templates/mockups/compatible-with-after-effects) | Envato Elements After Effects mockup templates for video projects |
+| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=) | Collage Constructor |
 | [Envato](https://videohive.net/search/luts) | VideoHive marketplace search for LUT color grading presets for video editing software. |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-after-effects) | Premium After Effects video template library with customizable motion graphics and animations. |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-premiere-pro) | Video Milkshake , Tiny Tapes , Human Video , Pix Flow , Cinecom , Gumroad |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-final-cut-pro) | Premium Final Cut Pro video template library with titles, transitions, and effects. |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-davinci-resolve) | Marketplace for DaVinci Resolve templates including Fusion macros, titles, and transitions |
 | [Firefly](https://firefly.adobe.com/generate/video) | Image to Video 🆓 |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=&query=&selection=1&type=video) | Freepik video search for paper texture overlays and vintage film effects |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=video&query=animated+texture&type=video) | Freepik video search for paper texture overlays and vintage film effects |
 | [Freepik](https://www.freepik.com/video-templates) | Free video templates for various editing software available on the Freepik platform. |
 | [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik video search for texture pack overlays and motion backgrounds |
 | [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik video search for paper texture overlays and vintage film effects |
-| [Iphone](https://elements.envato.com/video-templates/iphone+mockup) | Envato Billboards |
 | [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | YouTube channel featuring game development tutorials and animation content |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
 | [Mix Kit](https://mixkit.co/free-sound-effects/) | Free sound effects library with categories including animals, nature, game sounds, and transitions. |
@@ -91,8 +79,6 @@
 | [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | - Create animation from audio |
 | [Audio Jungle](https://audiojungle.net/) | Royalty-free music and sound effects marketplace on the Envato platform |
 | [Freepik](https://www.freepik.com/audio) | Royalty-free music library, AI voiceover generation, and sound effects for creative projects. |
-| [Motion Array](https://motionarray.com/browse/sound-effects/) | Subscription-based royalty-free sound effects for video and motion design |
-| [MotionArray](https://motionarray.com/browse/royalty-free-music/) | Unlimited royalty-free music tracks for video and content creators |
 | [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Premium essential sound effects library for motion designers and video editors |
 | [Pixa Bay](https://pixabay.com/sound-effects/search/) | Large library of free, royalty-free sound effects for use in videos, games, and other projects. |
 | [r10's Audio Tools](https://www.r10.audio/#wave-designer) | - Wave Designer for oscillator |

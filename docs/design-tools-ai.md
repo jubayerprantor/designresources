@@ -218,7 +218,7 @@
 | [Brain Made](https://www.instagram.com/brain.made.0/?hl=en) | Instagram profile showcasing 3D CAD design and creative projects |
 | [Brick Link](https://www.bricklink.com/v3/studio/main.page) | Create 3D Accurate LEGO Version from reference image |
 | [C. & J. G. Potter](https://archive.org/details/Potter61280/page/n331/mode/2up) | Digitized historical catalog of C. & J. G. Potter for vintage design and illustration reference. |
-| [Cassina](https://www.cassina.com/it/it.html?utm_source=google&utm_medium=cpc&utm_campaign=abs+traffic+ongoing+sea+it+brand+2024+searchnetwork&gad_source=1) | Italian luxury design furniture brand known for iconic modern and contemporary furniture pieces. |
+| [Cassina](https://www.cassina.com/it/it.html) | Italian luxury design furniture brand known for iconic modern and contemporary furniture pieces. |
 | [Chain-of-Zoom -](https://huggingface.co/spaces/alexnasa/Chain-of-Zoom) | AI-powered tool for high-resolution image generation with chain-of-thought zoom enhancement. |
 | [Cine Grain](https://www.cinegrain.com/) | Marketplace for film grain overlays and video editing assets |
 | [Codex Nutall](https://archive.org/details/gri_33125011146541/page/n55/mode/2up) | - Ancient Mexican Codex - 1858 |
@@ -238,7 +238,7 @@
 | [Electronics Gaming Monthly](https://archive.org/details/electronic-gaming-monthly) | Digitized archive of Electronic Gaming Monthly magazines on Internet Archive |
 | [Essex & Co.](https://archive.org/details/Essex10934/page/n185/mode/2up) | Digitized historical catalog of Essex & Co. for vintage design and illustration reference. |
 | [Fab](https://www.fab.com/search?tags=terrain) | Marketplace for 3D assets, terrain models, and digital content |
-| [Fibreguard](https://plugin.fibreguard.com/?utm_source=fibreguard&utm_medium=organic_social&utm_campaign=fg_plugin&utm_content=organic_fg&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn2jbwsgrD-DGOYCKYVPiNLEcU3UviBVtZqikjdyt1Lp8u9OE13v1ozYBLVmQ_aem_PZDyQAwnnSfEsTOjLd28gg) | - Free Plugin for 3dsmax 2025 or newer full of fabrics |
+| [Fibreguard](https://plugin.fibreguard.com/) | - Free Plugin for 3dsmax 2025 or newer full of fabrics |
 | [Fine Art Archive](https://archive.org/details/Fine-Art-History?sort=-downloads) | Internet Archive collection of fine art history resources sorted by popularity and downloads. |
 | [Firefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo) | - Free for Adobe users |
 | [Forty-four Turkish fairy tales](https://archive.org/details/fortyfourturkish001862/page/70/mode/2up) | Digitized Turkish fairy tales book on Internet Archive for illustrative and cultural design reference. |
@@ -260,10 +260,10 @@
 | [Internet Archive](https://archive.org/details/texts) | Internet Archive's massive collection of digitized texts, books, and documents for research. |
 | [Internet Archive](https://archive.org/details/animationandcartoons) | Internet Archive's collection of animation and cartoon media for creative reference. |
 | [Internet Archive](https://archive.org/details/prelinger?page=2) | Old clips, general |
-| [Kartell](https://www.kartell.com/it/it/ktit/?msclkid=f9eec52bfab019ce54dea13927bfceb0&utm_source=bing&utm_medium=cpc&utm_campaign=IT_Pure%20Brand_EXA&utm_term=kartell&utm_content=Kartell) | Italian design furniture brand known for iconic plastic chairs, home furnishings, and collaborations with renowned designers. |
+| [Kartell](https://www.kartell.com/it/it/ktit/?msclkid=f9eec52bfab019ce54dea13927bfceb0) | Italian design furniture brand known for iconic plastic chairs, home furnishings, and collaborations with renowned designers. |
 | [Komut](https://komut.studio/luminaires/) | France 3D Printed France |
 | [Krea](https://www.krea.ai/apps/image/enhancer) | - Morphing animations between images D |
-| [LFA](https://oa.letterformarchive.org/?utm_source=google_cpc&utm_medium=ad_grant&utm_campaign=cbc_ggrant_BrandedMXCEurope&utm_term=letterform%20archives&utm_campaign=CBC+Grant+%7C+Branded+MXC+(Europe)&utm_source=adwords&utm_medium=ppc&hsa_acc=9348595192&hsa_cam=19262872965&hsa_grp=143152583654&hsa_ad=708124366037&hsa_src=g&hsa_tgt=kwd-1825891008190&hsa_kw=letterform%20archives&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=19262872965&gbraid=0AAAAACbnx_NnX87Uo49KhWXVm72TQfbKE&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNLKwHJazMw2rRHaRunrFi-X-4KAPk_PYUCQM7klXnufvCPo_SzKxoCO8MQAvD_BwE) | Online archive of lettering, typography, and graphic design history from the Letterform Archive collection. |
+| [LFA](https://oa.letterformarchive.org/)&utm_source=adwords&utm_medium=ppc&hsa_acc=9348595192&hsa_cam=19262872965&hsa_grp=143152583654&hsa_ad=708124366037&hsa_src=g&hsa_tgt=kwd-1825891008190&hsa_kw=letterform%20archives&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=19262872965&gbraid=0AAAAACbnx_NnX87Uo49KhWXVm72TQfbKE&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNLKwHJazMw2rRHaRunrFi-X-4KAPk_PYUCQM7klXnufvCPo_SzKxoCO8MQAvD_BwE) | Online archive of lettering, typography, and graphic design history from the Letterform Archive collection. |
 | [Live Portrait](https://huggingface.co/spaces/KwaiVGI/LivePortrait) | Face swap video |
 | [Lovart](https://www.lovart.ai/) | AI design agent for creating professional visuals |
 | [MAGI-1](https://huggingface.co/sand-ai/MAGI-1) | Open-source autoregressive AI model for generating high-quality videos from images and text prompts. |
@@ -293,7 +293,7 @@
 | [PR Paris](https://archive.org/details/Paris12108/page/n269/mode/2up) | Digitized Parisian architectural catalog of ornamental designs, moldings, and decorative elements. |
 | [Rav Zines](https://archive.org/details/ravezines) | - Early 2000s magazines |
 | [Re-creating old American designs in wall paper](https://archive.org/details/nancy-mc-clelland-inc-1941/page/n7/mode/2up) | Digitized 1941 catalog of reproduced American wallpaper patterns and interior designs. |
-| [Render AI](https://www.rendair.ai/?fbclid=PAZXh0bgNhZW0CMTEAAaZHeDBzmi-HWlyo_aJ5I4W8POKKVFJhl1hypocMR_85lGpE8Y0Cmo2U6n4_aem_8K9BYB9LhxrkpgGLzFWwKw) | - Renders from sketches - Not Free |
+| [Render AI](https://www.rendair.ai/) | - Renders from sketches - Not Free |
 | [Retail Design Blog](https://retaildesignblog.net/category/spaces/office-healthcare/) | Curated architectural lighting installations, commercial fixtures, and store design showcases. |
 | [Retail Design Blog](https://retaildesignblog.net/category/products/lighting/) | Curated architectural lighting installations, commercial fixtures, and store design showcases. |
 | [Saaif Design](https://www.instagram.com/saifsdesign) | Instagram portfolio of graphic design, branding, and visual art projects. |
@@ -316,13 +316,13 @@
 | [The Grammar of Ornament -](https://archive.org/details/grammarornament00Jone/page/n21/mode/2up) | Digitized edition of Owen Jones's classic reference on world ornamental design and decorative arts. |
 | [The hand book of mediaeval alphabets](https://archive.org/details/handbookofmedia00shawuoft/page/n36/mode/1up) | Digitized Victorian reference book of medieval calligraphy scripts and decorative alphabets. |
 | [The Magazine Rack](https://archive.org/details/magazine_rack) | - Old Magazine Archive |
-| [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library?utm_source=emailoctopus&utm_medium=email&utm_campaign=Resources%20library%20link) | Curated collection of UX and product design tools, books, articles, and plugins by Adham Dannaway. |
+| [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) | Curated collection of UX and product design tools, books, articles, and plugins by Adham Dannaway. |
 | [The Stories Behind Severance’s Eerie Office Design](https://www.vulture.com/article/severance-office-design-explained.html) | Vulture article exploring the production design and props behind the Apple TV+ series Severance. |
 | [Threlkeld Granite Co - England - 1898](https://archive.org/details/albumofornamenta00thre/page/n13/mode/2up) | Digitized album of Victorian ornamental stonework, granite designs, and architectural patterns. |
 | [Tickets Please](https://www.blaisehayward.com/tickets-please) | - Ticket Shows Designs |
 | [Tost](https://tost.ai/) | - Free AIs for Image, video and 3D Generation |
 | [Vaigue Man](https://www.youtube.com/@VaigueMan) | YouTube channel with long-form design and creative content |
-| [Vector Magic](https://vectormagic.com/?atk=vcb2u5mfvf&gad_source=1&gad_campaignid=22622370203&gbraid=0AAAAA_1iWaHfnPeY_iQJa-tJNklEgBMvU&gclid=CjwKCAjw04HIBhB8EiwA8jGNbTzQSK-u7jr2hcmKvHhYcnXP2Xv5V-7nx1XBiG1uOeK6mEOpQkM30BoC96gQAvD_BwE) | Online and desktop tool for converting JPG, PNG, and BMP bitmap images to SVG, EPS, and PDF vectors. |
+| [Vector Magic](https://vectormagic.com/?atk=vcb2u5mfvf&gad_campaignid=22622370203&gbraid=0AAAAA_1iWaHfnPeY_iQJa-tJNklEgBMvU) | Online and desktop tool for converting JPG, PNG, and BMP bitmap images to SVG, EPS, and PDF vectors. |
 | [Vectorizer AI](https://vectorizer.ai/) | Not free, but you can take a screenshot of the preview |
 | [vectorwizard.ai](https://www.vectorwizard.ai/) | AI tool that generates clean, animated SVG code from text prompts, sketches, or images. |
 | [Wakamai Fondue](https://wakamaifondue.com/) | Upload a font and Get info, language support |

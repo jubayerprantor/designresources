@@ -15,8 +15,6 @@
 | [Adobe](https://www.adobe.com/learn/indesign) | Official Adobe InDesign learning portal with project-based tutorials for layout, publishing, and print design. |
 | [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | Official Adobe Illustrator tutorials covering vector illustration, logo design, and creative workflows. |
 | [Art Station](https://www.artstation.com/learning) | ArtStation Learning offers video courses in 3D art, concept art, animation, and visual storytelling. |
-| [CG Courses](https://t.me/cgcoursess/3) | Telegram group sharing graphic design and 3D training resources, course links, and community discussion. |
-| [elements.envato.com](https://elements.envato.com/learn/indesign-tutorials) | Envato Elements learning hub with InDesign tutorials, templates, and creative asset guides. |
 | [GitHub - A guide for learning how to write scripts for use in Adobe Illustrator](https://github.com/rjduran/adobe-scripting) | GitHub repo with scripting tutorials for automating Adobe Illustrator workflows. |
 | [Lapa](https://www.lapa.ninja/learn/figma/) | Curated Figma tutorials, plugin recommendations, and UI design inspiration for product designers. |
 | [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | Web-based tool for creating mesh gradients with noise and exporting SVGs for Figma. |
@@ -55,18 +53,11 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3D C](https://t.me/b3d18) | Telegram group for 3D artists sharing tutorials, resources, and creative feedback. |
 | [3D Solar System](https://3d-solar-system-three-js.vercel.app/) | Interactive Three.js solar system demo for learning 3D visualization and animation. |
 | [Art Station](https://www.artstation.com/blogs/cglab/1p1z/what-is-matte-painting-photobashing-and-3d-kitbashing) | Article on matte painting, photobashing, and 3D kitbashing for concept art workflows. |
 | [awesomeclaude.ai](https://awesomeclaude.ai/) | Community-curated Claude AI resources, tools, and usage examples. |
-| [B Courses f/free](https://t.me/blendercourseforfree) | Telegram channel sharing free Blender course links and learning materials. |
 | [beta.ish.chat](https://beta.ish.chat/) | Experimental chat platform and community for AI chat interface experiments. |
-| [Blend3D](https://t.me/Blend3d) | Telegram group for Blend3D users sharing 3D modeling and rendering tips. |
-| [Blender Community](https://t.me/Blender_Community0) | Telegram community for Blender artists, add-ons, and shared resources. |
-| [Blender Community](https://t.me/Blender_Community0/532) | Alternate Blender community chat link for artists and collaborators. |
-| [Blender Course](https://t.me/CG_Blender101) | Telegram discussion group for Blender courses, tutorials, and practice projects. |
 | [Blender list](https://www.reddit.com/r/blender/comments/1iipe0p/i_made_a_list_of_blender_assets_and_addons/) | Reddit compilation of Blender assets, add-ons, and community tools. |
-| [CG Peers](https://t.me/Cg_peers) | Telegram community for CG artists to share work, resources, and feedback. |
 | [Concept Art Empire](https://conceptartempire.com/photobashing/) | Guide and examples for photobashing, concept art, and digital painting techniques. |
 | [Figma](https://www.figma.com/community/design-tutorials?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Figma Community tutorials and editable design resources for UI/UX workflows. |
 | [Github](https://github.com/ad-si/awesome-3d-printing) | Curated GitHub list of 3D printing projects, tools, and community resources. |
@@ -74,20 +65,18 @@
 | [github.com](https://github.com/BehiSecc/awesome-claude-skills) | Another GitHub collection of Claude AI skills, tools, and prompt engineering tips. |
 | [github.com](https://github.com/lugia19/Claude-Usage-Extension) | GitHub repo for a Claude browser extension and usage examples. |
 | [help.figma.com](https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025) | Figma beginner course overview with step-by-step learning paths. |
-| [Mega Design Community](https://t.me/MegaDesignCommunity) | Large Telegram design community for peer critique, tutorials, and resources. |
 | [platform.claude.com](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Claude developer docs for prompt engineering and building custom AI workflows. |
 | [Portfolio Advice for New Designers](https://www.reddit.com/r/graphic_design/comments/u14sxx/portfolio_advice_for_new_designers/) | Reddit thread with portfolio tips and advice for early-career designers. |
 | [Project Lighthouse](https://community.polyhaven.com/) | Poly Haven community forum for artists sharing game assets, textures, and feedback. |
-| [PSDay](https://t.me/ThePSDAY) | Telegram community focused on Photoshop tips, tutorials, and daily design inspiration. |
 | [r/ephemera](https://www.reddit.com/r/ephemera/) | Reddit community for vintage design, typography, and nostalgic artwork. |
 | [Reddit](https://www.reddit.com/r/typography/comments/absdzk/chinese_fonts/) | Typography discussion on Chinese fonts, type design, and sourcing references. |
 | [Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) | Subreddit for identifying fonts and finding webfont alternatives. |
 | [Reddit](https://www.reddit.com/r/gamedev/wiki/index/) | Game development wiki with tools, tutorials, and learning resources. |
 | [Reddit](https://www.reddit.com/r/photoshop/comments/jquvm2/what_are_the_differences_between_photobashing_and/) | Discussion comparing photobashing and concept art techniques in Photoshop. |
-| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | Reddit post showcasing an interactive 3D solar system project built with Three.js. |
+| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_name=androidcss) | Reddit post showcasing an interactive 3D solar system project built with Three.js. |
 | [reddit.com](https://www.reddit.com/r/ClaudeAI/) | Reddit community discussing Anthropic Claude AI usage, plugins, and news. |
 | [reddit.com](https://www.reddit.com/r/Ishchat/) | Reddit forum for Ishchat users and AI chat interface discussion. |
-| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=7) | Photoshop thread on creating imperfect edges and organic texture effects. |
+| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_name=androidcss) | Photoshop thread on creating imperfect edges and organic texture effects. |
 | [skillsmp.com](https://skillsmp.com/) | SkillsMP learning platform with developer and design lesson content. |
 | [Substance Community Assets](https://substance3d.adobe.com/community-assets) | Adobe Substance 3D community asset library for materials, textures, and HDRI resources. |
 | [Webfont](https://www.webfont.com/) | Browser-based font preview platform for testing webfonts and typography. |

@@ -494,7 +494,6 @@
 | [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers. |
 | [DesignSystem.codes](https://www.designsystem.codes) | A collection of resources and tools for creating design systems. |
 | [Done Design System](https://uilibrary.github.io/done-design-system/) | Open source design system, guides & components |
-| [Elastic UI](https://elastic.github.io/eui) | Elastic's design system for creating engaging user experiences. |
 | [ETrade Design System](https://etrade.design/) | Guides and toolkits that blend finance with simplicity and ease of use |
 | [Evergarden](https://evergarden.design) | A set of guidelines and resources for creating intuitive and consistent interfaces. |
 | [Fluent Design System](https://www.microsoft.com/design/fluent/) | Microsoft's design system for building cross-platform experiences. |

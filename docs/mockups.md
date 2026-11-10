@@ -24,10 +24,7 @@
 | [Design Bolts](https://www.designbolts.com/category/mockup-psd/) | Free PSD mockup downloads organized by category |
 | [Design Deck](https://www.designdeck.io/free-mockups) | Free high-quality mockups with subscription pass option |
 | [Design Syndrome](https://designsyndrome.com/collections/design-assets?filter.p.m.custom.asset_type=Mockups) | Mockup and creative asset collection for modern designers |
-| [Designers Uni](https://www.designers.university/mockups/effects/handpicked-packs) | Handpicked mockup packs and effects for graphic design projects |
-| [Designers universe](https://www.designers.university/mockups/144-dithering-bitmap-vector-shapes-7-3-20) | 144 dithering bitmap and vector shapes for mockup design |
-| [Designers University](https://www.designers.university/mockups/effects/wallpapers) | Dreamy wallpaper collection for design backgrounds |
-| [Designers University](https://www.designers.university/mockups/effects/visual-effects) | Visual effects collection with design resources |
+| [Designers University](https://www.designers.university/) | Curated platform featuring high-impact visual design mockups, aesthetic wallpaper packs, and retro bitmap assets. |
 | [Device Mockup](https://devicemockup.com/) | Premium device mockups at zero cost with weekly updates |
 | [Dezi](https://dezi.gallery/mockup-resource) | Design inspiration hub with curated mockup resources |
 | [Duet Mockup](https://duetmockup.gumroad.com/) | Gumroad product page for premium mockup templates |
@@ -54,7 +51,7 @@
 | [Iphone Mockups](https://iphone-mockups.com/) | Free online iPhone mockup generator tool |
 | [Liquid Mockups](https://liquidmockups.com/) | Authentic high-quality mockups for design work |
 | [Liquid Mockups](https://liquidmockups.com/shop/video) | Video mockups and motion design asset packs |
-| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCDHlwLSMEm0bGuo-9uZtOM9l40U0D_i8l25rsF6Qulb7TBCdpM7gQaAuiFEALw_wcB&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_source=1&gad_campaignid=22553582104&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV) | AI design agent for creating professional visuals |
+| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_campaignid=22553582104) | AI design agent for creating professional visuals |
 | [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Vintage paper |
 | [Minimal Mockups](https://www.minimalmockups.com/mockups/) | Minimalist device and product mockup templates |
 | [Mockup app](https://mockupapp.ls.graphics/banner/latest-free-mockups) | Online mockup creator by ls.graphics with free templates |
@@ -65,7 +62,6 @@
 | [Mockup Cloud](https://www.mockupcloud.com/free) | Free PSD mockups from premium mockup store |
 | [Mockup Cloud](https://www.mockupcloud.com/graphics/backgrounds-and-textures) | Backgrounds and textures for premium mockup compositions |
 | [Mockup Cloud](https://www.mockupcloud.com/graphics/effects-and-brushes) | Effects and brushes for professional mockup creation |
-| [Mockup Club](https://t.me/mockup_club/26) | Telegram channel sharing mockup resources and PSD files |
 | [Mockup Daddy](https://www.mockupdaddy.com/freebies) | Freebies and mockup resources for designers |
 | [Mockup Den](https://mockupden.com/) | Free and premium PSD mockup blog with categories |
 | [Mockup Download](https://mockupdownload.ru/) | Russian site for free PSD mockup template downloads |
@@ -76,8 +72,6 @@
 | [Mockup Hunt](https://mockuphunt.co/) | Curated free PSD mockups from trusted sources |
 | [Mockup Maison](https://mockup.maison/collections/free-mockups) | Free high-quality PSD mockups for designers |
 | [Mockup Shelf](https://www.mockupshelf.com/) | Free PSD mockups and online design tools |
-| [Mockup World](https://t.me/mockupworld_tg/4909) | Telegram / Creative Mrkt |
-| [Mockup World](https://t.me/mockupworld_tg) | Telegram channel for graphic design resource sharing |
 | [Mockup World](https://www.mockupworld.co/free/tag/animated/) | Free animated PSD-to-GIF device mockups |
 | [Mockup.new](https://mockup.new/) | Free browser-based drag-and-drop mockup generator |
 | [mockupcloud.com](https://www.mockupcloud.com/graphics/assets-and-vectors) | Mockup assets and vectors from premium designers |
@@ -91,12 +85,7 @@
 | [Mockups Directory](https://mockups.directory/collections/free) | Curated directory of free mockup collections |
 | [Mockups-Design.com](https://mockups-design.com/) | Free and premium studio, packaging, and urban mockups |
 | [MockupsJar](https://mockupsjar.com/) | Free online mockup generator for apps and devices |
-| [Motion Array](https://motionarray.com/after-effects-templates/mockups/) | After Effects mockup templates and motion graphics assets |
 | [Motion Elements](https://www.motionelements.com/search/ae?s=mockup&sort=match&subscription=1) | Motion graphics and After Effects mockup templates |
-| [motionarray.com](https://motionarray.com/davinci-resolve-templates/mockups/) | DaVinci Resolve mockup templates and editing assets |
-| [motionarray.com](https://motionarray.com/final-cut-pro-templates/mockups/) | Final Cut Pro mockup templates and video effects |
-| [motionarray.com](https://motionarray.com/motion-graphics-templates/mockups/) | Motion graphics mockup templates for animated presentations |
-| [motionarray.com](https://motionarray.com/premiere-pro-templates/mockups/) | Premiere Pro mockup templates and video presentation assets |
 | [Mr Mockup](https://mrmockup.com/graphics/) | Graphics and design resource downloads for mockups |
 | [Mr.Mockup](https://mrmockup.com/free-mockups/) | Large collection of free PSD mockup downloads |
 | [Njord Mockups](https://njordmockups.com/) | Photorealistic Nordic-style mockups for designers |
@@ -119,7 +108,7 @@
 | [Video Hive](https://videohive.net/category/after-effects-project-files?term=mockup) | After Effects mockup and video asset marketplace |
 | [Framery](https://framery.com/en/) | 3D Phone Booths Finland |
 | [Hannah Luen](https://hannahluen.com/collections/big-canvas-without-frame) | High-resolution wall art and large canvas mockups for interior presentation. |
-| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCDHlwLSMEm0bGuo-9uZtOM9l40U0D_i8l25rsF6Qulb7TBCdpM7gQaAuiFEALw_wcB&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_source=1&gad_campaignid=22553582104&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV) | Follows concept, branding |
+| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_campaignid=22553582104) | Follows concept, branding |
 | [Animockup](https://github.com/alyssaxuu/animockup) | Create animated mockups in the browser 🔥. |
 | [AppLaunchpad](https://theapplaunchpad.com) | Generate beautiful mockups for your app or website. |
 | [Artboard Studio](https://artboard.studio) | A mockup and design tool for branding projects. |

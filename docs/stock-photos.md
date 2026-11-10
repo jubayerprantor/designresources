@@ -39,15 +39,6 @@
 | [cubebrush.co](https://cubebrush.co/marketplace?categories=2D%20assets:stock%20photos&resource=2D%20assets) | Marketplace for 2D stock photos, textures, and reference images for digital art and design. |
 | [Death to Stock](https://www.deathtothestockphoto.com/) | Premium membership for trend-focused stock photos and video with monthly fresh content |
 | [Doodlewash](https://doodlewash.com/free-reference-photos-for-artists/) | Doodlewash collection of free reference photos for artists |
-| [elements.envato.com](https://elements.envato.com/add-ons/brushes/compatible-with-adobe-photoshop) | Envato Elements collection of Photoshop brush add-ons |
-| [elements.envato.com](https://elements.envato.com/stock-video/texture+pack) | Envato Elements collection of texture pack stock video assets |
-| [elements.envato.com](https://elements.envato.com/stock-video/animated+texture) | Envato Elements collection of animated texture stock video assets |
-| [Envato](https://elements.envato.com/photos) | Envato Elements collection of stock photos |
-| [Envato](https://elements.envato.com/graphic-templates/text+effects/compatible-with-adobe-photoshop) | Envato Elements collection of Photoshop text effect templates |
-| [Envato](https://elements.envato.com/add-ons/actions-and-presets/compatible-with-adobe-photoshop) | Envato Elements collection of Photoshop actions and presets |
-| [Envato](https://elements.envato.com/add-ons/effects/compatible-with-adobe-photoshop) | Envato Elements subscription for Photoshop-compatible add-ons, effects and design assets |
-| [Envato](https://elements.envato.com/c/stock-video) | Envato Elements collection of stock video assets |
-| [Envato](https://elements.envato.com/stock-video/mockup) | Premium stock video mockup library available through Envato Elements subscription service. |
 | [Etsy](https://www.etsy.com/in-en/search?q=brush+photoshop&ref=search_bar) | Etsy search results for Photoshop brushes |
 | [Fix the photo](https://fixthephoto.com/free-photoshop-overlays) | Collection of over 470 free Photoshop overlays for creative photo effects and editing. |
 | [Fix the Photos](https://fixthephoto.com/free-photoshop-brushes) | Collection of free Photoshop brushes including watercolor, grunge, smoke and fire effects |
@@ -68,13 +59,8 @@
 | [Mixkit](https://mixkit.co/free-stock-art/) | Free stock illustration library with beautiful art for websites, marketing, and creative projects. |
 | [Mockup Photos](https://mockup.photos/) | Free high-quality device and product mockup photography with smart object templates. |
 | [Mockup Template](https://mockuptemplate.net/product-category/photoshop/photoshop-brushes/) | Library of 1000+ free high-resolution Photoshop brush ABR packs across 50+ categories |
-| [Motion Array](https://motionarray.com/browse/stock-photos/) | Motion Array subscription service for stock photos and video templates |
-| [Motion Array](https://motionarray.com/browse/stock-photos/?q=texture) | Motion Array search for texture stock video footage and motion graphics |
-| [Motion Array](https://motionarray.com/browse/stock-video/) | Motion Array collection of stock video footage |
-| [Motion Array](https://motionarray.com/browse/stock-motion-graphics/overlays/) | Motion Array collection of stock motion graphics overlays for video editing |
 | [Motion Elements](https://www.motionelements.com/free/stock-footage) | Free stock video footage library offering over 8,000 royalty-free clips for video production. |
-| [motionarray.com](https://motionarray.com/stock-video/mockups/) | Motion Array collection of stock video mockups |
-| [P.Re](https://www.photorestore.io/?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQvWfDAuCkQma-rgsr9EvJD8N87KOdfiIVTv1OfAn9IBiRsCyFLTP5gaAsBOEALw_wcB) | - Colorize, restore, remove background |
+| [P.Re](https://www.photorestore.io/) | - Colorize, restore, remove background |
 | [Pexels](https://www.pexels.com/it-it/) | Free stock photo and video library with high-quality royalty-free images shared by creators worldwide. |
 | [Pexels](https://www.pexels.com/search/texture/) | Free stock texture photos available for search and download on the Pexels platform. |
 | [Pexels](https://www.pexels.com/search/seamless%20texture/) | Free seamless texture stock photos available for search and download on Pexels. |
@@ -85,13 +71,11 @@
 | [Photocatch](https://www.photocatch.app/) | - Photogrammetry, uses a lot of images to create a 3d model |
 | [Photographer 5](https://sites.google.com/view/photographer-5-documentation/lights/light-gobos-and-ies) | Documentation for Photographer 5 add-on covering light gobo textures and IES profile usage. |
 | [Photoshablon](https://photoshablon.com/search?q=paper+texture&search_button=) | Photoshablon search results for paper texture resources |
-| [Photoshop Materials](https://t.me/photoshop_materials) | All 4 Designer /ph. groups / Solution |
 | [Photoshop Vip](https://photoshopvip.net/114278) | PhotoshopVIP article featuring Japanese brush calligraphy and design resources |
 | [PhotoshopVIP](https://photoshopvip.net/category/freebies/brush) | PhotoshopVIP blog category with free Photoshop brush downloads and design resources |
 | [Shot Kit](https://shotkit.com/photography-youtube-channels/#Best_Photography_Inspiration_YouTube_Channels) | Youtube channels |
 | [Studio AAA](https://studioaaa.com/product-category/photoshop-files/gradient-maps/) | Studio AAA collection of Photoshop gradient map presets |
 | [Supply Family](https://supply.family/product-category/graphics/photoshop-effects/) | Supply Family collection of Photoshop effects and design resources |
-| [Texture 4 Photoshop](https://t.me/texture4photoshop) | 4 Design / Creative Mrkt / Private Designer |
 | [The Noun Project](https://thenounproject.com/photos/) | The Noun Project photo collection offering royalty-free stock photography |
 | [True Grit Texture Supply](https://www.truegrittexturesupply.com/pages/free-procreate-photoshop-brushes) | Free sample brush pack for Photoshop, Procreate, Clip Studio, and Affinity by True Grit Texture Supply. |
 | [Unsplash](https://unsplash.com/ko/s/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8/pattern) | Free stock photo library with a curated collection of pattern images for creative design use. |

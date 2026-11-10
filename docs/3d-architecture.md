@@ -20,7 +20,6 @@
 | [3 Days of Design](https://www.3daysofdesign.dk/tag/furniture) | Annual Copenhagen design festival showcasing furniture, lighting, and interior brands through exhibitions and events. |
 | [3D Assets](https://3dassets.one/?q=&sort=popular) | Searches in several platforms |
 | [3D Assets](https://3dassets.one/?q=&type%5B%5D=hdri&sort=popular) | Search engine for free 3D assets including PBR textures, HDRIs, and models from ambientCG and Poly Haven. |
-| [3D Block Platinum](https://t.me/block3ddd) | 3D Block W.A. /Dsky / Block 3Ds Max / Blocks |
 | [3D Breed](https://www.3dbreed.com/) | Premium STL miniatures for wargaming and tabletop 3D printing |
 | [3D CAD Browser](https://www.3dcadbrowser.com/3d-models/cities) | - 3D Models of cities - Not Free |
 | [3D Cad Designer](https://www.instagram.com/3dcaddesigner/?hl=en) | Brain Made , , Simple Ideas , Kashan Solidworks |
@@ -38,7 +37,6 @@
 | [3D Export](https://3dexport.com/3d-models/characters) | Reblium Studio / Fab / Turbosquid |
 | [3D Export](https://3dexport.com/free-search?page=5) | Marketplace featuring thousands of free 3D models in OBJ, FBX, 3DS, and Blend formats. |
 | [3D Garden Plants](https://3dgardenplants.gumroad.com/) | Gumroad product offering 3D garden plant models - Not Free |
-| [3D Imperfections](https://t.me/BlenderUniverse/1685) | Animated Condensation texture for Blender |
 | [3D Jungle](https://3djungle.net/models/) | Free downloadable 3D models and seamless textures for interior design, architecture, and visualization. |
 | [3D Jungle](https://3djungle.ru/models/stucco/) | Russian site offering free stucco moulding 3D models |
 | [3D Mag](https://3dmag.org/en/market/) | Marketplace for free and premium STL 3D printing models including figures, toys, and accessories. |
@@ -48,13 +46,11 @@
 | [3D Model Japan](https://3dmj.info/) | Japanese 3D model marketplace offering furniture, lighting, plants, and CG images for architecture visualization. |
 | [3D Model Libraries - 3D Printing Resources and Tools -](https://guides.library.utoronto.ca/3Dprinting/libraries) | University of Toronto guide listing 3D model repositories, software tools, and printing services. |
 | [3D Model Org](https://3d-model.org/3d-print/) | 3D printable models including characters, props, and miniatures |
-| [3D Model Pro Free](https://t.me/model3dpro) | 3D Max Model /D for Free |
 | [3D Model Share](https://3dmodelshare.org/3d-scenes/) | Free 3D scenes, furniture, and interior models available for download in 3ds Max format. |
 | [3D Models](https://3dmodels.org/ko/blueprints/) | Resource unavailable for verification. |
 | [3D Models](https://rt3dmodels.com/tag/lumion/) | Free real-time 3D models for Lumion, D5 Render, SketchUp, Twinmotion, and Unreal formats. |
 | [3d models free](https://3dsmodelfree.com/) | Free 3ds Max models including furniture, scenes, architecture, plants, and lighting for visualization. |
 | [3D Motive](https://3dmotive.com/) | Online training platform with courses in 3D modeling, game art, animation, texturing, and sculpting. |
-| [3D Oasis](https://t.me/Oasis3d) | /D sky Pro /D Space /ddd.ru |
 | [3D People](https://3dpeople.com/en/) | Photorealistic scanned human 3D models for archviz and animation |
 | [3D Printer Academy](https://www.instagram.com/3d_printer_academy/) | Instagram profile featuring 3D printing tutorials, tips, and project showcases for makers. |
 | [3D Printer Filament Comparison / MatterHackers](https://www.matterhackers.com/3d-printer-filament-compare) | Comprehensive guide and comparison chart for 3D printing filaments including PLA, ABS, PETG, TPU, and composites. |
@@ -70,13 +66,11 @@
 | [3D Sky](https://3dsky.org/3dmodels?types=free&types=om&cat=teksturi&subcat=teksturi_kirpich&subcat=tkan&subcat=napolnie_pokritya&subcat=hdri&subcat=material_kozha&subcat=metall&subcat=teksturi_raznoe&subcat=organika&subcat=paniramnie_izobrazhenia&subcat=teksturi_kovri&subcat=kamen&subcat=teksturi_kafel_plitka&subcat=cteni_oboi&subcat=derevo) | HDRI and 3D model resource from 3dsky.org |
 | [3D Sky](https://3dsky.org/3dmodels?cat=dekor&subcat=3d_panel) | HDRI and 3D model resource from 3dsky.org |
 | [3D Sky](https://3dsky.org/3dmodels?cat=teksturi&subcat=hdri) | 3D Sky marketplace search for HDRI textures - Not Free |
-| [3D Sky Black Collection](https://t.me/my_3dsky) | 3Ds Models /D Sky |
 | [3D Sky Free](https://3dskyfree.com/category/materials/) | Free 3ds Max materials and textures for architectural visualization and interior design projects. |
 | [3D Sky Free](https://3dskyfree.com/page/4/?s=molding) | Free 3ds Max moulding model search results |
 | [3D Sky Free](https://3dskyfree.com/category/plants-bush/) | Free 3D plant and bush models for 3ds Max used in landscape and exterior rendering. |
 | [3D Sky Model](https://3dskymodel.com/?sfid=67729&_sfm_type=Free) | 3D model aggregation site featuring free models from 3dsky.org for architectural design. |
 | [3D Sky Models](https://3dskymodels.org/3d-models/interior-parts-obk3v190?category=0&format=0&page=2&price=&quality=&query=&render=0&sort=&tags=) | Curated repository of free interior parts, fittings, and architectural components. |
-| [3D Space](https://t.me/all_3dsky) | 3D Oasis /D sky Pro /ddd.ru |
 | [3D Texel](https://3dtexel.com/pbr-material/) | Library of 1,000+ free seamless CC0 PBR materials with full map sets up to 16K resolution. |
 | [3D Tools](https://3dtools.gumroad.com/) | Gumroad store selling 3D modeling tools, scripts, and resources for 3ds Max and other software. |
 | [3D Tools](https://3dtools.info/d5-render-materials/) | D5 Render materials collection for architectural visualization and real-time rendering projects. |
@@ -105,9 +99,7 @@
 | [3dcoat.com](https://3dcoat.com/articles/) | Tutorial articles covering sculpting, texturing, retopology, and UV mapping in 3DCoat. |
 | [3dcoat.com](https://3dcoat.com/documentation/) | Official documentation for 3DCoat software including painting, sculpting, and rendering workflows. |
 | [3ddd](https://3ddd.ru/3dmodels?query=%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%20%D0%B3%D0%B8%D0%BF%D1%81) | Russian 3D model site with decorative plaster moulding models |
-| [3ddd.ru](https://t.me/pro_model_3dxyz) | 3D Oasis /D sky Pro /D Space |
 | [3DExport](https://3dexport.com/search?hidden=486088&search_keywords=vdb) | Fab / Orbital Market / CG Trader / -/ CGHeven Not Free |
-| [3Dline](https://t.me/s/promodel_3dsky) | /DS Max /Ds Max Library |
 | [3DLOAD](https://3d-load.net/) | Creepy , Poser , CG Bytes , Render State , Assets Free , Daz Studio |
 | [3dmarvel.com](https://3dmarvel.com/) | - 2 free downloads p/day w/user |
 | [3DModels Ru](https://3dmodels.ru/models/arkhitiektura/zdaniia) | - Buildings, Medicine, Sports, Music |
@@ -118,15 +110,11 @@
 | [3dnchu.com](https://3dnchu.com/archives/category/asset/maya_asset/) | Japanese CG news site covering Maya assets and tools |
 | [3Ds Blue](https://3dsblue.org/3d-models?status=1&order-by=newets) | Free 3D models for architecture and design with furniture, textures, and interior scenes. |
 | [3DS Max](https://3ds-max.org/3ds-max-free-download/) | Website offering free downloads of 3ds Max software and 3DSKY model library listings. |
-| [3DS Max](https://t.me/u_3DSMAX_su) | 3Dline /Ds Max Library |
-| [3Ds Max Models](https://t.me/FREE_3DSMAX_MODELS) | has a menu |
-| [3Ds Max New Library](https://t.me/new3dlibrary) | Telegram channel offering 3D model libraries for 3ds Max at minimal prices. |
 | [3Ds Max RizomUV Connector](https://titus.gumroad.com/l/Unfold3dMax_Bridge) | Blender-3DSMax Connector |
 | [3Ds Max Shortcuts](https://cheatography.com/mollick2/cheat-sheets/3ds-max-2012/) | Printable cheat sheet of essential keyboard shortcuts for Autodesk 3ds Max 2012. |
 | [3DS Model Free](https://3dsmodelfree.com/category/3dsmax/3ds-trees/) | Free 3D tree and plant models for 3ds Max architectural visualization projects. |
 | [3DSKY](https://3dsky.org/) | Marketplace for high-quality 3D models used in architectural visualization and interior design. |
 | [3dsky](https://3dsky.me/) | Telegram channel sharing 3ds Max and 3D block models |
-| [3Dsky](https://t.me/block3dsky) | 3D Block W.A. / Block 3Ds Max / Blocks /D Block Platinum |
 | [3Dsky Free](https://3dskyfree.com/) | Free 3ds Max models for interior and exterior design with over 150,000 downloadable assets. |
 | [3DSky Free](https://3dskyfree.com/category/living-room-sets/) | Free living room 3D scene sets for 3ds Max with V-Ray and Corona render support. |
 | [3DSky Free](https://3dskyfree.com/category/hdri/) | Free HDRI maps and 3ds Max models |
@@ -136,7 +124,6 @@
 | [3DSyorg](https://3dsky.org/3dmodels?query=hdri&order=relevance) | 3D Zip /DSky Free |
 | [3dvn.org](https://3dvn.org/) | Resource unavailable for verification. |
 | [3DZip](https://3dzip.org/) | Free 3D models for 3ds Max covering furniture, scenes, textures, and architectural elements. |
-| [6 GB of 3DSmax Rocks](https://t.me/render3Dbrasil/16707/217302) | Telegram post sharing a 6 GB collection of 3ds Max rock and terrain models. |
 | [A23D](https://www.a23d.co/) | Library of over 551,000 photorealistic 3D models, PBR textures, decals, and IES profiles. |
 | [A23D](https://www.a23d.co/decals) | A23D marketplace for 3D decal assets - Not Free |
 | [A23D](https://www.a23d.co/iesprofiles) | Collection of over 10,200 IES light profiles for realistic lighting in 3D rendering. |
@@ -174,16 +161,12 @@
 | [Beginner Archives - 3dsMaxTutorial.com](https://3dsmaxtutorial.com/category/beginner) | Collection of beginner-friendly 3ds Max tutorials covering modeling and rendering. |
 | [Behance](https://www.behance.net/search/projects?search=freebie+3D+Shapes) | Adobe's creative portfolio platform for discovering free photo effect projects and designer showcases. |
 | [Behance](https://www.behance.net/galleries/3d-art) | Curated gallery of 3D art projects showcasing CGI, motion graphics, and digital sculpture. |
-| [Best 3D Model](https://t.me/best_3dmodel) | / Block 3ddd / Free 3D Sky |
 | [Best Blender Addons for Retopology](https://gachoki.com/best-blender-addons-for-retopology/) | Review article covering the best Blender addons for retopology and mesh cleanup workflows. |
 | [Best Sites To Download Free STL Files for 3D Printing / All3DP](https://all3dp.com/free-stl-files-3d-printer-models-3d-print-files-stl-download/) | Curated directory and guide to the best platforms for finding and downloading free STL 3D models. |
 | [Bio Render](https://www.biorender.com/) | Scientific illustration software for creating publication-ready figures and presentations. |
 | [Blaw](https://www.blauwfilms.com/ior-3d-database) | Database of IOR (Index of Refraction) values for 3D rendering materials |
-| [Blender](https://t.me/BlenderUniverse/14669) | - Decal Doors for - Telegram |
 | [Blender Addons](https://blender-addons.org/?offset=1) | Directory of Blender add-ons with descriptions, categories, and search functionality for 3D artists. |
-| [Blender and unreal courses](https://t.me/blender3dcoursebyvelocitt) | Telegram community sharing Blender and Unreal Engine courses, tutorials, and 3D resources. |
 | [Blender Demo Files](https://www.blender.org/download/demo-files/) | Official Blender demo files including scenes, splash artwork, and assets for learning and testing. |
-| [Blender free Universe](https://t.me/BlenderUniverse/1581) | Telegram channel offering free Blender addons, assets, models, shaders, tutorials, and courses. |
 | [Blender GPT](https://www.blendergpt.org/) | AI-powered 3D model generator that creates production-ready meshes from text or image prompts. |
 | [Blender Guru](https://www.youtube.com/c/BlenderGuruOfficial) | Youtube wolf73 , Josiahbout , Ian Hubert , Kaizen , Clever Poly , |
 | [Blender Kit](https://www.blenderkit.com/?query=order%3A-created+is_free%3Atrue+category_subtree%3Alandscape) | Blendkit marketplace search for nature and space HDRI environments |
@@ -191,9 +174,6 @@
 | [Blender Kit](https://www.blenderkit.com/asset-gallery?query=order%3A-created+category_subtree%3Atable+is_free%3Atrue&page=2) | Blendkit marketplace search for nature and space HDRI environments |
 | [Blender Kit](https://www.blenderkit.com/asset-gallery?query=category_subtree:hdr-nature+space+order:_score) | Era / Super Hive Market / Cube Brush / Earth Digital |
 | [Blender Market](https://blendermarket.com/products?sort_price=asc) | Online marketplace for Blender add-ons, 3D models, textures, and digital assets. |
-| [Blender Market Pro](https://t.me/BlenderMarketPro) | Telegram Free Blender Assets |
-| [Blender Plugs](https://t.me/blenderplugs) | Telegram channel dedicated to sharing Blender plugins, add-ons, and extensions. |
-| [Blender Universe](https://t.me/BlenderUniverse) | Telegram channel offering free Blender addons, assets, KitBash3D models, shaders, and tutorials. |
 | [Blenderhub](https://blenderhub.net/top-free-and-paid-blender-addons/) | Lists of Blender Addons |
 | [Blenderkit](https://www.blenderkit.com/?query=category_subtree:addon) | BlenderKit gallery of free and paid 3D brushes for use directly within Blender. |
 | [Blenderkit](https://www.blenderkit.com/asset-gallery?query=category_subtree:material+order:-created+is_free:true) | BlenderKit gallery of free and paid 3D brushes for use directly within Blender. |
@@ -203,8 +183,6 @@
 | [Blenderkit](https://www.blenderkit.com/?query=category_subtree:printable%20order:-created) | Redpah / Gumroad / - Not Free |
 | [Blenderkit](https://www.blenderkit.com/asset-gallery?query=category_subtree:hdr+order:-bookmarks+availability:free) | / Super hive /D Ocean / Cube Brush /D Sky - Not Free |
 | [Blob Blab 3D](https://www.instagram.com/bloblab3d) | IG - Cute toys |
-| [Block 3Ds Max](https://t.me/block_3dmax) | 3D Block W.A. /Dsky / Blocks /D Block Platinum |
-| [BU 2](https://t.me/BlenderUniverse/9257) | Telegram Blender free Universe |
 | [Building generator - Script for 3Ds Max](https://www.scriptspot.com/3ds-max/scripts/building-generator-1) | Script for 3Ds Max |
 | [Cartesianic](https://github.com/cartesiancs/map3d) | - Open source 3D map creator |
 | [CG Cookie](https://cgcookie.com/posts/the-ultimate-guide-to-the-best-blender-add-ons) | Lists of Blender Addons |
@@ -251,10 +229,7 @@
 | [Easy Render](https://www.easyrender.com/a/10-best-sketchup-tutorials-resources-and-courses-you-can-find-online) | Collections of curses / Vagon |
 | [Embossify](https://www.embossify.com/) | - Photo to 3D STL suitable for 3D Printing |
 | [Endless Tools](https://endlesstools.io/) | Platform for creating real-time 3D motion graphics, visual effects, and interactive web content. |
-| [Envato](https://elements.envato.com/learn/3d-pbr) | Educational guide explaining physically-based rendering (PBR) workflows and 3D texturing techniques. |
-| [Epic Scenarios with Blender and Photoshop](https://t.me/poly3ds/6106) | Telegram post sharing tutorials on creating epic 3D scenarios using Blender and Photoshop. |
 | [Eurosvet](https://eurosvet.ru/3d-modeli-svetilnikov/13) | 3D Russia Large catalogue |
-| [Exterior 3dm](https://t.me/Exterior_3dmax_modellar) | - Buildings, vegetations, exterior |
 | [F3D](https://f3d.app/) | Free open-source 3D viewer supporting many file formats with realistic rendering and animations. |
 | [Fab](https://www.fab.com/search?q=human&listing_types=3d-model) | Fab marketplace search results for human 3D models |
 | [Fab](https://www.fab.com/search?listing_types=hdri&q=anime) | Fab marketplace search for anime HDRI environments - Not Free |
@@ -264,14 +239,7 @@
 | [Flou](https://www.flou.it/it/3dlibrary/letti) | Italian furniture brand's 3D library of bed models and furnishings for interior design visualization. |
 | [Forum](https://3dcoat.com/forum/index.php) | Community forum for 3D-Coat users to discuss sculpting, texturing, modeling, and troubleshooting. |
 | [Free 3D](https://www.freepoly.org/models) | Vintage objects |
-| [Free 3D Plants](https://t.me/Free3Dplants) | Telegram channel offering free 3D plant models and vegetation assets for architectural visualization. |
-| [Free 3D Sky](https://t.me/free_3dsky) | Best 3D Model / Block 3ddd |
-| [Free 3Ds Max](https://t.me/FREE_3DSMAX_LIBRARY) | Voxel 3D VRay / z Models Free |
-| [Free 3Ds Models 2](https://t.me/AH_3dsMax) | / From 3ddd / Materials for 3ds Max |
-| [Free 3DSky](https://t.me/Free3DSky) | Pro Model 3ddd / Evermotion / Dizayn |
-| [Free Blender Assets](https://t.me/freeblenderasset) | Telegram / Blender Market Pro |
 | [Freepik](https://www.freepik.com/pikaso/retouch#from_element=home_tools) | - Replace or erase object in image / Upscale / Resize / Retouch |
-| [From 3ddd](https://t.me/f3dddwl) | Free 3Ds Models 2 / Materials for 3ds Max |
 | [Gachoki](https://gachoki.com/blender-addons/) | Modeling Happy /DNchu |
 | [Gazzaladra Design](https://www.instagram.com/gazzaladradesign) | He scans real objects and 3D prints them |
 | [GFX Hub](https://gfx-hub.co/daz3d-poser/) | Website offering Daz 3D and Poser content downloads |
@@ -291,9 +259,8 @@
 | [gumroad.com](https://gumroad.com/3d/3d-assets/unity?tags=unity+3d%2Cvfx) | Gumroad marketplace search for Unity 3D and VFX assets - Not Free |
 | [Highend 3D](https://www.highend3d.com/3dsmax/scripts-plugins/c/downloads) | Marketplace for Maya and 3ds Max scripts, plugins, 3D models, tutorials, and CG resources. |
 | [Highend 3D - Scripts / Plugins](https://www.highend3d.com/scripts-plugins/c/downloads) | Highend3D category for scripts and plugins across Maya, 3ds Max, and other 3D software. |
-| [Historical Military STLs](https://t.me/historicalmilitarystls) | STL3D Pro /D Model Org |
 | [Hitem3D](https://hitem3d.ai/) | - Can upload several angle pictures |
-| [Hola Maybe](https://www.behance.net/maybe?fbclid=PAZXh0bgNhZW0CMTEAAablASP4sTL_Qj27mukjV_ZYuzJAthUB_cvaKuFs7Ce1hs_r9iqxfvheiv8_aem_aXY6XUEtDQptRQgXWDbReA) | Behance portfolio of illustrator and art director Bernardo Henning featuring graphic design work. |
+| [Hola Maybe](https://www.behance.net/maybe) | Behance portfolio of illustrator and art director Bernardo Henning featuring graphic design work. |
 | [Hollisbrown](https://hollisbrown.github.io/blendershortcuts/) | Interactive reference guide listing useful default keyboard shortcuts for Blender 3D. |
 | [Home Designs](https://homedesigns.ai/special-offer?hopId=cbf3e2c7-86b0-4278-8834-43d49403baef) | - Redecorate space - Not free |
 | [Humano 3D](https://humano3d.com/) | Collections of realistic 3D people for populating architectural scenes |
@@ -303,27 +270,22 @@
 | [Inspiration tuts](https://inspirationtuts.com/top-40-best-blender-addons/) | Lists of Blender Addons |
 | [Installation Tut.](https://icity3d.com/6-install-the-add-on-in-blender/) | City Procedural 3D Gen |
 | [Interia](https://interia.com.ua/materialy/3d-modeli/) | 3D Ukraine Basic, but lots |
-| [IT Cloud 3D](https://t.me/itcloud3d) | Telegram channel for 3D resources across Blender, Houdini, Zbrush, Maya, and Unreal Engine. |
 | [Jugaad Render](https://jugaadrender.tumblr.com/) | Tumblr blog featuring 3D renders, architectural visualization, and digital art experiments. |
 | [Junior 3D](https://junior3d.ru/HDRI/KosmosZvezdyHDRI.html) | Russian site offering free HDRI maps, textures, and 3D resources |
 | [Kangaroo](https://kangarooz3d.gumroad.com/l/JXtXkV) | Gumroad product for 3D assets - Not Free |
 | [Kelly Wearstler](https://www.kellywearstler.com/) | Luxury, Warm maximalism, iconic |
 | [Khagwal 3D](https://3d.khagwal.com/) | Free CC0 3D illustration library with 45+ illustrations in 5 themes and angles for web and mobile apps. |
 | [Lapa Ninja (Resources and lessons, mostly for webdesign)](https://www.lapa.ninja/learn/) | Curated web design tutorials, foundational UI principles, and landing page design books. |
-| [Learn 3DSMax](https://t.me/LEARN_3DSMAX) | / low 3D Models / Red Models |
 | [Learn Corona Renderer](https://www.youtube.com/@learncoronarenderer) | YouTube channel dedicated to tutorials and workflows for Corona Renderer in architectural visualization. |
 | [Leed 3D](https://leed3d.com/search?action=homeSearchByKeyword&keyword=hdri) | 3D model marketplace offering furniture, lighting, architecture, and decoration models for download. |
 | [LEED3D](https://leed3d.com/home) | Online platform for browsing and downloading 3D models across furniture, lighting, and architecture categories. |
 | [Lincoln 3D Scans](https://www.lincoln3dscans.co.uk/) | Digital 3D scans of historical artifacts, sculptures, and museum pieces from Lincolnshire collections. |
 | [List of Lumion 3D websites](https://community.lumion.com/index.php?resources/the-official-lumion-list-of-3d-model-collections.3/) | Official Lumion community list of 3D model collection websites |
 | [List of Websites with car 3D models](https://www.dmi-3d.net/commodels.html) | Curated directory of websites offering car and vehicle 3D models across various formats. |
-| [low 3D Models](https://t.me/low3dmodels) | Learn 3DSMax / Red Models |
-| [Materials for 3ds Max](https://t.me/models_for_3dmax) | Free 3Ds Models 2 / From 3ddd |
 | [Meshy](https://www.meshy.ai/discover) | AI Created Mesh 3d models. mostly characters |
 | [Milumi](https://www.instagram.com/milumi.3d/) | Instagram portfolio showcasing 3D art and design work by the artist Milumi. |
 | [Model 3D Pro](https://model3dpro.com/) | Online shop selling 3D models for 3ds Max including interiors, furniture, and architectural scenes. |
 | [Model 3D Pro](https://model3dpro.com/category/sketchup/) | - Buildings, scenes, objects |
-| [Model 3dsky](https://t.me/model3dsky) | Pro Model Mimari , 3Dark , Group , - Huge |
 | [Modeling Happy](https://modelinghappy.com/archives/category/blender/%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3) | Japanese 3DCG news site with Blender add-on reviews and tutorials |
 | [Monowi](https://monowi.notion.site/Monowi-Product-Design-Exercises-1-1-99c913d7ec554164be0bbc785bccda97) | - Product Design Excercises |
 | [Morflax Studio](https://studio.morflax.com/objects/upload) | - Render and illuminate object online |
@@ -337,7 +299,6 @@
 | [Open 3D Model](https://open3dmodel.com/) | Free 3D model library with over 162,000 assets in multiple formats for various design projects. |
 | [Open 3D Model](https://open3dmodel.com/3d-models/sci-fi) | Free sci-fi 3D models collection including spaceships, robots, weapons, and futuristic environments. |
 | [P3DM](https://p3dm.ru/drawing/) | Car Blueprints |
-| [People 3D Model Pro](https://t.me/people3dmodelpro) | Telegram channel sharing 3D models of people for architectural visualization and rendering. |
 | [Performa (3D) (Russia)](https://performa.vip/3d-modeli/) | Russian furniture store offering free 3D models of sofas, beds, chairs, and tables for download. |
 | [Physically-Based Rendering, And You Can Too!](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/) | Comprehensive Marmoset tutorial covering PBR theory, material values, and texture creation workflows. |
 | [Pixabay](https://pixabay.com/3d-models/) | Free stock 3D models library with thousands of downloadable assets shared by the community. |
@@ -349,10 +310,7 @@
 | [Poly Haven](https://polyhaven.com/) | CC0 public domain library of high-resolution HDRI environments, PBR textures, and 3D models. |
 | [Poly Haven](https://polyhaven.com/hdris/) | CC0 licensed HDRI environment maps for realistic lighting in 3D rendering and visualization. |
 | [PresetsFX](https://presetsfx.com/category/daz-3d-model/#google_vignette) | Website offering Daz 3D model presets and resources |
-| [Pro 3D Sky](https://t.me/pro3dskymodels) | / Pro Models /D Life |
 | [Pro for Free 3D Models](https://pro3dmodelsfree.com/3d-models/3d-print/) | Resource unavailable for verification. |
-| [Pro Model 3ddd](https://t.me/ProModel3ddd) | / Free 3DSky / Evermotion / Dizayn |
-| [Pro Models](https://t.me/maxmodels3d) | Pro 3D Sky /D Life |
 | [Prome AI](https://www.promeai.pro/consistency-rendering) | - Changing textures to renders - M |
 | [Render 96](https://github.com/Render96/Render96Wiki/wiki) | Archival old games textures |
 | [Render Camp](https://www.youtube.com/@rendercamp) | YouTube channel offering tutorials and tips for 3D rendering and architectural visualization. |
@@ -362,7 +320,6 @@
 | [Render People](https://renderpeople.com/?srsltid=AfmBOor6kOrp6T2iEeHi9-SqqzjUJLxrmHlqj8fnYmHI33gCKm3cTNAX) | Library of over 7,500 photorealistic scanned 3D people models for architectural visualization. |
 | [Render State](https://render-state.to/) | Creepy 3DLOAD , Poser , CG Bytes , , Assets Free , Daz Studio |
 | [Render Weekly](https://www.renderweekly.com/archive) | - Industrial Designer |
-| [Render3DBrasil](https://t.me/render3Dbrasil/16882) | Brazilian Telegram community for 3D rendering, SketchUp, Lumion, Enscape, and architectural visualization. |
 | [Renderhub](https://www.renderhub.com/3d-models/people) | Marketplace for 3D character and people models in various formats. |
 | [Renderhub](https://www.renderhub.com/ztl-3d-models) | Marketplace for ZBrush 3D models including characters, animals, anatomy, and sci-fi assets. |
 | [Rendernet](https://app.rendernet.ai/home) | - Avatar creator, Upscale, Video face swap - D |
@@ -389,14 +346,10 @@
 | [Substance 3D Reviewer](https://reviewer.substance3d.adobe.com/) | Adobe tool for reviewing, inspecting, and collaborating on 3D models in web and VR. |
 | [Super hive](https://superhivemarket.com/search?utf8=%E2%9C%93&button=&search%5Bq%5D=hdri) | Super Hive Marketplace search results for HDRI resources |
 | [Super Hive Market](https://superhivemarket.com/search?utf8=%E2%9C%93&button=&search%5Bq%5D=space+hdri) | Super Hive Marketplace search results for space HDRI resources |
-| [t.me](https://t.me/BlenderUniverse/13144) | Telegram channel post from Blender Universe community sharing Blender-related content. |
 | [Tailor Nova](https://tailornova.com/3d-configurators) | -3D Configurator - Not Free |
 | [Tatto Smart](https://tattoosmart.com/collections/3d-models) | Tattoo artist supplies including 3D models, flash stamps, and brush sets for Procreate. |
 | [Techdraw](https://blender-addons.org/techdraw-addon/) | Addons for Blender |
 | [Technology](https://3dsket.com/technology/) | 3Dsket Plant , Scenes , Decoration , |
-| [Telegram](https://t.me/BlenderUniverse/14698?single) | Pure Ref for Blender |
-| [Telegram](https://t.me/BlenderUniverse/3213) | Arroway Textures / Drive / CG Download - Best for Woods! |
-| [Telegram Bot](https://t.me/Grabit3D_bot?start=5777889656) | Search 3d models by pic Assets Scout / CG Kit Pro |
 | [Tencent Hunyuan 3D](https://3d-models.hunyuan.tencent.com/) | Tencent's AI-powered 3D model generation and asset platform. |
 | [TFMStyle](https://tfmstyle.com/blender_projects) | - Blender Abstract Scenes |
 | [Tony Textures](https://www.tonytextures.com/free-downloads/) | People, Vegetation, Objects |
@@ -407,8 +360,6 @@
 | [Turbosquid](https://www.turbosquid.com/3d-model/people) | Marketplace for 3D models including people, vehicles, and environments. |
 | [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) | Blender addon for layer-based texture painting on Eevee and Cycles with flexible node workflow. |
 | [UX Design Tool Library](https://alisa-dizzy.notion.site/UX-AI-Design-Tool-Library-Studio-Dizzy-7994b2b6d1da4e1492cc93d325931b72) | Notion-based curated collection of UX and AI design tools for designers. |
-| [Uzbekcha 3D](https://t.me/Uzbekcha_3d_modellar) | Ajva Models / CG Program / Arch Modell / Stoll Stull |
-| [Voxel 3D VRay](https://t.me/Voxel3DVray) | / z Models Free / Free 3Ds Max |
 | [Wargame 3D](https://www.wargaming3d.com/) | Marketplace for 3D printable historical wargaming miniatures and terrain. |
 | [wolf73](https://www.youtube.com/@wolf73blender) | Youtube , Josiahbout , Ian Hubert , Kaizen , Clever Poly , Blender Guru |
 | [Worst Volume control](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950) | Purposefully bad designed UI |
@@ -428,7 +379,6 @@
 | [Free HDRI](https://freehdri.free.fr/?download) | Free HDRI panorama packs for 3D rendering with filterable categories and resolutions. |
 | [Gaffer](https://blender-addons.org/gaffer/) | Blender add-on for streamlined lighting workflow and HDRI management with solo mode. |
 | [HDR Ray](https://hdrray.com/hdris) | Free high-dynamic-range panoramic environment maps (HDRIs) for realistic lighting. |
-| [HDRI and Materials](https://t.me/hdri_max) | Telegram channel sharing HDRI environments and 3D material resources. |
 | [HDRI Generator](https://hyper3d.ai/omnicraft/hdri) | AI-powered HDRI and 8K skybox generator from text prompts or reference images. |
 | [HDRi Haven](https://hdri-haven.com/) | Free CC0 HDRI environment maps for 3D rendering, now part of Poly Haven library. |
 | [HDRI Hub](https://www.hdri-hub.com/hdrishop/freesamples/freehdri) | Free high-resolution HDRI samples for commercial use in 3D rendering. |
@@ -453,13 +403,8 @@
 | [Quick HDRI Controls](https://github.com/mdreece/Quick-HDRI-Controls) | Blender add-on for quick HDRI library access, rotation, and visibility controls. |
 | [Real HDRI](https://www.real-hdr.com/sky/) | HDR Sky software for creating custom animated HDR skies for architectural visualization. |
 | [reddit.com](https://www.reddit.com/r/blender/comments/avczt4/if_anyone_is_interested_heres_how_i_make_hdris/) | Reddit post tutorial on how to create HDRI maps |
-| [Render 3D Brasil](https://t.me/render3Dbrasil) | - Sketchup, Cinema 4D, HDRIs, Twinmotion |
 | [sketchfab.com](https://sketchfab.com/blogs/community/how-to-create-your-own-hdr-environment-maps/) | Sketchfab blog tutorial on creating HDRI environment maps |
 | [Sun Aligner](https://github.com/akej74/hdri-sun-aligner/blob/master/README.md) | GitHub repository for a Blender HDRI sun alignment add-on |
-| [t.me](https://t.me/BlenderUniverse/10313) | HDRi Space Spheremaps / Telegram / T3 |
-| [t.me](https://t.me/BlenderUniverse/2487) | HDRi Space Spheremaps / Telegram / T2 |
-| [Telegram](https://t.me/BlenderUniverse/12040) | HDRi Space Spheremaps / T2 / T3 |
-| [Textures and HDRIs](https://t.me/textures_blender_3dsMax_Maya) | Telegram channel for sharing textures, HDRIs, and 3D modeling resources. |
 | [Tutorial](https://blog.polyhaven.com/how-to-create-high-quality-hdri/) | Poly Haven blog tutorial on how to create high-quality HDRI maps |
 | [Xo3D](https://xo3d.co.uk/tools/360-viewer/) | Free browser-based 360 panorama viewer for equirectangular images and HDRI preview. |
 
@@ -471,7 +416,6 @@
 | [Archi Portfolio Maker](https://archiportfoliomaker.gumroad.com/) | Gumroad product for architecture portfolio creation tools - Not Free |
 | [Architecture Candy](https://thearchitecturecandy.gumroad.com/) | Gumroad store offering architecture visualization resources - Not Free |
 | [Architecture Diagrams](https://nz.pinterest.com/illustrarch/architectural-diagrams/) | Pinterest boards |
-| [Architecture Quote](https://web.archive.org/web/20250804011957/https://architecturequote.com/architecture-terms/) | Comprehensive glossary of architecture terms and vocabulary for students and professionals. |
 | [Architecture Sketch People](https://paintingvalley.com/architecture-sketch-people) | Collection of architecture sketch people drawings and human figure references. |
 | [Architecture Sketches](https://nz.pinterest.com/illustrarch/architectural-sketches/) | Pinterest boards |
 | [Ariel Ruiz](https://www.instagram.com/arielruiz.kreadiv/) | Interior Design and psychology |
@@ -533,7 +477,6 @@
 | [C Bailey](https://www.youtube.com/@cbaileyfilm) | Youtube Smeaf , , Derek Elliot , Ducky 3d , In Light VFX |
 | [Casual](https://casualsolutions.es/en/) | Contract furniture manufacturer offering chairs, sofas, tables, and hospitality solutions. |
 | [Casual](https://casualsolutions.es/en/product/sofa-beds/) | Sofa bed product range from Casual Solutions for contract and hospitality use. |
-| [Chaos Pheoenix -](https://t.me/models_plugins/66904) | Tut1 , Tut2 , Tut3 , Fluid VFX |
 | [Chroma Supply](https://chromasupply.com/collections/video) | Chroma Supply video assets and motion graphics store - Not Free |
 | [Chunk Resources - Motion Design & VFX](https://www.chunkmotion.design/resources#after-effects) | Curated directory of After Effects plugins, scripts, expressions, color tools, fonts, and motion design resources. |
 | [Cine Packs](https://cinepacks.store/collections/davinci-resolve-packs) | Video effects, transitions, LUTs, and sound FX packs for DaVinci Resolve. |
@@ -542,8 +485,6 @@
 | [DJV](https://darbyjohnston.github.io/DJV/index.html) | - Open Sourcel VFX imagesequence and video review/player |
 | [Ducky 3d](https://www.youtube.com/@theducky3d) | Youtube Smeaf , C Bailey , Derek Elliot , , In Light VFX |
 | [Earth Digital](https://www.blauwfilms.com/products/earth-digital) | Blauw Films product page for Earth Digital asset pack |
-| [elements.envato.com](https://elements.envato.com/add-ons/luts) | Marketplace for LUTs, color grading presets, and add-ons for video editing. |
-| [Envato](https://elements.envato.com/all-items/vfx) | Creator FX , Eleven Percent |
 | [Erik does VFX](https://www.youtube.com/@erikdoesvfx) | YouTube channel featuring visual effects tutorials, breakdowns, and VFX workflow tips for artists. |
 | [Evolution Studio](https://www.evolution-design.info/all-projects/commercial) | Over the top, eclectic |
 | [Fab](https://www.fab.com/category/vfx) | Fab marketplace category for VFX assets - Not Free |
@@ -561,12 +502,9 @@
 | [LUT Calc](https://lutcalc.net/) | LUT Analyer and Preview |
 | [Lutify](https://lutify.me/free-luts/) | Free cinematic color grading LUTs for Premiere Pro, DaVinci Resolve, Final Cut, and other editing software. |
 | [Malcolm 341](https://www.youtube.com/channel/UCuHLxYrggu6gB4cLKAGo71w/videos) | YouTube channel featuring VFX and video editing tutorials |
-| [Melda](https://www.meldaproduction.com/MConvolutionEZ?gad_source=1&gclid=CjwKCAiA9IC6BhA3EiwAsbltOO8nM3VZN4VGrp_lYVo_ycvXvTHj7TlVvobKlC1cd49lr-YKHE4gURoCH6EQAvD_BwE) | - Convolution reverb plugin |
+| [Melda](https://www.meldaproduction.com/MConvolutionEZ) | - Convolution reverb plugin |
 | [Mixkit](https://mixkit.co/free-premiere-pro-templates/) | Mixkit free Premiere Pro template collection |
 | [MOGRT](https://softarchive.is/search?q=MOGRT) | Videohive Collection / Persian VFX |
-| [Motion Array](https://motionarray.com/browse/luts/) | Motion Array marketplace for LUTs and color grading assets |
-| [Motion Array](https://motionarray.com/browse/search/animated%20texture/) | Motion Array search results for animated textures - Not Free |
-| [Motion Array](https://motionarray.com/premiere-pro-templates/) | Motion Array marketplace for Premiere Pro templates |
 | [Motion Elements](https://www.motionelements.com/ko/premiere-pro-templates) | Motion Elements marketplace for Premiere Pro templates |
 | [Motion Elements](https://www.motionelements.com/search/resolve?subscription=1) | Motion Elements marketplace for DaVinci Resolve assets |
 | [Motion Squared](https://motionsquared.net/products/) | Collection of free high-resolution textures for 3D and graphic design projects. |
@@ -580,16 +518,12 @@
 | [Online Media Tutor](https://www.youtube.com/user/OnlineMediaTutor/videos) | YouTube channel with video editing, VFX, and motion graphics tutorials. |
 | [Pattern Blocks](https://www.blauwfilms.com/products/pattern-blocks) | Free digital archive of vintage 90s clothing patterns for digital fashion design. |
 | [pCon Catalogue](https://catalogs.pcon-solutions.com/) | 4. If I cannot find a model with textures, I search in the brand website or , that is the official repository for lots of futrniture brands. Here I will find a model with no textures, and add them man |
-| [pCon.catalog](https://catalogs.pcon-solutions.com/#/?f=%7B%22category_tag_ids%22%3A%5B%22t-egr%3Acategory%3Afurniture%22%5D%7D) | Official 3D banks of companies |
 | [Persian VFX](https://dl4.persiangfx.com/userfiles/template/Premiere/) | Free Premiere Pro templates, MOGRTs, and Videohive collections for editors. |
 | [shufilm](https://www.youtube.com/@shufilm) | - Youtube Channel with tunnel animation loops |
 | [Smeaf](https://www.youtube.com/@Smeaf) | Youtube , C Bailey , Derek Elliot , Ducky 3d , In Light VFX |
 | [Soft Archive](https://softarchive.is/search?q=After+Effects+Templates) | Archive site offering After Effects templates and creative software resources. |
-| [Solution](https://t.me/solutioonn/67) | All 4 Designer / Photoshop Materials /ph. groups |
 | [Stop Motion Studio](https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio&hl=en&pli=1) | - Free Stop Motion recorder - Android/IOS |
 | [Super Hive](https://superhivemarket.com/creators/fxbackpack) | Marketplace for VDB volumetric assets, plugins, and VFX tools for 3D artists. |
-| [t.me](https://t.me/solutioonn/3590) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , 7 , 8 , 9 , 10 / Softarchive / Designers Uni / Y2K Badges / Tumblr |
-| [TGVFX](https://t.me/TGVFXUniverse/3) | Telegram channel sharing VFX resources, plugins, and editing assets. |
 | [The Pixel Lab](https://www.thepixellab.net/vdb) | Marketplace for VDB volumetric assets including smoke, fire, clouds, and explosions. |
 | [Top 10 macros](https://www.motionelements.com/davinci-resolve-templates) | Motion Elements marketplace search for DaVinci Resolve macros |
 | [Trace Loops](https://www.instagram.com/traceloops/reels/) | Instagram page showcasing motion graphics and loop animations by Trace Loops. |
@@ -598,6 +532,5 @@
 | [VFX Hunt](https://vfxhut.com/product-category/surface-imperfections/) | Gumroad / 3 / Lot Pixel / - Not Free |
 | [VFX Hunt](https://subs.vfxhut.com/vdb-files/) | The Pixel Lab , / Super Hive - Not Free |
 | [VFX Hut](https://subs.vfxhut.com/) | 3D asset store featuring surfaces, VDB volumes, photoscans, 3D models, and tools for VFX artists. |
-| [VFX Overlay Collection](https://t.me/cgplugin/13297) | Telegram channel sharing VFX overlay collections and CG plugins. |
 | [Videohive Collection](https://freevideoeffect.com/?s=collection+-videohive) | Free collection of Videohive templates, MOGRTs, and motion graphics assets. |
 | [visualVFX](https://visualvfx.com/) | Website offering VFX and video editing resources |

@@ -145,7 +145,6 @@
 | [Sankou](https://sankoufont.com/category/calligraphy/) | Japanese brush and calligraphy font collection. |
 | [Sankou!](https://sankoufont.com/) | Japanese font search site focusing on commercial and free fonts. |
 | [Sentyfont](https://www.sentyfont.com/sentywennew.htm) | Chinese font foundry offering traditional and display typefaces. |
-| [Sexy Font](https://t.me/sexyfont) | Telegram channel for Cyrillic font sharing and identification. |
 | [Shriftovik](https://shriftovik.com/catalog) | Russian font catalog specializing in Cyrillic typefaces. |
 | [Tetris Font](https://erikdemaine.org/fonts/tetris/) | A playful font based on Tetris block shapes and geometric forms. |
 | [Text Fonts](https://textfonts.net/text-effects) | Create stylish text effects and fancy typography for social media and designs. |
@@ -164,10 +163,7 @@
 | [What Font is](https://www.whatfontis.com/) | Upload an image to identify fonts with a large database of typefaces. |
 | [What The Google Font?](https://www.serbyte.net/what-the-google-font) | Find Google Fonts similar to your favorite typeface. |
 | [Wonder Font](https://wonderfont.ru/) | Russian Cyrillic font archive and typeface downloads. |
-| [Butterick’s Practical Typography](https://practicaltypography.com/) | Acclaimed online handbook by Matthew Butterick covering essential typography principles. |
-| [Fonts In Use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Type Foundries , Font Library , Type Supply , Dropmark , |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |
-| [WTFont](https://t.me/wtfont) | Telegram channel for Cyrillic font identification and discussion. |
 | [Wumanzoo](https://wumanzoo.com/chinese-calligraphy-font-2/) | Chinese calligraphy font collection with free downloads. |
 | [x 1](https://x.com/wkwdesigner) | Twitter account curating Japanese font resources. |
 | [x 2](https://x.com/colisscom) | Twitter account sharing Japanese font and typography links. |
@@ -176,7 +172,6 @@
 | [Yellow Images](https://yellowimages.com/graphic-design/category/fonts) | Font resource category for graphic design and typography. |
 | [ZCool](https://www.zcool.com.cn/search/content?word=%E5%85%8D%E8%B4%B9%E5%AD%97%E4%BD%93) | Chinese design community search for free fonts and typography work. |
 | [Zitijia](https://www.zitijia.com/) | Chinese font portal with free and commercial typeface offerings. |
-| [Какой Шрифт?](https://t.me/font_abc) | Telegram channel for Cyrillic font questions and font identification. |
 | [الخطوط العربية](https://www.arfonts.net/) | Arabic font archive with free downloads. |
 | [ฟอนต์.คอม](https://www.f0nt.com/) | Free Thai fonts download for personal and commercial use. |
 | [いいフォント](https://goodfreefonts.com/) | Japanese font search engine for free Japanese fonts. |

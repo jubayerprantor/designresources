@@ -29,15 +29,23 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'GitHub', link: 'https://github.com/GiveBack2People/designresources' },
+      { text: 'Top Hubs', link: '/top-hubs' },
+      { text: 'Marketplaces', link: '/marketplaces' },
       { text: 'Contribute', link: '/contributing' },
-      { text: 'Sources', link: '/sources' },
       { text: 'Contact', link: 'mailto:contact@designresources.eu.cc' }
     ],
     search: {
       provider: 'local'
     },
     sidebar: [
+      {
+        text: 'Featured',
+        collapsed: false,
+        items: [
+          { text: '🌟 Top Global Hubs', link: '/top-hubs' },
+          { text: '⚡ Creative Marketplaces', link: '/marketplaces' },
+        ]
+      },
       {
         text: 'Inspiration',
         collapsed: false,

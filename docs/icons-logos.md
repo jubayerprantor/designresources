@@ -31,7 +31,6 @@
 | [Draw Kit](https://www.drawkit.com/search-results) | Library of 2D, 3D illustrations, icons and animations for designers |
 | [Dribbble](https://dribbble.com/search/free-icons) | Search results for free icon designs on Dribbble. |
 | [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | Free PSD logo mockup with realistic embossed effect on paper. |
-| [Envato](https://elements.envato.com/graphics/icons) | Subscription service for vector icons, graphics, templates, and design assets |
 | [Figma](https://www.figma.com/community/icons) | 6,900+ free icon sets & packs from the Figma community. |
 | [Forge Icons](https://icons.theforgesmith.com/) | 300+ SVG icons for e-commerce, travel, social media, and app design. |
 | [Free Icons](https://icons-for-free.com/) | Large collection of free icons in various styles and formats. |
@@ -68,13 +67,10 @@
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
 | [Mono Icons](https://icons.mono.company/) | Simple monochrome SVG icon set for UI design. |
 | [Casa Gonzalez 1925](https://archive.org/details/CatalogoDeAzulejosDeRelieve) | Historical digitized 1925 catalog of ornamental relief tiles and decorative architectural borders. |
-| [Dribbble](https://dribbble.com/search/free-icons) | Curated search stream of community-shared free icon sets and vector assets on Dribbble. |
 | [Iconfinder](https://www.iconfinder.com/search/3d-illustrations?price=free) | Millions of icons, illustrations, 3D, or stickers for your design projects. Created by independent designers. |
 | [Iconic World](https://www.iconic-world.com/directory) | Directory and archive celebrating iconic architecture, product silhouettes, and interior design. |
 | [Icons 8](https://icons8.com/l/3d-textures/) | Curated library of free 3D models, textures, and clay UI illustrations from Icons8. |
 | [Icons 8](https://icons8.com/music/) | Royalty-free background music and audio tracks for video creators and design prototypes. |
-| [Martinelli Luce](https://martinelliluce.it/it/catalogo/iconici) | Design catalog showcasing iconic Italian lighting fixtures, silhouettes, and luminaires. |
-| [Motion Array](https://motionarray.com/browse/graphics/icons/) | Marketplace for motion graphics, video templates, stock footage, and design assets including icons |
 | [My Crate](https://my.crate.as/?tag=Icon) | Curated marketplace for design assets including vector icons, fonts, and graphics |
 | [Obra Icons](https://icons.obra.studio/) | Clean, consistent UI icon set with 1047 MIT-licensed icons |
 | [Octicons](https://primer.style/octicons/) | GitHub's handcrafted, scalable icon set by Primer design system |
@@ -113,7 +109,6 @@
 | [Endless Icons](https://endlessicons.com/) | A website offering a number of free icons. Icons are tagged and also compressed into kits. |
 | [EOS Icons](https://icons.eosdesignsystem.com/) | A pixel-perfect, open source iconic font available as ligature and SVG. |
 | [Eva Icons](https://akveo.github.io/eva-icons/#/) | Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
-| [Eva Icons](https://akveo.github.io/eva-icons) | A pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
 | [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | Evericons is a big pack of over 460 free icons designed by Aleksey Popov. |
 | [Feather Icons](https://feathericons.com/) | Beautiful, customizable open source icons |
 | [Flaticon](https://www.flaticon.com/) | Access 15.5M+ vector icons & stickers. Has various license options. |

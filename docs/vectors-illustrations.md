@@ -39,7 +39,6 @@
 | [イラスト](https://www.ac-illust.com/) | Japanese free illustration site with downloadable clip art for commercial and personal projects |
 | [ソコスト](https://soco-st.com/) | Free Japanese commercial-use illustrations in PNG/SVG/EPS with business and lifestyle themes |
 | [フリーイラスト](https://liginc.co.jp/544482) | Japanese blog roundup of free illustration resources and download sites |
-| [全て無料](https://photoshopvip.net/115273) | Japanese article listing free illustration and graphic resource sites |
 | [商用利用OK](https://webdesign-trends.net/entry/15269) | Japanese blog post highlighting commercial-use free illustration sites |
 | [無料イラスト](https://www.linustock.com/vectors) | Free Japanese line-art illustration site with simple vector-style assets |
 | [随時更新](https://www.lynx-co.jp/blog/best-free-asset-sites/) | Japanese asset roundup article updated regularly with free illustrations and design resources |
@@ -60,7 +59,6 @@
 | [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of everyday objects and spaces |
 | [Doodad Pattern Generator](https://doodad.dev/pattern-generator/) | Create unique, seamless, royalty-free patterns. |
 | [DrawKit](https://www.drawkit.io/#products) | Free vector SVG illustrations for you to use on your next project, no attribution required. |
-| [Drawkit.io](https://www.drawkit.io/) | Illustrations for designers and startups |
 | [Exemplar](https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/) | Free Avatar Library for Figma and Sketch |
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
 | [Flexiple](https://2.flexiple.com/scale/all-illustrations) | Flexiple homepage redirect; design marketplace with illustration and developer services |
@@ -109,11 +107,8 @@
 | Resource | Description |
 | :--- | :--- |
 | [3axis](https://3axis.co/) | - Vectors for Laser Cutting |
-| [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram Grunge Texture Stamps / Vintage Vibes |
 | [Free Stock Vectors - Stockio.com](https://www.stockio.com/free-vectors/) | Large collection of free vector graphics, icons, and clip art for personal and commercial use |
-| [Grunge Texture Stamps](https://t.me/Illustrationlessons/6774) | Telegram / Vintage Vibes / Collage |
 | [VectorStock](https://www.vectorstock.com/free-vectors) | Marketplace with millions of free and premium vector images for personal use |
-| [Vintage Vibes](https://t.me/designrar/5100) | Telegram Grunge Texture Stamps / Collage |
 | [All Silhouettes](https://www.all-silhouettes.com/) | Specializes in providing free vector silhouettes for various design projects. |
 | [All-Free-Download](https://all-free-download.com/) | Offers a wide range of free vector art, stock photos, and PSD files for personal and commercial use. |
 | [Bazaardesigns](https://www.bazaardesigns.com/) | A resource offering free vector graphics and design elements for various creative projects. |
@@ -165,12 +160,7 @@
 | [1 Envira](https://enviragallery.com/guide-to-gradient-maps-in-photoshop/) | - Tutorial on Gradient Maps |
 | [3 Gradients / 3 Shapes – Bolderaja](https://bolderaja1.com/products/gradient-color-grainy-textures-2/) | Premium gradient color grainy texture packs for design projects |
 | [AI Textured](https://aitextured.com/textures/) | Free AI seamless patterns |
-| [Art TB](https://t.me/AngelGuide) | Telegram channel for art, brushes, and pattern resources |
-| [Brushes and Patterns](https://t.me/brushes_and_patterns) | Telegram channel sharing brushes, patterns, and design assets |
 | [CGI Backgrounds](https://www.cgibackgrounds.com/search?term=&page=1&type=visual-hdri-search) | Image search HDRI - Not Free |
-| [DBrush](https://t.me/tdbrush) | Telegram channel with brushes, textures, and background assets |
-| [Envato](https://elements.envato.com/graphics/patterns) | Large marketplace of graphic patterns including geometric, floral, and abstract designs |
-| [Envato Backgrounds](https://elements.envato.com/graphics/patterns/pattern+background) | Extensive collection of pattern backgrounds for web and print design |
 | [History and development of Toile de Jouy wallpapers](https://archive.org/details/w.-h.-s.-lloyd-co-inc-1928/page/n25/mode/2up) | Digitized archive book on the history and development of Toile de Jouy wallpaper patterns |
 | [L'Ornement polychrome full](https://archive.org/details/AL180/page/n243/mode/2up) | 1870 ornamental pattern book featuring Asian and Persian designs |
 | [Milsks](https://miksks.com/collections/textures) | Texture and overlay shop with premium background resources |

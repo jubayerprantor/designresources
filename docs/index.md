@@ -10,13 +10,21 @@ hero:
     alt: Design Resources
   actions:
     - theme: brand
-      text: Browse Categories
-      link: /design-inspiration
+      text: Explore Top Hubs
+      link: /top-hubs
     - theme: alt
-      text: Contribute on GitHub
-      link: https://github.com/GiveBack2People/designresources
+      text: Browse All Categories
+      link: /design-inspiration
 
 features:
+  - icon: 🌟
+    title: Top Global Hubs
+    details: The world's undisputed creative giants — Figma, Canva, Freepik, Unsplash, Google Fonts, and Blender.
+    link: /top-hubs
+  - icon: ⚡
+    title: Creative Marketplaces
+    details: Curated Freemium hubs and elite subscription powerhouses (Envato Elements, Motion Array, Artlist).
+    link: /marketplaces
   - icon: 💡
     title: Design Inspiration
     details: Curated galleries, award sites, design showcases, and blogs to fuel your next project.
