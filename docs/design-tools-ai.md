@@ -133,11 +133,11 @@
 | Resource | Description |
 | :--- | :--- |
 | [Armor Paint](https://armorpaint.org/) | Stand-alone 3D PBR texture painting software with GPU acceleration and node-based workflow. |
-| [Bulk Image Compressor](https://www.softwarehow.com/bulk-image-compressor/) | Softwarehow / Image Splitter / Recolor Links |
+| [Bulk Image Compressor](https://www.softwarehow.com/bulk-image-compressor/) | Softwarehow tool for compressing images in bulk |
 | [CLO 3D](https://www.clo3d.com/en/clo/download) | Apparently best 3D Software for Clothing design |
 | [Gravity Sketch](https://gravitysketch.com/) | - 3D Design sketching software |
-| [Image Splitter](https://www.softwarehow.com/image-splitter/) | Softwarehow Bulk Image Compressor / Recolor Links |
-| [Recolor Links](https://www.softwarehow.com/recolor-links/) | Softwarehow Bulk Image Compressor / Image Splitter |
+| [Image Splitter](https://www.softwarehow.com/image-splitter/) | Softwarehow tool for splitting images into parts |
+| [Recolor Links](https://www.softwarehow.com/recolor-links/) | Softwarehow tool for recoloring link appearances |
 | [Simply Print](https://simplyprint.io/) | 3D Printer Cloud Management Software |
 | [SOFTWARE](https://bitbucket.org/archinate/lunchboxml/src/master/) | LunchboxML machine learning library for computational design and geometry processing on Bitbucket. |
 | [Adobe XD](https://www.adobe.com/products/xd.html) | Free design tool from Adobe |
@@ -185,23 +185,23 @@
 | Resource | Description |
 | :--- | :--- |
 | [Scrigno BIM Models](https://www.bimandco.com/it/fabbricanti/844-scrigno/details) | Scrigno Italy - Doors |
-| [1879](https://archive.org/details/maw-company.12700/page/n13/mode/2up) | Maw Co / - USA - 1890 |
+| [1879](https://archive.org/details/maw-company.12700/page/n13/mode/2up) | Archive.org scan of Maw & Co 1890 catalog featuring decorative tiles and architectural designs. |
 | [1885](https://archive.org/details/Campbell46354/page/n89/mode/2up) | Italy - 1906 |
 | [1905](https://archive.org/details/sears-robuck-and-company-1905/page/n35/mode/2up) | Digitized 1905 Sears Roebuck catalog on Internet Archive for vintage design and typography reference. |
-| [1920](https://archive.org/details/CasaGonzalez/mode/2up) | Casa Gonzalez 1925 / - Spain |
+| [1920](https://archive.org/details/CasaGonzalez/mode/2up) | Archive.org scan of Casa Gonzalez 1925 catalog showcasing Spanish design and architecture. |
 | [1940](https://archive.org/details/SearsWallpapers1940/page/n51/mode/2up) | Digitized 1940 Sears wallpaper catalog on Internet Archive for vintage pattern and texture references. |
 | [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) | - Create Comics from prompts |
 | [AI Design Awards](https://www.instagram.com/ai.designawards/) | Instagram account showcasing AI-generated design projects and award-winning creative work. |
 | [AI Index](https://ai-index.eu/) | - Graphic Design created with AI |
 | [AI Motion Capture Tools That Let You Animate Characters Without Suits](https://gachoki.com/ai-powered-motion-capture/) | Blog post reviewing AI-powered markerless motion capture tools for animating characters without suits. |
-| [AI Scripts](https://aiscripts.com/ai-scripts/) | Vectorise / DTP Sripting / SHS Page |
+| [AI Scripts](https://aiscripts.com/ai-scripts/) | Marketplace for Adobe Illustrator scripts, vectors, and DTP automation resources. |
 | [AIGA Eye on Design](https://eyeondesign.aiga.org/) | AIGA's editorial platform covering graphic design culture, trends, and critical industry perspectives. |
 | [AIM Brick](https://aimbrick.com/MasonryDesigner#list_materials) | - Custom brick textures |
 | [Alibaba Wan 2.1](https://huggingface.co/spaces/Wan-AI/Wan2.1) | Local Model Make Image move - 🆓💾 |
 | [Alibaba Z Image Turbo](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) | AI-powered image generation and editing tool from Alibaba's Tongyi lab on Hugging Face. |
 | [Alki](https://alki.fr/en/collections/chaises-de-bureau) | French furniture cooperative designing contemporary office chairs, stools, and contract seating. |
 | [Allegro](https://huggingface.co/rhymes-ai/Allegro) | - Offline Text to Video Generator |
-| [Archive](https://archive.org/details/david-rumsey-map-collection) | David Rumsey / - Old maps |
+| [Archive](https://archive.org/details/david-rumsey-map-collection) | David Rumsey historical map collection hosted on Internet Archive |
 | [archive.org](https://archive.org/details/revetementsceram00hteb_0/page/n17/mode/2up) | France - 1904 |
 | [archive.org](https://archive.org/search?query=Datacraft+Sozaijiten) | Search results on Internet Archive for Datacraft Sozaijiten design resource collections. |
 | [archive.org](https://archive.org/details/blindusk-master-bundle-collection) | Internet Archive collection of Blindusk master bundle design resources and assets. |
@@ -215,17 +215,17 @@
 | [Benjamin El Doghaïli](https://www.benjamin-eldoghaili.com/decors) | Eclectic,Kitsch, super colorful |
 | [Beriestain](https://beriestain.com/works/torre-glorias/) | modern, colorful |
 | [Bootes Tiles - Spain - 1906](https://archive.org/details/Boote47723/page/n21/mode/2up) | Digitized 1906 Spanish Bootes Tiles catalog for historic ceramic and pattern design reference. |
-| [Brain Made](https://www.instagram.com/brain.made.0/?hl=en) | , 3D Cad Designer , Simple Ideas , Kashan Solidworks |
+| [Brain Made](https://www.instagram.com/brain.made.0/?hl=en) | Instagram profile showcasing 3D CAD design and creative projects |
 | [Brick Link](https://www.bricklink.com/v3/studio/main.page) | Create 3D Accurate LEGO Version from reference image |
 | [C. & J. G. Potter](https://archive.org/details/Potter61280/page/n331/mode/2up) | Digitized historical catalog of C. & J. G. Potter for vintage design and illustration reference. |
 | [Cassina](https://www.cassina.com/it/it.html?utm_source=google&utm_medium=cpc&utm_campaign=abs+traffic+ongoing+sea+it+brand+2024+searchnetwork&gad_source=1) | Italian luxury design furniture brand known for iconic modern and contemporary furniture pieces. |
 | [Chain-of-Zoom -](https://huggingface.co/spaces/alexnasa/Chain-of-Zoom) | AI-powered tool for high-resolution image generation with chain-of-thought zoom enhancement. |
-| [Cine Grain](https://www.cinegrain.com/) | , Overlay FX / Lux Edit / The Creative Herd |
+| [Cine Grain](https://www.cinegrain.com/) | Marketplace for film grain overlays and video editing assets |
 | [Codex Nutall](https://archive.org/details/gri_33125011146541/page/n55/mode/2up) | - Ancient Mexican Codex - 1858 |
-| [Construction](https://archive.org/details/dictionnairedest04chab/page/366/mode/2up) | Pierre Chabat XIXc Wall Decorations / Pinterest |
+| [Construction](https://archive.org/details/dictionnairedest04chab/page/366/mode/2up) | Digitized 19th-century French architectural dictionary on Internet Archive |
 | [Craighill](https://www.instagram.com/craighillcompany/reels/) | - Industrial design history/explanations |
 | [Das Thier in der decorativen Kunst - Seder Anton](https://archive.org/details/gri_33125013920190/page/n43/mode/2up) | Digitized historical art reference of animal motifs in decorative art by Anton Seder. |
-| [Dave Clark](https://www.youtube.com/@Afraid2Sleep) | / Vaigue Man / Julie W Design / IG - Long videos |
+| [Dave Clark](https://www.youtube.com/@Afraid2Sleep) | YouTube channel featuring long-form design and creative content |
 | [DaVinci Resolve – Fairlight / Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) | Professional digital audio workstation built into DaVinci Resolve for mixing, mastering, and sound design. |
 | [Demo](https://www.openai.fm/) | Text to speech with customized emotions. Free |
 | [Design Library](https://design-library.jp/mailmagazine/) | Email Marketing |
@@ -234,10 +234,10 @@
 | [Dooq details](https://www.dooqdetails.com/) | 3D Portugal - Expensive |
 | [DRFT-AI](https://www.drftai.com/) | AI-assisted design and copywriting workspace for marketing assets and social graphics. |
 | [Droodles by Roger Price](https://archive.org/details/droodlesclassice00larr/page/24/mode/2up) | - Enigmatic Doodles - Book 1953 |
-| [DTP Sripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Vectorise / SHS Page / AI Scripts |
-| [Electronics Gaming Monthly](https://archive.org/details/electronic-gaming-monthly) | / Video Game Magazines / Ditial Archive |
+| [DTP Sripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Collection of Adobe Illustrator scripts including crop mark tools |
+| [Electronics Gaming Monthly](https://archive.org/details/electronic-gaming-monthly) | Digitized archive of Electronic Gaming Monthly magazines on Internet Archive |
 | [Essex & Co.](https://archive.org/details/Essex10934/page/n185/mode/2up) | Digitized historical catalog of Essex & Co. for vintage design and illustration reference. |
-| [Fab](https://www.fab.com/search?tags=terrain) | 3D Export / Turbo Squid / AE Juice / - Not Free |
+| [Fab](https://www.fab.com/search?tags=terrain) | Marketplace for 3D assets, terrain models, and digital content |
 | [Fibreguard](https://plugin.fibreguard.com/?utm_source=fibreguard&utm_medium=organic_social&utm_campaign=fg_plugin&utm_content=organic_fg&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn2jbwsgrD-DGOYCKYVPiNLEcU3UviBVtZqikjdyt1Lp8u9OE13v1ozYBLVmQ_aem_PZDyQAwnnSfEsTOjLd28gg) | - Free Plugin for 3dsmax 2025 or newer full of fabrics |
 | [Fine Art Archive](https://archive.org/details/Fine-Art-History?sort=-downloads) | Internet Archive collection of fine art history resources sorted by popularity and downloads. |
 | [Firefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo) | - Free for Adobe users |
@@ -250,7 +250,7 @@
 | [Henry Bosch Company](https://archive.org/details/henry-bosch-company-1906/page/n25/mode/2up) | Digitized 1906 Henry Bosch Company catalog for vintage industrial design reference. |
 | [Heritage Library](https://archive.org/details/buildingtechnologyheritagelibrary) | Internet Archive collection of building technology heritage library resources for architectural reference. |
 | [Hokusai Manga by Katsushika Hokusai](https://archive.org/details/hokusaimangathes01kats/page/n17/mode/2up) | - First Manga 1814 - Book |
-| [Home Builders US 1950s Catalogue](https://archive.org/details/HomeBuildersCatalogPlansOfAllTypesOfSmallHomes/page/n288/mode/1up?view=theater) | / Homes and plans of the 1940s, 50s , 60s and 70s |
+| [Home Builders US 1950s Catalogue](https://archive.org/details/HomeBuildersCatalogPlansOfAllTypesOfSmallHomes/page/n288/mode/1up?view=theater) | Digitized 1950s catalog of small home plans on Internet Archive |
 | [Hte Boulenger & Cie](https://archive.org/details/revetementsceram00hteb/page/2/mode/2up) | France - 1904 |
 | [Hume](https://app.hume.ai/) | - Have spiritual, emotional, deep conversations with AI bot. |
 | [Ideen - J. Maria Olbrich (1899)](https://archive.org/details/ideenleipzig00olbr/page/70/mode/1up) | Austrian Art Nouveau |
@@ -283,9 +283,9 @@
 | [Motion Elements](https://ai.motionelements.com/) | - AI Video Editing Tools |
 | [NeuTTS-Air -](https://huggingface.co/spaces/neuphonic/neutts-air) | Free AI text-to-speech demo by Neuphonic for generating realistic voice audio from text. |
 | [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | - 100 sketch variations on a lounge chair |
-| [Old Time radio](https://archive.org/details/lumedwards) | / Old Time Radio Youtube |
+| [Old Time radio](https://archive.org/details/lumedwards) | Old Time Radio archive featuring vintage Lum and Abner shows |
 | [One-Click Screenshot to Figma Conversion with AI / Codia](https://codia.ai/screenshot-to-figma) | AI tool that reconstructs screenshots and UI mockups into fully editable, auto-layout Figma designs. |
-| [Paint Coach](https://www.youtube.com/@paintcoach) | Youtube Proko / David Finch / Sketching Scottie / Art with Antonio |
+| [Paint Coach](https://www.youtube.com/@paintcoach) | YouTube channel with digital art tutorials and painting instruction |
 | [Parts Design](https://partsdesign.net/mainvisual) | Japanese Websites |
 | [Pedrali](https://www.pedrali.com/en-us/products/chairs-design) | 3D w User finishes Italy |
 | [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | AI research project for reconstructing high-resolution 3D human models from a single 2D photograph. |
@@ -301,8 +301,8 @@
 | [Saint Ricchi](https://saintricchi.com/?tfc_sort%5B509861070%5D=created:desc&tfc_storepartuid%5B509861070%5D=Gradient+Maps&tfc_div=:::#shop) | Design Syndrome / Studio AAA / BLK Market Not Free |
 | [Sears 1906](https://archive.org/details/wallpapersamples00sear/page/n57/mode/2up) | Digitized Sears catalog of wallpaper samples and home decoration patterns from 1906. |
 | [SHS Page](https://shspage.com/aijs/en) | Vectorise / DTP Sripting / AI Scripts |
-| [Sick Again](https://sickagain.gumroad.com/) | Font Bros , / Yellow Images |
-| [Sketch Daily](https://www.sketchdaily.net/) | Doodlewash / Terawell / Line of Action |
+| [Sick Again](https://sickagain.gumroad.com/) | Design assets marketplace on Gumroad offering fonts and graphics |
+| [Sketch Daily](https://www.sketchdaily.net/) | Daily sketch practice website with timed figure drawing sessions |
 | [Smith and Diction](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%26D-%2F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=252%2C88%2C0.02&scaling=contain) | Branding guide strategy |
 | [Snail Eyes](https://snaileye.de/open-calls/books-submission-24/) | Graphic Design |
 | [State of AI in Design](https://www.stateofaidesign.com/) | Annual research report on how AI tools are transforming design workflows, craft, and team structures. |
@@ -321,12 +321,12 @@
 | [Threlkeld Granite Co - England - 1898](https://archive.org/details/albumofornamenta00thre/page/n13/mode/2up) | Digitized album of Victorian ornamental stonework, granite designs, and architectural patterns. |
 | [Tickets Please](https://www.blaisehayward.com/tickets-please) | - Ticket Shows Designs |
 | [Tost](https://tost.ai/) | - Free AIs for Image, video and 3D Generation |
-| [Vaigue Man](https://www.youtube.com/@VaigueMan) | Dave Clark / Julie W Design / IG - Long videos |
+| [Vaigue Man](https://www.youtube.com/@VaigueMan) | YouTube channel with long-form design and creative content |
 | [Vector Magic](https://vectormagic.com/?atk=vcb2u5mfvf&gad_source=1&gad_campaignid=22622370203&gbraid=0AAAAA_1iWaHfnPeY_iQJa-tJNklEgBMvU&gclid=CjwKCAjw04HIBhB8EiwA8jGNbTzQSK-u7jr2hcmKvHhYcnXP2Xv5V-7nx1XBiG1uOeK6mEOpQkM30BoC96gQAvD_BwE) | Online and desktop tool for converting JPG, PNG, and BMP bitmap images to SVG, EPS, and PDF vectors. |
 | [Vectorizer AI](https://vectorizer.ai/) | Not free, but you can take a screenshot of the preview |
 | [vectorwizard.ai](https://www.vectorwizard.ai/) | AI tool that generates clean, animated SVG code from text prompts, sketches, or images. |
 | [Wakamai Fondue](https://wakamaifondue.com/) | Upload a font and Get info, language support |
-| [Wall Decorations](https://archive.org/details/gri_33125011207269/mode/2up) | Pierre Chabat XIXc / Construction / Pinterest |
+| [Wall Decorations](https://archive.org/details/gri_33125011207269/mode/2up) | Digitized 19th-century French wall decoration designs on Internet Archive |
 | [Wallpaper Ideas for 1909](https://archive.org/details/wallpaperideasfo00robe/page/n71/mode/2up) | Digitized catalog of wallpaper patterns, room designs, and interior decoration ideas from 1909. |
 | [Wan2.2 Animate](https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate) | - Replace character/person in video |
 | [William Barry - UK - 1879](https://archive.org/details/Barry43078/page/n15/mode/2up) | Digitized catalog of Victorian decorative designs and ornamental patterns from 1879 England. |
