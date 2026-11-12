@@ -18,9 +18,12 @@
 | [Adobe](https://fonts.adobe.com/fonts?browse_mode=ko&cc=true&languages=ko) | Browse Adobe Fonts with a Korean language filter. |
 | [Adobe Font Search](https://fonts.adobe.com/fonts/vs/upload) | Upload an image to visually search and identify fonts from the Adobe Fonts library. |
 | [Adobe Fonts](https://fonts.adobe.com/?mv=other&promoid=8WLD51V2&ref=tk.com) | Access thousands of high-quality fonts included with a Creative Cloud subscription. |
+| [Alif Type](https://aliftype.com) | Type foundry that publishes downloadable open font files. |
 | [All Best Fonts](https://allbestfonts.com/) | Curated collection of high-quality free fonts for creative professionals. |
 | [All Free Fonts](https://www.allfreefonts.co/) | Browse over 15,000 free downloadable fonts sorted by style and category. |
 | [Alphabet Type](https://www.alphabet-type.com/tools/charset-checker/) | Check font character coverage, language support, and Unicode block compatibility. |
+| [Arabeyes Khotot](https://arabeyes.org/Khotot) | Project aimed at increasing the number of available Arabic free and open source fonts. |
+| [ATOM](https://atomtypelab.com) | Free browser app for experimental typography with particle effects and kinetic animations. |
 | [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) | Handpicked free fonts curated by the Awwwards web design community. |
 | [Az Fonts](https://ru.azfonts.net/) | Russian font archive for Cyrillic typefaces and Russian-language fonts. |
 | [Befonts](https://befonts.com/?filter=commercial) | Discover high-quality free fonts for personal and commercial design projects. |
@@ -38,6 +41,7 @@
 | [Coliss](https://coliss.com/articles/freebies/handwriting-japanese-free-fonts.html) | Japanese brush and handwriting font roundup with download links. |
 | [Cufon Fonts](https://www.cufonfonts.com/category/sans-serif) | Large collection of font styles with category filters and preview tools. |
 | [Cute Freefont](https://cute-freefont.flop.jp/) | Japanese font portal for cute and decorative free fonts. |
+| [Cyreal](https://cyreal.org) | Libre open-source type foundry specializing in Latin and Cyrillic fonts. |
 | [Cyrillic Fonts](https://cyrillic-fonts.ru/) | Russian font archive featuring Cyrillic typefaces and downloads. |
 | [Dafont](https://www.dafont.com/es/) | One of the largest archives of freely downloadable fonts on the web. |
 | [Deefont](https://www.deefont.com/) | Curated library of free and commercial fonts with category browsing and previews. |
@@ -45,8 +49,13 @@
 | [Devanagari Font Testing Page](https://www.motaitalic.com/tools/devanagari-font-tester/) | Test and preview Devanagari fonts with full character set and language samples. |
 | [Diyiziti](https://www.diyiziti.com/?t=1) | Chinese font portal with free artistic and display fonts. |
 | [Dr Fonts](https://drfonts.com/) | Font portal offering a mix of free and premium downloads. |
+| [Ek Type](https://ektype.in) | Free and open-source font families available for download. |
+| [Ekushey](https://ekushey.org) | Free Bangla fonts available for download from Ekushey. |
+| [Emfont](https://font.emtech.cc) | Open-source project for using Chinese fonts on the web. |
 | [Enfont Terrible](https://enfont.javierarce.com/) | A fun web-based tool to deform and distort font files interactively in your browser. |
 | [Filipe Meunier](https://payhip.com/b/BUbh) | Typography resource and font design project page. |
+| [FontAlternatives](https://fontalternatives.com) | Directory of free open-source alternatives to premium fonts. |
+| [FontGoggles](https://fontgoggles.org) | Free desktop app for inspecting OpenType and variable fonts. |
 | [Fonts in use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Real-world usage examples of the LL Akkurat typeface. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625434351701/) | Vintage typography image collection on Flickr. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625759177303) | Vintage typography image collection on Flickr. |
@@ -131,7 +140,9 @@
 | [noonnu.cc](https://noonnu.cc/) | Korean web font service offering free typefaces for designers. |
 | [Ofont](https://ofont.ru/) | Russian Cyrillic font portal with free typeface downloads. |
 | [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/) | Collection of classic pixel fonts from vintage PC systems and DOS era. |
+| [OmicronLab](https://omicronlab.com) | Free Unicode compliant OTF and ANSI Bangla fonts. |
 | [Online Fonts](https://online-fonts.com/) | Download free fonts for personal and commercial use with instant preview. |
+| [Open Typography Studio](https://mohammadgolamrabbii.github.io/typography/font_browser.html) | Free open-source font catalog covering many writing scripts. |
 | [Paratype](https://www.paratype.com/) | Professional font foundry page with typeface portfolios. |
 | [Pousse ta fonte](https://www.poussetafonte.com/) | - List of famous Font Design Studios |
 | [Premium Beat](https://www.premiumbeat.com/blog/free-animated-fonts/) | - Collection of Handpainted animated font for videos |
