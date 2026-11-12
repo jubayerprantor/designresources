@@ -46,6 +46,7 @@
 | Resource | Description |
 | :--- | :--- |
 | [98.css](https://jdan.github.io/98.css/) | A design system for building faithful recreations of old UIs |
+| [a11y.css](https://github.com/ffoodd/a11y.css) | Open-source stylesheet that warns developers about possible risks and mistakes in HTML code. |
 | [Arwes](https://github.com/arwes/arwes) | Web framework for futuristic sci-fi inspired UI designs with animations and sound effects |
 | [Axentix](https://useaxentix.com/) | Open source CSS Grid-based framework using HTML, CSS and JS |
 | [BeerCSS](https://www.beercss.com) | CSS framework for building Material Design 3 interfaces quickly |
@@ -53,6 +54,7 @@
 | [Bojler](https://bojler.slicejack.com/) | Email framework for building responsive and lightweight email templates |
 | [Bootstrap](https://getbootstrap.com/) | Popular UI framework with extensive CSS and JS components |
 | [Bulma](https://bulma.io/) | Modern CSS framework based on Flexbox without JavaScript dependencies |
+| [Checka11y.css](https://checka11y.jackdomleo.dev) | Open-source CSS tool that highlights accessibility issues in HTML. |
 | [Chota](https://jenil.github.io/chota/) | A micro (~3kb) CSS framework |
 | [Cirrus CSS](https://cirrus-ui.netlify.app/) | A component and utility centric SCSS framework designed for rapid prototyping. |
 | [clay.css](https://github.com/codeAdrian/clay.css) | Extensible and configurable micro CSS util class and SASS mixin for adding claymorphism styles to your components. |
@@ -86,6 +88,7 @@
 | [PSone](https://github.com/micah5/PSone.css) | PS1 style CSS Framework, inspired by NES.css. |
 | [Pure CSS](https://purecss.io/) | A set of small, responsive CSS modules |
 | [Raster Simple Grid System](https://rsms.me/raster/) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS. |
+| [Reseter.css](https://github.com/ikrishg/reseter.css) | Open-source CSS reset released under the MIT license. |
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
 | [Semantic UI](https://semantic-ui.com/) | Empowers designers and developers by creating a shared vocabulary for UI |
 | [Shoelace.css](https://www.shoelace.style/) | Lightweight, forward-thinking CSS library built with future CSS syntax |
@@ -170,6 +173,7 @@
 | [Particles.js](https://vincentgarreau.com/particles.js/) | A lightweight JavaScript library for creating particles |
 | [Popmotion](https://popmotion.io/) | Simple animation libraries for delightful user interfaces. |
 | [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/) | Responsive and slick progress bars with animated SVG paths. |
+| [Pts.js](https://ptsjs.org) | Open-source JavaScript library for visualization and creative coding. |
 | [Rellax.js](https://github.com/dixonandmoe/rellax) | A buttery smooth, super lightweight, vanilla javascript parallax library |
 | [Roughnotation](https://roughnotation.com/) | Rough Notation is a small JavaScript library to create and animate annotations on a web page |
 | [Simple Parallax](https://simpleparallax.com/) | The easiest way to get a parallax effect with javascript |
