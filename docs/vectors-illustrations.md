@@ -23,6 +23,7 @@
 | [Gumroad](https://gumroad.com/drawing-and-painting/digital-illustration/illustration-textures-and-patterns?sort=featured) | You can find more free illustrations, brushes, hi-res images, and textures filtered by price. |
 | [Hummingbirds](https://c82.net/hummingbirds/illustrations) | 19th-century illustrations |
 | [Illustrations Archives](https://freeuiresources.com/graphics/illustrations/) | Handpicked collection of free illustration design resources for various projects |
+| [Loose Drawing](https://loosedrawing.com) | Simple illustrations that are free for commercial use. |
 | [Lummi](https://www.lummi.ai/illustration) | Free-to-use AI-generated illustrations |
 | [Minerals](https://c82.net/mineralogy/) | 19th-century illustrations |
 | [Nice Illustrations](https://niceillustrations.com/free-illustrations/) | Free vector illustrations in multiple styles (Mint, Poppy, Cartoon) for commercial use |
@@ -32,7 +33,9 @@
 | [Recraft](https://app.recraft.ai/) | AI-powered design tool for creating and editing vector illustrations |
 | [Rive Editor](https://rive.app/editor) | App to animate illustrations |
 | [Saas UI Illustrations](https://illustrations.saas-ui.dev/#App-Shell) | Free library of 220+ SVG illustrations for design systems, docs, and frameworks |
+| [shigureni free illust](https://shigureni.com) | Free illustrations and icons for commercial and non-commercial use. |
 | [Sketching](https://www.youtube.com/@ArtwithFlo) | YouTube channel with digital art, Procreate, and sketching tutorials |
+| [Tech-Pic](https://tech-pic.com) | Free beta PNG illustrations of technology, gadgets, cities, and cars. |
 | [Vintage Science Illustrations](https://scienceisstrange.tumblr.com/) | Anatomical illustrations |
 | [いらすとや](https://www.irasutoya.com/) | Popular Japanese free illustration archive with cute PNGs and clip art across many categories |
 | [イラスト](https://www.ac-illust.com/) | Japanese free illustration site with downloadable clip art for commercial and personal projects |
@@ -106,7 +109,10 @@
 | Resource | Description |
 | :--- | :--- |
 | [3axis](https://3axis.co/) | - Vectors for Laser Cutting |
+| [DOTOWN](https://dotown.maeda-design-room.net) | Free site of cute dot-art materials for commercial use. |
 | [Free Stock Vectors - Stockio.com](https://www.stockio.com/free-vectors/) | Large collection of free vector graphics, icons, and clip art for personal and commercial use |
+| [Town Illust](https://town-illust.com) | Free vector illustrations of buildings, streets, and city views. |
+| [vectorShelf](https://vectorshelf.com) | Free hand-drawn illustration site that allows commercial use. |
 | [VectorStock](https://www.vectorstock.com/free-vectors) | Marketplace with millions of free and premium vector images for personal use |
 | [All Silhouettes](https://www.all-silhouettes.com/) | Specializes in providing free vector silhouettes for various design projects. |
 | [All-Free-Download](https://all-free-download.com/) | Offers a wide range of free vector art, stock photos, and PSD files for personal and commercial use. |
@@ -150,6 +156,7 @@
 | [Vectorportal](https://vectorportal.com/) | A repository of free vector art, including illustrations, logos, and clipart. |
 | [VectorStock](https://www.vectorstock.com) | Download free and premium vector art and illustrations. |
 | [Worldvectorlogo](https://worldvectorlogo.com/) | A comprehensive database of vector logos from brands around the world, available for free download. |
+| [えんぴつ素材](https://enpitsu-sozai.com) | Free site of pencil-drawn illustrations that allow commercial use. |
 
 ## Backgrounds & Patterns
 
