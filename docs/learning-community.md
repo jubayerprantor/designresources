@@ -12,9 +12,11 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [100 Days of CSS Challenge](https://100dayscss.com) | Free CSS challenge to create, submit results, and check out what others have created without registration. |
 | [Adobe](https://www.adobe.com/learn/indesign) | Official Adobe InDesign learning portal with project-based tutorials for layout, publishing, and print design. |
 | [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | Official Adobe Illustrator tutorials covering vector illustration, logo design, and creative workflows. |
 | [Art Station](https://www.artstation.com/learning) | ArtStation Learning offers video courses in 3D art, concept art, animation, and visual storytelling. |
+| [CSSBattle](https://cssbattle.dev) | Free challenges where you recreate a target image using CSS. |
 | [GitHub - A guide for learning how to write scripts for use in Adobe Illustrator](https://github.com/rjduran/adobe-scripting) | GitHub repo with scripting tutorials for automating Adobe Illustrator workflows. |
 | [Lapa](https://www.lapa.ninja/learn/figma/) | Curated Figma tutorials, plugin recommendations, and UI design inspiration for product designers. |
 | [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | Web-based tool for creating mesh gradients with noise and exporting SVGs for Figma. |
