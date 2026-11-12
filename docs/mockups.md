@@ -37,7 +37,7 @@
 | [Free Mockup](https://freemockup.net/) | 5,000+ free Photoshop mockup downloads |
 | [Free Mockup Generator](https://www.pixeltrue.com/mockup-generator) | Free and simple device mockup generator |
 | [Good Mockups](https://goodmockups.com/) | 7,300+ free high-quality PSD mockup files |
-| [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter |
+| [Grafic Yard](https://graficyard.com/collections/all) | Curated collection of mockups, graphics, and design templates. |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
 | [Hazard Mockups](https://www.hazardmockups.com/freebies) | Free urban signage and poster mockups |
 | [Hazard Mockups](https://www.hazardmockups.com/category/video-mockups) | Video mockups and motion design templates |
