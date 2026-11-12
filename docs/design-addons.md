@@ -219,10 +219,10 @@
 | [Yellow Images](https://yellowimages.com/graphic-design/category/textures) | Premium design resource marketplace offering textures, mockups, and graphic design assets. |
 | [Zuli](https://zuli.gumroad.com/l/freesofttextures) | Gumroad page offering a free pack of soft fabric textures for 3D rendering and design. |
 | [Zulia Assets](https://www.zuliassets.com/shop/textures) | Marketplace offering texture packs, mockups, and vintage design resources for digital artists. |
-| [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | ArtStation marketplace section for photography abstract effects and FX resources |
-| [AVGFX](https://www.avxgfx.com/photoshop_addons/ps_brushes/) | / PSD Keys / Wow Brushes |
-| [Sincronia](https://www.syncronia.com/en/download-3d-textures) | - List of brands with available Textures |
-| [TextureMap](https://texturemap.org/) | - Maps for colorblinded people |
+| [Art Station](https://www.artstation.com/marketplace/game-dev/tutorials/zbrush) | ArtStation marketplace section for ZBrush tutorials and 3D sculpting resources. |
+| [AVGFX](https://www.avxgfx.com/photoshop_addons/ps_brushes/) | Collection of downloadable Photoshop brushes and design add-ons. |
+| [Sincronia](https://www.syncronia.com/en/download-3d-textures) | Library of downloadable 3D textures and materials from manufacturer brands. |
+| [TextureMap](https://texturemap.org/) | Texture and pattern maps designed for colorblind accessibility. |
 | [Brusheezy](https://www.brusheezy.com/) | Offers a wide range of free Photoshop brushes, patterns, textures, and more. It's a community-driven site where designers share their resources. |
 | [BrushKing](https://www.brushking.eu/) | Provides a wide collection of free Photoshop brushes for various design needs. |
 | [BrushLovers](https://www.brushlovers.com/) | Provides a good selection of high-quality free Photoshop brushes. The site also offers premium brushes for more advanced needs. |
