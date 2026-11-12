@@ -12,6 +12,7 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Airship](https://github.com/0xnyn/airship) | Open-source visual editor built for Claude Code, Codex, and OpenCode. |
 | [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) | Curated directory of professional UX/UI software, micro-interaction tools, and design system resources by GoAbstract. |
 | [Best Web Design Tools](https://bestwebdesigntools.com/web-design-tools) | Curated repository of modern web utilities, landing page templates, and design extensions. |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | A collection of software for graphic design, video editing, web development, and photography. Key tools within the suite include Photoshop, Illustrator, InDesign, After Effects, and Premiere Pro. |
@@ -71,6 +72,7 @@
 | [CTA Button Maker](https://www.clickminded.com/button-generator/) | Create call to action buttons |
 | [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
 | [Diagrams](https://www.diagrams.net/) | Diagram software and Flowchart maker |
+| [Ditther](https://ditther.com) | Free online editor for photo and video effects. |
 | [Doodle Ipsum](https://doodleipsum.com/) | The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
 | [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams |
@@ -106,6 +108,7 @@
 | [Pic2Vector](https://pic2vector.com/) | Free browser-based converter that traces PNG, JPG, and WebP images into SVG vectors; runs locally with WebAssembly, no upload or account. |
 | [PixCleaner](https://www.pixcleaner.com/) | Accurate and hassle free background removal tool |
 | [Pixlr](https://www.pixlr.com/) | Online photo editor |
+| [Pryzm](https://pryzm.design) | Browser studio for backgrounds and textures, with a free plan. |
 | [Ray.so](https://ray.so/) | Online tool to create beautiful images of your code. |
 | [RemoveBG](https://www.remove.bg/) | Remove image backgrounds |
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
@@ -115,6 +118,7 @@
 | [TableConvert](https://tableconvert.com/) | Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table. |
 | [Taler](https://www.taler.app/) | Create social media banner designs in minutes from hundreds of customizable templates |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
+| [Trangram](https://www.trangram.com/) | Free browser editor for creating and animating vector graphics, with no sign-up. |
 | [Ui Bakery](https://uibakery.io/) | Create full-fledged web apps visually |
 | [Unscreen](https://www.unscreen.com/) | Remove Video Background 100% Automatically and Free |
 | [UXWing SVG Editor](https://uxwing.com/svg-icon-editor) | Creating and Edit SVG Online |
@@ -159,6 +163,7 @@
 | Resource | Description |
 | :--- | :--- |
 | [Balsamiq](https://balsamiq.com) | Intentionally sketchy wireframes that keep focus on structure, not polish. Fast for early ideation. |
+| [Choreo](https://www.choreomotion.app/) | Free browser tool for designing hover, press, focus, and drag states. |
 | [Flinto](https://www.flinto.com) | Simple Mac app for micro-interactions and transitions. Quick learning curve with powerful results. |
 | [Fluid UI](https://www.fluidui.com) | Browser-based prototyping with built-in iOS/Android/Windows libraries. Real-time collaboration. |
 | [Justinmind](https://www.justinmind.com) | Enterprise prototyping with conditional navigation, variables, and data lists. Exports to HTML. |
@@ -234,6 +239,9 @@
 | [NeuTTS-Air -](https://huggingface.co/spaces/neuphonic/neutts-air) | Free AI text-to-speech demo by Neuphonic for generating realistic voice audio from text. |
 | [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | - 100 sketch variations on a lounge chair |
 | [One-Click Screenshot to Figma Conversion with AI / Codia](https://codia.ai/screenshot-to-figma) | AI tool that reconstructs screenshots and UI mockups into fully editable, auto-layout Figma designs. |
+| [Onlook](https://github.com/onlook-dev/onlook) | Open-source tool for visually building and editing code with AI. |
+| [Open Design](https://github.com/nexu-io/open-design) | Open-source local-first workspace for making prototypes and websites with AI. |
+| [OpenPencil](https://github.com/ZSeven-W/openpencil) | Open-source vector tool that turns prompts into UI on a canvas. |
 | [Paint Coach](https://www.youtube.com/@paintcoach) | YouTube channel with digital art tutorials and painting instruction |
 | [Parts Design](https://partsdesign.net/mainvisual) | Japanese Websites |
 | [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | AI research project for reconstructing high-resolution 3D human models from a single 2D photograph. |
