@@ -2,29 +2,29 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Design Resources",
-  base: '/',
+  base: '/designresources/',
   description: "A curated collection of 4,000+ hand-picked design resources, assets, and frameworks for graphic designers, UI/UX designers, developers, and creatives.",
   lang: 'en-US',
   cleanUrls: true,
   appearance: 'dark',
   sitemap: {
-    hostname: 'https://designresources.eu.cc/'
+    hostname: 'https://giveback2people.github.io/designresources/'
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
-    ['link', { rel: 'alternate icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/designresources/logo.svg' }],
+    ['link', { rel: 'alternate icon', href: '/designresources/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#8b5cf6' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'en_US' }],
     ['meta', { property: 'og:title', content: 'Design Resources Hub | GiveBack2People' }],
     ['meta', { property: 'og:site_name', content: 'Design Resources Hub' }],
-    ['meta', { property: 'og:image', content: 'https://designresources.eu.cc/og-image.png' }],
-    ['meta', { property: 'og:url', content: 'https://designresources.eu.cc/' }],
+    ['meta', { property: 'og:image', content: 'https://giveback2people.github.io/designresources/og-image.png' }],
+    ['meta', { property: 'og:url', content: 'https://giveback2people.github.io/designresources/' }],
     ['meta', { property: 'og:description', content: 'Curated collection of 4,000+ hand-picked design tools, assets, and frameworks for creatives.' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'Design Resources Hub | GiveBack2People' }],
     ['meta', { name: 'twitter:description', content: 'Curated collection of 4,000+ hand-picked design tools, assets, and frameworks for creatives.' }],
-    ['meta', { name: 'twitter:image', content: 'https://designresources.eu.cc/og-image.png' }]
+    ['meta', { name: 'twitter:image', content: 'https://giveback2people.github.io/designresources/og-image.png' }]
   ],
   themeConfig: {
     nav: [
