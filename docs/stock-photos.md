@@ -15,9 +15,9 @@
 | [Art Station](https://www.artstation.com/marketplace/p/Pz1B/free-atlas-textures-photogrammetry-32-tif-s) | Free photogrammetry atlas textures with albedo, normal, height, and SSS maps for 3D rendering. |
 | [Art Station](https://www.artstation.com/marketplace/game-dev?section=trending&q=photo%20pack&page=2) | ArtStation marketplace for game dev photo packs and texture resources |
 | [Art Station](https://www.artstation.com/marketplace/game-dev/resources/photography/abstract-fx) | ArtStation marketplace section for photography abstract effects and FX resources |
-| [Art Station 2](https://www.artstation.com/marketplace/p/pP9n/free-6k-16-bit-atlas-textures-photogrammetry) | Share Textures , Art Station , |
+| [Art Station 2](https://www.artstation.com/marketplace/p/pP9n/free-6k-16-bit-atlas-textures-photogrammetry) | Free 6K 16-bit photogrammetry atlas textures for 3D rendering available on ArtStation. |
 | [ArtStation](https://www.artstation.com/marketplace/game-dev/resources/photography/hdri?section=free) | ArtStation marketplace section for free HDRI environment maps and lighting resources. |
-| [artstation.com](https://www.artstation.com/marketplace/p/5VVO1/sunflecks-shadows-brushes-for-photoshop) | Window Brush pack, Sunflecks 1 , 2 , |
+| [artstation.com](https://www.artstation.com/marketplace/p/5VVO1/sunflecks-shadows-brushes-for-photoshop) | Photoshop brush pack featuring window shadows and sunfleck effects. |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev?section=trending&q=photo%20bashing) | ArtStation marketplace for trending photo bashing resources |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev/resources/photography/cutout/sky) | ArtStation marketplace for sky cutout photography resources |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev/resources/photography/reference/sky) | ArtStation marketplace for sky reference photography resources |
@@ -31,7 +31,7 @@
 | [Brush Warriors](https://brushwarriors.com/lineart-brushes-photoshop/) | Free Photoshop line art brushes for digital illustration, drawing, and creative design projects. |
 | [Children's Book Illustration](https://www.flickr.com/photos/britishlibrary/albums/72157638906393085/) | British Library's Flickr collection of digitized public domain children's book illustrations. |
 | [Creative Cloud](https://www.adobe.com/products/photoshop/photoshop-brushes.html) | Adobe's official collection of free and premium brushes for Photoshop Creative Cloud users. |
-| [Creative Cloud](https://creativecloud.adobe.com/discover/article/six-free-gradient-maps-for-photoshop?locale=en) | Adobe's official collection of free and premium brushes for Photoshop Creative Cloud users. |
+| [Creative Cloud](https://creativecloud.adobe.com/discover/article/six-free-gradient-maps-for-photoshop?locale=en) | Collection of six free gradient map presets for Adobe Photoshop. |
 | [Creative Fabrica](https://www.creativefabrica.com/search/?query=photoshop&page=2&category=Brushes) | Creative Fabrica search results for Photoshop brushes |
 | [Creative Market](https://creativemarket.com/photos) | Marketplace for design assets including high-quality stock photos from independent creators |
 | [Creative Market](https://creativemarket.com/stock-video) | Creative Market marketplace for stock video footage |
@@ -56,15 +56,15 @@
 | [Mockup Photos](https://mockup.photos/) | Free high-quality device and product mockup photography with smart object templates. |
 | [Mockup Template](https://mockuptemplate.net/product-category/photoshop/photoshop-brushes/) | Library of 1000+ free high-resolution Photoshop brush ABR packs across 50+ categories |
 | [Motion Elements](https://www.motionelements.com/free/stock-footage) | Free stock video footage library offering over 8,000 royalty-free clips for video production. |
-| [P.Re](https://www.photorestore.io/) | - Colorize, restore, remove background |
+| [P.Re](https://www.photorestore.io/) | AI-powered photo tool to colorize, restore, and remove backgrounds from images. |
 | [Pexels](https://www.pexels.com/it-it/) | Free stock photo and video library with high-quality royalty-free images shared by creators worldwide. |
 | [Pexels](https://www.pexels.com/search/texture/) | Free stock texture photos available for search and download on the Pexels platform. |
 | [Pexels](https://www.pexels.com/search/seamless%20texture/) | Free seamless texture stock photos available for search and download on Pexels. |
 | [Pexels](https://www.pexels.com/search/videos/mockup/) | Free mockup video footage available for search and download on the Pexels stock platform. |
-| [Ph VIP](https://photoshopvip.net/115273#tip1) | - Collection of Japanese designer packs |
+| [Ph VIP](https://photoshopvip.net/115273#tip1) | Curated collection of Japanese designer resource packs and assets. |
 | [Photo Dune](https://photodune.net/category/all) | Photo Dune marketplace for stock photos and assets |
 | [Photo Gradient](https://photogradient.com/) | Online tool for generating mesh gradients and color palettes from uploaded photographs. |
-| [Photocatch](https://www.photocatch.app/) | - Photogrammetry, uses a lot of images to create a 3d model |
+| [Photocatch](https://www.photocatch.app/) | Photogrammetry software that creates 3D models from multiple photographs. |
 | [Photographer 5](https://sites.google.com/view/photographer-5-documentation/lights/light-gobos-and-ies) | Documentation for Photographer 5 add-on covering light gobo textures and IES profile usage. |
 | [Photoshablon](https://photoshablon.com/search?q=paper+texture&search_button=) | Photoshablon search results for paper texture resources |
 | [Photoshop Vip](https://photoshopvip.net/114278) | PhotoshopVIP article featuring Japanese brush calligraphy and design resources |
