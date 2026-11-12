@@ -31,11 +31,15 @@
 | [Draw Kit](https://www.drawkit.com/search-results) | Library of 2D, 3D illustrations, icons and animations for designers |
 | [Dribbble](https://dribbble.com/search/free-icons) | Search results for free icon designs on Dribbble. |
 | [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | Free PSD logo mockup with realistic embossed effect on paper. |
+| [Energy Icons](https://energyicons.com) | Open-source icon library for renewable energy and the energy transition. |
 | [Figma](https://www.figma.com/community/icons) | 6,900+ free icon sets & packs from the Figma community. |
+| [Flagpack](https://flagpack.xyz) | Open-source set of country flag icons for design tools and code. |
 | [Forge Icons](https://icons.theforgesmith.com/) | 300+ SVG icons for e-commerce, travel, social media, and app design. |
 | [Free Icons](https://icons-for-free.com/) | Large collection of free icons in various styles and formats. |
 | [Futicons](https://futicons.com/) | Free futuristic line and fill SVG icons for modern web projects. |
 | [Game Icons](https://game-icons.net/) | 4,180 free SVG and PNG game-themed icons, regularly updated. |
+| [Glow UI Icons](https://www.glowui.com/icons) | Open-source interface icons in outline and solid styles. |
+| [Griddy Icons](https://griddyicons.com) | Free open-source icon family with SVG icons and a React library. |
 | [Gumroad](https://gumroad.com/design/icons) | Platform for independent creators selling vector icons, fonts, and digital design assets |
 | [Health icons](https://healthicons.org/) | Health Medical icons |
 | [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | Free 20-pack of industrial-themed HM graphic icons. |
@@ -61,6 +65,7 @@
 | [Logo Design Love](https://www.logodesignlove.com/) | Blog about logos, symbols, icons, and marks by David Airey. |
 | [Logo Designer](https://www.logo-designer.co/) | Logo design inspiration blog showcasing brand identity work. |
 | [Lordicon](https://lordicon.com/) | 43,900+ animated icons library with static and animated styles. |
+| [Lucide Animated](https://lucide-animated.com) | Free open-source library of animated React icons, licensed under MIT. |
 | [Majesticons](https://www.majesticons.com/) | 11,000+ premium hand-crafted icons in line, duotone, and solid styles. |
 | [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | Extended preview of Material Design Icons from the MDI sandbox. |
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
@@ -74,10 +79,12 @@
 | [Octicons](https://primer.style/octicons/) | GitHub's handcrafted, scalable icon set by Primer design system |
 | [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file /openbridge-icon-pack) | Free icon pack available on Figma Community. |
 | [OpenMoji](https://openmoji.org/) | Open source emoji library with 4495 consistent, handcrafted emojis |
+| [Pikaicons](https://pikaicons.com) | SVG icon library with 221 icons free and a larger paid set. |
 | [Pixelarticons](https://pixelarticons.com/) | 4,052 pixel art icons in 4 styles, hand-crafted on a 24x24 pixel grid. |
 | [Potlab Icons](https://potlabicons.com/) | Animated SVG icon library with React, Figma, Flutter, and Framer support. |
 | [pqoqubbw/icons](https://icons.pqoqubbw.dev/) | 350+ animated React icons built with Motion and Lucide, MIT licensed. |
 | [Pro Icons](https://proicons.com/design-tools/) | Icon online Tools / Icon Maker |
+| [Rune Icons](https://www.runeicons.com/) | Open-source icons in five styles, licensed under Apache 2.0. |
 | [Shapefest](https://www.shapefest.com/#new) | Massive library of premium 3D illustrations and clay renders |
 | [Smashicons](https://smashicons.com/) | Professional icon packs for UI/UX design projects. |
 | [Svg Doodle icon](https://svgicon.net/) | Free hand-drawn SVG doodle icons in brush, arrow, circle, and abstract styles. |
