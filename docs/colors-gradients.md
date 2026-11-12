@@ -11,6 +11,7 @@
 | [Adobe Color](https://color.adobe.com/create/color-wheel) | Create color palettes, extract gradients from images, etc. |
 | [Adobe Color Stock](https://color.adobe.com/explore) | Discover current color trends in different industries from the creative communities on Behance and Adobe Stock |
 | [AI Palette](https://aipalette.online/) | AI-powered color palette generator based on visual themes, keywords, and images. |
+| [AnyGradient](https://anygradient.com) | Free generator for building gradients and exporting code with no sign-up. |
 | [Astra Vision](https://astra-vision.github.io/MaterialPalette/) | - Extract Textures from image |
 | [Blackout FX](https://www.blackout-fx.com/) | / Cinecolors / Creatopia |
 | [Camilla Falsini](https://www.behance.net/camillafalsini) | Geometric, bold colors |
