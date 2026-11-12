@@ -52,6 +52,9 @@
 | [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_campaignid=22553582104) | AI design agent for creating professional visuals |
 | [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Vintage paper |
 | [Minimal Mockups](https://www.minimalmockups.com/mockups/) | Minimalist device and product mockup templates |
+| [Mock Magic](https://www.mockmagic.com/) | Mockup tool with a free plan for unlimited static mockups. |
+| [Mockey](https://mockey.ai) | Free online mockup generator with more than 30,000 AI templates. |
+| [Mockover](https://mockover.com) | Free browser tools for warping and distorting images, with no sign-up. |
 | [Mockup app](https://mockupapp.ls.graphics/banner/latest-free-mockups) | Online mockup creator by ls.graphics with free templates |
 | [Mockup Batch](https://exchange.adobe.com/apps/cc/e8f80854/mockupbatch---create-mockups-in-bulk) | Adobe Photoshop extension for creating mockups in bulk |
 | [Mockup Bee](https://mockupbee.com/) | Mockup resource collection for designers |
@@ -95,6 +98,7 @@
 | [Renderforest](https://www.renderforest.com/mockup-generator) | Online mockup generator with many customizable templates |
 | [Sam Olevsky](https://www.samolevsky.com/collections/mockups) | Mockup collections and design assets from Sam Olevsky |
 | [Scene Number Mockups](https://scenenumbermockup.com/freebies) | Free coffee shop and food scene mockup templates |
+| [sliick](https://www.sliick.co/) | Free 3D mockup maker for screenshots and videos, with local exports. |
 | [Smart Mockups](https://smartmockups.com/mockups) | Create stunning product mockups online (free & premium) |
 | [Sport Mockups](https://sportstemplates.net/free-templates/) | Free sports-themed PSD mockups and templates |
 | [The Mockup Club](https://themockup.club/) | Curated directory of free premium design mockups |
