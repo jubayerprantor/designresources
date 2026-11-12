@@ -13,10 +13,10 @@
 | Resource | Description |
 | :--- | :--- |
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | YouTube channel with game development and animation tutorials and resources |
-| [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
+| [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | YouTube channel showcasing advanced Blender animation and realistic character modeling. |
 | [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=) | Collage Constructor |
 | [Envato](https://videohive.net/search/luts) | VideoHive marketplace search for LUT color grading presets for video editing software. |
-| [Firefly](https://firefly.adobe.com/generate/video) | Image to Video 🆓 |
+| [Firefly](https://firefly.adobe.com/generate/video) | Adobe's generative AI tool for creating videos from images and text prompts. |
 | [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | YouTube channel featuring game development tutorials and animation content |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
 | [Mix Kit](https://mixkit.co/free-sound-effects/) | Free sound effects library with categories including animals, nature, game sounds, and transitions. |
@@ -34,9 +34,9 @@
 | [Video Editors Studio](https://videoeditorstudio.com/) | Premium motion graphics template packs for DaVinci Resolve with titles, transitions, and effects |
 | [Video Hive](https://videohive.net/search/texture%20pack) | Marketplace for texture pack video effects, overlays, and motion graphics templates |
 | [Video Hive](https://videohive.net/category/after-effects-project-files) | Marketplace for premium After Effects templates, including openers, titles, logos, and broadcast packages. |
-| [Video Hive](https://videohive.net/category/premiere-pro-templates) | Aniom , Creators Studio , Sick Boat , , Eleven Percent , Videos Change Reality |
+| [Video Hive](https://videohive.net/category/premiere-pro-templates) | Marketplace for Premiere Pro templates including titles, transitions, and openers. |
 | [Video Hive](https://videohive.net/category/apple-motion-templates) | VideoHive category for Apple Motion templates and motion graphics projects |
-| [Video Motion](https://videomotion.store/store/) | Luxury Leaks / Media Monopoly / K Selected / Beyond the Game |
+| [Video Motion](https://videomotion.store/store/) | Online store offering video templates, motion assets, and editing packs. |
 | [Videohive](https://videohive.net/category/add-ons) | Collection of After Effects scripts, presets, and plugins to extend video editing workflows. |
 | [videohive.net](https://videohive.net/search/animated%20texture) | Marketplace for animated texture video effects and motion graphics overlays |
 | [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Marketplace for VFX motion graphics including transitions, overlays, and particle effects |
@@ -71,13 +71,13 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | - Create animation from audio |
+| [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | Free Adobe tool to generate animated characters from recorded audio. |
 | [Audio Jungle](https://audiojungle.net/) | Royalty-free music and sound effects marketplace on the Envato platform |
 | [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Premium essential sound effects library for motion designers and video editors |
 | [Pixa Bay](https://pixabay.com/sound-effects/search/) | Large library of free, royalty-free sound effects for use in videos, games, and other projects. |
-| [r10's Audio Tools](https://www.r10.audio/#wave-designer) | - Wave Designer for oscillator |
-| [Tuto](https://beginnersapproach.com/davinci-resolve-free-sound-library/) | Fairlight \| Blackmagic Design / |
-| [셀바이뮤직](https://www.sellbuymusic.com/) | / Audio Jungle / MotionArray |
+| [r10's Audio Tools](https://www.r10.audio/#wave-designer) | Wave designer tool for creating and visualizing oscillator audio waveforms. |
+| [Tuto](https://beginnersapproach.com/davinci-resolve-free-sound-library/) | Tutorial and guide for accessing the free Fairlight sound library in DaVinci Resolve. |
+| [셀바이뮤직](https://www.sellbuymusic.com/) | Royalty-free background music and sound effects platform for video creators. |
 | [Artlist](https://artlist.io) | A music licensing platform offering high-quality, royalty-free music for creative projects. |
 | [Audionautix](https://audionautix.com) | Free production music for creative projects by Jason Shaw. |
 | [Bensound](https://www.bensound.com/) | Download Royalty Free Music for free and use it in your project |
@@ -101,7 +101,7 @@
 | [TuneTank](https://www.tunetank.com/) | Offers free, high-quality royalty-free music for various creative projects. |
 | [Udio](https://www.udio.com) | Advanced AI music generator producing high-quality, genre-diverse tracks from text descriptions. |
 | [UI Sounds](https://uisounds.co/) | Hand-picked library of sound effects, chimes, and micro-interaction audio for user interfaces and mobile apps. |
-| [Unminus](https://www.unminus.com/) | Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
+| [Unminus](https://www.unminus.com/) | Royalty-free music library cleared for YouTube and creative projects. |
 | [Upbeat](https://www.upbeat.io/) | Free music for creators, with an option to upgrade for no credit requirement. |
 | [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) | Free music and sound effects for YouTube videos. |
 | [YouTube Creator Music](https://www.youtube.com/creators/music) | A vast library of free and paid music tracks and sound effects for YouTube videos. |
