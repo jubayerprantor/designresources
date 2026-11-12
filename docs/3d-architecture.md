@@ -8,6 +8,8 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [cgbookcase](https://www.cgbookcase.com/textures) | Textures published under the CC0 license for free use. |
+| [FreePBR](https://freepbr.com) | Hundreds of free PBR materials and textures for 3D work. |
 | [Human Terrain](https://pudding.cool/2018/10/city_3d/) | - Population density 3D Map |
 | [TerraForge3D: Procedural Terrain Generation & Texturing Tool](https://github.com/Jaysmito101/TerraForge3D) | Cross-platform open-source tool for procedural terrain generation, texturing, and rendering with GPU acceleration. |
 | [Terrain2STL](https://jthatch.com/Terrain2STL/) | - Get 3D Terrain in .STL |
@@ -16,6 +18,8 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Building Tools](https://github.com/ranjian0/building_tools) | Open-source Blender add-on for building generation with Python. |
+| [CAD Sketcher](https://www.cadsketcher.com/) | Free open-source Blender add-on for parametric CAD-style modeling. |
 | [OpenDesk Models (3D Warehouse)](https://3dwarehouse.sketchup.com/search/models?q=opendesk) | Open Desk UK - Plywood |
 | [3 Days of Design](https://www.3daysofdesign.dk/tag/furniture) | Annual Copenhagen design festival showcasing furniture, lighting, and interior brands through exhibitions and events. |
 | [3D Assets](https://3dassets.one/?q=&sort=popular) | Searches in several platforms |
@@ -308,9 +312,11 @@
 | [Plugin](https://www.adobe.com/products/substance3d/plugins/substance-in-3ds-max.html) | - for 3Ds Max, Tutorial |
 | [Poly Haven](https://polyhaven.com/) | CC0 public domain library of high-resolution HDRI environments, PBR textures, and 3D models. |
 | [Poly Haven](https://polyhaven.com/hdris/) | CC0 licensed HDRI environment maps for realistic lighting in 3D rendering and visualization. |
+| [Poly Pizza](https://poly.pizza) | Free downloads of low-poly 3D models, with no login required. |
 | [PresetsFX](https://presetsfx.com/category/daz-3d-model/#google_vignette) | Website offering Daz 3D model presets and resources |
 | [Pro for Free 3D Models](https://pro3dmodelsfree.com/3d-models/3d-print/) | Resource unavailable for verification. |
 | [Prome AI](https://www.promeai.pro/consistency-rendering) | - Changing textures to renders - M |
+| [Quaternius](https://quaternius.com) | Free CC0 library of hundreds of low-poly 3D models. |
 | [Render 96](https://github.com/Render96/Render96Wiki/wiki) | Archival old games textures |
 | [Render Camp](https://www.youtube.com/@rendercamp) | YouTube channel offering tutorials and tips for 3D rendering and architectural visualization. |
 | [Render Crate](https://rendercrate.com/3d/environments) | Library of 3D environments, models, and materials for visual effects and motion graphics projects. |
@@ -420,6 +426,7 @@
 | [Ariel Ruiz](https://www.instagram.com/arielruiz.kreadiv/) | Interior Design and psychology |
 | [Artistic Render](https://artisticrender.com/category/blender/add-ons/) | - Architecture addons for Blender |
 | [Australian Interior Design Awards: Workspaces](https://australianinteriordesignawards.com/gallery/search?year=&category=workplace-design&location=&recognition=&q=) | Gallery of award-winning workplace design projects from Australian Interior Design Awards. |
+| [Bonsai](https://bonsaibim.org) | Open-source Blender add-on for authoring native IFC building models. |
 | [Collov AI](https://collov.ai/) | Interior design - Not Free |
 | [David Drazil](https://david-drazil.gumroad.com/) | Architecture - Not Free |
 | [Design Professor](https://www.instagram.com/the.design.professor/reels/) | Interior Design lessons |
