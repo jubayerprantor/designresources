@@ -14,7 +14,7 @@
 | :--- | :--- |
 | [3D icons](https://www.3dicons.com/) | Over 4,000 3D icons & characters in high 4K resolution with front & perspective views. Includes Figma file. |
 | [3D LogoLab](https://www.3dlogolab.io/3d-logo-generator-free) | Free online 3D rotating logo generator tool. |
-| [Achi](https://www.a-chi.jp/fudemojilogo-tool-site/) | Japanese Brush Calligraphy / Note / Japan Design / Photoshop Vip / Coliss |
+| [Achi](https://www.a-chi.jp/fudemojilogo-tool-site/) | Collection of Japanese brush calligraphy logo tools and design resources. |
 | [Akar Icons](https://akaricons.com/) | Minimal open source SVG icon library with clean, rounded strokes. |
 | [Animated Icons](https://animatedicons.co/) | 4,000+ free high-quality animated icons available as Lottie, SVG & PNG. Customizable colors. |
 | [Basicons](https://basicons.xyz/) | Basic yet versatile SVG icon set for UI design. |
@@ -46,8 +46,8 @@
 | [Hola SVG Icons](https://icons.holasvg.com/) | Free open source SVG icons with customizable stroke, fill, and color. |
 | [Hugeicons](https://hugeicons.com/) | 51,000+ free & pro icons for designers and developers in multiple styles. |
 | [Humbleicons](https://humbleicons.com/) | 284 simple, neutral, carefully crafted free SVG icons. |
-| [Icon Finder](https://www.iconfinder.com/designers) | The Noun Project / My Crate / Yellow Images / YWFT |
-| [Icon Maker](https://ray.so/icon) | Icon online Tools Pro Icons |
+| [Icon Finder](https://www.iconfinder.com/designers) | Directory of vector icon designers on Iconfinder. |
+| [Icon Maker](https://ray.so/icon) | Online tool for creating and customizing icons. |
 | [Icon Park](https://iconpark.oceanengine.com/illustrations) | ByteDance's illustration library with multiple customization options. |
 | [Icon Park](https://iconpark.oceanengine.com/official) | ByteDance's official icon library with themeable SVG icons. |
 | [Icon Scout](https://iconscout.com/3d-illustrations) | 335K+ 3D illustrations in PNG, BLEND, FBX, and glTF formats. |
@@ -88,7 +88,7 @@
 | [Shapefest](https://www.shapefest.com/#new) | Massive library of premium 3D illustrations and clay renders |
 | [Smashicons](https://smashicons.com/) | Professional icon packs for UI/UX design projects. |
 | [Svg Doodle icon](https://svgicon.net/) | Free hand-drawn SVG doodle icons in brush, arrow, circle, and abstract styles. |
-| [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | - Download SVG Vector files from any website |
+| [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | Download SVG vector files from any website. |
 | [Tech Icons](https://techicons.dev/) | 426+ SVG and PNG tech icons for programming languages, frameworks, and tools. |
 | [The Icon of](https://www.theiconof.com/search) | 1,100+ pixel perfect icons available for Figma, Sketch, XD, and more. |
 | [The Noun Project](https://thenounproject.com/icons/) | Library of over 3 million icons and photos created by a global community |
@@ -178,7 +178,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [VectorWiki](https://vectorwiki.com/) | - Download Logos in SVG |
+| [VectorWiki](https://vectorwiki.com/) | Download brand and company logos in SVG vector format. |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/) | Fast, All-in-One Logo Generator |
 | [Logo Maker](https://logomakr.com/) | Create custom logos |
