@@ -16,19 +16,19 @@
 | [Blackout FX](https://www.blackout-fx.com/) | / Cinecolors / Creatopia |
 | [Camilla Falsini](https://www.behance.net/camillafalsini) | Geometric, bold colors |
 | [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) | Color wheel tool and palette generator for finding complementary, analogous, and triadic color schemes. |
-| [Chroma HEX/RGB Color Picker](https://chromewebstore.google.com/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn?hl=en) | - Color Picker on anything on the website |
+| [Chroma HEX/RGB Color Picker](https://chromewebstore.google.com/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn?hl=en) | Chrome extension eyedropper and color picker for selecting colors from web pages. |
 | [CineColor](https://cinecolor.io/) | Professional LUT packs, film emulations, and color grading tools for filmmakers and video editors. |
-| [Cinecolors](https://cinecolor.io/collections/tools) | Blackout FX / Creatopia |
+| [Cinecolors](https://cinecolor.io/collections/tools) | Color grading tools, utilities, and plugins for video editing workflows. |
 | [Color and Contrast](https://colorandcontrast.com/#/) | Accessibility-focused tool for checking color contrast ratios against WCAG standards. |
 | [Color Designer](https://colordesigner.io/) | Comprehensive color tools platform featuring a palette builder, gradient generator, color mixer, and converter. |
 | [Color Experts](https://www.colorexpertsbd.com/blog/best-youtube-channels-for-learning-photography-photo-editing/) | Youtube channels |
-| [Color Finale](https://colorfinale.com/) | / Alex 4D / FCPX / Industrial Revolution - Not Free |
+| [Color Finale](https://colorfinale.com/) | Paid color grading plugin and toolset for Final Cut Pro. |
 | [Color Fizz](https://colorfizz.space/) | Interactive color palette exploration and harmony generator tool. |
 | [Color Game](https://color.method.ac/) | Interactive color matching game that trains your eye for hue, saturation, and color harmony perception. |
 | [Color Geo Guesser](https://color-geo-guesser.mohit.rocks/) | Color matching quiz game that tests your ability to identify and reproduce target colors. |
 | [Color Magic](https://colormagic.app/) | AI powered |
 | [Color Name](https://www.color-name.com/) | Get Color name of a HEX |
-| [Color Palette Pro](https://colorpalette.pro/?color=oklch%2842%25+0.32+186%29&paletteType=tri&paletteStyle=square&colorFormat=oklch&effects=0%2C0%2C0%2C0) | - Color Palette Synthesizer |
+| [Color Palette Pro](https://colorpalette.pro/?color=oklch%2842%25+0.32+186%29&paletteType=tri&paletteStyle=square&colorFormat=oklch&effects=0%2C0%2C0%2C0) | Interactive color palette synthesizer and color harmony generator. |
 | [Color Palettes](https://colorpalettes.net/) | Curated photography-based color palettes with ready-to-use HEX and RGB codes. |
 | [Color Supply](https://colorsupplyyy.com/palettes) | Interactive color palette generator with a color wheel and visual previews on vector illustrations. |
 | [Color Works](https://colorworks.gumroad.com/l/watercaustics?affiliate_id=497553011) | Gumroad product offering high-quality water caustics textures and visual effects resources. |
@@ -37,17 +37,17 @@
 | [Colorfle](https://colorfle.com/) | Daily color guessing game inspired by Wordle where players identify mixed color compositions. |
 | [colorslurp.com](https://colorslurp.com/) | Color picker and palette manager for Mac and iOS with magnifier, contrast checker, and palette sync. |
 | [Colorsuite](https://colorsuite.app/) | Lightroom Preset Extractor |
-| [Colortime Lab](https://colortime.shop/) | / Creative Market / Craftwork |
-| [Creatopia](https://creatopia.us/) | Blackout FX / Cinecolors |
+| [Colortime Lab](https://colortime.shop/) | Online store offering color palettes, design assets, and creative kits. |
+| [Creatopia](https://creatopia.us/) | Creative studio providing design assets, color tools, and digital resources. |
 | [Design Index](https://www.designindex.xyz/colours) | Curated collection of color palettes, gradients, backgrounds, and design tools for creative projects. |
 | [Digital Color Fidget/](https://petertdonahue.com/color-fidget.html) | Interactive browser-based tool for exploring and playing with digital color combinations. |
 | [Eva Design](https://colors.eva.design/) | Deep learning-powered color palette generator that creates harmonious color systems for UI design. |
 | [Figma](https://www.figma.com/community/shapes-colors/texture) | Figma Community tutorials and editable design resources for user interface and user experience workflows. |
-| [Figma Color meanings](https://www.figma.com/colors/) | - Different colors meaning and palettes |
+| [Figma Color meanings](https://www.figma.com/colors/) | Guide to color meanings, symbolism, and curated color palettes by Figma. |
 | [Found Color](https://foundcolor.co/) | Curated gallery of accidental color schemes extracted from real-world photography and architecture. |
 | [Google Arts Experiments (Find art from palette)](https://artsexperiments.withgoogle.com/artpalette/) | Upload or snap a photo to discover artworks matching your color palette from Google's cultural collections. |
 | [Halftones, Watercolors](https://designdell.com/?s=free&download_category=&submit=Search) | DesignDell offers tutorials and free resources for graphic designers covering halftones and watercolor techniques. |
-| [Image Colorizer](https://huggingface.co/spaces/fffiloni/text-guided-image-colorization) | - Turn old BW picture to color |
+| [Image Colorizer](https://huggingface.co/spaces/fffiloni/text-guided-image-colorization) | AI tool for text-guided colorization of black-and-white images. |
 | [Mindfully curated color palettes](https://access.mymind.com/colors) | Minimalist color palette combinations from mymind with one-click HEX copying. |
 | [Movies in color](https://moviesincolor.com/) | Color Palettes inspired by movie scenes Movies color palettes |
 | [My saved colour palettes](https://ar.pinterest.com/tnorverto/color-palettes/) | Curated Pinterest board featuring visual color palettes and aesthetic moodboards. |
@@ -57,18 +57,18 @@
 | [Palette Generator](https://palettegenerator.com/) | Generates professional color palettes with 8 harmony methods for UI designers and developers. |
 | [PaletteMaker App](https://palettemaker.com/app) | Interactive color palette generator with presets for web, branding, illustration, and poster design. |
 | [Perron](https://www.perrondesign.ca/en/projets) | Iconic, Colourful, biophilic |
-| [Pick a Palette](https://pickapalette.gumroad.com/l/gridlines-scale-rulers) | / Henry Gao For Procreate! |
+| [Pick a Palette](https://pickapalette.gumroad.com/l/gridlines-scale-rulers) | Gridlines and scale ruler brush set for Procreate by Henry Gao. |
 | [Play in Colors](https://victorgarciart.es/) | Interactive color portfolio and creative chromatic inspiration gallery by Victor Garcia. |
 | [Radix Colors](https://www.radix-ui.com/colors) | Accessible color system for UI design with dark mode, APCA contrast, and P3 gamut support. |
 | [Raw Color](https://www.rawcolor.nl/welcome/) | Eindhoven-based design studio working across graphic design, photography, and product design disciplines. |
-| [Relax](https://www.relaxdesign.it/it/sanitari-sys/sys-s/) | 3D w/user Italy - Colors |
+| [Relax](https://www.relaxdesign.it/it/sanitari-sys/sys-s/) | Italian bathroom design collection showcasing product colors and finishes. |
 | [Scheme Color](https://www.schemecolor.com/) | Thousands of color schemes and palettes created by artists with tools for gradient and palette generation. |
-| [Shape and Color](https://www.figma.com/community/shapes-colors?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Pixels / Figma comunity |
+| [Shape and Color](https://www.figma.com/community/shapes-colors?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Figma Community collection of shapes, color palettes, and UI assets. |
 | [Step Inside Colors World](https://colors.dopely.top/inside-colors/) | Dopely's color companion with tools for palette generation, color mixing, accessibility checking, and more. |
 | [Super Color Palette](https://supercolorpalette.com/) | Free color palette generator using hue, saturation, and lightness shifting with up to 24 colors. |
 | [Texture Pack](https://aescripts.com/fs-texture-palette/) | Collection of handmade animated and still textures plus animated shapes for After Effects. |
 | [Tone-based surface color](https://m2.material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=E91E63) | Material Design color tool for creating, customizing, and testing accessible UI color schemes. |
-| [Tonester Paints](https://tonesterpaints.com/collections/paints) | - Paint collection with beautiful unique colors |
+| [Tonester Paints](https://tonesterpaints.com/collections/paints) | Curated paint collection featuring unique colors and home palettes. |
 | [Trad. Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan) | Japanese Color Palettes |
 | [Try Colors](https://trycolors.com/games) | Color mixing games where users learn to match and mix colors through interactive challenges. |
 | [Unblast Palettes](https://unblast.com/color-schemes/) | Mindfully curated color palettes |
