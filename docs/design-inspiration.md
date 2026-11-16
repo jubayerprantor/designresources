@@ -270,6 +270,7 @@
 | [Design Buddy](https://designbuddy.substack.com/) | Product design existential newsletter |
 | [Design Calendar](https://www.designcalendar.io/) | Design events and resources directory |
 | [Design Connected](https://www.designconnected.com/Freebies/) | Free 3D archviz model samples |
+| [Design Details](https://designdetails.io/) | Hand-picked library of real website designs with section captures, measured fonts and colours, and motion recordings. Free to browse. |
 | [Design Directory](https://atharvrem.notion.site/Design-Directory-3af22f58c0a84cfaa6c06d2f4f64f5e3) | Curated design directory on Notion |
 | [Design Everywhere](https://designeverywhere.co/) | Curated design work showcase |
 | [Design Everywhere](https://designeverywhere.co/typeofwork/packaging) | Packaging design work collection |
