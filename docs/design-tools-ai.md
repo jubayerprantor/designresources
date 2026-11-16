@@ -30,16 +30,12 @@
 | [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
 | [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
 | [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) | A free and open-source raster graphics editor that offers many features similar to Adobe Photoshop. It's great for photo retouching, image composition, and graphic design. |
-| [Gravit Designer](https://www.designer.io/en/) | A free vector design application available both online and offline. It offers a range of features for creating vector graphics, illustrations, UI designs, and more. |
 | [Gravit Designer](https://www.designer.io) | Cross-platform vector design app with a free tier, works in-browser and as a desktop app. |
 | [Inkscape](https://inkscape.org/) | An open-source vector graphics editor that's comparable to Adobe Illustrator. It's used for creating logos, illustrations, diagrams, and other vector graphics. |
-| [InVision](https://www.invisionapp.com/) | A digital product design platform that enables teams to create interactive prototypes and collaborate throughout the design process. It's widely used for UI/UX design and prototyping. |
-| [Krita](https://krita.org/en/) | A free and open-source painting program designed for digital artists. It's suitable for creating concept art, illustrations, comics, and textures. |
-| [Krita](https://krita.org) | Free digital painting program designed for concept artists, illustrators, and comic creators. |
+| [Krita](https://krita.org/) | Free and open-source digital painting program designed for concept artists, illustrators, and comic creators. |
 | [Linearity Curve](https://www.linearity.io/curve/) | Professional vector design tool for Mac and iPad with powerful pen tool and auto-trace features. |
 | [Linearity Move](https://www.linearity.io/move/) | Animation software that brings vector designs to life with an intuitive timeline and motion paths. |
 | [MediBang Paint](https://medibangpaint.com) | Free cross-platform comic and illustration tool with cloud storage and 800+ free tones/brushes. |
-| [Mischief](https://www.madewithmischief.com) | Infinite canvas sketching app with resolution-independent strokes — zoom endlessly without pixelation. |
 | [Motiff](https://www.motiff.com) | AI-powered UI design tool with intelligent layout suggestions and design system management. |
 | [Napkin AI](https://www.napkin.ai) | Transform text into visuals instantly — create diagrams, flowcharts, and infographics with AI. |
 | [Paint.NET](https://www.getpaint.net) | Windows image editor balancing simplicity with powerful features like layers and special effects. |
@@ -151,8 +147,6 @@
 | [Darktable](https://www.darktable.org/) | Free & Open source photography workflow application and raw developer |
 | [Google Web Designer](https://webdesigner.withgoogle.com/) | Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor) | Free Photo Editor: For windows only |
-| [InVision Studio](https://www.invisionapp.com/studio) | Free screen designing tool from InVision |
-| [Krita](https://krita.org/en/download/krita-desktop/) | Sketching and painting program designed for digital artists |
 | [Origami Studio](https://origami.design) | Interactive interface design tool created by Facebook: For mac only |
 | [Pencil Project](https://pencil.evolus.vn/) | GUI prototyping software |
 | [Raw Therapee](https://rawtherapee.com/) | Cross-platform raw image processing program |
@@ -192,89 +186,45 @@
 | [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) | AI-powered tool on Hugging Face for generating comic strips from text prompts. |
 | [AI Design Awards](https://www.instagram.com/ai.designawards/) | Instagram account showcasing AI-generated design projects and award-winning creative work. |
 | [AI Index](https://ai-index.eu/) | Curated directory showcasing graphic design projects created with AI. |
-| [AI Motion Capture Tools That Let You Animate Characters Without Suits](https://gachoki.com/ai-powered-motion-capture/) | Blog post reviewing AI-powered markerless motion capture tools for animating characters without suits. |
-| [AI Scripts](https://aiscripts.com/ai-scripts/) | Marketplace for Adobe Illustrator scripts, vectors, and DTP automation resources. |
-| [AIGA Eye on Design](https://eyeondesign.aiga.org/) | AIGA's editorial platform covering graphic design culture, trends, and critical industry perspectives. |
+| [AI Motion Capture](https://gachoki.com/ai-powered-motion-capture/) | Overview of AI-powered markerless motion capture tools for animating characters without suits. |
 | [Alibaba Wan 2.1](https://huggingface.co/spaces/Wan-AI/Wan2.1) | Open-source AI video model by Alibaba on Hugging Face for generating video from images and text. |
 | [Alibaba Z Image Turbo](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) | AI-powered image generation and editing tool from Alibaba's Tongyi lab on Hugging Face. |
 | [Allegro](https://huggingface.co/rhymes-ai/Allegro) | Open-source text-to-video generation model developed by Rhymes AI on Hugging Face. |
-| [Ark Design AI](https://arkdesign.ai/) | AI-powered architectural platform that converts text prompts into BIM models. Not free. |
-| [Assets Scout](https://scout.asseter.ai/) | AI search engine that finds 3D textures and materials from uploaded reference images. |
-| [Bandai Nomca](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) | Motion capture datasets by Bandai Namco Research for AI-based motion editing and style transfer. |
-| [Benjamin El Doghaïli](https://www.benjamin-eldoghaili.com/decors) | Interior architecture and decor portfolio showcasing colorful and eclectic designs by Benjamin El Doghaïli. |
-| [Beriestain](https://beriestain.com/works/torre-glorias/) | Interior architecture and design project for Torre Glòries by Jaime Beriestain Studio. |
-| [Brain Made](https://www.instagram.com/brain.made.0/?hl=en) | Instagram profile showcasing 3D CAD design and creative projects. |
-| [Brick Link](https://www.bricklink.com/v3/studio/main.page) | Create 3D Accurate LEGO Version from reference image |
+| [Ark Design AI](https://arkdesign.ai/) | AI-powered architectural platform that converts text prompts into BIM models. |
 | [Chain-of-Zoom](https://huggingface.co/spaces/alexnasa/Chain-of-Zoom) | AI-powered tool for high-resolution image generation with chain-of-thought zoom enhancement. |
-| [Cine Grain](https://www.cinegrain.com/) | Marketplace for film grain overlays and video editing assets |
-| [Craighill](https://www.instagram.com/craighillcompany/reels/) | Instagram reels exploring industrial design history, product engineering, and manufacturing. |
-| [Dave Clark](https://www.youtube.com/@Afraid2Sleep) | YouTube channel featuring long-form design and creative content |
-| [DaVinci Resolve – Fairlight / Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) | Professional digital audio workstation built into DaVinci Resolve for mixing, mastering, and sound design. |
-| [Demo](https://www.openai.fm/) | Text to speech with customized emotions. Free |
-| [Design Library](https://design-library.jp/mailmagazine/) | Email Marketing |
-| [Design Raid](https://designraid.net/projects/) | Curated showcase of digital products, case studies, and modern UI design projects. |
-| [Design Resource Library](https://shop.beacons.ai/design_by_brady/aa56bd15-37a5-4a13-8e94-f9210765208f?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Fdesign_by_brady&show_back_button=true) | Curated collection of design resources and creative assets by designer Brady. |
-| [Dooq details](https://www.dooqdetails.com/) | Portuguese luxury design studio creating contemporary furniture and architectural accessories. |
+| [Demo](https://www.openai.fm/) | Text to speech with customized emotions. |
 | [DRFT-AI](https://www.drftai.com/) | AI-assisted design and copywriting workspace for marketing assets and social graphics. |
-| [DTP Scripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Collection of Adobe Illustrator scripts including crop mark tools |
-| [Fab](https://www.fab.com/search?tags=terrain) | Digital marketplace offering 3D assets, terrain models, and creative content. |
-| [Fibreguard](https://plugin.fibreguard.com/) | Free 3ds Max plugin providing digital fabric textures and upholstery materials. |
-| [Firefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo) | Generative AI creative suite by Adobe for image generation, text effects, and vector graphics. |
-| [Francis Kere - Relationship between materials and local climate](https://www.archdaily.com/978851/how-does-francis-kere-use-materials-to-respond-to-local-climate-conditions?ad_source=search&ad_medium=projects_tab&ad_source=search&ad_medium=search_result_all) | ArchDaily article exploring how Francis Kere uses materials to respond to local climate conditions. |
+| [Firefly](https://firefly.adobe.com/) | Generative AI creative suite by Adobe for image generation, text effects, and vector graphics. |
+| [Galileo AI](https://www.usegalileo.ai/) | UI generation platform for easy and fast interface ideation from text prompts. |
 | [Google AI Studio](https://aistudio.google.com/prompts/new_chat) | Web-based prototyping environment for prompt engineering and experimenting with Google Gemini models. |
-| [GPT 4o TTS](https://platform.openai.com/docs/models/gpt-4o-mini-tts) | Text to speech with customized emotions. Free Demo |
-| [Harworth](https://www.haworth.com/eu/en/products/chairs.html) | Commercial office seating catalog featuring ergonomic task chairs by Haworth. |
+| [GPT 4o TTS](https://platform.openai.com/docs/models/gpt-4o-mini-tts) | Text-to-speech with customizable emotional delivery by OpenAI. |
 | [Hume](https://app.hume.ai/) | Empathic voice AI platform for conversational interactions with emotional intelligence. |
 | [Immersity](https://app.immersity.ai/upload) | AI tool that converts 2D photos and images into 3D motion videos. |
-| [Komut](https://komut.studio/luminaires/) | French design studio creating 3D-printed contemporary lighting and luminaires. |
+| [ImgGen.Ai](https://imggen.ai/) | Free AI-powered image generator and enhancement tool. |
 | [Krea](https://www.krea.ai/apps/image/enhancer) | AI-powered image enhancement and upscaling tool with real-time generative capabilities. |
-| [Live Portrait](https://huggingface.co/spaces/KwaiVGI/LivePortrait) | Face swap video |
-| [Lovart](https://www.lovart.ai/) | AI design agent for creating professional visuals |
+| [Leonardo.Ai](https://leonardo.ai/) | AI-powered creative production platform for generating assets and artwork from reference images. |
+| [Live Portrait](https://huggingface.co/spaces/KwaiVGI/LivePortrait) | Portrait animation and face reenactment video synthesis tool on Hugging Face. |
+| [Lovart](https://www.lovart.ai/) | AI design agent for creating professional visuals and layouts. |
 | [MAGI-1](https://huggingface.co/sand-ai/MAGI-1) | Open-source autoregressive AI model for generating high-quality videos from images and text prompts. |
-| [Malloy](https://malloy.sg/ai-motion-designer) | AI Animation creator |
-| [MaterialX Library](https://matlib.gpuopen.com/main/materials/all) | Library of physically based 3D materials for rendering, maintained by AMD GPUOpen with a searchable catalog. |
+| [Malloy](https://malloy.sg/ai-motion-designer) | AI-assisted animation and motion graphics creation platform. |
 | [Midjourney](https://www.midjourney.com/explore) | Community exploration showcase featuring high-resolution artwork generated with Midjourney. |
-| [Midjourney Styles and references guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference?tab=readme-ov-file) | Comprehensive reference of styles, keywords, and parameters for crafting Midjourney AI image prompts. |
+| [Midjourney Styles Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) | Comprehensive reference of styles, keywords, and parameters for crafting Midjourney AI image prompts. |
 | [Motion Elements](https://ai.motionelements.com/) | Suite of AI-powered video editing and media enhancement tools by MotionElements. |
 | [NeuTTS-Air](https://huggingface.co/spaces/neuphonic/neutts-air) | Free AI text-to-speech demo by Neuphonic for generating realistic voice audio from text. |
-| [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | Industrial design project showcasing 100 concept sketch variations of a lounge chair. |
-| [One-Click Screenshot to Figma Conversion with AI / Codia](https://codia.ai/screenshot-to-figma) | AI tool that reconstructs screenshots and UI mockups into fully editable, auto-layout Figma designs. |
-| [Onlook](https://github.com/onlook-dev/onlook) | Open-source tool for visually building and editing code with AI. |
+| [One-Click Screenshot to Figma](https://codia.ai/screenshot-to-figma) | AI tool that reconstructs screenshots and UI mockups into fully editable, auto-layout Figma designs. |
+| [Onlook](https://github.com/onlook-dev/onlook) | Open-source tool for visually building and editing React code with AI. |
 | [Open Design](https://github.com/nexu-io/open-design) | Open-source local-first workspace for making prototypes and websites with AI. |
 | [OpenPencil](https://github.com/ZSeven-W/openpencil) | Open-source vector tool that turns prompts into UI on a canvas. |
-| [Paint Coach](https://www.youtube.com/@paintcoach) | YouTube channel with digital art tutorials and painting instruction |
-| [Parts Design](https://partsdesign.net/mainvisual) | Web design gallery showcasing hero sections and main visual inspiration from Japanese websites. |
-| [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | AI research project for reconstructing high-resolution 3D human models from a single 2D photograph. |
-| [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) | Chrome extension for analyzing user behavior and optimizing site UX with heatmaps and scroll tracking. |
-| [Render AI](https://www.rendair.ai/) | AI rendering tool that transforms sketches into realistic architectural visualizations. Not free. |
-| [Retail Design Blog](https://retaildesignblog.net/category/spaces/office-healthcare/) | Curated architectural lighting installations, commercial fixtures, and store design showcases. |
-| [Retail Design Blog](https://retaildesignblog.net/category/products/lighting/) | Curated architectural lighting installations, commercial fixtures, and store design showcases. |
-| [Saaif Design](https://www.instagram.com/saifsdesign) | Instagram portfolio of graphic design, branding, and visual art projects. |
-| [Saint Ricchi](https://saintricchi.com/?tfc_sort%5B509861070%5D=created:desc&tfc_storepartuid%5B509861070%5D=Gradient+Maps&tfc_div=:::#shop) | Digital marketplace offering gradient maps and graphic design assets. Not free. |
-| [SHS Page](https://shspage.com/aijs/en) | Collection of JavaScript scripts and automation tools for Adobe Illustrator. |
-| [Sick Again](https://sickagain.gumroad.com/) | Design assets marketplace on Gumroad offering fonts and graphics |
-| [Sketch Daily](https://www.sketchdaily.net/) | Daily sketch practice website with timed figure drawing sessions |
-| [Smith and Diction](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%26D-%2F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=252%2C88%2C0.02&scaling=contain) | Branding guide strategy |
-| [Snail Eyes](https://snaileye.de/open-calls/books-submission-24/) | Graphic Design |
+| [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) | Chrome extension for analyzing user behavior and optimizing site UX with heatmaps. |
+| [PolyGlyph](https://polyglyph.io/) | AI-powered SVG generation and editing tool with in-browser vector manipulation. |
+| [Render AI](https://www.rendair.ai/) | AI rendering tool that transforms sketches into realistic architectural visualizations. |
 | [State of AI in Design](https://www.stateofaidesign.com/) | Annual research report on how AI tools are transforming design workflows, craft, and team structures. |
-| [StdGEN](https://stdgen.github.io/) | AI framework for generating 3D characters and avatars from single reference images. |
-| [Streaming Brain Studios](https://screamingbrainstudios.com/downloads/) | Archival old games textures |
-| [Suapp](https://www.sketchupbar.com/air) | AI-powered rendering tool for SketchUp that generates design visualizations and architectural concepts. |
-| [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) | Curated collection of UX and product design tools, books, articles, and plugins by Adham Dannaway. |
 | [Tost](https://tost.ai/) | Directory of free generative AI tools for images, videos, and 3D assets. |
-| [Vaigue Man](https://www.youtube.com/@VaigueMan) | YouTube channel with long-form design and creative content |
-| [Vector Magic](https://vectormagic.com/?atk=vcb2u5mfvf&gad_campaignid=22622370203&gbraid=0AAAAA_1iWaHfnPeY_iQJa-tJNklEgBMvU) | Online and desktop tool for converting JPG, PNG, and BMP bitmap images to SVG, EPS, and PDF vectors. |
-| [Vectorizer AI](https://vectorizer.ai/) | Not free, but you can take a screenshot of the preview |
+| [Unblurimage.Ai](https://unblurimage.ai/) | Online AI utility for unblurring and sharpening photos with no sign-up required. |
+| [Vector Magic](https://vectormagic.com/) | Online and desktop tool for converting JPG, PNG, and BMP bitmap images into SVG and EPS vectors. |
 | [vectorwizard.ai](https://www.vectorwizard.ai/) | AI tool that generates clean, animated SVG code from text prompts, sketches, or images. |
-| [Wakamai Fondue](https://wakamaifondue.com/) | Upload a font and Get info, language support |
+| [VMind](https://visactor.io/vmind) | Intelligent visualization suite that creates charts and dashboards using machine learning and LLMs. |
 | [Wan2.2 Animate](https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate) | AI video animation tool on Hugging Face that replaces characters and people in videos. |
-| [아고 라이팅 (Ago)](https://agolighting.com/#/main) | South Korean design studio creating contemporary architectural lighting and fixtures. |
-| [Galileo AI](https://www.usegalileo.ai/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
-| [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
-| [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
-| [PolyGlyph](https://polyglyph.io/) | AI-powered SVG generation and editing tool. Type a prompt to generate a vector graphic, then edit it in a browser-based vector editor. Free credits on signup. |
-| [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
-| [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 
 ## Image Compression
 

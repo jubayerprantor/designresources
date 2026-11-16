@@ -17,10 +17,10 @@
 | [LEDS C4 Architectural Lighting](https://ledsc4.us/en/3-products) | LED lighting manufacturer |
 | [Polina Artamonova 3D Models](https://zeelproject.com/it/brands/polinaartamonova/models/) | Polina Artamonova Russia |
 | [Zeel Project 3D Models](https://zeelproject.com/26932-wall-hung-toilet-callipyge.html) | 3D bathroom model download |
-| [/storyboard \| sakugabooru](https://www.sakugabooru.com/post?tags=storyboard) | Storyboard animation frame database |
+| [/storyboard - sakugabooru](https://www.sakugabooru.com/post?tags=storyboard) | Storyboard animation frame database |
 | [0010x0010](https://www.instagram.com/0010x0010/) | Animation and motion design works on Instagram. |
 | [1 Day 1 Architect](https://www.instagram.com/1day1architect/) | Daily architecture inspiration on Instagram |
-| [10+ Background Shadow Textures \| GOBO Shadows](https://shapeshyftbartek.gumroad.com/l/Shadow) | Shadow and gobo texture pack |
+| [10+ Background Shadow Textures - GOBO Shadows](https://shapeshyftbartek.gumroad.com/l/Shadow) | Shadow and gobo texture pack |
 | [1000+ Textures](https://www.figma.com/community/file/1370508545199042511) | Figma texture resource library |
 | [101 Copenhagen](https://imagebank.101cph.com/folder/1513805#token=bHshD089BP&type=direct) | Danish furniture image bank |
 | [2.4gb texture pack](https://www.patreon.com/posts/free-40k-pack-92583321) | 20 paper texture Photoshop files |
@@ -70,7 +70,7 @@
 | [Alias](https://alias.design/it/sedie-sgabelli-design/sedie-da-ufficio-design) | Design office chair collection |
 | [Alien Valley](https://alienvalley.com/freebies/) | Free design mockups and resources |
 | [All Sketchup](https://allsketchup.com/) | SketchUp 3D models and architectural design assets. |
-| [alpen-werk.de](https://www.alpen-werk.de/it?srsltid=AfmBOoqEBNjQlKguM6iP65kcvZGG2l37PyzmDZeCsah4uUtudBmbPn4Q) | Custom 3D topographic relief wood carving and map design studio. |
+| [alpen-werk.de](https://www.alpen-werk.de/) | Custom 3D topographic relief wood carving and map design studio. |
 | [Anagram Design](https://anagramdesign.graphics/free-text-effects/) | Free text effects collection |
 | [Analog Hour](https://analoghour.gumroad.com/) | Creative studio Gumroad store |
 | [Analogical Lab](https://www.analogicalab.store/shop) | Store offering motion design assets and digital creative resources. |
@@ -82,7 +82,7 @@
 | [Animation Methods](https://animationmethods.com/tools.html) | Maya animation tools and scripts |
 | [Animation Methods](https://animationmethods.com/rigs.html) | Character rig resource page |
 | [Animation Rigging](https://app.anything.world/animation-rigging) | 3D animation rigging tool |
-| [Animation \| It's Nice That](https://www.itsnicethat.com/animation) | Animation articles and inspiration |
+| [Animation - It's Nice That](https://www.itsnicethat.com/animation) | Animation articles and inspiration |
 | [Animator Mentor](https://www.animationmentor.com/free-maya-rig/) | Free Maya rig download from Animation Mentor |
 | [Animus Pax](https://www.instagram.com/animuspax) | Animation of static Photos , 0010x0010 , Talia Blank |
 | [Annud](https://annud.es/en/collections/) | Design collections showcase |
@@ -124,7 +124,7 @@
 | [Art Station](https://www.artstation.com/marketplace/game-dev/resources?q=Skies+Pack&section=free) | Free sky pack resources |
 | [Art Station](https://www.artstation.com/search?sort_by=relevance&query=breakdown) | Breakdown gallery showing how 3D models were created. |
 | [Art with Antonio](https://www.youtube.com/@ArtWithAntonio) | YouTube channel with art tutorials |
-| [Art \| The Design Files](https://thedesignfiles.net/section/art) | Australian art news and features |
+| [Art - The Design Files](https://thedesignfiles.net/section/art) | Australian art news and features |
 | [Artemide](https://www.artemide.com/it/) | Italian lighting design brand |
 | [Artera](https://artera.pl/en/products) | Modern lighting products store |
 | [Artifort](https://www.artifort.com/Collection) | Iconic Dutch furniture brand known for classic armchairs and tables. |
@@ -482,7 +482,7 @@
 | [Gradient Map](https://gradientmap.app/) | Figma plugin for gradient maps |
 | [Gradientor](https://gradientor.afterimage.cc/) | Figma plugin for gradient maps |
 | [Grado](https://www.gradodesign.com/category/categories/) | Online gradient image creator tool |
-| [Grads V2 \| Charco Design](https://www.charco.design/grads-v2) | Gradient collection by Charco Design. |
+| [Grads V2 - Charco Design](https://www.charco.design/grads-v2) | Gradient collection by Charco Design. |
 | [Grape Design](https://grapedesign.dk/en/products/acoustic-products) | Danish acoustic wall panels and sound-absorbing office furniture. |
 | [Graphic Design Keywords](https://medium.muz.li/50-rad-graphic-design-keywords-on-pinterest-savee-it-and-are-na-1d939be91e12) | 50+ graphic design keyword inspirations |
 | [Graphics Library](https://graphics-library.net/) | Free vector graphics, 3D elements, and digital design resources library. |
@@ -503,7 +503,6 @@
 | [Harvard Graduate School of Design](https://www.gsd.harvard.edu/) | Official website and academic showcase of Harvard GSD. |
 | [Hatria](https://www.hatria.com/elenco-prodotti/) | Nice Colored toilets |
 | [Hay](https://www.hay.com/) | Contemporary furniture and home accessories |
-| [HEAT \| Animation made epic.](https://heat.tech/) | Animation platform (now shut down) |
 | [Heatherwick Studio](https://heatherwick.com/projects/buildings/) | Thomas Heatherwick's architecture studio portfolio featuring innovative buildings and biophilic urban design. |
 | [Hello Lux](https://helloluxx.com/essential-materials-for-cinema-4d/) | Cinema 4D materials, shaders and motion design training |
 | [helpx.adobe.com](https://helpx.adobe.com/illustrator/using/automation-scripts.html) | 1. Tutorial to install AI Scripts Tutorial |
@@ -526,9 +525,9 @@
 | [Human Scan Repository](https://humanscanrepository.com/) | High-quality 3D human scans for creatives and researchers |
 | [Humane by Design](https://humanebydesign.com/principles/) | Principles for humane digital design |
 | [Humanities Illustration Library](https://levinunnink.gumroad.com/l/humanities-illustrations) | Hand-drawn illustration library depicting humanities and daily life. |
-| [Humanscale](https://it.humanscale.com/?srsltid=AfmBOooZlhdiS10puAwMHS1CWqioW5t66-jxx1evNU9h3Zrm-7r5g2zL) | Curated illustration asset library |
-| [Hunyuan World Generator](https://huggingface.co/tencent/HunyuanWorld-Voyager) | Ergonomic office furniture Italy |
-| [Ibebi](https://en.ibebi.com/?_gl=1*qw8x9u*_up*MQ..*_ga*NTA0NzUyMDIxLjE3MzgzMjE3MjQ.*_ga_KDWYGPP07H*MTczODMyMTcyMy4xLjAuMTczODMyMTcyMy4wLjAuODQ2NjIxNzY2) | Italian flexible and modular educational furniture collection. |
+| [Humanscale](https://www.humanscale.com/) | Ergonomic workplace products, seating, and design files. |
+| [Hunyuan World Generator](https://huggingface.co/tencent/HunyuanWorld-Voyager) | Tencent Hunyuan 3D world generator on Hugging Face. |
+| [Ibebi](https://en.ibebi.com/) | Italian flexible and modular educational furniture collection. |
 | [IBM Design Language](https://www.ibm.com/design/language/illustration/overview/#illustration-styles) | IBM illustration style guidelines |
 | [IcoMoon](https://icomoon.io/) | Custom icon font generator and free vector icon library. |
 | [Identity Designed](https://identitydesigned.com/) | SVG icon editor and font tool |
@@ -650,7 +649,6 @@
 | [Made by hand](https://madebyhand.dk/collections/all) | Paper Lamps (Denmark) |
 | [Made in Design](https://www.madeindesign.it/) | Designer furniture and decor marketplace |
 | [Magic Animator](https://magicanimator.com/) | Figma plugin that uses AI to generate interface animations. |
-| [Magic Animator \| Figma](https://www.figma.com/community/plugin/magic-animator) | AI-powered design animation |
 | [Magic Map Material & Maker (M⁴)](https://www.fab.com/listings/12c3745b-f70b-473c-b8c4-1a3f93674494) | Unreal Engine material creation and texture baking tool on Fab. |
 | [magier.com](https://www.magier.com/blog/30-best-figma-plugins-for-designers) | Blog listing top Figma plugins for designers |
 | [Make Boards](https://makeboards.app/) | Collaborative digital moodboard and visual ideation tool. |
@@ -694,7 +692,7 @@
 | [Mesh2Motion](https://mesh2motion.org/) | Create mesh gradients |
 | [Met Design Studio](https://www.instagram.com/metdesignstudio) | 3D auto-rigging animation tool |
 | [Meta Design Blog](https://design.facebook.com/blog/) | Design studio Instagram |
-| [Meta Horizon Hyperspace](https://www.meta.com/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/?srsltid=AfmBOooYgyqh_AQvtWuc7tPgsUqSMo1LwDI28ppv-34I71t01xIc3jJx) | Virtual reality app capturing and creating 3D environments on Meta Quest. |
+| [Meta Horizon Hyperspace](https://www.meta.com/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/) | Virtual reality app capturing and creating 3D environments on Meta Quest. |
 | [Metademo Lab](https://sketch.metademolab.com/canvas) | AI-powered tool bringing children's drawings and sketches to life with animation. |
 | [Mews Design System](https://www.mews.design/latest/welcome-eumfLxWD) | Mews product design system |
 | [Mgear](https://miquelcampos.gumroad.com/l/mgear) | Gumroad store selling rigging tools for animators |
@@ -783,7 +781,7 @@
 | [Oculis Project](https://www.oculisproject.com/) | Bold, Contrasting, texture focused, Aesop |
 | [Ohrd Design](https://www.instagram.com/ohrdesignofficial) | 3D architectural rendering and digital interior visualization on Instagram. |
 | [OIJ](https://www.oneinfinitejourney.net/shop) | Online shop for motion design and animation resources |
-| [Ollie \| graphic design](https://www.instagram.com/ollies_doodles/?hl=en) | Industrial design Instagram |
+| [Ollie - graphic design](https://www.instagram.com/ollies_doodles/?hl=en) | Industrial design Instagram |
 | [Ondarreta](https://www.ondarreta.com/en/products) | Graphic design doodles |
 | [Online 3D Model Converter](https://www.greentoken.de/onlineconv/) | Spanish designer furniture |
 | [Onno Quist](https://www.instagram.com/onno_quist/reels/) | Vintage analog abstract animations |
@@ -964,14 +962,14 @@
 | [Sprout Creator Edition](https://faunarobotics.com/product) | Humanoid robotics platform |
 | [Stack Sorted.](https://stacksorted.com/buttons) | Curated web design directory showcasing interactive button and UI element designs. |
 | [Ste Marie](https://www.stemariestudio.com/work) | Spatial design studio crafting hospitality and interior environments. |
-| [Steps Materials](https://www.stepsmaterial.com/?srsltid=AfmBOooTt8UBrCGmrodGHDdiZyxcwl3SJ2jUtc6FG3PFh4Ikvu0RvSqj) | Catalog of architectural surface finishes and stone materials. |
+| [Steps Materials](https://www.stepsmaterial.com/) | Catalog of architectural surface finishes and stone materials. |
 | [Stilnovo](https://www.stilnovo.com/collection/) | Historic Italian lighting brand producing iconic mid-century and modern luminaires. |
 | [Stories](https://www.foraspace.com/community/stories) | Interesting editorials on office space design |
 | [Stral](https://www.stral.it/en/categories/bollards) | Stainless steel bollards |
 | [Studio 2am](https://studio2am.co/collections/vectors) | Premium vector illustration bundles and design assets for creatives |
 | [Studio 2AM](https://studio2am.co/collections/effects) | Marketplace for design effects, mockups, and creative assets |
 | [Studio Bosko](https://bosko.studio/projects) | Interior architecture and design studio known for colorful, eclectic spaces. |
-| [Studio Gram](https://studio-gram.com.au/projects/) | Fkn australians are the best designers |
+| [Studio Gram](https://studio-gram.com.au/projects/) | Australian architecture and interior design studio with bold hospitality projects. |
 | [Studio Modijevsky](https://www.studiomodijefsky.nl/) | Eclectic, iconic details |
 | [Studio Noju](https://studionoju.com/projects/sobre-torres-blancas/) | Retro, clean play of geometries and textures |
 | [Studio OPA](https://opastd.com/gallery/?cat=restaurants) | Playful, colorful,industrial |
@@ -1034,7 +1032,7 @@
 | [Trending Design](https://trending.design/) | Curated design product store |
 | [Trends](https://www.figma.com/board/gsBr8U6VMg03AZlTWS2kev/SCAN-CLUB---What--Digital--Audiences-Want-in-2026?node-id=27-1920) | Trend Reports - What Digital audiences want in 2026 |
 | [Trone](https://trone.paris/it#) | Modern bathroom design brand |
-| [True Depth](https://superhivemarket.com/products/truedepth?ref=88) | Turn Photo to 3D Depthmap |
+| [True Depth](https://superhivemarket.com/products/truedepth) | Turn Photo to 3D Depthmap |
 | [True Design](https://www.truedesign.it/it/famiglie/) | Italian furniture family collections |
 | [Truebones Motions](https://truebones.gumroad.com/) | 3D motion capture and animation BVH file collections on Gumroad. |
 | [Tucci](https://www.tuuci.com/products/) | Luxury shade architecture, modern parasols, and outdoor cabanas from Miami. |
@@ -1292,4 +1290,13 @@
 | [WebDevTrick](https://webdevtrick.com/) | A famous blog for many amazing HTML, CSS, JQuery designs. |
 | [williamsharkey](https://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
 | [{CSS}Portal](https://www.cssportal.com/) | CSSPortal is home to a large range of CSS generators, tools and resources. |
+| [AIGA Eye on Design](https://eyeondesign.aiga.org/) | AIGA editorial platform covering graphic design culture, trends, and critical industry perspectives. |
+| [Benjamin El Doghaïli](https://www.benjamin-eldoghaili.com/decors) | Interior architecture and decor portfolio showcasing colorful and eclectic designs. |
+| [Beriestain](https://beriestain.com/works/torre-glorias/) | Interior architecture and design project for Torre Glòries by Jaime Beriestain Studio. |
+| [Design Library](https://design-library.jp/mailmagazine/) | Curated email newsletter and showcase of Japanese digital and graphic design. |
+| [Design Raid](https://designraid.net/projects/) | Curated showcase of digital products, case studies, and modern UI design projects. |
+| [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | Industrial design project showcasing 100 concept sketch variations of a lounge chair. |
+| [Parts Design](https://partsdesign.net/mainvisual) | Web design gallery showcasing hero sections and main visual inspiration from Japanese websites. |
+| [Retail Design Blog](https://retaildesignblog.net/) | Curated architectural lighting installations, commercial fixtures, and store design showcases. |
+| [Smith and Diction](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%26D-%2F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=252%2C88%2C0.02&scaling=contain) | Interactive branding guide strategy case study in Figma. |
 

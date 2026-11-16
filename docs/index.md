@@ -71,25 +71,21 @@ features:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 24px;">
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 20px;">
-  <div style="font-size: 2rem; margin-bottom: 8px;"></div>
   <strong>Graphic Designers</strong>
   <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin-top: 8px;">Brushes, fonts, color palettes, stock photos, vectors, mockups, and inspiration.</p>
 </div>
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 20px;">
-  <div style="font-size: 2rem; margin-bottom: 8px;"></div>
   <strong>UI/UX Designers</strong>
   <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin-top: 8px;">Figma resources, design systems, icons, prototyping tools, and UI inspiration.</p>
 </div>
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 20px;">
-  <div style="font-size: 2rem; margin-bottom: 8px;"></div>
   <strong>Frontend Developers</strong>
   <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin-top: 8px;">CSS frameworks, React/Vue/Angular UI kits, animations, and design systems.</p>
 </div>
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 20px;">
-  <div style="font-size: 2rem; margin-bottom: 8px;"></div>
   <strong>Content Creators</strong>
   <p style="font-size: 0.875rem; color: var(--vp-c-text-2); margin-top: 8px;">Stock footage, royalty-free music, video tools, and social media templates.</p>
 </div>

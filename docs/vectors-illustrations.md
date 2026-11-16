@@ -73,7 +73,6 @@
 | [illustration kit](https://illustrationkit.com/) | Premium open source illustrations added daily |
 | [Illustrations](https://illustrations.co) | Large set of open-source illustrations. You can use completely free and without attribution. |
 | [Illustroke](https://illustroke.com) | AI tool that generates SVG vector illustrations from text prompts — preview for free, download requires payment. |
-| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/) | Library of free, high-quality UI kits, icon packs, and mockups |
 | [IRA Design](https://iradesign.io/) | Open-source gradient illustration collection by Creative Tim. |
 | [Kittl](https://www.kittl.com) | AI-enhanced design platform for creating logos, illustrations, and print-ready designs with pro templates. |
 | [Lukas Zadam](https://lukaszadam.com/illustrations) | Independent artist with free illustrations and resources to use. |
@@ -165,7 +164,6 @@
 | [1 Envira](https://enviragallery.com/guide-to-gradient-maps-in-photoshop/) | Tutorial on creating gradient maps in Photoshop. |
 | [3 Gradients / 3 Shapes – Bolderaja](https://bolderaja1.com/products/gradient-color-grainy-textures-2/) | Premium gradient color grainy texture packs for design projects |
 | [AI Textured](https://aitextured.com/textures/) | Free AI seamless patterns |
-| [CGI Backgrounds](https://www.cgibackgrounds.com/search?term=&page=1&type=visual-hdri-search) | Image search HDRI - Not Free |
 | [Milsks](https://miksks.com/collections/textures) | Texture and overlay shop with premium background resources |
 | [Motion Elements](https://www.motionelements.com/search/image?s=texture&sort=match) | Stock marketplace for texture and background graphics |
 | [Neat](https://neat.firecms.co/) | Free open-source animated 3D gradient generator for website backgrounds (WebGL) |

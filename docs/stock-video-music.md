@@ -106,4 +106,6 @@
 | [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) | Free music and sound effects for YouTube videos. |
 | [YouTube Creator Music](https://www.youtube.com/creators/music) | A vast library of free and paid music tracks and sound effects for YouTube videos. |
 | [YouTube Studio Audio Library](https://www.youtube.com/audiolibrary) | Royalty-free audio library for downloadable music and sound effects. Cleared for YouTube monetization. |
+| [Cine Grain](https://www.cinegrain.com/) | Film grain overlays and cinematic video editing assets. |
+| [DaVinci Resolve - Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) | Professional digital audio workstation built into DaVinci Resolve for mixing, mastering, and sound design. |
 

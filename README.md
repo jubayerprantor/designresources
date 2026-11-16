@@ -6,7 +6,7 @@
 
 [![Deploy VitePress site to Pages](https://github.com/GiveBack2People/designresources/actions/workflows/deploy.yml/badge.svg)](https://github.com/GiveBack2People/designresources/actions/workflows/deploy.yml)
 [![Live Site](https://img.shields.io/badge/Live_Site-GitHub_Pages-22c55e?style=flat-square&logo=github)](https://giveback2people.github.io/designresources/)
-[![Contact Email](https://img.shields.io/badge/Contact-contact%40designresources.eu.cc-FF5722?style=flat-square&logo=gmail)](mailto:contact@designresources.eu.cc)
+[![GitHub Issues](https://img.shields.io/github/issues/GiveBack2People/designresources?style=flat-square&color=FF5722)](https://github.com/GiveBack2People/designresources/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Explore a curated collection of **4,000+ hand-picked design tools, assets, references, and frameworks** for graphic designers, UI/UX designers, developers, and creatives.

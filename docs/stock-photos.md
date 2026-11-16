@@ -39,10 +39,6 @@
 | [cubebrush.co](https://cubebrush.co/marketplace?categories=2D%20assets:stock%20photos&resource=2D%20assets) | Marketplace for 2D stock photos, textures, and reference images for digital art and design. |
 | [Death to Stock](https://www.deathtothestockphoto.com/) | Premium membership for trend-focused stock photos and video with monthly fresh content |
 | [Doodlewash](https://doodlewash.com/free-reference-photos-for-artists/) | Doodlewash collection of free reference photos for artists |
-| [Etsy](https://www.etsy.com/in-en/search?q=brush+photoshop&ref=search_bar) | Etsy search results for Photoshop brushes |
-| [Fix the photo](https://fixthephoto.com/free-photoshop-overlays) | Collection of over 470 free Photoshop overlays for creative photo effects and editing. |
-| [Fix the Photos](https://fixthephoto.com/free-photoshop-brushes) | Collection of free Photoshop brushes including watercolor, grunge, smoke and fire effects |
-| [Free Photoshop Brush Pack](https://nicolaibecker.supply/b/free-photoshop-brushes) | Free set of 10 Photoshop brushes for creating realistic grass and meadow masks in post-production. |
 | [Free Stock Textures](https://freestocktextures.com/) | Library of free high-resolution textures across categories like wood, metal, grunge, and stone. |
 | [github.com](https://github.com/mikeroyal/Photogrammetry-Guide) | GitHub repository with photogrammetry guide and resources |
 | [github.com](https://github.com/quilime/photogrammetry) | GitHub repository with photogrammetry tools and resources |

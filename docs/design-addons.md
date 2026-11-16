@@ -27,7 +27,7 @@
 | [50 best free brush](https://speckyboy.com/free-photoshop-brushes/) | Article curating 50-plus free high-resolution Photoshop brush sets including watercolor, grunge, smoke, and ink styles. |
 | [50 sets](https://designdrizzle.com/50-free-sets-of-photoshop-brushes/) | Collection of 50 free Photoshop brush sets categorized by type including grunge, watercolor, splatter, and nature themes. |
 | [6000 brushes](https://apps.apple.com/us/app/brushes-for-procreate/id6444915222) | iOS app offering over 6,000 free Procreate brushes, palettes, and background images with in-app purchases. |
-| [71 of the best free Photoshop brushes \| Creative Bloq](https://www.creativebloq.com/photoshop/free-photoshop-brushes-11121140) | Curated list of 71 free Photoshop brushes covering painting, watercolor, ink, charcoal, landscape, and special effects. |
+| [71 of the Best Free Photoshop Brushes - Creative Bloq](https://www.creativebloq.com/photoshop/free-photoshop-brushes-11121140) | Curated list of 71 free Photoshop brushes covering painting, watercolor, ink, charcoal, landscape, and special effects. |
 | [A free repository of 100K textures generated from 1,270 scientific simulations​](https://www.reddit.com/r/blender/comments/1p6r5k6/scitextures_a_free_repository_of_100k_textures/) | Reddit post announcing a free repository of 100,000 textures generated from 1,270 scientific simulations. |
 | [Ace Brush](https://www.dan.art/acebrushes) | Gumroad page for Ace Brush sets, a commercial brush collection available for purchase from various marketplaces. |
 | [Acubens Design](https://acubensdesign.gumroad.com/l/scribbletextures) | Gumroad page offering free scribble texture packs for graphic design and digital art projects. |
@@ -90,12 +90,10 @@
 | [Doron Supply](https://www.doronsupply.com/shop/filter-textures) | Curated asset marketplace offering design resources including textures, mockups, and effects. |
 | [Download Textures](https://downloadtextures.com/?page=1) | Seamless tileable images for texture mapping and 3D rendering projects. |
 | [Dream Texture](https://github.com/carson-katri/dream-textures) | Open-source AI texture generation plugin for Blender that runs locally. |
-| [Drive](https://telegra.ph/Textures-Collection-07-02) | Telegraph page collecting Google Drive links to Arroway texture sets organized by material type. |
 | [ebtrr.gumroad.com](https://ebtrr.gumroad.com/l/simple-procedural-textures-02) | Gumroad page offering a set of simple procedural textures for 3D artists and designers. |
 | [Era](https://cubebrush.co/era7?q=hdri) | Era7's Cube Brush store offering free and premium HDRI space textures, skyboxes and sci-fi assets. |
-| [Etsy](https://www.etsy.com/in-en/search?q=brush+Clip+Studio+Paint&ref=search_bar) | Etsy search results for Clip Studio Paint brushes from various independent creators and sellers. |
 | [Every Texture](https://everytexture.com/) | Free high-quality texture downloads categorized by material type including metal, fabric, paper and rock. |
-| [Everything You Need to Know About Affinity Designer Brushes \|-](https://design.tutsplus.com/articles/everything-you-need-to-know-about-affinity-designer-brushes--cms-35217) | Envato Tuts+ tutorial covering everything about Affinity Designer brush types, creation and usage. |
+| [Everything You Need to Know About Affinity Designer Brushes - Envato Tuts+](https://design.tutsplus.com/articles/everything-you-need-to-know-about-affinity-designer-brushes--cms-35217) | Envato Tuts+ tutorial covering everything about Affinity Designer brush types, creation and usage. |
 | [Extreme Textures](https://extremetextures.com/collection/concrete) | Extreme Textures collection of high-resolution concrete surface textures for 3D rendering and design. |
 | [Fab](https://www.fab.com/search?q=zbrush) | Fab marketplace search for ZBrush assets including sculpts, brushes and 3D models. |
 | [Fab](https://www.fab.com/sellers/Quixel%20Megascans?listing_types=brush&is_free=1) | Free brush listings from Quixel Megascans on Fab including grunge, blood and paint spatter effects. |
@@ -175,7 +173,7 @@
 | [Studio 2AM](https://studio2am.co/collections/procreate-brushes) | Marketplace for premium Procreate brushes from various partner artists. |
 | [Subpixel Textures](https://dgruwier.gumroad.com/l/dgruwier-subpixel-textures) | RGB Pixel Screen texture |
 | [Supply Family](https://supply.family/product-category/more/procreate-brushes/) | Online store selling Procreate brushes, design assets and creative resources. |
-| [SVG Textures \| VISIWIG](https://www.visiwig.com/textures/) | Website offering free SVG textures and vector design resources. |
+| [SVG Textures - VISIWIG](https://www.visiwig.com/textures/) | Website offering free SVG textures and vector design resources. |
 | [Textile Textures](https://www.blauwfilms.com/products/textile-textures) | Offers free PBR textile texture maps captured from real fabrics, designed for 3D garment design workflows. |
 | [Texture Box](https://www.texturebox.com/free) | Provides free and premium seamless PBR textures, materials, and 3D assets for 3D artists. |
 | [Texture Brush Packs](https://forum.affinity.serif.com/index.php?/topic/45019-texture-brush-packs-hatching-version-3/) | Forum thread offering free hatching texture brush packs for Affinity Designer and Photo. |
@@ -229,4 +227,11 @@
 | [DeviantArt](https://www.deviantart.com/) | A vast community of artists where you can find many free Photoshop brush packs. Be sure to check the license and credit the artists accordingly. |
 | [Fbrushes](https://www.fbrushes.com/) | Features a collection of free brushes for Photoshop. The site categorizes brushes by type, making it easy to find what you need. |
 | [MyPhotoshopBrushes](https://myphotoshopbrushes.com/) | A site offering a variety of free Photoshop brushes, patterns, and textures shared by the design community. |
+| [AI Scripts](https://aiscripts.com/ai-scripts/) | Marketplace for Adobe Illustrator scripts, vectors, and DTP automation resources. |
+| [DTP Scripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Collection of Adobe Illustrator scripts including crop mark tools. |
+| [SHS Page](https://shspage.com/aijs/en) | Collection of JavaScript scripts and automation tools for Adobe Illustrator. |
+| [Streaming Brain Studios](https://screamingbrainstudios.com/downloads/) | Retro game textures and pixel art sprite assets. |
+| [Fix the photo](https://fixthephoto.com/free-photoshop-overlays) | Collection of over 470 free Photoshop overlays for creative photo effects and editing. |
+| [Fix the Photos](https://fixthephoto.com/free-photoshop-brushes) | Collection of free Photoshop brushes including watercolor, grunge, smoke and fire effects. |
+| [Free Photoshop Brush Pack](https://nicolaibecker.supply/b/free-photoshop-brushes) | Free set of 10 Photoshop brushes for creating realistic grass and meadow masks in post-production. |
 

@@ -17,7 +17,6 @@
 | [A Non-Designer's Guide to Pairing Fonts](https://visme.co/blog/pairing-fonts/) | Learn font pairing basics with practical tips on contrast, mood, and classification. |
 | [Adobe](https://fonts.adobe.com/fonts?browse_mode=ko&cc=true&languages=ko) | Browse Adobe Fonts with a Korean language filter. |
 | [Adobe Font Search](https://fonts.adobe.com/fonts/vs/upload) | Upload an image to visually search and identify fonts from the Adobe Fonts library. |
-| [Adobe Fonts](https://fonts.adobe.com/?mv=other&promoid=8WLD51V2&ref=tk.com) | Access thousands of high-quality fonts included with a Creative Cloud subscription. |
 | [Alif Type](https://aliftype.com) | Type foundry that publishes downloadable open font files. |
 | [All Best Fonts](https://allbestfonts.com/) | Curated collection of high-quality free fonts for creative professionals. |
 | [All Free Fonts](https://www.allfreefonts.co/) | Browse over 15,000 free downloadable fonts sorted by style and category. |
@@ -174,10 +173,7 @@
 | [Wonder Font](https://wonderfont.ru/) | Russian Cyrillic font archive and typeface downloads. |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |
 | [Wumanzoo](https://wumanzoo.com/chinese-calligraphy-font-2/) | Chinese calligraphy font collection with free downloads. |
-| [x 1](https://x.com/wkwdesigner) | Twitter account curating Japanese font resources. |
-| [x 2](https://x.com/colisscom) | Twitter account sharing Japanese font and typography links. |
 | [X Cicero](https://xcicero.esad-gv.net/) | 20 fonts made by french design students |
-| [x.com](https://x.com/FONT_FREE/status/1014371692842385408) | Twitter post linking free Japanese font resources. |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/fonts) | Font resource category for graphic design and typography. |
 | [ZCool](https://www.zcool.com.cn/search/content?word=%E5%85%8D%E8%B4%B9%E5%AD%97%E4%BD%93) | Chinese design community search for free fonts and typography work. |
 | [Zitijia](https://www.zitijia.com/) | Chinese font portal with free and commercial typeface offerings. |
@@ -223,6 +219,7 @@
 | [Google Fonts](https://fonts.google.com/) | Library of open-source fonts for use in your websites, apps, and documents. |
 | [Google Web Fonts Typographic Project](https://femmebot.github.io/google-type/) | A showcase of Google Fonts and their typographic features in use. |
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | A Hassle-Free Way to Self-Host Google Fonts |
+| [Wakamai Fondue](https://wakamaifondue.com/) | Upload a font file to inspect glyph tables, layout features, and language support. |
 | [Just Free Fonts](https://justfreefonts.com/) | A hand-curated collection of freeware, open-source, and public domain fonts intended for commercial use |
 | [Leon Sans](https://github.com/cmiscm/leonsans/) | A geometric sans-serif typeface made with code |
 | [Lexend](https://www.lexend.com/) | A variable font empirically shown to significantly improve reading-proficiency |

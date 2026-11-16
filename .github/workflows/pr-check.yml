@@ -2,7 +2,7 @@ name: PR Validation & Build Check
 
 on:
   pull_request:
-    branches: [main, master, improvements]
+    branches: [main, master]
 
 concurrency:
   group: pr-${{ github.ref }}

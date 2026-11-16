@@ -1,61 +1,61 @@
-# Contributing to Awesome Graphic Design Resources
+# Contributing to Design Resources Hub
 
-Thank you for considering contributing to this repository! Here are some guidelines to help you get started:
+Thank you for your interest in contributing! This is a community-driven design resource collection under **GiveBack2People** — all additions go through a pull request review to ensure quality.
 
-## How to Contribute
+---
 
-1. **Fork the Repository**: Click the "Fork" button at the top of this page to create a copy of this repository on your GitHub account.
-2. **Clone the Forked Repository**: Clone your fork to your local machine using `git clone https://github.com/GiveBack2People/designresources.git`.
-3. **Create a New Branch**: Create a new branch for your changes using `git checkout -b your-branch-name`.
-4. **Make Your Changes**: Add your resource links or make other improvements in the appropriate file inside the [docs](https://github.com/GiveBack2People/designresources/tree/main/docs) directory (e.g., `docs/typography.md` for fonts, `docs/stock-photos.md` for photography, `docs/stock-video-music.md` for audio/video).
-5. **Commit Your Changes**: Commit your changes with a meaningful message using `git commit -m "Add [description of your changes]"`.
-6. **Push to Your Fork**: Push your changes to your forked repository using `git push origin your-branch-name`.
-7. **Create a Pull Request**: Open a pull request in the original repository with a description of your changes.
+## Steps to Contribute
+
+1. **Fork the Repository**  
+   Click the **Fork** button on [GitHub](https://github.com/GiveBack2People/designresources) to create your own copy.
+
+2. **Clone Your Fork**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/designresources.git
+   cd designresources
+   ```
+
+3. **Create a New Branch**
+   ```bash
+   git checkout -b add-my-resource
+   ```
+
+4. **Add Your Resource**  
+   Find the appropriate category file in `docs/` (e.g., `docs/typography.md`, `docs/stock-photos.md`, `docs/code-frameworks.md`, `docs/top-hubs.md`, `docs/marketplaces.md`) and add your resource to the relevant table:
+   ```markdown
+   | [Resource Name](https://example.com) | Brief, accurate description of the resource. |
+   ```
+
+5. **Verify Locally**
+   ```bash
+   npm install
+   npm run docs:build
+   ```
+
+6. **Commit & Push**
+   ```bash
+   git add docs/
+   git commit -m "Add: Resource Name to Category"
+   git push origin add-my-resource
+   ```
+
+7. **Open a Pull Request**  
+   Go to the original repository and open a Pull Request describing what you've added.
+
+---
 
 ## Guidelines
 
-- Ensure that the resources you add are high-quality and relevant to graphic designers, developers, and creatives.
-- Please make sure that the websites mostly provide royalty-free resources, have a meaningful free tier, or are open source. Paid-only tools will be declined.
-- Place the new links in the appropriate section of the documentation, sorted alphabetically.
-- The title of the resource should match the title of the website.
-- Include a brief description of the resource, highlighting its key features and benefits.
-- Verify that the URL is correct and links directly to the resource.
-- Ensure the resource is not already listed before adding it.
-- You can create a list if you think is necessary. Make sure to add it to the table of contents as well.
-- You can suggest any necessary edit to the existing categories/links/descriptions & so on.
+- **Free or meaningful free tier** — paid-only resources belong strictly in `docs/marketplaces.md` (only recognized, top-tier subscription platforms)
+- **Working HTTPS links only** — verify the site is live before submitting
+- **Accurate, objective descriptions** — no marketing hype or tracking parameters
+- **No duplicates or raw search queries** — link to the main tool/platform rather than fragmented search URLs
+- **No piracy, warez, or Telegram channels** — only legitimate, sanctioned resources
 
-## Follow the following template to contribute
+---
 
-## Design Inspiration
+## Questions or Broken Links?
 
-| Link                                           | Description                                   |
-| ---------------------------------------------- | --------------------------------------------- |
-| [Dribbble](https://dribbble.com/)              | Showcases creative work from designers around the world. |
-| [Behance](https://www.behance.net/)            | Platform for showcasing and discovering creative work. |
-| [Awwwards](https://www.awwwards.com/)          | Recognizes the talent and effort of the best web designers, developers, and agencies in the world. |
+Feel free to [open an issue on GitHub](https://github.com/GiveBack2People/designresources/issues) and we will help you out.
 
-## Raw
-
-```markdown
-## Design Inspiration
-
-| Link                                           | Description                                   |
-| ---------------------------------------------- | --------------------------------------------- |
-| [Dribbble](https://dribbble.com/)              | Showcases creative work from designers around the world. |
-| [Behance](https://www.behance.net/)            | Platform for showcasing and discovering creative work. |
-| [Awwwards](https://www.awwwards.com/)          | Recognizes the talent and effort of the best web designers, developers, and agencies in the world. |
-```
-
-
-## What to Contribute
-
-- New resource links that are relevant and useful for graphic designers, developers & others.
-- Corrections to existing links.
-- Suggestions for new categories.
-- Addition to the existing category.
-
-## Need help?
-- Feel free to open an issue in the repository. We're here to help you contribute.
-
-Thank you for your contributions!
 

@@ -241,10 +241,8 @@
 | [Flowbite](https://flowbite.com) | Open-source library of Tailwind CSS components |
 | [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) | Free and open-source admin dashboard template built with Tailwind CSS and Flowbite featuring 15 examples pages, charts, widgets, and dark mode. |
 | [Froala Design Blocks](https://froala.com/design-blocks) | Over 170 responsive design blocks ready to be used in your web or mobile apps |
-| [Headless UI](https://headlessui.dev/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [Headless UI](https://headlessui.com) | Completely unstyled, accessible UI components from Tailwind Labs for React and Vue. |
 | [HyperUI](https://www.hyperui.dev/) | Free open source Tailwind CSS components for marketing and ecommerce websites, as well as application UI. |
-| [InVision Freehand](https://www.invisionapp.com/freehand) | Collaborative UI design tool with a collection of free UI kits and templates. |
 | [Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
 | [Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
 | [Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |

@@ -77,7 +77,7 @@
 | [My Crate](https://my.crate.as/?tag=Icon) | Curated marketplace for design assets including vector icons, fonts, and graphics |
 | [Obra Icons](https://icons.obra.studio/) | Clean, consistent UI icon set with 1047 MIT-licensed icons |
 | [Octicons](https://primer.style/octicons/) | GitHub's handcrafted, scalable icon set by Primer design system |
-| [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file /openbridge-icon-pack) | Free icon pack available on Figma Community. |
+| [OpenBridge Icon Pack - Figma](https://www.figma.com/community/file/1090382877028308801/openbridge-icon-pack) | Free icon pack available on Figma Community. |
 | [OpenMoji](https://openmoji.org/) | Open source emoji library with 4495 consistent, handcrafted emojis |
 | [Pikaicons](https://pikaicons.com) | SVG icon library with 221 icons free and a larger paid set. |
 | [Pixelarticons](https://pixelarticons.com/) | 4,052 pixel art icons in 4 styles, hand-crafted on a 24x24 pixel grid. |

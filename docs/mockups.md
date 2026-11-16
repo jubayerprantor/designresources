@@ -16,7 +16,6 @@
 | [Bendito Mockup](https://benditomockup.com/category/freebies) | Iconic free mockups for bold brand presentations |
 | [Best mockups curation](https://mockups.digital/creators) | Curated directory of top mockup creators and designers |
 | [Blender Mockup Scenes](https://www.blenderkit.com/?query=category_subtree:mockup%20%20mockup) | 3D mockup scenes and assets for Blender |
-| [Camp Keyframe](https://campkeyframe.gumroad.com/l/animatedtexturepack) | Animated Paper Textures - Not Free |
 | [Canva](https://www.canva.com/mockups) | Browser-based mockup generator with drag-and-drop editing |
 | [Content Core](https://contentcore.xyz/) | AI-powered content creation platform with mockup export |
 | [Creative Market](https://creativemarket.com/mockups) | Marketplace for professional mockup templates, PSDs, and design assets |
@@ -41,7 +40,6 @@
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
 | [Hazard Mockups](https://www.hazardmockups.com/freebies) | Free urban signage and poster mockups |
 | [Hazard Mockups](https://www.hazardmockups.com/category/video-mockups) | Video mockups and motion design templates |
-| [House of Mockups](https://houseofmockups.com/collections/freebies?srsltid=AfmBOorioT5Pv4wsr6TE1uIl0rDMLqvcyxny0THUnLKVR_ckOTIosn-T) | Free beauty, packaging, and branding mockups |
 | [House of Mockups](https://houseofmockups.com/collections/freebies) | Free design mockups and creative resources |
 | [Hyper Pix](https://hyperpix.net/mockups/) | Free PSD mockups for apparel and logo presentations |
 | [IMockups](https://imockups.com/mockups) | Directory of free and premium mockup templates |
@@ -49,7 +47,6 @@
 | [Iphone Mockups](https://iphone-mockups.com/) | Free online iPhone mockup generator tool |
 | [Liquid Mockups](https://liquidmockups.com/) | Authentic high-quality mockups for design work |
 | [Liquid Mockups](https://liquidmockups.com/shop/video) | Video mockups and motion design asset packs |
-| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_campaignid=22553582104) | AI design agent for creating professional visuals |
 | [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Vintage paper |
 | [Minimal Mockups](https://www.minimalmockups.com/mockups/) | Minimalist device and product mockup templates |
 | [Mock Magic](https://www.mockmagic.com/) | Mockup tool with a free plan for unlimited static mockups. |
@@ -110,7 +107,6 @@
 | [Video Hive](https://videohive.net/category/after-effects-project-files?term=mockup) | After Effects mockup and video asset marketplace |
 | [Framery](https://framery.com/en/) | 3D Phone Booths Finland |
 | [Hannah Luen](https://hannahluen.com/collections/big-canvas-without-frame) | High-resolution wall art and large canvas mockups for interior presentation. |
-| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_campaignid=22553582104) | Follows concept, branding |
 | [Animockup](https://github.com/alyssaxuu/animockup) | Create animated mockups in the browser . |
 | [AppLaunchpad](https://theapplaunchpad.com) | Generate beautiful mockups for your app or website. |
 | [Artboard Studio](https://artboard.studio) | A mockup and design tool for branding projects. |

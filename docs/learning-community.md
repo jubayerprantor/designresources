@@ -75,10 +75,10 @@
 | [Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) | Subreddit for identifying fonts and finding webfont alternatives. |
 | [Reddit](https://www.reddit.com/r/gamedev/wiki/index/) | Game development wiki with tools, tutorials, and learning resources. |
 | [Reddit](https://www.reddit.com/r/photoshop/comments/jquvm2/what_are_the_differences_between_photobashing_and/) | Discussion comparing photobashing and concept art techniques in Photoshop. |
-| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/?share_id=hQ17UlhjhocOJJYwhyRaM&utm_name=androidcss) | Reddit post showcasing an interactive 3D solar system project built with Three.js. |
+| [Reddit post](https://www.reddit.com/r/vibecoding/comments/1mrszr2/i_built_a_fully_interactive_3d_solar_system_using/) | Reddit post showcasing an interactive 3D solar system project built with Three.js. |
 | [reddit.com](https://www.reddit.com/r/ClaudeAI/) | Reddit community discussing Anthropic Claude AI usage, plugins, and news. |
 | [reddit.com](https://www.reddit.com/r/Ishchat/) | Reddit forum for Ishchat users and AI chat interface discussion. |
-| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/?share_id=v22mrqmZRv9oOHLoVuCah&utm_name=androidcss) | Photoshop thread on creating imperfect edges and organic texture effects. |
+| [reddit.com](https://www.reddit.com/r/photoshop/comments/1ooh4xg/creating_imperfect_edges_like_this_in_photoshop/) | Photoshop thread on creating imperfect edges and organic texture effects. |
 | [skillsmp.com](https://skillsmp.com/) | SkillsMP learning platform with developer and design lesson content. |
 | [Substance Community Assets](https://substance3d.adobe.com/community-assets) | Adobe Substance 3D community asset library for materials, textures, and HDRI resources. |
 | [Webfont](https://www.webfont.com/) | Browser-based font preview platform for testing webfonts and typography. |
@@ -233,5 +233,9 @@
 | [Printing Projects](https://all3dp.com/projects/3d-printing-projects/) | Project-based tutorials for 3D printing design, modeling, and fabrication. |
 | [rubenstomdesign.com](https://rubenstomdesign.com/blogs/news/mastering-indesign-templates-everything-you-need-to-know-to-start-designing) | Blog post with practical guidance for mastering InDesign templates. |
 | [storyblocks.com](https://www.storyblocks.com/resources/tutorials/create-video-mockup-designs) | Tutorial for creating video mockups using Storyblocks footage and templates. |
-| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | Interactive UX/UI tutorials covering design fundamentals, typography, and workflow. |
+| [UX/UI design tutorials - Uxcel](https://app.uxcel.com/tutorials) | Interactive UX/UI tutorials covering design fundamentals, typography, and workflow. |
 | [youtube.com](https://www.youtube.com/results?search_query=Blueprint+Effect+in+Adobe+Photoshop) | YouTube search for Photoshop blueprint effect tutorials and design workflow videos. |
+| [Dave Clark](https://www.youtube.com/@Afraid2Sleep) | YouTube channel featuring long-form design and creative discussions. |
+| [Paint Coach](https://www.youtube.com/@paintcoach) | YouTube channel with digital art tutorials and painting instruction. |
+| [Sketch Daily](https://www.sketchdaily.net/) | Daily sketch practice website with timed figure drawing sessions. |
+| [Vaigue Man](https://www.youtube.com/@VaigueMan) | YouTube channel with long-form creative and design essays. |

@@ -32,7 +32,7 @@ export default defineConfig({
       { text: 'Top Hubs', link: '/top-hubs' },
       { text: 'Marketplaces', link: '/marketplaces' },
       { text: 'Contribute', link: '/contributing' },
-      { text: 'Contact', link: 'mailto:contact@designresources.eu.cc' }
+      { text: 'Feedback', link: 'https://github.com/GiveBack2People/designresources/issues' }
     ],
     search: {
       provider: 'local'

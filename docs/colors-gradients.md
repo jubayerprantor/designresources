@@ -31,7 +31,6 @@
 | [Color Palette Pro](https://colorpalette.pro/?color=oklch%2842%25+0.32+186%29&paletteType=tri&paletteStyle=square&colorFormat=oklch&effects=0%2C0%2C0%2C0) | Interactive color palette synthesizer and color harmony generator. |
 | [Color Palettes](https://colorpalettes.net/) | Curated photography-based color palettes with ready-to-use HEX and RGB codes. |
 | [Color Supply](https://colorsupplyyy.com/palettes) | Interactive color palette generator with a color wheel and visual previews on vector illustrations. |
-| [Color Works](https://colorworks.gumroad.com/l/watercaustics?affiliate_id=497553011) | Gumroad product offering high-quality water caustics textures and visual effects resources. |
 | [color-blend](https://meyerweb.com/eric/tools/color-blend) | intermediate colors between 2 or 3 colors |
 | [Color.review](https://color.review/) | Color contrast checking tool that evaluates foreground and background pairs against WCAG accessibility standards. |
 | [Colorfle](https://colorfle.com/) | Daily color guessing game inspired by Wordle where players identify mixed color compositions. |

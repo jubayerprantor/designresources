@@ -212,7 +212,7 @@
 | [Collect Asset](https://www.scriptspot.com/3ds-max/scripts/collect-asset) | Script for 3ds Max that gathers all project textures and asset files into a single directory. |
 | [convert3d.org](https://convert3d.org/) | Download and convert it to a file type that works for your program here |
 | [Copy To](https://www.scriptspot.com/3ds-max/scripts/copyto) | Script for 3ds Max that enables copying objects between open application instances. |
-| [Cults 3D](https://cults3d.com/en?srsltid=AfmBOopCQjZdIG9FbVn4ydFCa13bH9OnuUl_ThDIB0Kqsh0Zrb7srTtk) | Marketplace for 3D printable models, STL files, and digital designs for makers and creators. |
+| [Cults 3D](https://cults3d.com/en) | Marketplace for 3D printable models, STL files, and digital designs for makers and creators. |
 | [D5 Render Assets Store](https://d5renderassetsstore.gumroad.com/) | Gumroad store offering 3D assets, models, and materials for D5 Render real-time visualization. |
 | [D5 Render complete Material Library.](https://designrender.gumroad.com/l/sclojz) | Comprehensive PBR material library preset pack for D5 Render. |
 | [D5 Renders](https://forum.d5render.com/c/content-hub/scene-express/42) | D5 Render forum section where users share free scene files, assets, and content. |
@@ -322,7 +322,7 @@
 | [Render Crate](https://rendercrate.com/3d/environments) | Library of 3D environments, models, and materials for visual effects and motion graphics projects. |
 | [Render Hub](https://www.renderhub.com/unity-assets) | Render Hub marketplace search for Unity assets - Not Free |
 | [Render Man](https://github.com/prman-pixar/RenderManForBlender) | Official Pixar RenderMan addon for Blender enabling RenderMan rendering within Blender. |
-| [Render People](https://renderpeople.com/?srsltid=AfmBOor6kOrp6T2iEeHi9-SqqzjUJLxrmHlqj8fnYmHI33gCKm3cTNAX) | Library of over 7,500 photorealistic scanned 3D people models for architectural visualization. |
+| [Render People](https://renderpeople.com/) | Library of over 7,500 photorealistic scanned 3D people models for architectural visualization. |
 | [Render State](https://render-state.to/) | Digital art platform providing 3D assets and character models for Daz Studio. |
 | [Render Weekly](https://www.renderweekly.com/archive) | Weekly industrial design rendering challenges and archive of creative submissions. |
 | [Renderhub](https://www.renderhub.com/3d-models/people) | Marketplace for 3D character and people models in various formats. |
@@ -537,3 +537,14 @@
 | [VFX Hut](https://subs.vfxhut.com/) | 3D asset store featuring surfaces, VDB volumes, photoscans, 3D models, and tools for VFX artists. |
 | [Videohive Collection](https://freevideoeffect.com/?s=collection+-videohive) | Free collection of Videohive templates, MOGRTs, and motion graphics assets. |
 | [visualVFX](https://visualvfx.com/) | Website offering VFX and video editing resources |
+| [Assets Scout](https://scout.asseter.ai/) | AI search engine that finds 3D textures and materials from uploaded reference images. |
+| [Bandai Namco Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) | Motion capture datasets by Bandai Namco Research for motion editing and animation. |
+| [Brick Link Studio](https://www.bricklink.com/v3/studio/main.page) | Create 3D accurate LEGO models from reference designs. |
+| [Dooq details](https://www.dooqdetails.com/) | Portuguese luxury design studio creating contemporary furniture and architectural accessories. |
+| [Fibreguard](https://plugin.fibreguard.com/) | Free 3ds Max plugin providing digital fabric textures and upholstery materials. |
+| [Komut](https://komut.studio/luminaires/) | French design studio creating 3D-printed contemporary lighting and luminaires. |
+| [MaterialX Library](https://matlib.gpuopen.com/main/materials/all) | Library of physically based 3D materials for rendering, maintained by AMD GPUOpen. |
+| [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | AI research project for reconstructing high-resolution 3D human models from a single 2D photograph. |
+| [StdGEN](https://stdgen.github.io/) | AI framework for generating 3D characters and avatars from single reference images. |
+| [Suapp](https://www.sketchupbar.com/air) | AI-powered rendering tool for SketchUp that generates design visualizations and architectural concepts. |
+| [Ago Lighting](https://agolighting.com/#/main) | South Korean design studio creating contemporary architectural lighting and fixtures. |
