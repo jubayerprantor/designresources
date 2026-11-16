@@ -56,7 +56,6 @@
 | [Palette Generator](https://palettegenerator.com/) | Generates professional color palettes with 8 harmony methods for UI designers and developers. |
 | [PaletteMaker App](https://palettemaker.com/app) | Interactive color palette generator with presets for web, branding, illustration, and poster design. |
 | [Perron](https://www.perrondesign.ca/en/projets) | Iconic, Colourful, biophilic |
-| [Pick a Palette](https://pickapalette.gumroad.com/l/gridlines-scale-rulers) | Gridlines and scale ruler brush set for Procreate by Henry Gao. |
 | [Play in Colors](https://victorgarciart.es/) | Interactive color portfolio and creative chromatic inspiration gallery by Victor Garcia. |
 | [Radix Colors](https://www.radix-ui.com/colors) | Accessible color system for UI design with dark mode, APCA contrast, and P3 gamut support. |
 | [Raw Color](https://www.rawcolor.nl/welcome/) | Eindhoven-based design studio working across graphic design, photography, and product design disciplines. |

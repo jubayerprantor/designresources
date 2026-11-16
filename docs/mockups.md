@@ -26,8 +26,6 @@
 | [Designers University](https://www.designers.university/) | Curated platform featuring high-impact visual design mockups, aesthetic wallpaper packs, and retro bitmap assets. |
 | [Device Mockup](https://devicemockup.com/) | Premium device mockups at zero cost with weekly updates |
 | [Dezi](https://dezi.gallery/mockup-resource) | Design inspiration hub with curated mockup resources |
-| [Duet Mockup](https://duetmockup.gumroad.com/) | Gumroad product page for premium mockup templates |
-| [Elite Mockups](https://saarteaga.gumroad.com/) | Premium mockup template collection on Gumroad |
 | [Format Mockups](https://www.formatmockups.com/mockups-new) | Mockup template library with graphic design resources |
 | [FrameDesign](https://framedesign.letsconstruct.nl/) | Design frame and mockup showcase website |
 | [Framenet](https://www.framenet.ai/) | AI motion graphics mockup generator for animated design previews |
@@ -76,7 +74,6 @@
 | [Mockuperia](https://mockuperia.com/en/loja/) | Mockup store for design resources |
 | [Mockupful](https://mockupful.com/) | Mockup resource platform for designers |
 | [Mockupia](https://mockupia.com/mockups/free/) | Free device and branding mockups for commercial use |
-| [Mockupise](https://mockupise.gumroad.com/) | Gumroad mockup pack with premium textures and stencil assets |
 | [Mockupline](https://mockupline.com/) | Premium high-end mockup collections for professionals |
 | [MockupNest](https://mockupnest.com/) | Free PSD mockups with online editor available |
 | [Mockups Digital](https://mockups.digital/) | Expertly curated directory of high-quality mockups |

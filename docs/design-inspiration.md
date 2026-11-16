@@ -20,7 +20,6 @@
 | [/storyboard - sakugabooru](https://www.sakugabooru.com/post?tags=storyboard) | Storyboard animation frame database |
 | [0010x0010](https://www.instagram.com/0010x0010/) | Animation and motion design works on Instagram. |
 | [1 Day 1 Architect](https://www.instagram.com/1day1architect/) | Daily architecture inspiration on Instagram |
-| [10+ Background Shadow Textures - GOBO Shadows](https://shapeshyftbartek.gumroad.com/l/Shadow) | Shadow and gobo texture pack |
 | [1000+ Textures](https://www.figma.com/community/file/1370508545199042511) | Figma texture resource library |
 | [101 Copenhagen](https://imagebank.101cph.com/folder/1513805#token=bHshD089BP&type=direct) | Danish furniture image bank |
 | [2.4gb texture pack](https://www.patreon.com/posts/free-40k-pack-92583321) | 20 paper texture Photoshop files |
@@ -28,23 +27,16 @@
 | [3Asky](https://3asky.net/sketchup/) | SketchUp 3D models and architectural assets repository. |
 | [3D Models of Korean artifacts](https://digital.khs.go.kr/heritage/catalog.do?order=4&index=1) | Korean cultural heritage 3D digital archive |
 | [3D Scans](https://threedscans.com/) | Free 3D scan archive |
-| [3DMax SME SearchBar](https://vizbox.gumroad.com/l/searchbar) | 3ds Max search bar tool |
 | [3Drop](https://three-drop.com/?lang=en&w=e) | 3D model search engine |
 | [3ds Max OSL shaders - Open Source OSL Shader](https://github.com/p-groarke/fea_osl) | Open-source 3ds Max OSL shaders |
-| [40 Sci Fi Decals](https://antoinecollignon.gumroad.com/l/SciFiDecals) | Sci-fi decal texture pack on Gumroad |
 | [404s](https://www.404s.design/) | Curated 404 page design gallery |
 | [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/) | Dynamic 3D scene rendering research |
-| [4Kotoki](https://4kotoki.gumroad.com/l/fwhuq) | 25 grunge textures |
-| [6 Animated Gobos Textures](https://hkapro.gumroad.com/l/nyeme) | Animated gobo textures pack |
-| [60 Caustics Textures Pack for Bottles](https://medbenstudio.gumroad.com/l/60bottlecaustics) | Bottle caustics texture pack |
 | [60FPS Design](https://60fps.design/) | UI/UX animation inspiration gallery |
 | [7 Best Retopology](https://themotiontree.com/retopology-software/) | Guide to retopology software and Blender addons. |
 | [79 Short Essays on Design](https://books.google.ca/books?id=RhP60u5mcMkC&pg=PA14&lpg=PA14&dq=Michael+Bierut+why+designers+can%27t+think&source=bl&ots=SCP9cB6an1&sig=WhEMfrQzoWSNcDB9PKuwNLJpKZ8&hl=en&sa=X&ei=K7UmT-fKDpOKsALI3YiNAg&redir_esc=y#v=onepage&q=Michael%20Bierut%20why%20designers%20can't%20think&f=false) | Design essays book on Google Books |
 | [82net](https://www.82.net/inspiration/designProjects) | 3D model and texture marketplace for designers |
 | [A-N-D Light](https://a-n-d.com/) | Decorative lighting design studio |
 | [A-nrd](https://www.a-nrd.com/) | Heavy, Materic, Textures |
-| [abowen3d](https://transcirca.gumroad.com/) | 3D artist Gumroad marketplace |
-| [Abstract Texture Pack](https://ianbrann.gumroad.com/l/DPEwD?layout=profile) | Abstract texture pack download |
 | [Abstracta](https://abstracta.se/products/) | Acoustic product manufacturer |
 | [Acerbis](https://www.acerbisdesign.com/it/prodotti/) | Italian furniture collection |
 | [Actiu](https://www.actiu.com/en/) | Office furniture manufacturer |
@@ -59,7 +51,6 @@
 | [Adobe Sound Effects](https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html) | Royalty-free sound effects library |
 | [Adrenalina](https://adrenalina.it/en/families/) | Italian furniture brand |
 | [AE River](https://aeriver.com/add-ons/after-effects-scripts/) | After Effects scripts and motion graphic add-ons. |
-| [AesthDesign](https://aesthesign.gumroad.com/) | Gumroad store selling design assets |
 | [Aeux](https://google.github.io/AEUX/) | Figma to After Effects |
 | [Affinity](https://www.affinity.studio/) | Canva creative suite and professional graphic design platform. |
 | [Agama materials](https://agama.itch.io/agama-materials) | PBR material creation software |
@@ -72,11 +63,9 @@
 | [All Sketchup](https://allsketchup.com/) | SketchUp 3D models and architectural design assets. |
 | [alpen-werk.de](https://www.alpen-werk.de/) | Custom 3D topographic relief wood carving and map design studio. |
 | [Anagram Design](https://anagramdesign.graphics/free-text-effects/) | Free text effects collection |
-| [Analog Hour](https://analoghour.gumroad.com/) | Creative studio Gumroad store |
 | [Analogical Lab](https://www.analogicalab.store/shop) | Store offering motion design assets and digital creative resources. |
 | [Anastasias Molyak](https://www.behance.net/anastasiasmolyak) | Graphic designer portfolio |
 | [Andreu World](https://andreuworld.com/en/) | Designer furniture manufacturer |
-| [Andrian Luchian](https://andrian-luchian.gumroad.com/) | Gumroad store selling 3D assets |
 | [Animation Buffet](https://animationbuffet.blogspot.com/) | Maya animation rig reviews |
 | [Animation Mentor](https://www.animationmentor.com/) | Online animation school |
 | [Animation Methods](https://animationmethods.com/tools.html) | Maya animation tools and scripts |
@@ -94,7 +83,6 @@
 | [Appshots design](https://appshots.design/) | App design screenshot gallery |
 | [Arabic Design Archive](https://arabicdesignarchive.com/collection) | Arab graphic design archive |
 | [Archisonic](https://impactacoustic.com/en) | Swiss sustainable acoustic felt products and architectural sound dampening. |
-| [Architect Shader](https://kennyphases.gumroad.com/l/draftlines) | Addons for Blender |
 | [Architectural Design Archive by DPA](https://archive.dpa-etsam.com/) | Architecture student project archive |
 | [Architonic - Materials](https://www.architonic.com/en/products/materials/0/3210514/1) | Architectural materials catalog |
 | [Archmag X](https://www.archmag.net/) | Archviz resources including SketchUp models and textures |
@@ -107,11 +95,9 @@
 | [Ariake Collection](https://www.ariakecollection.com/products/) | Japanese-inspired furniture collection |
 | [Arkiste](https://arkiste.com/) | Platform for architects and designers to share creative work. |
 | [Arkos Light](https://www.arkoslight.com/en/products/) | Architectural lighting product catalog |
-| [arnold render - goboLight TexturePack 01](https://yutrick.gumroad.com/l/XzvO) | Arnold render gobo texture pack |
 | [Aromas del Campo](https://www.aromasdelcampo.com/) | Decorative and architectural lighting |
 | [Arper](https://www.arper.com/) | Designer furniture brand |
 | [Arper](https://www.arper.com/it_IT/prodotti/pannelli-e-contenitori.html) | Design panels and storage |
-| [ArquiUchis](https://arquiuchis.gumroad.com/) | Material calculation templates for architecture on Gumroad (Not Free). |
 | [Art of the Menu](https://www.underconsideration.com/artofthemenu/) | Showcasing creative menu designs from around the world |
 | [Art station](https://www.artstation.com/marketplace/game-dev/resources/dev-tools/plugins?section=trending&softwares=maya) | Maya plugin marketplace on ArtStation |
 | [Art Station](https://www.artstation.com/marketplace/p/3yAy/free-surface-imperfections-pack) | Free surface imperfections pack (ArtStation) |
@@ -180,9 +166,7 @@
 | [Blasco&Vila](https://blascovila.com/) | High-end design furniture |
 | [Blender Addons](https://addons.cgdive.com/) | Curated Blender addon directory |
 | [Blender Interplanetary System](https://bis.interplanety.org/) | Blender material library addon |
-| [Blender<->3DSMax Connector](https://titus.gumroad.com/l/B2MAX) | Blender to 3DS Max and RizomUV workflow connector tool |
 | [BLK Market](https://blkmarket.com/product-category/gradients/-) | Gradient packs and creative graphic design assets (Not Free). |
-| [Blueprint Procedural Shader](https://kennyphases.gumroad.com/l/jqepk) | Addons for Blender |
 | [BOA Ref](https://www.boxofapps.com/boaref) | Tool allowing designers to paste images directly onto a 3D canvas. |
 | [Bolon](https://www.bolon.com/en) | Woven vinyl flooring designer |
 | [Booth](https://booth.pm/en/search/clip%20studio) | Clip Studio asset marketplace on Booth |
@@ -220,7 +204,6 @@
 | [cinematerial.com](https://www.cinematerial.com/posters?y=1940-1970&c=1&pc=us&f=us) | Vintage movie poster database |
 | [Circdal](https://www.circdal.com/) | 3D-printed modular space dividers designed in the USA. |
 | [cj.cawley.design](https://www.instagram.com/cj.cawley.design/reels/) | Design reels on Instagram |
-| [Clay Doh](https://doublegum.gumroad.com/l/ClayDoh) | Procedural clay shader and texture material pack for Blender. |
 | [Clay Slicer](https://readymag.website/u3556992767/GcodeTools/clayslicer/) | Web-based tool for slicing and generating 3D vase forms (Not Free). |
 | [Clever Poly](https://www.youtube.com/@cleverpoly) | YouTube channel featuring Blender 3D tutorials and animations. |
 | [Cloud Converter](https://cloudconvert.com/woff-to-otf) | You can use Font interceptor to download any used font in a website. It will download it in WOFF, and then you use to convert to OTF |
@@ -233,7 +216,6 @@
 | [Corona Materials](https://www.corona-materials.de/en/material-library/-) | Corona render material library |
 | [Craftwork](https://craftwork.design/authors) | Marketplace for design assets and templates |
 | [Crate & Barrel](https://www.crateandbarrel.com/) | Furniture and home decor store |
-| [Creatiflux](https://creatiflux.gumroad.com/) | Gumroad store for 3D design assets |
 | [Creative Codex](https://www.creativecodex.co/) | Definitions and terminology reference guide for motion designers. |
 | [Creneau Int](https://www.creneau.com/work) | Belgian multidisciplinary interior design and branding agency. |
 | [Cristina Celentino](https://cristinacelestino.com/interiors/all) | Modern, colorful, textures |
@@ -243,12 +225,8 @@
 | [Dale Italia](https://www.daleitalia.com/en) | Italian design furniture brand |
 | [Dark Design](https://www.dark.design/) | Showcase of dark-themed website and interface designs. |
 | [Dark Mode Design](https://www.darkmodedesign.com/) | Curated gallery of dark mode websites and digital interfaces. |
-| [Darstellungsart](https://darstellungsart.gumroad.com/) | Gumroad store for 3D assets |
-| [Datasmith Layer Exporter v1.05 (3DS Max)](https://simplychenable.gumroad.com/l/QPdCt?layout=profile) | 3DS Max Datasmith layer exporter |
 | [David Finch](https://www.youtube.com/@DavidFinchartist) | YouTube channel with figure drawing tutorials |
-| [David Gruwier](https://dgruwier.gumroad.com/l/LJehG?wanted=true) | Texture Resolution checker |
 | [Daz Studio](https://sharecg.com/b/21/DAZStudio) | 3D digital art assets and models for Daz Studio. |
-| [DCNSTRD](https://dcnstrctd.gumroad.com/) | Gumroad store for deconstructed design assets |
 | [Decor Hardcore](https://www.instagram.com/decorhardcore/) | Interior decor Instagram inspiration |
 | [Dedar](https://it.dedar.com/products/) | some Tileable texture |
 | [Dedon](https://www.dedon.de/en/collection-overview) | Outdoor furniture collection overview |
@@ -274,7 +252,6 @@
 | [Design Directory](https://atharvrem.notion.site/Design-Directory-3af22f58c0a84cfaa6c06d2f4f64f5e3) | Curated design directory on Notion |
 | [Design Everywhere](https://designeverywhere.co/) | Curated design work showcase |
 | [Design Everywhere](https://designeverywhere.co/typeofwork/packaging) | Packaging design work collection |
-| [Design Family Market](https://designfamilymarket.gumroad.com/) | Design assets marketplace on Gumroad |
 | [Design Fuell](https://designfuell.com/discover/featured-websites) | Curated showcase of featured website designs. |
 | [Design Greybear](https://www.instagram.com/design.greybear/) | Design portfolio on Instagram |
 | [Design Hotels](https://www.designhotels.com/hotels/) | Boutique design hotel bookings |
@@ -298,8 +275,6 @@
 | [Design Stories](https://www.centoventi.com/design-stories/) | Furniture design history stories |
 | [Design Studio D2](https://ar.pinterest.com/DesignStudioD2/) | Pinterest board featuring interior and furniture design inspiration. |
 | [Design Syndrome](https://designsyndrome.com/blogs/techandbooks/creative-workstation-component-recommendations-updated-2024) | Pinterest design inspiration board |
-| [Design Syndrome](https://designsyndrome.gumroad.com/l/papercut?layout=profile) | 10 papercut textures |
-| [Design Syndrome](https://designsyndrome.gumroad.com/l/truemarkersample) | True Marker brush pack for digital illustrators. |
 | [Design Syndrome](https://designsyndrome.com/collections/freebies) | Free design assets and resources |
 | [Design Syndrome](https://designsyndrome.com/collections/design-assets?filter.p.m.custom.asset_type=Gradient+Maps) | Gradient map collection on Design Syndrome |
 | [Design Syndrome](https://www.youtube.com/@design.syndrome) | Design asset and tutorial YouTube channel |
@@ -318,9 +293,6 @@
 | [Designer Pricing Sheet](https://docs.google.com/spreadsheets/d/19c5HPHap-RkOFnAsveB19HngLVowYn4IoTOgZr7D3OA/edit?gid=0#gid=0) | Designer pricing rate spreadsheet |
 | [Designercize](https://designercize.com/) | Timed design prompt generator for whiteboard exercises. |
 | [Designerfeed](https://designerfeed.me/) | Aggregated design projects feed |
-| [designfamilymarket.gumroad.com](https://designfamilymarket.gumroad.com/l/FreeGraphicPack-3) | Free graphic pack on Gumroad |
-| [designfamilymarket.gumroad.com](https://designfamilymarket.gumroad.com/l/qkbhd) | Free design assets on Gumroad |
-| [designfamilymarket.gumroad.com](https://designfamilymarket.gumroad.com/l/wcfvds) | Free design assets on Gumroad |
 | [Designhacks](https://designhacks.online/) | Design tutorials and resource collection |
 | [Designic](https://designic.com/en/vse-proekty/offices-and-coworking/) | Office interior design portfolio |
 | [Designs CAD](https://designscad.com/) | CAD design resource library |
@@ -337,7 +309,6 @@
 | [Dezi](https://dezi.gallery/figma-plugin) | Figma plugin gallery on Dezi |
 | [Dezi](https://dezi.gallery/motion-studio) | Curated directory of motion design studios and creators. |
 | [Dezi (Motion Design, Graphic, Product) ](https://dezi.gallery/motion-inspiration) | Motion design inspiration gallery |
-| [DGruwier Flashlight Textures](https://dgruwier.gumroad.com/l/dgruwier-flashlights) | Flashlight gobo and light texture pack on Gumroad. |
 | [Dia 1.6B](https://huggingface.co/spaces/nari-labs/Dia-1.6B?source=post_page-----5d7b476386b4---------------------------------------) | Interactive multimodal conversational model demo with voice and actions. |
 | [Dia Buga Design](https://www.diabugadesign.ro/collections/all) | Contemporary handcrafted porcelain jewelry and ceramic design collection. |
 | [Diablo](https://www.diablaoutdoor.com/en/products/) | Handmade decorative object shop |
@@ -423,7 +394,6 @@
 | [FlippedNormals](https://flippednormals.com/) | Industry-standard marketplace and educational hub for 3D modeling, sculpting brushes, game-art assets, and VFX tutorials. |
 | [Flipped Normals](https://www.artstation.com/marketplace/game-dev/assets?q=decals&section=free) | Free game decal assets |
 | [Flos](https://professional.flos.com/en/global/all-products/) | Professional lighting catalog |
-| [Flostanger](https://flostanger.gumroad.com/l/oyfJft) | Gumroad store selling design assets |
 | [Flux Krea](https://huggingface.co/spaces/black-forest-labs/FLUX.1-Krea-dev) | Open Source, uncensored |
 | [FLUX Llora](https://huggingface.co/spaces/prithivMLmods/FLUX-LoRA-DLC) | Image generation model exploring varied predefined visual styles. |
 | [Flyerwrk](https://www.flyerwrk.com/en-us/collections/add-ons) | Graphic design add-ons and texture overlays for designers (Not Free). |
@@ -440,18 +410,14 @@
 | [Free CAD](https://freecadplan.com/category/blocks/car/) | Free 2D and 3D CAD vehicle blocks and car blueprint downloads. |
 | [Free Design Resources](https://freedesignresources.net/tag/gradient/) | Free gradient design resources |
 | [Frezza](https://www.frezza.com/) | AI collaborative workspace |
-| [Friday Supply](https://fridaysupply.gumroad.com/l/free-papers) | Gumroad store offering free paper texture packs |
 | [Friendly Shade](https://www.friendlyshade.com/) | High-end scanned 3D textures |
-| [Friends of Motion](https://friendsofmotion.gumroad.com/l/Freegobos) | Free gobos for 3D lights |
 | [Fromupnorth](https://se.pinterest.com/fromupnorth/) | Pinterest , Zekadesign |
 | [Front Materials](https://www.front-materials.com/paper-waste-panels/) | Sustainable architectural wall panels made from recycled paper waste. |
 | [Front Materials](https://www.front-materials.com/wastebasedbricks/) | Sustainable architectural bricks made from recycled waste materials. |
 | [Fulya Genç Design](https://www.instagram.com/fulyagencdesignstudio) | Naive, loose brushwork, Trattoria |
 | [Future Materials](https://futurematerials.co/) | Materials and surfaces inspiration |
-| [G-Code Explorer’s Notes](https://screenvibecrafts.gumroad.com/l/coiexq) | Script and guide for creating 3D printed vase forms (Not Free). |
 | [Gabrielle Rose](https://www.instagram.com/gabrielleroseinteriors/reels/) | Instagram profile showcasing interior design reels |
 | [Galerie 123](https://www.galerie123.com/en/original-vintage-poster/?genres=A) | search designers, cities, topics |
-| [Game Rig Tools (Blender Addon)](https://toshicg.gumroad.com/l/game_rig_tools) | Blender addon for game rigs |
 | [Garden Design](https://www.gardendesign.com/landscape-design/) | Garden and landscape design inspiration and planning guides. |
 | [George Kempster](https://www.instagram.com/gk.dsn/) | Postage stamp graphic design concepts and illustrations on Instagram. |
 | [Gin -](https://www.instagram.com/ginyboi/reels/) | He is a design genius and has some great tips |
@@ -488,12 +454,8 @@
 | [Graphics Library](https://graphics-library.net/) | Free vector graphics, 3D elements, and digital design resources library. |
 | [GRAU](https://www.grau.art/en-it/collections/all-lamps) | Designer lamps and lighting fixtures |
 | [Green Designs](https://www.instagram.com/greendesigns_/) | Instagram profile showcasing sustainable design |
-| [Grunge](https://redblueen.gumroad.com/l/animatedGrungePack1) | Gumroad store selling animated grunge texture packs |
 | [GSAP](https://flowbase-gsap.webflow.io/) | Webflow demonstration showcasing GSAP kinetic text animations. |
 | [GT Design](https://www.gtdesign.it/collezioni/) | Designer carpet and rug collections |
-| [Gumroad](https://gumroad.com/discover?query=Maya+Rig) | Gumroad search results for Maya rigging resources |
-| [Gumroad](https://gumroad.com/discover?query=substance&tags=pbr) | Gumroad search results for Substance PBR textures |
-| [gumroad.com](https://gumroad.com/discover?query=substance&tags=pbr%2Csubstance+designer) | Gumroad search results for Substance Designer PBR resources |
 | [Habitat](https://www.instagram.com/habitat.wnetrza/) | Minimal warm, modern, colorful |
 | [Hall of Shame](https://hallofshame.design/collection/) | Curated collection highlighting deceptive marketing and dark pattern designs. |
 | [Hand Drawn Shapes -](https://www.figma.com/community/file/1018477313212753754) | Figma hand-drawn shape library |
@@ -524,7 +486,6 @@
 | [Human Biodigital](https://human.biodigital.com/) | Interactive 3D visualization platform of human anatomy and health conditions. |
 | [Human Scan Repository](https://humanscanrepository.com/) | High-quality 3D human scans for creatives and researchers |
 | [Humane by Design](https://humanebydesign.com/principles/) | Principles for humane digital design |
-| [Humanities Illustration Library](https://levinunnink.gumroad.com/l/humanities-illustrations) | Hand-drawn illustration library depicting humanities and daily life. |
 | [Humanscale](https://www.humanscale.com/) | Ergonomic workplace products, seating, and design files. |
 | [Hunyuan World Generator](https://huggingface.co/tencent/HunyuanWorld-Voyager) | Tencent Hunyuan 3D world generator on Hugging Face. |
 | [Ibebi](https://en.ibebi.com/) | Italian flexible and modular educational furniture collection. |
@@ -540,7 +501,6 @@
 | [Ilti Luce](https://iltiluce.com/products/) | Architectural and design lighting |
 | [Imagine That](https://www.instagram.com/_____imaginethat/) | Surreal folk illustrations and imaginative artwork on Instagram. |
 | [Impact Acoustic](https://impactacoustic.com/en/archisonic-felt) | Swiss sustainable acoustic felt panels and sound dampening solutions. |
-| [Import to Blender](https://mixanimo.gumroad.com/l/addon) | Blender addon for importing and rigging Mixamo character animations. |
 | [In Class](https://inclass.es/collections/) | Contract furniture collections catalog |
 | [Indieground Design](https://indieground.net/shop-category/freebies/) | Free design resources and assets |
 | [Indowood](https://indowud.com/) | Composite wood alternative manufactured using natural rice husks. |
@@ -572,18 +532,13 @@
 | [Japanese Flash Web Design Archives](https://tters.jp/jfwda) | Historical archive preserving classic Japanese Flash websites. |
 | [Jared Owen](https://www.instagram.com/jaredowenanimations/reels/) | Instagram profile showcasing 3D animation reels |
 | [Jessie and Katie](https://www.jessieandkatey.com/) | Public art and mural portfolio featuring abstract geometric patterns. |
-| [jollyhohnsonart.gumroad.com](https://jollyhohnsonart.gumroad.com/l/ncvuv) | Window Brush pack, Sunflecks , 2 , 3 |
-| [jollyhohnsonart.gumroad.com](https://jollyhohnsonart.gumroad.com/l/fxtij?layout=profile) | Digital brush pack for window light effects and sunfleck textures. |
 | [Jongkim Design Studio](https://www.jongkimdesign.com/project) | Interior architecture project portfolio |
-| [Josiah Bout](https://josiahbout.gumroad.com/l/contracttemplate) | Freelance service contract template designed for 3D artists. |
 | [Josiahbout](https://www.youtube.com/@JosiahBout) | YouTube channel offering 3D design and motion workflow tutorials. |
 | [Joyf](https://joyf.design/en/collections) | Indoor and outdoor furniture collections |
 | [Juan Garcia](https://gradients.juangarcia.ch/) | Animated and static gradient |
 | [Julia Trotti](https://www.youtube.com/@juliatrotti) | Photography tutorials, portrait shoots, and camera reviews on YouTube. |
 | [Julie W Design](https://www.youtube.com/@juliewdesign) | YouTube channel with design tutorial videos |
-| [Julio Sillet 3D Art](https://juliosillet.gumroad.com/) | YouTube design tutorial channel |
-| [JuneLee Design](https://juneleedesign.gumroad.com/) | 3D art assets Gumroad store |
-| [JUNG solutions](https://www.jung-group.com/en-DE/Products/) | Design resources Gumroad store |
+| [JUNG](https://www.jung-group.com/en-DE/Products/) | German manufacturer of architectural electrical switches, sockets, and smart building systems. |
 | [Justway](https://www.justway.com/) | Manufacturing service for 3D models, injection molding, and urethane casting |
 | [K Selected](https://ksetselect.com/) | Curated selection of luxury design and media resources |
 | [Kami EXP](https://www.instagram.com/kami.exp/reels/) | Y2K aesthetic surrealism and retro 2000s animation on Instagram. |
@@ -596,14 +551,11 @@
 | [Keith Schacht](https://www.instagram.com/keith__schacht) | Instagram portfolio showcasing mechanical design |
 | [Kele Zero](https://www.instagram.com/kele.zero/) | Animation using printed media - IG |
 | [Kennedy Nolan](https://www.kennedynolan.com.au/work) | Modern, minimal, tactile, warm colorful |
-| [Kerimov](https://kerimov-arbi.gumroad.com/l/xwmqi) | Animated Caustics - Not Free |
 | [Kettal](https://www.kettal.com/workplace/it/collections) | Spanish outdoor and workplace designer furniture collections. |
 | [Kettal](https://workplace.kettal.com/it/all/phone-booths/) | Acoustic office phone booths and workplace privacy pods. |
 | [KFF](https://www.kff.de/de/produkte) | German design furniture seating |
 | [Kind of](https://kindoffurniture.com/atmosfere/) | Italian luxury furniture crafted from industrial steel rebar. |
 | [Kingston Lafferty Design](https://roisinlafferty.com/projects/category/commercial) | Retro, Iconic, curves, Marble |
-| [kmixc.gumroad.com](https://kmixc.gumroad.com/) | Gumroad store selling sticker and design asset packs |
-| [Kmo](https://kintomo.gumroad.com/) | Gumroad store selling motion design assets |
 | [Koenig Neurath](https://www.koenig-neurath.com/en/products/novelties) | Office furniture and systems |
 | [Kooij](https://kooij.com/helm) | Dutch circular design studio creating furniture from recycled plastic. |
 | [Koyori](https://www.koyori-jp.com/) | Japanese crafted wooden furniture and lighting collection. |
@@ -622,8 +574,6 @@
 | [LeHa Design](https://www.instagram.com/lehadesignat/) | Character design, vinyl toys, and cute 3D illustrations on Instagram. |
 | [Leibal](https://leibal.com/) | Minimal design publication and store |
 | [LHM](https://lingtengqiu.github.io/LHM/) | Research project generating animated 3D human models from monocular video. |
-| [Light Stencils](https://shanespencedesign.gumroad.com/l/light-stencils) | Gumroad store selling light stencil design assets |
-| [Light Textures Pack](https://chromfell.gumroad.com/l/LTP1) | Light texture overlay assets |
 | [LINE Design System](https://designsystem.line.me/) | LINE messaging design system |
 | [Line of Action](https://line-of-action.com/) | Figure drawing and animal gesture pose reference practice tool. |
 | [Linearity](https://www.linearity.io/) | Vector graphic design and motion animation suite for Apple devices. |
@@ -656,7 +606,6 @@
 | [Mambo Unlimited](https://www.mambounlimitedideas.com/collections/) | Furniture and decor Instagram |
 | [Manerba](https://manerbaspa.com/en/) | Office furniture manufacturer |
 | [Manon Louart](https://www.instagram.com/manonlouart/reels/?hl=en) | Dreamy digital animations and looping motion illustrations on Instagram. |
-| [Manuel](https://manueldoesmotion.gumroad.com/l/makxv) | Gumroad store selling motion design resources |
 | [Manuel Lariño](https://www.instagram.com/mlarino/reels/) | Geometric animations |
 | [Manutti](https://www.manutti.com/en) | Outdoor luxury furniture |
 | [Map2Model](https://map2model.com/) | 3D map conversion tool |
@@ -695,7 +644,6 @@
 | [Meta Horizon Hyperspace](https://www.meta.com/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/) | Virtual reality app capturing and creating 3D environments on Meta Quest. |
 | [Metademo Lab](https://sketch.metademolab.com/canvas) | AI-powered tool bringing children's drawings and sketches to life with animation. |
 | [Mews Design System](https://www.mews.design/latest/welcome-eumfLxWD) | Mews product design system |
-| [Mgear](https://miquelcampos.gumroad.com/l/mgear) | Gumroad store selling rigging tools for animators |
 | [Miabi Hatakana (Dis. Japones)](https://www.instagram.com/miabi.design/reels/) | Instagram profile showcasing Japanese-inspired interior design |
 | [Microsoft Design](https://microsoft.design/resources/) | Microsoft design toolkits |
 | [Microsoft Design Blog](https://microsoft.design/) | Microsoft design toolkits |
@@ -708,7 +656,6 @@
 | [Missana](https://www.missana.es/products/?product-page=1) | Spanish furniture brand |
 | [Mitch Lally](https://www.youtube.com/@MitchLally) | Photography, filmmaking, and camera gear tutorials on YouTube. |
 | [Mixamo](https://www.mixamo.com/#/) | Online platform for 3D character animation and rigging |
-| [mixanimo.gumroad.com](https://mixanimo.gumroad.com/l/mixamorig) | Auto-rigging addon for importing Mixamo characters into 3D software. |
 | [Mixboard](https://labs.google.com/mixboard) | Experimental visual moodboarding canvas by Google Labs. |
 | [Mobel Design Museum](https://www.mobeldesignmuseum.se/furniture-archive) | Digital archive of modern and contemporary furniture design in Sweden. |
 | [Moboli](https://mobboli.com/en/collections/) | Contract hospitality furniture |
@@ -761,9 +708,7 @@
 | [news.hada.io](https://news.hada.io/search?q=Claude) | Korean developer news discussions and resources regarding Claude. |
 | [Nexia](https://nexia.es/products/architectural) | Architectural LED lighting solutions and technical luminaires from Spain. |
 | [Nicoline](https://www.nicoline.it/divani) | Architectural lighting |
-| [Nik Vili](https://nik-vili.gumroad.com/) | Gumroad store selling sci-fi decals and 3D design assets |
 | [Nina Nayko](https://www.instagram.com/nina.nayko/reels/) | Animation of static Photos , Swarnavod , Eric Melikyan , Waref Quba |
-| [Nntuantus](https://nn1uantus.gumroad.com/) | Gumroad store selling 3D garden plant models and assets |
 | [Noken](https://www.noken.com/en/products) | Bathroom product design |
 | [noom](https://www.noom-home.com/seating) | Modern seating furniture |
 | [Nord Design System](https://nordhealth.design/) | Nordhealth design system |
@@ -864,11 +809,8 @@
 | [Raw](https://rawcatalog.com/library/blueprints/) | Vector blueprint database for vehicle and transport modeling. |
 | [rawpixel.com](https://www.rawpixel.com/search/y2k?page=1&path=_topics&sort=curated) | Rawpixel search results for Y2K-themed design resources |
 | [RBW](https://rbw.com/type) | Contemporary American decorative lighting and architectural sconces studio. |
-| [Real Motion](https://pymarket.gumroad.com/l/tvxre) | Blender addon for realistic vehicle and wheel rigging physics. |
-| [Realism Addon](https://realismaddon.gumroad.com/l/eplrn) | Blender addon for surface imperfections and lighting gobos. |
 | [Reality Scan](https://www.unrealengine.com/en-US/realityscan) | Phone APP to Scan RW textures. |
 | [Reblium Studio](https://www.reblium.com/) | Procedural digital human generator for creating lifelike 3D characters |
-| [Rebrandy (Animated)](https://rebrandy.gumroad.com/l/shadow) | Animated shadow overlay and branding mockup pack on Gumroad. |
 | [Recent Design](https://recent.design/) | Web and UI design inspiration |
 | [Red Dot Award](https://www.red-dot.org/design-concept) | International design competition recognizing design concepts and creative communication. |
 | [reddit.com](https://www.reddit.com/r/FigmaDesign/comments/1avgugw/what_plugins_for_figma_are_you_using/) | Reddit discussion recommending top Figma plugins |
@@ -883,7 +825,6 @@
 | [Retro Skyboxes](https://vladislavzh.net/notes/retro-skyboxes-released?it=retro-skyboxes-released.html) | Free public domain retro 90s-style skybox texture pack |
 | [Ricardo Blanco](https://issuu.com/fnaargentina/docs/ricardo_blanco_issuu__1_) | Monograph documenting the iconic work of Argentine furniture designer Ricardo Blanco. |
 | [Riccardo Gasperoni](https://www.riccardogasperoni.com/interiors/) | Milan-based photographer specializing in modern, colorful interior and architecture photography. |
-| [Rig-GNS (Pro) 4.0](https://22722studios.gumroad.com/l/yFocf) | Advanced auto-rigging and facial setup addon for Blender characters. |
 | [Rizoma](https://www.rizoma.me/progetti/) | Bold, Colorful, Playful |
 | [Robin Lamps](https://robinlamps.com/en-int) | Decorative lighting brand |
 | [Rockwell Group](https://www.rockwellgroup.com/architecture-and-interiors) | Cross-disciplinary architecture and design firm known for bold hospitality and theater spaces. |
@@ -909,7 +850,6 @@
 | [Sanctus Library](https://sanctuslibrary.xyz/) | Procedural material and shader asset library for Blender. |
 | [Sankou](https://sankoudesign.com/) | Gallery of website design inspiration from Japan categorized by industry and layout. |
 | [Santa & Cole](https://www.santacole.com/en/lighting/) | Designer lighting collection |
-| [Sariksat](https://sarikasat.gumroad.com/l/jpmid) | Shadow Overlay , Resource Boy , Rebrandy Animated |
 | [Satori Graphics](https://www.instagram.com/satori_graphics/) | Graphic design fundamentals and layout tips on Instagram. |
 | [Scab](https://www.scabdesign.com/) | Italian indoor outdoor furniture |
 | [Schneid Studio](https://schneidstudio.com/shop/lighting) | Contemporary lighting fixtures and home decor handcrafted in Germany. |
@@ -927,12 +867,10 @@
 | [Shishka Project](https://shishkaproject.com/en/collection/) | Avant-garde furniture collection |
 | [Shishka Project](https://shishkaproject.com/en/rugs/) | Avant-garde furniture collection |
 | [Showcase Mockup Studio](https://www.showcasebh.com/) | Bahrain-based creative studio providing realistic branding mockups. |
-| [Simple animation graph](https://dedouze.gumroad.com/l/fsbdw) | Grease Pencil animation tool for Blender by Dedouze. |
 | [Simple Ideas](https://www.instagram.com/simple.ideasss/?hl=en) | Creative product concepts, mechanical sketches, and 3D modeling on Instagram. |
 | [Simulation Lab](https://www.instagram.com/simulationlab/) | Cinema 4D simulation experiments, dynamic motion graphics, and physics art on Instagram. |
 | [Sing Chan](https://www.singchandesign.com/products/lighting) | Designer lighting collection |
 | [Sinix Design](https://www.youtube.com/user/sinixdesign) | YouTube channel with digital art tutorials and design education |
-| [Sir Charles](https://sircharles.gumroad.com/l/NIMIS350) | Gumroad store selling premium 3D asset packs |
 | [Sketch Shaper](https://www.sketchshaper.com/) | SketchUp architectural model library and 3D visualization scenes. |
 | [Sketchbook](https://www.sketchbook.com/extras) | Free brushes and extras |
 | [Sketching Scottie](https://www.youtube.com/sketchingscottie) | YouTube channel with drawing and sketching tutorials |
@@ -956,8 +894,6 @@
 | [Space Type Generator](https://spacetypegenerator.com/) | Interactive browser-based kinetic typography and motion type generator. |
 | [Spatial LM](https://manycore-research.github.io/SpatialLM/) | Open-source model generating 3D models and spatial environments from video. |
 | [Spline Refiner 3dsMax plugin - Uniform Spline Segments](https://www.splinedynamics.com/spline-refiner/) | 3ds Max utility script |
-| [Spots Kitchen](https://spotskitchen.gumroad.com/l/nrmdecalspack) | Gumroad store selling decal and texture packs for 3D modeling |
-| [Spots Kitchen 2](https://spotskitchen.gumroad.com/l/indstrlinfopack) | Gumroad store selling industrial texture and decal packs |
 | [Spotted in Prod](https://www.spottedinprod.com/) | Showcase of micro-interactions and mobile UI animations from production apps. |
 | [Sprout Creator Edition](https://faunarobotics.com/product) | Humanoid robotics platform |
 | [Stack Sorted.](https://stacksorted.com/buttons) | Curated web design directory showcasing interactive button and UI element designs. |
@@ -1027,14 +963,12 @@
 | [Touch Designer](https://derivative.ca/) | TouchDesigner visual inspiration |
 | [Trans Pixar](https://huggingface.co/spaces/wileewang/TransPixar) | Video generation model producing video assets with transparent backgrounds. |
 | [Transmutr](https://help.transmutr.com/getting-started) | Convert various 3D formats to SketchUp files |
-| [Treeshade Vol. 1](https://henrikbc.gumroad.com/l/figment_treeshade_vol_1?layout=profile) | Gumroad design resource pack with light stencils |
 | [Trellis](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) | Structured 3D asset generation model from multiple input images on Hugging Face. |
 | [Trending Design](https://trending.design/) | Curated design product store |
 | [Trends](https://www.figma.com/board/gsBr8U6VMg03AZlTWS2kev/SCAN-CLUB---What--Digital--Audiences-Want-in-2026?node-id=27-1920) | Trend Reports - What Digital audiences want in 2026 |
 | [Trone](https://trone.paris/it#) | Modern bathroom design brand |
 | [True Depth](https://superhivemarket.com/products/truedepth) | Turn Photo to 3D Depthmap |
 | [True Design](https://www.truedesign.it/it/famiglie/) | Italian furniture family collections |
-| [Truebones Motions](https://truebones.gumroad.com/) | 3D motion capture and animation BVH file collections on Gumroad. |
 | [Tucci](https://www.tuuci.com/products/) | Luxury shade architecture, modern parasols, and outdoor cabanas from Miami. |
 | [Tumblr](https://www.tumblr.com/search/y2k%20png?src=typed_query) | Tumblr search results for Y2K-style PNG images and stickers |
 | [Turf](https://turf.design/) | Acoustic ceiling and wall solutions |
@@ -1109,7 +1043,6 @@
 | [Winrar/7Zip installer](https://ninite.com/) | Ninite multi-software installer and project file compression utility. |
 | [Woo](https://woo.furniture/) | Ukrainian playful furniture |
 | [Wooj Design](https://wooj.design/) | Brooklyn-based design studio producing 3D-printed lamps and home goods. |
-| [World Blender -](https://lancephan.gumroad.com/l/wb2025) | Procedural world and terrain generation addon for Blender. |
 | [World Brand Design Society](https://worldbranddesign.com/) | International awards and showcase platform for corporate and brand design. |
 | [Xal](https://www.xal.com/en) | Innovative architectural LED luminaires and lighting systems. |
 | [XMD Toolbox](https://xmdsource.com/toolbox/) | Brush management plugin and digital sculpting asset library for ZBrush. |

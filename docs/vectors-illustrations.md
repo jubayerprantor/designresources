@@ -20,7 +20,6 @@
 | [Flowers](https://c82.net/redoute/) | Botanical illustrations of lilies and roses by Pierre-Joseph Redouté |
 | [Free illustrations](https://freeillustrations.xyz/) | Curated directory of free vector illustrations in PNG, SVG, AI, and Figma formats |
 | [Get illustrations packs](https://www.getillustrations.com/illustration-packs) | Premium vector illustration marketplace with hundreds of packs, icons, and custom design services |
-| [Gumroad](https://gumroad.com/drawing-and-painting/digital-illustration/illustration-textures-and-patterns?sort=featured) | You can find more free illustrations, brushes, hi-res images, and textures filtered by price. |
 | [Hummingbirds](https://c82.net/hummingbirds/illustrations) | 19th-century illustrations |
 | [Illustrations Archives](https://freeuiresources.com/graphics/illustrations/) | Handpicked collection of free illustration design resources for various projects |
 | [Loose Drawing](https://loosedrawing.com) | Simple illustrations that are free for commercial use. |

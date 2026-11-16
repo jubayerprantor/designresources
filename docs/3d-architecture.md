@@ -40,7 +40,6 @@
 | [3D Export](https://3dexport.com/3d-models/architectural-exterior/environment/terrain) | Commercial 3D terrain and exterior landscape models on 3DExport. |
 | [3D Export](https://3dexport.com/3d-models/characters) | Collection of 3D character models and digital figures available on 3DExport. |
 | [3D Export](https://3dexport.com/free-search?page=5) | Marketplace featuring thousands of free 3D models in OBJ, FBX, 3DS, and Blend formats. |
-| [3D Garden Plants](https://3dgardenplants.gumroad.com/) | Gumroad product offering 3D garden plant models - Not Free |
 | [3D Jungle](https://3djungle.net/models/) | Free downloadable 3D models and seamless textures for interior design, architecture, and visualization. |
 | [3D Jungle](https://3djungle.ru/models/stucco/) | Russian site offering free stucco moulding 3D models |
 | [3D Mag](https://3dmag.org/en/market/) | Marketplace for free and premium STL 3D printing models including figures, toys, and accessories. |
@@ -76,7 +75,6 @@
 | [3D Sky Model](https://3dskymodel.com/?sfid=67729&_sfm_type=Free) | 3D model aggregation site featuring free models from 3dsky.org for architectural design. |
 | [3D Sky Models](https://3dskymodels.org/3d-models/interior-parts-obk3v190?category=0&format=0&page=2&price=&quality=&query=&render=0&sort=&tags=) | Curated repository of free interior parts, fittings, and architectural components. |
 | [3D Texel](https://3dtexel.com/pbr-material/) | Library of 1,000+ free seamless CC0 PBR materials with full map sets up to 16K resolution. |
-| [3D Tools](https://3dtools.gumroad.com/) | Gumroad store selling 3D modeling tools, scripts, and resources for 3ds Max and other software. |
 | [3D Tools](https://3dtools.info/d5-render-materials/) | D5 Render materials collection for architectural visualization and real-time rendering projects. |
 | [3D Tools](https://3dtools.info/lumion-materials/) | Lumion material collection for architectural rendering and landscape visualization projects. |
 | [3D Tools 2](https://3dtools.info/dna-materials-01) | DNA materials collection for 3ds Max, providing realistic surface presets for architectural rendering. |
@@ -114,7 +112,6 @@
 | [3dnchu.com](https://3dnchu.com/archives/category/asset/maya_asset/) | Japanese CG news site covering Maya assets and tools |
 | [3Ds Blue](https://3dsblue.org/3d-models?status=1&order-by=newets) | Free 3D models for architecture and design with furniture, textures, and interior scenes. |
 | [3DS Max](https://3ds-max.org/3ds-max-free-download/) | Website offering free downloads of 3ds Max software and 3DSKY model library listings. |
-| [3Ds Max RizomUV Connector](https://titus.gumroad.com/l/Unfold3dMax_Bridge) | Bridge tool connecting Autodesk 3ds Max with RizomUV for UV unwrapping. |
 | [3Ds Max Shortcuts](https://cheatography.com/mollick2/cheat-sheets/3ds-max-2012/) | Printable cheat sheet of essential keyboard shortcuts for Autodesk 3ds Max 2012. |
 | [3DS Model Free](https://3dsmodelfree.com/category/3dsmax/3ds-trees/) | Free 3D tree and plant models for 3ds Max architectural visualization projects. |
 | [3DSKY](https://3dsky.org/) | Marketplace for high-quality 3D models used in architectural visualization and interior design. |
@@ -131,7 +128,6 @@
 | [A23D](https://www.a23d.co/) | Library of over 551,000 photorealistic 3D models, PBR textures, decals, and IES profiles. |
 | [A23D](https://www.a23d.co/decals) | A23D marketplace for 3D decal assets - Not Free |
 | [A23D](https://www.a23d.co/iesprofiles) | Collection of over 10,200 IES light profiles for realistic lighting in 3D rendering. |
-| [Absorb 3D](https://absorb3d.gumroad.com/l/decals) | Gumroad product offering 3D decal textures - Not Free |
 | [Acon](https://www.acon3d.com/en/category/336?applications=12%7C2&page=1) | Acon 3D marketplace for 3D models and textures - Not Free |
 | [AE Juice](https://aejuice.com/product/3d-terrain-pack/) | AE Juice product page for a 3D terrain pack - Not Free |
 | [AI City & Terrain Map Generator](https://printpal.io/tools/map-3d-generator) | Online generator that creates 3D printable terrain and city maps. |
@@ -213,8 +209,6 @@
 | [convert3d.org](https://convert3d.org/) | Download and convert it to a file type that works for your program here |
 | [Copy To](https://www.scriptspot.com/3ds-max/scripts/copyto) | Script for 3ds Max that enables copying objects between open application instances. |
 | [Cults 3D](https://cults3d.com/en) | Marketplace for 3D printable models, STL files, and digital designs for makers and creators. |
-| [D5 Render Assets Store](https://d5renderassetsstore.gumroad.com/) | Gumroad store offering 3D assets, models, and materials for D5 Render real-time visualization. |
-| [D5 Render complete Material Library.](https://designrender.gumroad.com/l/sclojz) | Comprehensive PBR material library preset pack for D5 Render. |
 | [D5 Renders](https://forum.d5render.com/c/content-hub/scene-express/42) | D5 Render forum section where users share free scene files, assets, and content. |
 | [Daz 3D](https://daz3d-poser.net/) | Resource site providing Daz 3D and Poser 3D content downloads. |
 | [Daz 3D](https://www.daz3d.com/free-3d-models) | Daz 3D official free 3D models page |
@@ -254,12 +248,6 @@
 | [github.com](https://github.com/insthync/awesome-unity3d) | Curated list of awesome Unity 3D resources, tools, and libraries |
 | [github.com](https://github.com/wendashi/awesome-3D-base-models) | GitHub repository on photogrammetry and 3D model reconstruction for VR |
 | [github.com](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling) | GitHub repository listing datasets for photogrammetry and 3D modeling |
-| [Glassware 3D](https://pingo.gumroad.com/l/glassware3D) | Gumroad product offering a collection of 3D glassware models for architectural visualization. |
-| [Gobos Master](https://mr3d.gumroad.com/l/gobos-master) | Commercial gobo light projection texture library and lighting asset pack for Blender. |
-| [Gumroad](https://gumroad.com/3d/3d-assets/unity?tags=unity+3d%2Cvfx%2C3d+models) | Gumroad marketplace search for Unity 3D assets - Not Free |
-| [Gumroad](https://gumroad.com/discover?query=stl&tags=stl+file%2C3d+printing%2C3dprinting) | Marketplace for 3D printable STL files and digital products |
-| [Gumroad](https://gumroad.com/discover?query=anime+hdri) | Gumroad marketplace search for anime HDRI resources - Not Free |
-| [gumroad.com](https://gumroad.com/3d/3d-assets/unity?tags=unity+3d%2Cvfx) | Gumroad marketplace search for Unity 3D and VFX assets - Not Free |
 | [Highend 3D](https://www.highend3d.com/3dsmax/scripts-plugins/c/downloads) | Marketplace for Maya and 3ds Max scripts, plugins, 3D models, tutorials, and CG resources. |
 | [Highend 3D - Scripts / Plugins](https://www.highend3d.com/scripts-plugins/c/downloads) | Highend3D category for scripts and plugins across Maya, 3ds Max, and other 3D software. |
 | [Hitem3D](https://hitem3d.ai/) | AI platform that generates 3D models from multi-angle photographs. |
@@ -275,7 +263,6 @@
 | [Interia](https://interia.com.ua/materialy/3d-modeli/) | Ukrainian furniture manufacturer offering downloadable 3D models of sofas and chairs. |
 | [Jugaad Render](https://jugaadrender.tumblr.com/) | Tumblr blog featuring 3D renders, architectural visualization, and digital art experiments. |
 | [Junior 3D](https://junior3d.ru/HDRI/KosmosZvezdyHDRI.html) | Russian site offering free HDRI maps, textures, and 3D resources |
-| [Kangaroo](https://kangarooz3d.gumroad.com/l/JXtXkV) | Gumroad product for 3D assets - Not Free |
 | [Kelly Wearstler](https://www.kellywearstler.com/) | Interior design studio showcasing luxury architectural projects, furniture, and lighting. |
 | [Khagwal 3D](https://3d.khagwal.com/) | Free CC0 3D illustration library with 45+ illustrations in 5 themes and angles for web and mobile apps. |
 | [Lapa Ninja (Resources and lessons, mostly for webdesign)](https://www.lapa.ninja/learn/) | Curated web design tutorials, foundational UI principles, and landing page design books. |
@@ -390,7 +377,6 @@
 | [HDRI Hub](https://www.hdri-hub.com/hdrishop/hdri/space) | HDRI Hub shop category for space HDRI maps - Not Free |
 | [HDRI in UE](https://rag3dviz.com/tutorial/hdri-lighting-in-unreal-engine/2/) | Tutorial guide on implementing HDRI lighting in Unreal Engine. |
 | [HDRI Japan](https://www.hdrijapan.com/) | Free HDRI downloads featuring seasonal Japanese landscapes and scenery. |
-| [HDRi Maker Studio](https://andrew-d.gumroad.com/l/kChzm) | HDRI creation tool for generating custom environment maps on Gumroad. |
 | [HDRI Maps](https://hdrmaps.com/freebies/) | Free HDRI maps and 3D assets for architectural visualization and rendering. |
 | [HDRI Skies](https://hdri-skies.com/free-hdris/) | Free HDRI sky maps for download with filters by time of day and cloud coverage. |
 | [HDRi Space Spheremaps](https://www.spacespheremaps.com/hdr-spheremaps/) | Free high dynamic range space sphere maps for 3D rendering and game engines. |
@@ -399,7 +385,6 @@
 | [hdrmaps.com](https://hdrmaps.com/blog/category/tutorials/) | HDRI tutorials category page with various HDRI creation guides |
 | [Lys](https://www.knaldtech.com/lys/) | GPU-accelerated tool for generating radiance, irradiance, and specular environment maps. |
 | [Matte Paint](https://mattepaint.com/gallery/hdri/skies/) | High-resolution sky HDRI sequences captured across different times of day. |
-| [MR HDRI](https://roz.gumroad.com/l/hdri-free-pack/uscdz3v) | Free HDRI pack available for download on Gumroad for 3D rendering. |
 | [No Emotions HDRI](https://noemotionhdrs.net/hdrnight.html) | Free high dynamic range environment maps for night and evening 3D scenes. |
 | [NVIDIA Edify HDRI](https://build.nvidia.com/shutterstock/edify-360-hdri) | AI-powered 360 HDRI panorama generation up to 16K using NVIDIA Edify model. |
 | [Open Footage](https://www.openfootage.net/category/high-dynamic-range-panorama/) | Marketplace for HDRI panoramas, timelapse footage, textures, and 3D scans. |
@@ -418,8 +403,6 @@
 | Resource | Description |
 | :--- | :--- |
 | [Agathus Studios](https://www.instagram.com/agathusstudios/reels/) | Interior Design lessons |
-| [Archi Portfolio Maker](https://archiportfoliomaker.gumroad.com/) | Gumroad product for architecture portfolio creation tools - Not Free |
-| [Architecture Candy](https://thearchitecturecandy.gumroad.com/) | Gumroad store offering architecture visualization resources - Not Free |
 | [Architecture Diagrams](https://nz.pinterest.com/illustrarch/architectural-diagrams/) | Pinterest boards |
 | [Architecture Sketch People](https://paintingvalley.com/architecture-sketch-people) | Collection of architecture sketch people drawings and human figure references. |
 | [Architecture Sketches](https://nz.pinterest.com/illustrarch/architectural-sketches/) | Pinterest boards |
@@ -428,7 +411,6 @@
 | [Australian Interior Design Awards: Workspaces](https://australianinteriordesignawards.com/gallery/search?year=&category=workplace-design&location=&recognition=&q=) | Gallery of award-winning workplace design projects from Australian Interior Design Awards. |
 | [Bonsai](https://bonsaibim.org) | Open-source Blender add-on for authoring native IFC building models. |
 | [Collov AI](https://collov.ai/) | Interior design - Not Free |
-| [David Drazil](https://david-drazil.gumroad.com/) | Architecture - Not Free |
 | [Design Professor](https://www.instagram.com/the.design.professor/reels/) | Interior Design lessons |
 | [First in Architecture](https://www.firstinarchitecture.co.uk/photoshop-brushes-for-architects/) | Free architectural silhouette brushes for Photoshop. |
 | [Gendo](https://app.gendo.ai/) | AI visualization platform designed for architecture and interior design rendering. |
@@ -437,11 +419,8 @@
 | [instagram.com](https://www.instagram.com/aifordesigners_/) | Instagram profile covering AI tools for architecture and interior design |
 | [Interior Design .net](https://interiordesign.net/) | Leading interior design magazine featuring projects, products, trends, and awards. |
 | [Interior Design Awards](https://intdesignaward.com/winners/) | Global interior design award program showcasing winners across commercial and residential categories. |
-| [Interior Design principles -](https://israamazzam.gumroad.com/l/interiorprinciplesbyisraaazzam) | E-book on interior design principles available for purchase on Gumroad. |
 | [Interior Design.net](https://interiordesign.net/projects/) | Interior Design magazine's project gallery featuring global architecture and design work. |
 | [Look X AI](https://www.lookx.ai/pc/home) | AI platform dedicated to architecture rendering and concept generation. |
-| [Pickapalette](https://pickapalette.gumroad.com/) | Gumroad store offering color palette and design resources - Not Free |
-| [Sketch Design Craft](https://sketchdesigncraft.gumroad.com/) | Architecture - Not Free |
 | [Taylor Simon](https://www.instagram.com/intayriors) | Interior Design lessons |
 
 ## LUTs & Color Grading
@@ -495,10 +474,6 @@
 | [Film Simplified](https://filmsimplified.com/lut-matcher-deal) | Browser-based LUT matcher with over 200 cinematic LUTs for previewing and downloading color grades. |
 | [Filter Grade](https://filtergrade.com/product-category/premiere-pro-templates/) | Filter Grade marketplace for Premiere Pro templates |
 | [FlutterFlow](https://www.flutterflow.io/) | Visual development platform for building native Flutter apps with drag-and-drop UI and action flow editors. |
-| [Gumroad](https://gumroad.com/discover?query=surface+Imperfection) | Gumroad marketplace search for surface imperfection textures - Not Free |
-| [Gumroad](https://gumroad.com/discover?query=Davinci+Resolve) | Marketplace for DaVinci Resolve plugins, transitions, and video effects. |
-| [gumroad.com](https://gumroad.com/discover?query=Stencil+Imperfection) | Gumroad marketplace search for stencil imperfection textures - Not Free |
-| [gumroad.com](https://gumroad.com/discover?query=Imperfection+Texture) | Gumroad marketplace search for imperfection textures - Not Free |
 | [In Light VFX](https://www.youtube.com/@InLightVFX) | YouTube channel offering visual effects breakdowns and lighting tutorials. |
 | [Industrial Revolution](https://idustrialrevolution.com/) | Website offering video editing plugins and resources - Not Free |
 | [Lot Pixel](https://www.lotpixel.com/texture-library/imperfections-textures) | PBR texture library with imperfections, surfaces, and 3D assets for rendering. |
@@ -548,3 +523,7 @@
 | [StdGEN](https://stdgen.github.io/) | AI framework for generating 3D characters and avatars from single reference images. |
 | [Suapp](https://www.sketchupbar.com/air) | AI-powered rendering tool for SketchUp that generates design visualizations and architectural concepts. |
 | [Ago Lighting](https://agolighting.com/#/main) | South Korean design studio creating contemporary architectural lighting and fixtures. |
+| [Clay Doh](https://doublegum.co/claydoh) | Procedural clay shader and handcrafted stop-motion texture material for Blender. |
+| [Game Rig Tools](https://cgdive.com/game-rig-tools/) | Blender addon by CGDive that simplifies exporting characters and rigs to game engines. |
+| [mGear Framework](https://www.mgear-framework.com/) | Open-source rigging and animation framework for Autodesk Maya. |
+| [Dedouze Tools](https://www.dedouze.com/) | Grease Pencil animation tools and creative resources for Blender. |

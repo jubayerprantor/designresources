@@ -40,9 +40,7 @@
 | [Game Icons](https://game-icons.net/) | 4,180 free SVG and PNG game-themed icons, regularly updated. |
 | [Glow UI Icons](https://www.glowui.com/icons) | Open-source interface icons in outline and solid styles. |
 | [Griddy Icons](https://griddyicons.com) | Free open-source icon family with SVG icons and a React library. |
-| [Gumroad](https://gumroad.com/design/icons) | Platform for independent creators selling vector icons, fonts, and digital design assets |
 | [Health icons](https://healthicons.org/) | Health Medical icons |
-| [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | Free 20-pack of industrial-themed HM graphic icons. |
 | [Hola SVG Icons](https://icons.holasvg.com/) | Free open source SVG icons with customizable stroke, fill, and color. |
 | [Hugeicons](https://hugeicons.com/) | 51,000+ free & pro icons for designers and developers in multiple styles. |
 | [Humbleicons](https://humbleicons.com/) | 284 simple, neutral, carefully crafted free SVG icons. |
