@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thank you for helping grow the **Design Resources Hub** under **GiveBack2People**!
-        Please ensure the resource offers a meaningful free tier or is open source (paid-only resources are declined).
+        Please ensure the resource offers a meaningful free tier or is open source. (Paid-only resources are declined for general categories and accepted strictly in Creative Marketplaces for established, industry-standard platforms).
 
   - type: input
     id: resource-name

@@ -4,7 +4,37 @@
 
 ---
 
-**Jump to:** [Design Tools](#design-tools) · [Online Design Tools](#online-design-tools) · [Downloadable Software](#downloadable-software) · [Prototyping Tools](#prototyping-tools) · [AI Design Tools](#ai-design-tools) · [Image Compression](#image-compression)
+**Jump to:** [Open Source Software](#open-source-creative-software) · [Design Tools](#design-tools) · [Online Design Tools](#online-design-tools) · [Downloadable Software](#downloadable-software) · [Prototyping Tools](#prototyping-tools) · [AI Design Tools](#ai-design-tools) · [Image Compression](#image-compression)
+
+---
+
+## Open Source Creative Software
+
+| Resource | Description |
+| :--- | :--- |
+| [AniCraft](https://getartcraft.com/apps/anicraft) | Open-source 2D vector animation editor built from scratch in pure Rust. |
+| [ArtCraft](https://getartcraft.com/) | Open-source interactive crafting engine and studio IDE for artists, visual designers, and filmmakers in pure Rust. |
+| [Blender](https://www.blender.org/) | Comprehensive open-source 3D creation suite supporting modeling, rigging, animation, simulation, rendering, compositing, and video editing. |
+| [CADCraft](https://getartcraft.com/apps/cadcraft) | Open-source computer-aided design (CAD) and technical drafting tool built in pure Rust. |
+| [Craft Launcher](https://github.com/storytold/craft-launcher) | Open-source desktop launcher and manager for the Storytold Craft Apps suite in pure Rust. |
+| [DeckCraft](https://getartcraft.com/apps/deckcraft) | Open-source presentation and dynamic slide show design app built in pure Rust. |
+| [DesignCraft](https://getartcraft.com/apps/designcraft) | Open-source page layout and desktop publishing editor in pure Rust (InDesign alternative). |
+| [EffectCraft](https://getartcraft.com/apps/effectcraft) | Open-source motion graphics and visual effects compositing tool in pure Rust (After Effects alternative). |
+| [FigCraft](https://getartcraft.com/apps/figcraft) | Open-source interface design and interactive prototyping tool in pure Rust (Figma alternative). |
+| [FilmCraft](https://getartcraft.com/apps/filmcraft) | Open-source nonlinear video editor built from scratch in pure Rust (Premiere alternative). |
+| [GIMP](https://www.gimp.org/) | Extensible open-source image editor for photo retouching, image composition, and graphic authoring. |
+| [Graphite](https://graphite.rs/) | Open-source 2D raster and vector graphics editor powered by a non-destructive node-based procedural composition engine in Rust. |
+| [Inkscape](https://inkscape.org/) | Professional open-source vector graphics software using SVG as its native format, comparable to Adobe Illustrator. |
+| [Krita](https://krita.org/) | Free and open-source digital painting application made by artists for concept art, comics, illustrations, and textures. |
+| [LightCraft](https://getartcraft.com/apps/lightcraft) | Open-source photo library and non-destructive raw developer that runs locally in pure Rust (Lightroom alternative). |
+| [MaterialCraft](https://getartcraft.com/apps/materialcraft) | Open-source, node-based procedural material designer in pure Rust (Substance Designer alternative). |
+| [PdfCraft](https://getartcraft.com/apps/pdfcraft) | Open-source PDF workbench to read, organize, combine, split, and secure documents. |
+| [Penpot](https://penpot.app/) | Open-source, web-based design and prototyping tool for cross-domain teams using open web standards (SVG) and flex/grid layouts. |
+| [PhotoCraft](https://getartcraft.com/apps/photocraft) | Open-source raster image editor with native layer workflows written in pure Rust (Photoshop alternative). |
+| [Scribus](https://www.scribus.net/) | Open-source desktop publishing application for layout, typesetting, and print-ready PDF creation. |
+| [SoundCraft](https://getartcraft.com/apps/soundcraft) | Open-source digital audio workstation (DAW) for professional recording, editing, and audio mixing in pure Rust. |
+| [TextureCraft](https://getartcraft.com/apps/texturecraft) | Open-source 3D texture painting application written from scratch in pure Rust (Substance Painter alternative). |
+| [VectorCraft](https://getartcraft.com/apps/vectorcraft) | Open-source vector art and illustration tool written from scratch in pure Rust (Illustrator alternative). |
 
 ---
 
@@ -27,7 +57,6 @@
 | [Clip Studio Paint](https://www.clipstudio.net/en) | Industry-leading software for manga, comics, and animation with specialized panel and speech bubble tools. |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based interface for Stable Diffusion with advanced workflows for AI image generation. |
 | [CorelDRAW](https://www.coreldraw.com) | Professional vector graphics suite popular for print design, signage, and technical illustration since 1989. |
-| [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) | Free, source-available (PolyForm Shield) desktop app for interface design, built in Rust. Opens and saves .fig files and includes a local MCP server so AI coding agents can inspect and edit the open file. Nothing is sold. |
 | [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
 | [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
 | [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) | A free and open-source raster graphics editor that offers many features similar to Adobe Photoshop. It's great for photo retouching, image composition, and graphic design. |

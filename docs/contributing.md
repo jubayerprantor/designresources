@@ -40,9 +40,10 @@ Thank you for your interest in contributing! This is a community-driven design r
 
 ## Guidelines
 
-- **Free or meaningful free tier** — paid-only resources will be declined
-- **Working links only** — verify the site is live before submitting
-- **Accurate descriptions** — no marketing language, just honest summaries
+- **Free or meaningful free tier (General Categories)** — resources in general categories must be 100% free, open source, or have a functional free tier. Paid-only tools in these sections will be declined.
+- **Creative Marketplaces Exception** — paid-only resources belong strictly in [Creative Marketplaces](/marketplaces) and must be established, recognized, top-tier industry platforms (e.g., Envato Elements, Motion Array, Artlist). Personal storefronts, newly created sites, or unverified commercial listings will be declined.
+- **Working links only** — verify the site is live and uses HTTPS before submitting
+- **Accurate descriptions** — objective summaries without marketing hype or affiliate tracking parameters
 - **No duplicates** — check if the resource already exists before adding
 
 ---

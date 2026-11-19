@@ -10,18 +10,48 @@
 }
 
 .VPFeatures .item:hover {
-  transform: translateY(-5px) scale(1.01) !important;
+  transform: translateY(-4px) !important;
 }
 
 .VPFeatures .VPFeature {
   border: 1px solid var(--vp-c-divider) !important;
+  border-radius: 12px !important;
   transition: border-color 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
 .VPFeatures .VPFeature:hover {
   border-color: var(--vp-c-brand-1) !important;
   background-color: var(--vp-c-bg-soft) !important;
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.25) !important;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Clean SVG Category Icon Styling */
+.VPFeatures .VPFeature .icon {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 44px !important;
+  height: 44px !important;
+  border-radius: 10px !important;
+  border: 1px solid var(--vp-c-divider) !important;
+  background-color: var(--vp-c-bg-soft) !important;
+  color: var(--vp-c-text-2) !important;
+  margin-bottom: 16px !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.VPFeatures .VPFeature:hover .icon {
+  color: var(--vp-c-brand-1) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  background-color: var(--vp-c-bg-mute) !important;
+  box-shadow: 0 0 16px rgba(139, 92, 246, 0.25) !important;
+  transform: translateY(-2px) scale(1.05) !important;
+}
+
+.VPFeatures .VPFeature .icon svg {
+  width: 22px !important;
+  height: 22px !important;
+  stroke: currentColor !important;
 }
 
 /* Glassmorphic 3D Hero Composition */
@@ -266,25 +296,36 @@
   display: table !important;
   border-collapse: separate !important;
   border-spacing: 0 !important;
-  margin: 1.2rem 0 !important;
-  border-radius: 8px !important;
+  margin: 1.5rem 0 !important;
+  border-radius: 10px !important;
   overflow: hidden !important;
   border: 1px solid var(--vp-c-divider) !important;
+  font-size: 0.9375rem !important;
+}
+
+.vp-doc tr {
+  border: none !important;
+}
+
+.vp-doc th,
+.vp-doc td {
+  border: none !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
 }
 
 .vp-doc th {
   background-color: var(--vp-c-bg-mute) !important;
   font-weight: 600 !important;
-  padding: 10px 14px !important;
+  padding: 12px 16px !important;
   text-align: left !important;
-  border-bottom: 2px solid var(--vp-c-divider) !important;
+  color: var(--vp-c-text-1) !important;
 }
 
 .vp-doc td {
-  padding: 10px 14px !important;
-  border-bottom: 1px solid var(--vp-c-divider) !important;
+  padding: 12px 16px !important;
   vertical-align: top !important;
-  line-height: 1.55 !important;
+  line-height: 1.6 !important;
+  color: var(--vp-c-text-2) !important;
 }
 
 .vp-doc tr:last-child td {
@@ -292,18 +333,70 @@
 }
 
 .vp-doc tr:nth-child(even) td {
-  background-color: var(--vp-c-bg-soft) !important;
+  background-color: rgba(255, 255, 255, 0.015) !important;
 }
 
 .vp-doc tr:hover td {
-  background-color: var(--vp-c-bg-mute) !important;
+  background-color: var(--vp-c-bg-soft) !important;
+  color: var(--vp-c-text-1) !important;
 }
 
 /* Resource Link styling */
+.vp-doc td:first-child {
+  width: 26% !important;
+  min-width: 160px !important;
+}
+
 .vp-doc td:first-child a {
   font-weight: 600 !important;
   color: var(--vp-c-brand-1) !important;
   word-break: break-word !important;
+  transition: color 0.2s ease, text-decoration 0.2s ease !important;
+}
+
+.vp-doc td:first-child a:hover {
+  color: var(--vp-c-brand-2) !important;
+  text-decoration: underline !important;
+}
+
+/* Audience Grid & Cards */
+.audience-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 48px 24px 0;
+}
+
+.audience-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.audience-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 20px;
+  background-color: var(--vp-c-bg-soft);
+  transition: border-color 0.25s ease, transform 0.25s ease;
+}
+
+.audience-card:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+}
+
+.audience-card strong {
+  display: block;
+  font-size: 1rem;
+  color: var(--vp-c-text-1);
+}
+
+.audience-card p {
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+  margin-top: 8px;
+  line-height: 1.5;
 }
 
 @media (max-width: 640px) {
@@ -313,8 +406,8 @@
     -webkit-overflow-scrolling: touch !important;
   }
   .vp-doc th, .vp-doc td {
-    padding: 8px 10px !important;
-    font-size: 0.9rem !important;
+    padding: 10px 12px !important;
+    font-size: 0.875rem !important;
   }
 }
 

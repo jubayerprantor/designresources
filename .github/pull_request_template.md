@@ -10,7 +10,7 @@
 ### Verification Checklist
 Please make sure your contribution meets our community standards:
 - [ ] **Working Link:** The URL is live, reachable, and uses `https://`.
-- [ ] **Free Tier:** The resource is either 100% free, open source, or has a functional free tier (no paid-only tools).
+- [ ] **Free Tier or Established Marketplace:** Resource has a functional free tier / is open source (paid-only tools belong strictly in `docs/marketplaces.md` and must be established, recognized platforms).
 - [ ] **No Duplicates:** I searched the docs to verify this resource isn't already listed.
 - [ ] **Proper Category:** Placed in the correct category file under `docs/` in alphabetical order.
 - [ ] **No Piracy / Warez:** This link does not distribute pirated, cracked, or illicit materials.

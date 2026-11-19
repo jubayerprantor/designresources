@@ -46,7 +46,8 @@ Thank you for your interest in contributing! This is a community-driven design r
 
 ## Guidelines
 
-- **Free or meaningful free tier** — paid-only resources belong strictly in `docs/marketplaces.md` (only recognized, top-tier subscription platforms)
+- **Free or meaningful free tier (General Categories)** — resources in general categories must be 100% free, open source, or have a functional free tier. Paid-only tools in these sections will be declined.
+- **Creative Marketplaces Exception** — paid-only resources belong strictly in `docs/marketplaces.md` and must be established, recognized, top-tier platforms (e.g., Envato Elements, Motion Array, Artlist). Personal storefronts, newly created sites, or unvetted commercial listings will be declined.
 - **Working HTTPS links only** — verify the site is live before submitting
 - **Accurate, objective descriptions** — no marketing hype or tracking parameters
 - **No duplicates or raw search queries** — link to the main tool/platform rather than fragmented search URLs

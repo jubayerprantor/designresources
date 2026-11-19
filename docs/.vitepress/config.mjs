@@ -1,9 +1,37 @@
 import { defineConfig } from 'vitepress'
+import fs from 'node:fs'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
+
+function getRoundedResourceCount(step = 50) {
+  try {
+    const docsDir = path.resolve(__dirname, '..')
+    const files = fs.readdirSync(docsDir).filter(f => f.endsWith('.md') && !['index.md', 'contributing.md', 'credits.md', 'sources.md'].includes(f))
+    let total = 0
+    for (const f of files) {
+      const lines = fs.readFileSync(path.join(docsDir, f), 'utf8').split('\n')
+      for (const l of lines) {
+        const trimmed = l.trim()
+        if (trimmed.startsWith('|') && trimmed.endsWith('|') && !trimmed.includes(':---') && !trimmed.toLowerCase().includes('| resource |') && !trimmed.toLowerCase().includes('| name |')) {
+          total++
+        }
+      }
+    }
+    const rounded = Math.floor(total / step) * step
+    return `${rounded.toLocaleString()}+`
+  } catch {
+    return '3,900+'
+  }
+}
+
+const dynamicCount = getRoundedResourceCount(50)
 
 export default defineConfig({
   title: "Design Resources",
   base: '/designresources/',
-  description: "A curated collection of 4,000+ hand-picked design resources, assets, and frameworks for graphic designers, UI/UX designers, developers, and creatives.",
+  description: `A curated collection of ${dynamicCount} hand-picked design resources, assets, and frameworks for graphic designers, UI/UX designers, developers, and creatives.`,
   lang: 'en-US',
   cleanUrls: true,
   appearance: 'dark',
@@ -20,12 +48,17 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: 'Design Resources Hub' }],
     ['meta', { property: 'og:image', content: 'https://giveback2people.github.io/designresources/og-image.png' }],
     ['meta', { property: 'og:url', content: 'https://giveback2people.github.io/designresources/' }],
-    ['meta', { property: 'og:description', content: 'Curated collection of 4,000+ hand-picked design tools, assets, and frameworks for creatives.' }],
+    ['meta', { property: 'og:description', content: `Curated collection of ${dynamicCount} hand-picked design tools, assets, and frameworks for creatives.` }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'Design Resources Hub | GiveBack2People' }],
-    ['meta', { name: 'twitter:description', content: 'Curated collection of 4,000+ hand-picked design tools, assets, and frameworks for creatives.' }],
+    ['meta', { name: 'twitter:description', content: `Curated collection of ${dynamicCount} hand-picked design tools, assets, and frameworks for creatives.` }],
     ['meta', { name: 'twitter:image', content: 'https://giveback2people.github.io/designresources/og-image.png' }]
   ],
+  transformPageData(pageData) {
+    if (pageData.relativePath === 'index.md' && pageData.frontmatter?.hero) {
+      pageData.frontmatter.hero.tagline = `${dynamicCount} hand-picked tools, assets, and references for designers and developers — all in one place.`
+    }
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -103,8 +136,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/GiveBack2People/designresources' }
     ],
     footer: {
-      message: 'A curated collection of design resources powered by GiveBack2People. Open to contributions.',
-      copyright: 'Copyright © 2026-present GiveBack2People & Contributors'
+      message: 'A curated collection of design resources powered by <a href="https://giveback2people.github.io/" target="_blank" rel="noreferrer">GiveBack2People</a>. Open to contributions.',
+      copyright: 'Copyright © 2026-present <a href="https://github.com/GiveBack2People" target="_blank" rel="noreferrer">GiveBack2People</a> & Contributors'
     }
   }
 })
