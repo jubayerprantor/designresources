@@ -27,6 +27,7 @@
 | [Clip Studio Paint](https://www.clipstudio.net/en) | Industry-leading software for manga, comics, and animation with specialized panel and speech bubble tools. |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based interface for Stable Diffusion with advanced workflows for AI image generation. |
 | [CorelDRAW](https://www.coreldraw.com) | Professional vector graphics suite popular for print design, signage, and technical illustration since 1989. |
+| [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) | Free, source-available (PolyForm Shield) desktop app for interface design, built in Rust. Opens and saves .fig files and includes a local MCP server so AI coding agents can inspect and edit the open file. Nothing is sold. |
 | [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
 | [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
 | [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) | A free and open-source raster graphics editor that offers many features similar to Adobe Photoshop. It's great for photo retouching, image composition, and graphic design. |
